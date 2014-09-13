@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2013-08-20T10:32:58">
+    <iati-identifier>41120-2349</iati-identifier>
+    <reporting-org ref="41120" type="40">UN-Habitat</reporting-org>
+    <title>Support The Establishment Of A Technical Centre For Disaster Risk Reduction And Climate Change Adaptation For Southern Africa (Dimsur)</title>
+    <description>According to the above identified needs, UN-Habitat is of the opinion that the objective of the initiative, which seeks to establishment of a Technical Centre for southern Africa (DIMSUR) with the mandate of providing DRR and CCA assistance and knowledge, is fully justified. The several consultations held with the 4 countries which will be initially concerned by the Centre, and the feasibility study carried out, show the following opportunities.
+§ Establish a permanent sub-regional institution which can provide technical support on DRR to national governments, SADC, NGOs, UN partners and community-based organisations beyond the life of projects and programmes, with aim at gradually reducing the dependency from external support.
+§ Better serve and further strengthen the implementation of DRR practices, policies and activities at national level.
+§ Enable knowledge, information sharing and exchanges between countries with aim at reinforcing capacities at the national level.
+§ Maximise the use/strengthen existing capacities and expertise in the sub-region, so that needed expertise can be readily mobilised upon demand from the countries or other partners.
+§ Optimise the use of available resources and increase coordination for addressing common DRR concerns and challenges in the sub-region.
+§ Establish a defined agenda that aims at covering key thematic and capacity gaps, such as the urban theme, to meet the current demand and add value; build innovative programmes.
+§ Create an enabling environment to bring the DRR and CCA agendas more effectively together.
+§ Assist countries in developing a sustainable recovery and longer-term DRR programme.
+§ Complement/reinforce the work of the SADC DRR Unit through the provision of technical support.
+§ Further increase the understanding of DRR at the national level and raise awareness at all levels.
+§ Increase the visibility of national governments/partners on DRR/CCA at the regional/global scales.
+§ Communication in the three official languages spoken in SADC.
+The Technical Centre to be established should remain at the cutting edge of DRR concepts and practice, be flexible in the management of its programme and able to be innovative and relevant. Hence, by initially focussing on urban resilience, the centre is already orienting itself towards technical specialities that give it its individuality. Proper tools need to be quickly developed and training and capacity building activities delivered in collaboration with existing institutions.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2013-07-01">2013-07-01</activity-date>
+    <activity-date type="end-planned" iso-date="2015-06-30">2015-06-30</activity-date>
+    <contact-info>
+      <person-name>Axumite Gebre-Egziabher</person-name>
+      <organisation>Regional Office for Africa</organisation>
+      <telephone>+254-20 7623120</telephone>
+      <email>tranparency@unhabitat.org</email>
+      <mailing-address>UN-HABITAT P.O. Box 30030 GPO Nairobi 00100 Kenya</mailing-address>
+    </contact-info>
+    <participating-org role="Funding">International Bank for Reconstruction and Development/World Bank</participating-org>
+    <recipient-country code="MG" percentage="25">Madagascar</recipient-country>
+    <recipient-country code="MW" percentage="25">Malawi</recipient-country>
+    <recipient-country code="MZ" percentage="25">Mozambique</recipient-country>
+    <recipient-country code="KM" percentage="25">Comoros</recipient-country>
+    <recipient-region code="298">Africa, regional</recipient-region>
+    <sector code="74010">Disaster prevention and preparedness</sector>
+    <sector code="43030">Urban development and management</sector>
+    <activity-website>http://open.unhabitat.org/project/?iati_id=41120-2349</activity-website>
+    <budget type="1">
+      <period-start>2013-07-01</period-start>
+      <period-end>2015-06-30</period-end>
+      <value value-date="2013-07-01">810000</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>Total expenditure to date</description>
+      <value value-date="2014-06-30">333291670</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Total income to date</description>
+      <value value-date="2014-06-30">661446000</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2013-03-07T11:22:26">
+    <iati-identifier>41120-2185</iati-identifier>
+    <reporting-org ref="41120" type="40">UN-Habitat</reporting-org>
+    <title>Regional Multi-Sectoral Drr Assistance Programme For Southern Africa (Un-Habitat Basc Infrastructure , Shelter And Urban Risk Assistance)</title>
+    <description>
+
+The purpose of this project is to address four main areas, that
+     concur to increased vulnerability to the effects of natural disasters:
+     
+
+o
+Lack of capacities and structured experiences in
+addressing urban risk, reduce risks
+and build resilience in cities frequently affected by natural disasters in
+Mozambique, Malawi and Madagascar;
+
+o
+Lack of capacities of the National Disaster
+Institutions to capitalize and
+structure the many good practices implemented, which results in huge losses of
+resources
+
+o
+Lack of harmonized practices at the regional level and low level of mutual learning among countries that
+share the same hazards and risks
+
+o
+Weak capacities of communities in human settlements in
+Mozambique to build safely and
+rebuild with improvement or retrofitting better houses and community
+infrastructure (i.e. schools). The focus on Mozambique for this aspect is due
+to a direct request of ECHO, in response to cyclone Funso that affected
+Mozambique in 2012.
+
+UN-Habitat, in partnership with other UN agencies (and in
+     particular FAO), is well placed to contribute in addressing the causes of
+     the problems, thanks to 10 years of experience in DRR in the sub-region,
+     established partnership and reputations at regional level via the upcoming
+     DIMSUR Centre and presence in the 3 main countries of the action. It will:
+
+o
+develop the first
+innovative Urban Risk and Resilience instrument in the sub-region, by engaging
+experts, local governments and partners in the elaboration of the tool and in
+its testing at city-level
+
+o
+document all
+shelter, housing and infrastructure resistant practices hand-in-hand with the National
+Institutions, so to publish do's and don'ts, which might be turned into
+National Policies
+
+o
+provide technical
+assistance and support data management to all DRR partners in its field of
+expertise (Housing and Shelter; Land Tenure; Planning)
+
+o
+rebuild as
+on-the-job training at least 15 community schools and 50 houses, hand-in-hand
+with INGC and Ministry of Public Works to document the practice and include it
+in the Disaster Contingency Planning of Mozambique
+
+
+
+All priorities
+have been established (Ref. assessments) along with the 4 categories of
+beneficiaries this projects benefits, as detailed below
+
+
+
+Given the
+complexity of this context the problem can only by addressed by a broad
+partnership of international actors, along with national to local authorities.
+For this reason a technical partnership has been established, through the
+DIPECHO III project at regional level among UN-Habitat, FAO, CARE and COOPI and
+at national level in the 3 countries with a number of partnering UN agencies,
+NGOs and the Red Cross. Then, this project has been designed in parallel with 3
+other projects designed by FAO, CARE and COOPI in respective areas of
+expertise, with a common overall logical framework and same areas of
+intervention. 
+
+
+
+Within this
+partnership, UN-Habitat will provide high-level policy advisory services, along
+with technical support and direct implementation to all categories of
+beneficiaries and to its partners.
+
+
+
+The purpose of
+this project will therefore be to:Ensuring the
+capitalization along with National to Local authorities in the 3 countries of
+DRR/M practices on Housing and Basic Community Infrastructure resistant to
+Disaster, so to take stock and transform practices into policies. (In common
+log-frame with FAO, COOPI, CARE); IMPORTANT:
+This strategy complements the Sub-Regional
+DRR Technical Centre for Human Settlements (DIMSUR) that the World Bank is
+funding from 2012 to UN-Habitat;
+
+Delivering
+innovative Urban Risk Reduction
+training modules at regional level and pilot DRR Planning in cities. This will
+address lacking instruments on urban resilience in Southern Africa and know-how
+in selected cities (In common log-frame
+with FAO, COOPI, CARE);
+
+Delivering
+qualified technical assistance on request to National and Local Authorities, as
+well as partnering agencies and NGOs in the 3 countries on Basic Infrastructure
+and Housing/Shelter. (Multi-disciplinary
+assistance provided in common with FAO, COOPI, CARE);
+
+Developing and
+mainstreaming low-cost, highly
+reproducible techniques in Mozambique to build-back better after 2012 disasters
+and reduce future occurrences. National Institutions will be engaged from the
+start to turn practices into national policy
+
+
+
+</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2013-01-01">2013-01-01</activity-date>
+    <activity-date type="end-planned" iso-date="2014-01-01">2014-01-01</activity-date>
+    <contact-info>
+      <person-name>Axumite Gebre-Egziabher</person-name>
+      <organisation>Regional Office for Africa</organisation>
+      <telephone>+254-20 7623120</telephone>
+      <email>tranparency@unhabitat.org</email>
+      <mailing-address>UN-HABITAT P.O. Box 30030 GPO Nairobi 00100 Kenya</mailing-address>
+    </contact-info>
+    <participating-org role="Funding">European Commission</participating-org>
+    <recipient-country code="MG" percentage="33">Madagascar</recipient-country>
+    <recipient-country code="MW" percentage="33">Malawi</recipient-country>
+    <recipient-country code="MZ" percentage="34">Mozambique</recipient-country>
+    <recipient-region code="298">Africa, regional</recipient-region>
+    <sector code="74010">Disaster prevention and preparedness</sector>
+    <sector code="43030">Urban development and management</sector>
+    <activity-website>http://open.unhabitat.org/project/?iati_id=41120-2185</activity-website>
+    <budget type="1">
+      <period-start>2013-01-01</period-start>
+      <period-end>2014-01-01</period-end>
+      <value value-date="2013-01-01">769238</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>Total expenditure to date</description>
+      <value value-date="2014-06-30">1064489519</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Total income to date</description>
+      <value value-date="2014-06-30">893158836</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-05-21T16:42:23">
+    <iati-identifier>41120-1067</iati-identifier>
+    <reporting-org ref="41120" type="40">UN-Habitat</reporting-org>
+    <title>Support To Living With Floods In Chikwawa District, Lower Shire Valley, Malawi</title>
+    <description>
+The overall goal is to reducevulnerability to floods of communities living in low lands prone to low and moderate flooding byreinforcing local capacities and applying sustainable coping solutions through innovative small-scale mitigationinterventions for floods to support the alternative strategy of Living with Floods rather thanrelocation.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-11-01">2010-11-01</activity-date>
+    <activity-date type="end-planned" iso-date="2012-12-31">2012-12-31</activity-date>
+    <contact-info>
+      <person-name>Axumite Gebre-Egziabher</person-name>
+      <organisation>Regional Office for Africa</organisation>
+      <telephone>+254-20 7623120</telephone>
+      <email>tranparency@unhabitat.org</email>
+      <mailing-address>UN-HABITAT P.O. Box 30030 GPO Nairobi 00100 Kenya</mailing-address>
+    </contact-info>
+    <participating-org role="Funding">United Nations Development Programme</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="298">Africa, regional</recipient-region>
+    <sector code="74010">Disaster prevention and preparedness</sector>
+    <activity-website>http://open.unhabitat.org/project/?iati_id=41120-1067</activity-website>
+    <budget type="1">
+      <period-start>2010-11-01</period-start>
+      <period-end>2012-12-31</period-end>
+      <value value-date="2010-11-01">170000</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>Total expenditure to date</description>
+      <value value-date="2014-06-30">191948</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Total income to date</description>
+      <value value-date="2014-06-30">208241</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-05-22T16:01:53">
+    <iati-identifier>41120-1009</iati-identifier>
+    <reporting-org ref="41120" type="40">UN-Habitat</reporting-org>
+    <title>Urban Household Sanitation Improvement Project, Lilongwe City, Malawi</title>
+    <description>The overall Goal is to improve the living conditions of the urban poor by facilitating access to affordable and environmentally friendly sanitation facilities, better sanitation practices, personal hygiene and food security through better management of human excrements. 
+ </description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-01">2010-07-01</activity-date>
+    <activity-date type="end-planned" iso-date="2014-12-31">2014-12-31</activity-date>
+    <contact-info>
+      <person-name>Axumite Gebre-Egziabher</person-name>
+      <organisation>Regional Office for Africa</organisation>
+      <telephone>+254-20 7623120</telephone>
+      <email>tranparency@unhabitat.org</email>
+      <mailing-address>UN-HABITAT P.O. Box 30030 GPO Nairobi 00100 Kenya</mailing-address>
+    </contact-info>
+    <participating-org role="Funding">United Nations Development Programme</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="298">Africa, regional</recipient-region>
+    <sector code="16050">Multisector aid for basic social services</sector>
+    <activity-website>http://open.unhabitat.org/project/?iati_id=41120-1009</activity-website>
+    <budget type="1">
+      <period-start>2010-07-01</period-start>
+      <period-end>2014-12-31</period-end>
+      <value value-date="2010-07-01">190000</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>Total expenditure to date</description>
+      <value value-date="2014-06-30">217622</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Total income to date</description>
+      <value value-date="2014-06-30">244351</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-01-31T17:23:05">
+    <iati-identifier>41120-2362</iati-identifier>
+    <reporting-org ref="41120" type="40">UN-Habitat</reporting-org>
+    <title>Regional Multi-Sectoral Drr Assistance Programme For Southern Africa (Un-Habitat Basc Infrastructure , Shelter And Urban Risk Assistance)</title>
+    <description>
+
+The purpose of this project is to address four main areas, that
+     concur to increased vulnerability to the effects of natural disasters:
+     
+
+o
+Lack of capacities and structured experiences in
+addressing urban risk, reduce risks
+and build resilience in cities frequently affected by natural disasters in
+Mozambique, Malawi and Madagascar;
+
+o
+Lack of capacities of the National Disaster
+Institutions to capitalize and
+structure the many good practices implemented, which results in huge losses of
+resources
+
+o
+Lack of harmonized practices at the regional level and low level of mutual learning among countries that
+share the same hazards and risks
+
+o
+Weak capacities of communities in human settlements in
+Mozambique to build safely and
+rebuild with improvement or retrofitting better houses and community
+infrastructure (i.e. schools). The focus on Mozambique for this aspect is due
+to a direct request of ECHO, in response to cyclone Funso that affected
+Mozambique in 2012.
+
+UN-Habitat, in partnership with other UN agencies (and in
+     particular FAO), is well placed to contribute in addressing the causes of
+     the problems, thanks to 10 years of experience in DRR in the sub-region,
+     established partnership and reputations at regional level via the upcoming
+     DIMSUR Centre and presence in the 3 main countries of the action. It will:
+
+o
+develop the first
+innovative Urban Risk and Resilience instrument in the sub-region, by engaging
+experts, local governments and partners in the elaboration of the tool and in
+its testing at city-level
+
+o
+document all
+shelter, housing and infrastructure resistant practices hand-in-hand with the National
+Institutions, so to publish do's and don'ts, which might be turned into
+National Policies
+
+o
+provide technical
+assistance and support data management to all DRR partners in its field of
+expertise (Housing and Shelter; Land Tenure; Planning)
+
+o
+rebuild as
+on-the-job training at least 15 community schools and 50 houses, hand-in-hand
+with INGC and Ministry of Public Works to document the practice and include it
+in the Disaster Contingency Planning of Mozambique
+
+
+
+All priorities
+have been established (Ref. assessments) along with the 4 categories of
+beneficiaries this projects benefits, as detailed below
+
+
+
+Given the
+complexity of this context the problem can only by addressed by a broad
+partnership of international actors, along with national to local authorities.
+For this reason a technical partnership has been established, through the
+DIPECHO III project at regional level among UN-Habitat, FAO, CARE and COOPI and
+at national level in the 3 countries with a number of partnering UN agencies,
+NGOs and the Red Cross. Then, this project has been designed in parallel with 3
+other projects designed by FAO, CARE and COOPI in respective areas of
+expertise, with a common overall logical framework and same areas of
+intervention. 
+
+
+
+Within this
+partnership, UN-Habitat will provide high-level policy advisory services, along
+with technical support and direct implementation to all categories of
+beneficiaries and to its partners.
+
+
+
+The purpose of
+this project will therefore be to:Ensuring the
+capitalization along with National to Local authorities in the 3 countries of
+DRR/M practices on Housing and Basic Community Infrastructure resistant to
+Disaster, so to take stock and transform practices into policies. (In common
+log-frame with FAO, COOPI, CARE); IMPORTANT:
+This strategy complements the Sub-Regional
+DRR Technical Centre for Human Settlements (DIMSUR) that the World Bank is
+funding from 2012 to UN-Habitat;
+
+Delivering
+innovative Urban Risk Reduction
+training modules at regional level and pilot DRR Planning in cities. This will
+address lacking instruments on urban resilience in Southern Africa and know-how
+in selected cities (In common log-frame
+with FAO, COOPI, CARE);
+
+Delivering
+qualified technical assistance on request to National and Local Authorities, as
+well as partnering agencies and NGOs in the 3 countries on Basic Infrastructure
+and Housing/Shelter. (Multi-disciplinary
+assistance provided in common with FAO, COOPI, CARE);
+
+Developing and
+mainstreaming low-cost, highly
+reproducible techniques in Mozambique to build-back better after 2012 disasters
+and reduce future occurrences. National Institutions will be engaged from the
+start to turn practices into national policy
+
+
+
+</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2013-07-15">2013-07-15</activity-date>
+    <activity-date type="end-planned" iso-date="2013-11-30">2013-11-30</activity-date>
+    <contact-info>
+      <person-name>Axumite Gebre-Egziabher</person-name>
+      <organisation>Regional Office for Africa</organisation>
+      <telephone>+254-20 7623120</telephone>
+      <email>tranparency@unhabitat.org</email>
+      <mailing-address>UN-HABITAT P.O. Box 30030 GPO Nairobi 00100 Kenya</mailing-address>
+    </contact-info>
+    <participating-org role="Funding">FAO - Liaison Office  -  NY</participating-org>
+    <recipient-country code="MW" percentage="33">Malawi</recipient-country>
+    <recipient-country code="MG" percentage="33">Madagascar</recipient-country>
+    <recipient-country code="MZ" percentage="34">Mozambique</recipient-country>
+    <recipient-region code="298">Africa, regional</recipient-region>
+    <sector code="43030">Urban development and management</sector>
+    <sector code="74010">Disaster prevention and preparedness</sector>
+    <activity-website>http://open.unhabitat.org/project/?iati_id=41120-2362</activity-website>
+    <budget type="1">
+      <period-start>2013-07-15</period-start>
+      <period-end>2013-11-30</period-end>
+      <value value-date="2013-07-15">99600</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>Total expenditure to date</description>
+      <value value-date="2014-06-30">109175528</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Total income to date</description>
+      <value value-date="2014-06-30">67777800</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+    </transaction>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:14:16" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-43018</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Institutional Capacity Devt for Disability Studies</title>
+    <description>The objective is to produce community-based rehabilitation personnel who are able to work for the promotion of the rights and inclusion of PWDs in society. This will lead to a change  in attitudes towards PWDs and  full  involvement and participation of PWDs in development at all levels.
+ Key activities:
+ Training of the personnel in community based rehabilitation CBR and disability studies
+ Linking students in training to social inclusion practitioners in the field for practical learning.
+ Networking with organizations in the disability fraternity for awareness raising, advocacy and the promotion of the rights of PWDs
+ Collaborating with other institutes of learning for the promotion of disability studies</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2014" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2012" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Ghana Country Office - Sightsavers, 21 Nii Nortei, Ababio Street, Airport Residential Area, Airport - Accra, Ghana.  Tel:  +233302784134</organisation>
+    </contact-info>
+    <participating-org role="Implementing">University of Education Winneba
+(UEW)</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region>West Africa</recipient-region>
+    <sector code="160"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">30831</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">28840</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">54957</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">20608</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="0">Irish Aid</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:14:16" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-43019</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Access Technology Project</title>
+    <description>The objective is to make ICT training available and accessible to Visually Impaired persons in school, in the job market and on the job for equalization of opportunities at all those level for the visually impaired.
+Key activities:
+ Train PWD  job seekers and persons already on jobs in ICT to enable  them become  skilful in  computer applications
+ Train trainers of computer satellite centres in institutions to enable effective and  efficient teaching of  VI students
+ Advocate the Ghana education service to replicate satellite centres to all SHS and to JHS in the country in the future 
+ Advocate government to increase resource allocation to satellite centres</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2014" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2012" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Ghana Country Office - Sightsavers, 21 Nii Nortei, Ababio Street, Airport Residential Area, Airport - Accra, Ghana.  Tel:  +233302784134</organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ghana Blind Union
+(GBU)</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region>West Africa</recipient-region>
+    <sector code="160"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">32762</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">64999</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">40083</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:14:16" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-43024</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Ghana Trachoma Elimination</title>
+    <description>This programme aims to eliminate blinding trachoma from Ghana by 2014 using the WHO certified approach. This will be achieved through screening of children from nursery to early primary and treating those infected with zithromaxŽ every year. The programme will also provide surgery for adults found with trachoma while collaborating with other stakeholders to strengthen community practices such as environmental and facial cleanliness. </description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2015" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2010" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Ghana Country Office - Sightsavers, 21 Nii Nortei, Ababio Street, Airport Residential Area, Airport - Accra, Ghana.  Tel:  +233302784134</organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ghana Health Service</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region>West Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">70587</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">43944</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">110493</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:14:16" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-43023</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>NTD (Oncho and LF) Programme</title>
+    <description>The NTD programme aims to eliminate Onchocerciasis and Lymphatic Filariasis in Ghana by 2015 by ensuring timely availability of adequate NTD drugs and other supplies for Mass Drug Administrations every year. Activities include improving skills of individuals to implement community distribution activities in endemic districts every year, create, sensitize and educate communities on NTDs, distribute the onchocerciasis drugs twice  annually and advocate for increased resources for MDAs for the control of NTDs on annual basis.</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2013" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2011" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Ghana Country Office - Sightsavers, 21 Nii Nortei, Ababio Street, Airport Residential Area, Airport - Accra, Ghana.  Tel:  +233302784134</organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ghana Health Service</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region>West Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">86185</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">74738</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">160086</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:14:16" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-43001</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Eastern Region EC MOH</title>
+    <description>The main objective of the project is to have an integrated optimal eye health service within a strengthened health system that ensures a healthy, productive and self-sustaining population.
+
+This will be done by ensuring integrated eye health services are available at all levels in the region by the end of the project period. Key amongst the strategies will be the integration of primary eye care services into the existing primary health care to make eye care services more available, and use of the WHO building blocks as the basis for project planning and implementation.
+
+Activities include developing a regional policy that will ensure among other things that eye care plans and budgets are part of annual plans and budgets of GHS at all levels in the regions as well as train and deploy eye health personnel to strengthen the primary health care and public health system. Once primary level services incorporate eye care services, it is envisaged that eye health seeking behaviour by community members will improves to reduce the reliance on outreach services. Also, paediatric eye care services will be improved by setting up paediatric teams at various levels and training one eye ophthalmologist. In addition, glaucoma service provision will be enhanced by training 1-2 existing ophthalmologists in glaucoma management. </description>
+    <activity-status code="completion">3</activity-status>
+    <activity-date iso-date="31/12/2012" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2012" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Ghana Country Office - Sightsavers, 21 Nii Nortei, Ababio Street, Airport Residential Area, Airport - Accra, Ghana.  Tel:  +233302784134</organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ghana Health Service</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region>West Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">143173</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">123854</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">228898</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">12857</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="0">Dubai Charity</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:14:16" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-43021</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>BPOs/DPOs Employment</title>
+    <description>The Objective is to create and promote opportunities for the employment of persons with disability (PWDs) in both private and public sector of the Ghanaian economy.
+Key activities:
+ Organize annual career fair for PWD job seekers  to market themselves to potential employers
+ Raise awareness among employers about the potential of PWDs
+ Give technical support to employers on how to make their work environment disability friendly and how to manage the PWD employee
+ Collaborate with Ghanas main disabled peoples organization, the Ghana Federation of the Disabled (GFD) to advocate for the rights and inclusion of PWDs in society and in development.</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2014" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2012" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Ghana Country Office - Sightsavers, 21 Nii Nortei, Ababio Street, Airport Residential Area, Airport - Accra, Ghana.  Tel:  +233302784134</organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ghana Federation of the Disabled 
+(GFD)</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region>West Africa</recipient-region>
+    <sector code="160"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">33395</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">17906</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">50155</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,1114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-1525" type="10" role="implementing">FAMSI</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30944</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30944</other-identifier>
+		<title xml:lang="es">Escuela agropecuaria y red de distribución de agua 5ª Fase</title>
+		<description xml:lang="es" type="1">Escuela agropecuaria y red de distribución de agua 5ª Fase</description>
+		<sector xml:lang="es" code="16050" vocabulary="DAC">Ayuda multisectorial para servicios sociales básicos</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2012-01-01">2012-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="4">Tied </default-tied-status>
+		<location>
+			<name xml:lang="es">ND</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">121939</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-1525">FAMSI</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">121939</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-1525">FAMSI</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-2636" type="60" role="implementing">Llamarada de Fuego</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30699</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30699</other-identifier>
+		<title xml:lang="es">Proyecto de emergencia:envío de contenedor con medicamentos</title>
+		<description xml:lang="es" type="1">Proyecto de emergencia:envío de contenedor con medicamentos</description>
+		<sector xml:lang="es" code="12220" vocabulary="DAC">Atención sanitaria básica</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2012-01-01">2012-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">ND</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">3382</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-2636">Llamarada de Fuego</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">3382</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-2636">Llamarada de Fuego</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Palencia</participating-org>
+		<participating-org xml:lang="es" ref="ESP-83" type="22" role="implementing">Africa Directo</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30384</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30384</other-identifier>
+		<title xml:lang="es">Hospital Rural de Atupele</title>
+		<description xml:lang="es" type="1">Ampliación y mejora de los servicios del hospital rural de Atupele, en Malawi</description>
+		<sector xml:lang="es" code="12230" vocabulary="DAC">Infraestructura sanitaria básica</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2013-01-01">2013-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">Malawi</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">7361</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Palencia</provider-org>
+			<receiver-org ref="ESP-83">Africa Directo</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">7361</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Palencia</provider-org>
+			<receiver-org ref="ESP-83">Africa Directo</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-2441" type="10" role="implementing">Hospital de Mlale</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30725</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30725</other-identifier>
+		<title xml:lang="es">Proyecto de emergencia para alimentación</title>
+		<description xml:lang="es" type="1">Proyecto de emergencia para alimentación</description>
+		<sector xml:lang="es" code="52010" vocabulary="DAC">Ayuda Alimentaria / Programas de seguridad alimentaria</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2012-01-01">2012-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">ND</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">18550</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-2441">Hospital de Mlale</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">18550</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-2441">Hospital de Mlale</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="20" type="15" role="extending">UNIV USEV - Universidad de Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-1685" type="80" role="implementing">VIA DIRECTA</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-UNIV-26483</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-UNIV-26483</other-identifier>
+		<title xml:lang="es">Ayudas para actividades y proyectos de cooperación al desarrollo. Malawi. Modalidad 1</title>
+		<description xml:lang="es" type="1">Preparación de proyectos de cooperación al desarrollo a presentar en convocatorias públicas. Actividades y proyectos de sensibilización y educación para el desarrollo. Continuación del programa de formación teórico-práctico del personal sanitario del hospital rural de Mlale en Mítundo con el Hospital Universitario de Valme.</description>
+		<sector xml:lang="es" code="12281" vocabulary="DAC">Formación personal sanitario</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2011-01-01">2011-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="4">Tied </default-tied-status>
+		<location>
+			<name xml:lang="es">ND</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">2450</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="20">UNIV USEV - Universidad de Sevilla</provider-org>
+			<receiver-org ref="ESP-1685">VIA DIRECTA</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">2450</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="20">UNIV USEV - Universidad de Sevilla</provider-org>
+			<receiver-org ref="ESP-1685">VIA DIRECTA</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-318" type="22" role="implementing">Asoc. Andalucía por un Mundo Nuevo ONGD</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30452</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30452</other-identifier>
+		<title xml:lang="es">Programa de ancianos en poblado de Mlale</title>
+		<description xml:lang="es" type="1">Programa de ancianos en poblado de Mlale</description>
+		<sector xml:lang="es" code="16010" vocabulary="DAC">Seguridad social / servicios sociales</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2013-01-01">2013-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<policy-marker xml:lang="en" code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+		<location>
+			<name xml:lang="es">Mlale</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">3000</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">3000</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="15" type="15" role="extending">CCAA AST - Asturias</participating-org>
+		<participating-org xml:lang="es" ref="ESP-76" type="22" role="implementing">Fundación Ayuda en Acción - AeA</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-CCAA-22978</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-CCAA-22978</other-identifier>
+		<title xml:lang="es">Mejora de la situación socio económica de mujeres y niñas vulnerables de las zonas peri-urbanas de la ciudad de Lilongwe, Malawi.</title>
+		<description xml:lang="es" type="1">El proyecto pretende mejorar la situación socioeconómica de las mujeres en situación de pobreza de las zonas marginales de la ciudad de Lilongwe, pretende que se pueda emprender un negocio a pequeña escala y mejorar la situación y la defensa de sus derechos de manera autónoma.</description>
+		<sector xml:lang="es" code="11330" vocabulary="DAC">Formación profesional </sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2011-01-01">2011-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<policy-marker xml:lang="en" code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+		<policy-marker xml:lang="en" code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+		<location>
+			<name xml:lang="es">Lilongwe. Malawi</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">108124</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="15">CCAA AST - Asturias</provider-org>
+			<receiver-org ref="ESP-76">Fundación Ayuda en Acción - AeA</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">108124</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="15">CCAA AST - Asturias</provider-org>
+			<receiver-org ref="ESP-76">Fundación Ayuda en Acción - AeA</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">Construido un centro de capacitación de oficios artesanales en Lilongwe. Mejoradas las capacidades de 1200 mujeres a través de la formación en oficios artesanales y en gestión de pequeñas empresas. 400 mujeres habrán accedido a un fondo revolvente como capital incial para la creación de una microempresa.</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="20" type="15" role="extending">UNIV USEV - Universidad de Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-1685" type="80" role="implementing">VÍA DIRECTA</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="D01">Donor country personnel</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-UNIV-26470</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-UNIV-26470</other-identifier>
+		<title xml:lang="es">Ayudas para el voluntariado internacional en proyectos de cooperación al desarrollo. Malawi</title>
+		<description xml:lang="es" type="1">Participar en proyectos in situ que estén llevando a cabo una ONG y/o a través de Universidades del Sur u otras Agencias Internacionales dedicadas a la cooperación</description>
+		<sector xml:lang="es" code="43081" vocabulary="DAC">Enseñanza / formación multisectorial</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2011-01-01">2011-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="4">Tied </default-tied-status>
+		<location>
+			<name xml:lang="es">ND</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">1300</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="20">UNIV USEV - Universidad de Sevilla</provider-org>
+			<receiver-org ref="ESP-1685">VÍA DIRECTA</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">1300</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="20">UNIV USEV - Universidad de Sevilla</provider-org>
+			<receiver-org ref="ESP-1685">VÍA DIRECTA</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-318" type="22" role="implementing">Asoc. Andalucía por un Mundo Nuevo ONGD</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30424</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30424</other-identifier>
+		<title xml:lang="es">Construcción vivienda personal sanitario Hospital de Mlale</title>
+		<description xml:lang="es" type="1">Construcción vivienda personal sanitario Hospital de Mlale</description>
+		<sector xml:lang="es" code="16040" vocabulary="DAC">Viviendas de bajo coste</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2013-01-01">2013-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">Mlale</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">24400</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">24400</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Sant Cugat del Vallès</participating-org>
+		<participating-org xml:lang="es" ref="ESP-2585" type="22" role="implementing">Joventuts Musicals Sant Cugat</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30194</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30194</other-identifier>
+		<title xml:lang="es">Pequeños músicos del mundo: Sant Cugat en África</title>
+		<description xml:lang="es" type="1">Tomando la música como herramienta de transformación social y como herramienta estratégica educativa, el proyecto pretende apoyar la formación de maestros de primaria y secundaria, dinamizadores culturales y monitores en educación musical. Participarán en el proyecto músicos catalanes que se desplazarán a Malawi para dar los cursos</description>
+		<sector xml:lang="es" code="11130" vocabulary="DAC">Formación de profesores</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2011-01-01">2011-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">Malawi</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">21271</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Sant Cugat del Vallès</provider-org>
+			<receiver-org ref="ESP-2585">Joventuts Musicals Sant Cugat</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">21271</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Sant Cugat del Vallès</provider-org>
+			<receiver-org ref="ESP-2585">Joventuts Musicals Sant Cugat</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="15" type="15" role="extending">CCAA ARA - Aragón</participating-org>
+		<participating-org xml:lang="es" ref="ESP-3084" type="10" role="implementing">SERVICIO ARAGONÉS DE SALUD</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-CCAA-22873</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-CCAA-22873</other-identifier>
+		<title xml:lang="es">PROYECTO DE COOPERACIÓN DEL SALUD CONE L HOSPITAL CENTRAL DE LILONGWE-KCH A TRAVÉS DE UN CONVENIO DE COLABORACIÓN CON EL MINISTERIO DE SALUD DE MALAWI</title>
+		<description xml:lang="es" type="1">Cooperación del SALUD con los servicios sanitarios públicos de Malawi interviniendo en líneas prioritarias de atención para mejorar la atención sanitaria prestada en el Hospital Central Kamuzu, Hospital de Lilongwe, fundamentalmente, la asistencia materno-infantil. Supone la remisión de equipos de profesionales mixtos que desempeñarán una actividad formativo-asistencial, con especial énfasis en la salud materno-infantil y la formación de profesionales. Los profesionales remitidos llevarán material básico para el desempeño de su actividad. </description>
+		<sector xml:lang="es" code="13020" vocabulary="DAC">Atención salud reproductiva</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2011-01-01">2011-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">Kamuzu Central Hospital</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">59206</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="15">CCAA ARA - Aragón</provider-org>
+			<receiver-org ref="ESP-3084">SERVICIO ARAGONÉS DE SALUD</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">59206</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="15">CCAA ARA - Aragón</provider-org>
+			<receiver-org ref="ESP-3084">SERVICIO ARAGONÉS DE SALUD</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">Efecto inmediato sobre la calidad de la atención prestada en el período que dure la permanencia de los profesionales españoles y repercusión positiva en la morbi-mortalidad materna</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Reinosa</participating-org>
+		<participating-org xml:lang="es" ref="ESP-1264" type="22" role="implementing">CARMELITAS MISIONERAS</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30383</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30383</other-identifier>
+		<title xml:lang="es">Proyecto de atención alimenticia sanitaria e higiene de niños desnutridos acogidos en el Centro de Mtengo Wa N'THENWA</title>
+		<description xml:lang="es" type="1">Atención alimenticia sanitaria e higiene de niños desnutridos</description>
+		<sector xml:lang="es" code="12240" vocabulary="DAC">Nutrición básica</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2011-01-01">2011-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<policy-marker xml:lang="en" code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+		<location>
+			<name xml:lang="es">Wa N'THENWA</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">1000</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Reinosa</provider-org>
+			<receiver-org ref="ESP-1264">CARMELITAS MISIONERAS</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">1000</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Reinosa</provider-org>
+			<receiver-org ref="ESP-1264">CARMELITAS MISIONERAS</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-318" type="22" role="implementing">Asoc. Andalucía por un Mundo Nuevo ONGD</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30559</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30559</other-identifier>
+		<title xml:lang="es">Mantenimiento guardería infantil del Hospital rural de Mlale</title>
+		<description xml:lang="es" type="1">Mantenimiento guardería infantil del Hospital rural de Mlale</description>
+		<sector xml:lang="es" code="11240" vocabulary="DAC">Educación primera infancia</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2013-01-01">2013-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">Mlale</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">13000</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">13000</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Huelva</participating-org>
+		<participating-org xml:lang="es" ref="ESP-1525" type="10" role="implementing">FAMSI</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30004</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30004</other-identifier>
+		<title xml:lang="es">Proyecto de escuela agropecuaria y sistema de regadío en Mlale</title>
+		<description xml:lang="es" type="1">Creación de una escuela agropecuaria</description>
+		<sector xml:lang="es" code="31181" vocabulary="DAC">Enseñanza / formación agraria</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2011-01-01">2011-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="4">Tied </default-tied-status>
+		<location>
+			<name xml:lang="es">Mlale</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">25664</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Huelva</provider-org>
+			<receiver-org ref="ESP-1525">FAMSI</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">25664</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Huelva</provider-org>
+			<receiver-org ref="ESP-1525">FAMSI</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-318" type="22" role="implementing">Asoc. Andalucía por un Mundo Nuevo ONGD</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30598</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30598</other-identifier>
+		<title xml:lang="es">Apoyo hospital rural de Mlale y Escuelas Públics</title>
+		<description xml:lang="es" type="1">Apoyo hospital rural de Mlale y Escuelas Públics</description>
+		<sector xml:lang="es" code="16050" vocabulary="DAC">Ayuda multisectorial para servicios sociales básicos</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2013-01-01">2013-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">ND</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">5800</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">5800</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-318" type="22" role="implementing">Asoc. Andalucía por un Mundo Nuevo ONGD</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30511</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30511</other-identifier>
+		<title xml:lang="es">Promoción de la Mujer. Escuela Taller de Costura **</title>
+		<description xml:lang="es" type="1">Promoción de la Mujer. Escuela Taller de Costura **</description>
+		<sector xml:lang="es" code="11330" vocabulary="DAC">Formación profesional </sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2013-01-01">2013-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<policy-marker xml:lang="en" code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+		<location>
+			<name xml:lang="es">ND</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">8000</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">8000</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Castilleja de la Cuesta</participating-org>
+		<participating-org xml:lang="es" ref="ESP-255" type="22" role="implementing">ANDALUCIA POR UNA MUNDO NUEVO</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30318</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30318</other-identifier>
+		<title xml:lang="es">Adecentamiento de las Escuela Primarias Públicas de Mlale</title>
+		<description xml:lang="es" type="1">Las Escuelas Primarias de Mlale, pertenecen al sistema educativo de Malawi. Mlale es un centro de referencia en una zona rural, con escasos recursos económicos. El 90% de la población, entorno a 200.000 personas, tienen una economía basada en la agricultura. Las escuelas primarias de Mlale proporcionan educación a unos 1.800 niños/as de edades entre 6 y 14 años. Este programa tiene como objetivo la rehabilitación de escuelas; en esta tarea participan los familiares más directos, así como maestro de forma voluntaria, ello permite dirigir toda la ayuda a la compra de materiales.</description>
+		<sector xml:lang="es" code="11220" vocabulary="DAC">Educación primaria</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2013-01-01">2013-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<policy-marker xml:lang="en" code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+		<location>
+			<name xml:lang="es">MITUNDU</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">1300</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Castilleja de la Cuesta</provider-org>
+			<receiver-org ref="ESP-255">ANDALUCIA POR UNA MUNDO NUEVO</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">1300</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Castilleja de la Cuesta</provider-org>
+			<receiver-org ref="ESP-255">ANDALUCIA POR UNA MUNDO NUEVO</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="15" type="15" role="extending">CCAA CAV - País Vasco</participating-org>
+		<participating-org xml:lang="es" ref="41135" type="40" role="implementing">NNUU OTROS: PVNU - Programa de Voluntarios de Naciones Unidas</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="D02">Other technical assistance</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-MBI-CCAA-24799</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-MBI-CCAA-24799</other-identifier>
+		<title xml:lang="es">CONTRIBUCIONES AL PVNU</title>
+		<description xml:lang="es" type="1">FAO Malawi Género y desarrollo Agrícola</description>
+		<sector xml:lang="es" code="15170" vocabulary="DAC">Organizaciones e instituciones de la igualdad de las mujeres</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2011-01-01">2011-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<policy-marker xml:lang="en" code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+		<location>
+			<name xml:lang="es">ND</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">15450</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="15">CCAA CAV - País Vasco</provider-org>
+			<receiver-org ref="41135">NNUU OTROS: PVNU - Programa de Voluntarios de Naciones Unidas</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">9270</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="15">CCAA CAV - País Vasco</provider-org>
+			<receiver-org ref="41135">NNUU OTROS: PVNU - Programa de Voluntarios de Naciones Unidas</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Castrillón</participating-org>
+		<participating-org xml:lang="es" ref="ESP-273" type="22" role="implementing">ARCO IRIS EDUCACION PARA EL DESARROLLO</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30193</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30193</other-identifier>
+		<title xml:lang="es">Apoyo a la Educación Secundaria de St. Anne's Secondary School en el distrito de Mchinji, Malawi.</title>
+		<description xml:lang="es" type="1">Construcción de cuatro viviendas para el profesorado del centro educativo, repercutiendo en una mejor atención a los alumnos que dispondrían de un horario escolar más amplio y de un mayor número de actividades.</description>
+		<sector xml:lang="es" code="11320" vocabulary="DAC">Educación secundaria</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2012-01-01">2012-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">St. Anne's Secondary School en el distrito de Mchinji, Malawi.</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">2068</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Castrillón</provider-org>
+			<receiver-org ref="ESP-273">ARCO IRIS EDUCACION PARA EL DESARROLLO</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">2068</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Castrillón</provider-org>
+			<receiver-org ref="ESP-273">ARCO IRIS EDUCACION PARA EL DESARROLLO</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-2636" type="60" role="implementing">Llamarada de Fuego</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30666</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30666</other-identifier>
+		<title xml:lang="es">Intervenciones quirúrgicas urgentes en Hospital de Mlale</title>
+		<description xml:lang="es" type="1">Intervenciones quirúrgicas urgentes en Hospital de Mlale</description>
+		<sector xml:lang="es" code="12220" vocabulary="DAC">Atención sanitaria básica</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2012-01-01">2012-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">Mlale</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">14000</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-2636">Llamarada de Fuego</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">14000</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-2636">Llamarada de Fuego</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-2825" type="22" role="implementing">ONG Asoc. Llamarada de fuego</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30571</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30571</other-identifier>
+		<title xml:lang="es">Envío de ayuda humanitaria para hospitales rurales</title>
+		<description xml:lang="es" type="1">Envío de ayuda humanitaria para hospitales rurales</description>
+		<sector xml:lang="es" code="12220" vocabulary="DAC">Atención sanitaria básica</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2013-01-01">2013-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">ND</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">3500</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-2825">ONG Asoc. Llamarada de fuego</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">3500</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-2825">ONG Asoc. Llamarada de fuego</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Sevilla</participating-org>
+		<participating-org xml:lang="es" ref="ESP-318" type="22" role="implementing">Asoc. Andalucía por un Mundo Nuevo ONGD</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30401</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30401</other-identifier>
+		<title xml:lang="es">Construcción Nave Escuela Taller de Carpintería</title>
+		<description xml:lang="es" type="1">Construcción Nave Escuela Taller de Carpintería</description>
+		<sector xml:lang="es" code="11330" vocabulary="DAC">Formación profesional </sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2013-01-01">2013-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">ND</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">12500</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">12500</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Sevilla</provider-org>
+			<receiver-org ref="ESP-318">Asoc. Andalucía por un Mundo Nuevo ONGD</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" last-updated-datetime="2011-10-20T14:19:12.229+02:00" xml:lang="es" default-currency="eur">
+		<reporting-org ref="50" type="10" xml:lang="en">Spain</reporting-org>
+		<participating-org xml:lang="en" ref="50" type="10" role="funding">Spain</participating-org>
+		<participating-org xml:lang="es" ref="16" type="15" role="extending">Diputación Prov. Palencia</participating-org>
+		<participating-org xml:lang="es" ref="ESP-1982" type="22" role="implementing">FUNDACIÓN AFRICA DIRECTO</participating-org>
+		<recipient-country code="MW" xml:lang="es">MALAWI</recipient-country>
+		<recipient-region code="289" xml:lang="es">AFRSUB</recipient-region>
+		<collaboration-type xml:lang="en" code="1">Bilateral</collaboration-type>
+		<default-flow-type xml:lang="en" code="10">ODA</default-flow-type>
+		<default-aid-type xml:lang="en" code="C01">Project-type interventions</default-aid-type>
+		<default-finance-type xml:lang="en" code="110">Aid grant excluding debt reorganisation</default-finance-type>
+		<iati-identifier>50/2010-BIL-EELL-30042</iati-identifier>
+		<other-identifier owner-ref="50" owner-name="DGPOLDE">2010-BIL-EELL-30042</other-identifier>
+		<title xml:lang="es">MEJORA DEL SERVICIO DE CONSULTAS EXTERNAS EN EL HOSPITAL RURAL DE ATUPELE, EN MALAWI</title>
+		<description xml:lang="es" type="1">El proyecto tiene como objetivo principal, el mejorar las condiciones sanitarias de la población de Kaporo en Malawi. Para ello, durante tres años se ha construido un hospital. En los años 2006 y 2007, con la colaboración de la Diputación se pudo financiar parte de la construcción y el equipamiento del hospital, que se inauguró oficialmente en Enero de 2008. La diputación, en 2009, subvencionó la compra de medicinas, consumibles de laboratorio, un concentrador de oxígeno, una incubadora para bebés, equipamiento para suministro eléctrico, material quirúrgico para partos, y además, una nevera banco de sangre para empezar a realizar trasfusiones. Estas mejoras han permitido además firmar un acuerdo con el gobierno de Malawi, mediante el cual los servicios de maternidad del hospital serán gratuítos. Ahora se pide subvención para mejorar los servicios de consultas externas: Se pretende construir un nuevo bloque para ello.</description>
+		<sector xml:lang="es" code="12230" vocabulary="DAC">Infraestructura sanitaria básica</sector>
+		<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>
+		<activity-date type="end-planned" iso-date="2011-01-01">2011-01-01</activity-date>
+		<activity-status xml:lang="en" code="2">Implementation</activity-status>
+		<contact-info>
+			<organisation>Dirección General de Planificación y Evaluación de Políticas de Desarrollo(DGPOLDE)</organisation>
+			<telephone>'+00-91-144-2719</telephone>
+			<email>aod.dgpolde@maec.es</email>
+			<mailing-address>C/Beatriz de Bobadilla 17</mailing-address>
+		</contact-info>
+		<default-tied-status xml:lang="en" code="5">Untied</default-tied-status>
+		<location>
+			<name xml:lang="es">KAPORO</name>
+		</location>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">11203</value>
+			<transaction-type code="C">Commitment</transaction-type>
+			<provider-org ref="16">Diputación Prov. Palencia</provider-org>
+			<receiver-org ref="ESP-1982">FUNDACIÓN AFRICA DIRECTO</receiver-org>
+		</transaction>
+		<transaction>
+			<value currency="Eur" value-date="2010-12-31">11203</value>
+			<transaction-type code="D">Disbursement</transaction-type>
+			<provider-org ref="16">Diputación Prov. Palencia</provider-org>
+			<receiver-org ref="ESP-1982">FUNDACIÓN AFRICA DIRECTO</receiver-org>
+		</transaction>
+		<result type="ND">
+			<title xml:lang="es">ND</title>
+			<indicator measure="ND">
+				<title xml:lang="es">ND</title>
+			</indicator>
+		</result>
+	</iati-activity>
+</iati-activities>

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="GBP" last-updated-datetime="2013-09-27T09:30:49+00:00">
+    <reporting-org ref="GBCHC328206" type="21" xml:lang="en">Womankind Worldwide</reporting-org>
+    <iati-identifier>GBCHC328206-GBCHC328206/10</iati-identifier>
+    <title xml:lang="en">Supporting women affected by HIV or AIDS  (Ghana)</title>
+    <description type="1">This project aims to provide counselling, legal aid, court representation, and referrals to medical, social, and legal services to women affected by HIV/AIDS; offer paralegal training to community members; raise awareness on the links between HIV/AIDS and discriminatory and violent practices towards women; and train service providers in gender equality, women’s human rights, and their obligations.</description>
+    <activity-status code="3"/>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2010-04-01">April 2010</activity-date>
+    <activity-date type="end-planned" iso-date="2013-07-01">July 2013</activity-date>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2010-04-01">April 2010</activity-date>
+    <activity-date type="end-planned" iso-date="2013-07-01">July 2013</activity-date>
+    <participating-org type="22" role="Implementing">International Federation of Women Lawyers, Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector code="15164" vocabulary="DAC">Women's equality organisations and institutions</sector>
+    <budget type="2">
+      <period-start iso-date="2010-04-01">April 2010</period-start>
+      <period-end iso-date="2013-07-01">July 2013</period-end>
+      <value currency="GBP" value-date="2013-03-04">108568</value>
+    </budget>
+    <transaction>
+      <transaction-type code="D"/>
+      <value currency="GBP" value-date="2013-03-31">33732</value>
+      <transaction-date iso-date="2012-12-31">April - December 2012</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org>Womankind Worldwide</provider-org>
+      <receiver-org>FIDA Ghana</receiver-org>
+      <value currency="GBP" value-date="2013-06-01">1961</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2013/03/FIDA-2010-2013-Proposal-final.doc" format="application/msword">
+      <category code="A02">Project proposal</category>
+      <title>FIDA Ghana project proposal</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2013/03/revised-yr-2-FIDA-budget-FINAL.xls" format="application/vnd.ms-excel">
+      <category code="A05">Budget</category>
+      <title>FIDA Ghana Budget</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2013/03/Signed-FIDA-contract-2012-13.pdf" format="application/pdf">
+      <category code="A11">Contract</category>
+      <title>FIDA Ghana Womankind Contract</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2013/03/WOMANKIND-Report-for-2nd-year-updated.doc" format="application/msword">
+      <category code="B01">Annual report</category>
+      <title>FIDA Ghana annual report</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2013/07/FIDA-Ghana-report-FINAL-IATI.doc" format="application/msword">
+      <language>en</language>
+      <category code="A07"/>
+      <title>FIDA Ghana Report June 2013</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2013/07/FIDA-Ghana-report-FINAL-IATI.doc" format="application/msword">
+      <language>en</language>
+      <category code="A07"/>
+      <title>FIDA Ghana Report June 2013</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2013/07/FIDA-financial-report.xls" format="application/vnd.ms-excel">
+      <language>en</language>
+      <category code="A05"/>
+      <title>FIDA Ghana Financial Report June 2013</title>
+    </document-link>
+    <activity-website>http://www.womankind.org.uk/where-we-work/ghana/womankind-projects/fida-hiv-project/</activity-website>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="GBP" last-updated-datetime="2013-09-27T09:26:30+00:00">
+    <reporting-org ref="GBCHC328206" type="21" xml:lang="en">Womankind Worldwide</reporting-org>
+    <iati-identifier>GBCHC328206-GBCHC328206/01</iati-identifier>
+    <title xml:lang="en">Reducing Women’s Susceptibility to HIV Infection as a Result of Gender Inequality in Ghana </title>
+    <description xml:lang="en" type="1">This project aims to contribute in a reduction in the number of women being infected by HIV/AIDS in Ghana by working with communities to recognise and understand attitudes and practices that increase the risk of HIV infection; by pushing for the government to properly resource HIV and AIDS programmes; by raising awareness on the links between gender inequality and HIV; and by strengthening the capacity of the local partners to become a stronger organisation. </description>
+    <activity-status xml:lang="en" code="3"/>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2009-05-01"/>
+    <participating-org xml:lang="en" type="22" role="Implementing">Gender and Human Rights Documentation Centre (Gender Centre)</participating-org>
+    <participating-org xml:lang="en" type="22" role="Implementing">Pro-Link </participating-org>
+    <participating-org xml:lang="en" type="23" role="Implementing">Rural Watch Ghana</participating-org>
+    <recipient-country xml:lang="en" code="GH">Ghana</recipient-country>
+    <sector code="15164" vocabulary="DAC">Women's equality organisations and institutions</sector>
+    <budget type="1">
+      <period-start iso-date="2009-05-01">May 2009</period-start>
+      <period-end iso-date="2012-03-01">March 2012</period-end>
+      <value currency="GBP" value-date="2012-06-26">499960</value>
+    </budget>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2012/07/GC-DFID-CSCF-full-proposal-July-31-2008-FINAL.doc" format="application/msword">
+      <category code="A02">Project proposal</category>
+      <title>GC DFID 492 Full Proposal July 31 2008</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2012/07/CSCF-492-Revised-Logframe-30.9.11.doc" format="application/msword">
+      <category code="A01">Logframe</category>
+      <title>492 Revised Logframe 30 Sept 2011</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2012/07/Contract-between-WK-and-GC-DFID-project-2009-12.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="A06">Partnership agreement</category>
+      <title>Womankind, Gender Centre, DFID Project Partnership Agreement</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2012/07/CSCF-492-Approved-Revised-Budget-Request-March-11.xlsx" format="application/vnd.ms-excel">
+      <category code="A05">Revised Budget</category>
+      <title>CSCF 492 Approved Revised Budget March 2011</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2012/07/CSCF-492-Annual-Report-27-6-11-2.docx" format="application/msword">
+      <language>en</language>
+      <category code="B01">Annual Report</category>
+      <title>CSCF 492 Annual Report June 2011</title>
+    </document-link>
+    <activity-website>http://www.womankind.org.uk/what-we-do/where-we-work/ghana/womankind-projects/gc-hivf-project/</activity-website>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="GBP" last-updated-datetime="2013-09-27T09:26:49+00:00">
+    <reporting-org ref="GBCHC328206" type="21" xml:lang="en">Womankind Worldwide</reporting-org>
+    <iati-identifier>GBCHC328206-GBCHC328206/02</iati-identifier>
+    <title>Good governance through increasing women’s participation in Ghana’s political processes</title>
+    <description type="1">This project aims to increase women's participation and representation in local and national politics by providing practical support and training to women who wish to get involved in politics. The project does this by raising awareness of women's right to political participation, by educating communities on supporting women's participation and by pushing all political parties to ensure that 40% of their members are women. We support our local partner to build their capacity and become a stronger organisation.</description>
+    <activity-status code="3"/>
+    <activity-date type="start-actual" iso-date="2010-06-01">June 2010</activity-date>
+    <activity-date type="end-planned" iso-date="2013-05-01">May 2013</activity-date>
+    <participating-org type="22" role="Implementing">WiLDAF-Ghana (Women in Law and Development in Africa)</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector code="15164" vocabulary="DAC">Women's equality organisations and institutions</sector>
+    <budget type="1">
+      <period-start iso-date="2010-06-01">June 2010</period-start>
+      <period-end iso-date="2013-03-01">March 2013</period-end>
+      <value currency="GBP" value-date="2012-06-26">499939</value>
+    </budget>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2012/07/CSCF-501-Ghana-WILDAF-Annual-Report-2011-12-IATI.doc" format="application/msword">
+      <category code="B01">Annual report</category>
+      <title>CSCF Ghana 501 Annual Report</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2012/07/CN-2010-2319-full-proposal-310709_final.docx" format="application/msword">
+      <category code="A02">Project proposal</category>
+      <title>CSCF Ghana 501 Project Proposal</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2012/07/CSCF-501-Revised-logframe-30-9-11.xls" format="application/vnd.ms-excel">
+      <category code="A08">Project logframe</category>
+      <title>CSCF Ghana 501 Logframe</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2012/07/WK-and-WiLDAF-contract-June-10.pdf" format="application/pdf">
+      <category code="A06">Partnership agreement</category>
+      <title>CSCF Ghana 501 Partnership Agreement</title>
+    </document-link>
+    <document-link url="http://www.womankind.org.uk/wp-content/uploads/2012/07/CSCF-501-Revised-Budget.xlsx" format="application/vnd.ms-excel">
+      <category code="A05">Revised Budget</category>
+      <title>CSCF Ghana 501 Revised Budget</title>
+    </document-link>
+    <activity-website>http://www.wildaf.org/</activity-website>
+  </iati-activity>
+</iati-activities>

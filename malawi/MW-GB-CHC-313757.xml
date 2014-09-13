@@ -1,0 +1,451 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-19T08:14:18" xml:lang="en">
+    <reporting-org ref="GB-CHC-313757" type="21">Voluntary Service Overseas (VSO)</reporting-org>
+    <iati-identifier>GB-CHC-313757-MW9</iati-identifier>
+    <title>Malawi</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2014-03-31" type="end-planned">3/31/2014</activity-date>
+    <activity-date iso-date="2012-01-04" type="start-actual">1/4/2012</activity-date>
+    <participating-org ref="GB-1" role="Funding" type="10">DfID</participating-org>
+    <participating-org role="Implementing">Central Region Milk Producers Association (CREMPA)
+Centre for the Development of People(CEDEP)
+Chikwawa District Council
+Chitipa District Agriculture Office  Chitipa DAO
+Chitipa District Council(DACC)
+Civil Society Education Coalition
+Civil Society Network on Climate Change (CISONECC)
+Department of Tourism 
+Holy Family College of Nursing
+Kamuzu College of Nursing
+LEAD Southern and Eastern Africa 
+Machinga District Council(DACC)
+Malamulo College of Health Sciences
+Malawi Council for the Handicapped (MACOHA)
+Malawi Fairtrade Network (MFTN)
+Malawi Institute of Education
+Malawi Organic Growers Association  MOGA
+MANERELA
+Ministry Of Health
+"Ministry of Health  North Health Zone 
+
+
+Mzuzu health Zone Office "
+Ministry of Local Government and Rural Development (MLGRD)
+Mpoto Dairy Farmers Association (MDFA)
+Nkhoma College of Nursing and Midwifery
+Nsanje District Council(DACC)
+Ntcheu District Health Office
+Nurses and Midwives Council of Malawi (NMCM)
+Positivo
+Rumphi District Council (DACC)
+Salima District Council(DACC)
+Salima District EDucation Office  Yambe Zone
+Shire Highlands Milk Produces Association (SHMPA)
+South East Health Zone  Zomba
+South West Zone  Blantyre.
+St John's College of Nursing and Midwifery
+St Luke's College of Nursing and Midwifery
+Thyolo District Council
+Trinity College of Nursing and Midwifery
+</participating-org>
+    <participating-org ref="GB-CHC-313757" role="Accountable" type="21">Voluntary Service Overseas (VSO)</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="110" percentage="10" vocabulary="RO">Education</sector>
+    <sector code="120" percentage="56" vocabulary="RO">Health</sector>
+    <sector code="150" percentage="0" vocabulary="RO">Participation and governance</sector>
+    <sector code="140" percentage="0" vocabulary="RO">Youth volunteering</sector>
+    <sector code="130" percentage="33" vocabulary="RO">Secure livelihoods</sector>
+    <default-flow-type code="30">private grant</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <transaction>
+      <value value-date="2013-03-31">1647777</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="C">Commitment</transaction-type>
+      <description>BUDGET EXPENDITURE - full year</description>
+    </transaction>
+    <transaction>
+      <provider-org provider-activity-id="GB-1" ref="GB-1">DFID</provider-org>
+      <value value-date="2013-03-31">0</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>DFID RESTRICTED FUNDS - </description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">68175</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>EQUIPMENTS COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">3122</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>FUNDRAISING &amp; EVENTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">10383</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>GOVERNANCE</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">2750</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>MARKETING &amp; PUBLICITY</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">64842</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>OFFICE COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">551541</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>OTHER RESTRICTED FUNDS - </description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">96751</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>PREMISES &amp; UTILITY COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">618684</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>PROGRAMME &amp; VOLUNTEER COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">299950</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>STAFF COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">11462</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>TRAVEL &amp; ACCOMMODATION</description>
+    </transaction>
+    <transaction>
+      <provider-org provider-activity-id="GB-1-113747" ref="GB-1">DFID</provider-org>
+      <value value-date="2013-03-31">537136</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>UNRESTRICTED FUNDS - DFID</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">87441</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>UNRESTRICTED FUNDS - Other</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">1523176</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="C">Commitment</transaction-type>
+      <description>BUDGET EXPENDITURE - full year</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">5302</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>EQUIPMENTS COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">663</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>FUNDRAISING &amp; EVENTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">3044</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>GOVERNANCE</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">678</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>MARKETING &amp; PUBLICITY</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">6861</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>OFFICE COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">12657</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>PREMISES &amp; UTILITY COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">164487</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>PROGRAMME &amp; VOLUNTEER COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">55287</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>STAFF COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">681</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>TRAVEL &amp; ACCOMMODATION</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">142936.9</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>OTHER RESTRICTED FUNDS - </description>
+    </transaction>
+    <transaction>
+      <provider-org provider-activity-id="GB-1-113747" ref="GB-1">DFID</provider-org>
+      <value value-date="2013-06-30">72570.388</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>UNRESTRICTED FUNDS - DFID</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">34150.712</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>UNRESTRICTED FUNDS - Other</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">146504.15</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>OTHER RESTRICTED FUNDS - </description>
+    </transaction>
+    <transaction>
+      <provider-org provider-activity-id="GB-1-113747" ref="GB-1">DFID</provider-org>
+      <value value-date="2013-09-30">90204.72</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>UNRESTRICTED FUNDS - DFID</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">67388.28</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>UNRESTRICTED FUNDS - Other</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">12177.18</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>EQUIPMENTS COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">225.3</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>FUNDRAISING &amp; EVENTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">838.53</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>GOVERNANCE</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">1636.55</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>MARKETING &amp; PUBLICITY</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">8283.09</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>OFFICE COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">15056.91</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>PREMISES &amp; UTILITY COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">184044.26</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>PROGRAMME &amp; VOLUNTEER COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">73833.83</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>STAFF COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">8001.5</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>TRAVEL &amp; ACCOMMODATION</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">192680.68</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>OTHER RESTRICTED FUNDS - </description>
+    </transaction>
+    <transaction>
+      <provider-org provider-activity-id="GB-1-113747" ref="GB-1">DFID</provider-org>
+      <value value-date="2013-12-31">98287.0028</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>UNRESTRICTED FUNDS - DFID</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">46252.7072</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>UNRESTRICTED FUNDS - Other</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">10903.98</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>EQUIPMENTS COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">621.38</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>FUNDRAISING &amp; EVENTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">1659.89</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>GOVERNANCE</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">15.77</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>MARKETING &amp; PUBLICITY</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">5497.7</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>OFFICE COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">10098.34</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>PREMISES &amp; UTILITY COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">238548.51</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>PROGRAMME &amp; VOLUNTEER COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">66676.33</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>STAFF COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">3198.49</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>TRAVEL &amp; ACCOMMODATION</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">389677.57</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>OTHER RESTRICTED FUNDS - </description>
+    </transaction>
+    <transaction>
+      <provider-org provider-activity-id="GB-1-113747" ref="GB-1">DFID</provider-org>
+      <value value-date="2014-03-31">101285.8776</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>UNRESTRICTED FUNDS - DFID</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">47663.9424</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>UNRESTRICTED FUNDS - Other</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">30774.37</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>EQUIPMENTS COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">2455.46</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>FUNDRAISING &amp; EVENTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">4380.84</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>GOVERNANCE</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">4218.18</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>MARKETING &amp; PUBLICITY</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">34378.16</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>OFFICE COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">4456.69</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>PREMISES &amp; UTILITY COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">366926.42</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>PROGRAMME &amp; VOLUNTEER COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">83148.02</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>STAFF COSTS</description>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">7889.25</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <description>TRAVEL &amp; ACCOMMODATION</description>
+    </transaction>
+    <document-link format="application/pdf" url="http://www.vsointernational.org/where-we-work/Malawi.asp">
+      <category code="B03">B03</category>
+      <language code="en"/>
+      <title>External Country Strategic Plan</title>
+    </document-link>
+  </iati-activity>
+</iati-activities>

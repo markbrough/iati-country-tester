@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="USD" last-updated-datetime="2013-07-09T10:34:11">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1006866</iati-identifier>
+<title>Research to allow for the evaluation of transparency and accountability initiatives funded through the Africa Technology and Transparency Initiative. </title>
+<description>
+IPRE will carry out research that builds on an initial assessment that was carried out in first half of 2012. 
+
+This grant will allow IPRE to find out if there is evidence that partners' activities are associated with accountability outcomes of interest and what strategic and contextual factors make a transparency and accountability initiative (TAI) more or less likely to succeed. 
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-06-30"/>
+<activity-date type="end-actual" iso-date="2014-01-14"/>
+<contact-info>
+<organisation>The International Policy Research and Evaluation Group</organisation>
+<telephone>+6503802385</telephone>
+<mailing-address>2090 Pacific Avenue, San Francisco, 94109, United States of America</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">The International Policy Research and Evaluation Group</participating-org>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-06-20" currency="USD">70000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Omidyar Network</provider-org>
+<receiver-org>The International Policy Research and Evaluation Group</receiver-org>
+<value value-date="2013-12-02" currency="USD">2000</value>
+<transaction-date iso-date="2013-12-02"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Omidyar Network</provider-org>
+<receiver-org>The International Policy Research and Evaluation Group</receiver-org>
+<value value-date="2013-07-10" currency="USD">68000</value>
+<transaction-date iso-date="2013-07-10"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="USD" last-updated-datetime="2013-04-02T15:49:25">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1006190</iati-identifier>
+<title>iSpace, Ghana: Supporting an innovation space in Ghana</title>
+<description>
+iSpace is a new technology community hub created to support innovation in Ghana. The hub will act as the home to a community of technologist (developers, entrepreneurs, etc) to gather either individually or together to hack together ideas and build innovative solutions.
+
+The project will create a space for tech enthusiasts in Ghana to meet, collaborate and network. iSpace will host events and training that improve the capabilities of the local tech community. The project will also host and provide labs that meet the needs of the local tech community and liaise between the local tech community and the global tech community.  
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-03-29"/>
+<activity-date type="end-actual" iso-date="2015-11-29"/>
+<contact-info>
+<organisation>ISPACE FOUNDATION</organisation>
+<telephone>+447582222326</telephone>
+<mailing-address>G51 Guava Crescent, Accra, , Ghana</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">ISPACE FOUNDATION</participating-org>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-02-05" currency="USD">70000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Omidyar Network</provider-org>
+<receiver-org>ISPACE FOUNDATION</receiver-org>
+<value value-date="2014-04-10" currency="USD">30000</value>
+<transaction-date iso-date="2014-04-10"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Omidyar Network</provider-org>
+<receiver-org>ISPACE FOUNDATION</receiver-org>
+<value value-date="2013-04-17" currency="USD">40000</value>
+<transaction-date iso-date="2013-04-17"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="USD" last-updated-datetime="2014-02-11T10:26:58">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1008151</iati-identifier>
+<title>Evaluation of transparency and accountability initiatives </title>
+<description>
+The IPRE will carry out research that builds on an initial assessment that was carried out in 2013. This is an impact evaluation assessment of ATTI grantee, ISODEC that is working in two districts in Ghana. This grant will allow IPRE to complete data analysis, prepare and submit a final report. 
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-12-31"/>
+<activity-date type="end-actual" iso-date="2014-08-30"/>
+<contact-info>
+<organisation>The International Policy Research and Evaluation Group</organisation>
+<telephone>+6503802385</telephone>
+<mailing-address>2090 Pacific Avenue, San Francisco, 94109, United States of America</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">The International Policy Research and Evaluation Group</participating-org>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-12-26" currency="USD">20000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Omidyar Network</provider-org>
+<receiver-org>The International Policy Research and Evaluation Group</receiver-org>
+<value value-date="2014-01-22" currency="USD">19000</value>
+<transaction-date iso-date="2014-01-22"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="GBP" last-updated-datetime="2014-06-18T10:25:08">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1008564</iati-identifier>
+<title>"Our City, Our Say". Increasing Women's Voice in Governance in Ghana</title>
+<description>
+Global Communities, in partnership with the Sekondi-Takoradi Metropolitan Assembly (STMA) would like to increase participation by poor residents in prioritizing and improving municipal service delivery. 
+
+This shall be done by making it easier for citizens to get information from and to STMA municipal employees using Citizen report card (CRC) and text messages. The project shall work with existing citizen report card teams to engage municipal workers on service delivery.
+
+The project builds on a pilot project that developed citizen report cards which identified gaps in service delivery and also supported the development of a client service unit through which Municipal employees provide information to citizens through the use of a toll free line. 
+
+The Making All Voices Count grant would be used to integrate monthly interactive radio call-in program to report on progress on service delivery gaps for the citizen report cards. The grant would also provide automation of the process through which citizens raise issues through the hotline and client service unit and this automation would also allow for the tracking and analysis of issues from when they are raised to when they are/ are not resolved.
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2014-06-01"/>
+<activity-date type="end-actual" iso-date="2016-01-31"/>
+<contact-info>
+<organisation>Cooperative Housing Foundation</organisation>
+<telephone>+1 301 587 4700</telephone>
+<mailing-address>8601 Georgia Avenue, Suite 800, Silver Spring, 20910, United States of America</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Cooperative Housing Foundation</participating-org>
+<recipient-country code="GH">Ghana</recipient-country>
+<policy-marker/>
+<budget><value value-date="2014-05-29" currency="GBP">94840</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Making All Voices Count</provider-org>
+<receiver-org>Cooperative Housing Foundation</receiver-org>
+<value value-date="2014-06-25" currency="GBP">80000</value>
+<transaction-date iso-date="2014-06-25"/>
+</transaction>
+</iati-activity>
+</iati-activities>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-07-25T10:49:38+00:00">
+    <reporting-org ref="GB-CHC-1077889" type="21" xml:lang="en">Pump Aid</reporting-org>
+    <iati-identifier>GB-CHC-1077889-GPAF-IMP-100</iati-identifier>
+    <title>Improving the sustainability of safe water, good hygiene and sanitation practices for rural communities in Malawi</title>
+    <description type="2">This project will meet the need of rural Malawi communities for a clean, safe, reliable source of drinking water which is easily maintained by the households which will benefit from it. We will build, with community support, 1,500 Elephant (rope) Pumps (500 per annum) to provide a protected source of clean water to approximately 150,000 people who currently have no access to safe water supplies, and we will work with communities to embed good practice and increase sustainability.</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2013-10-01"/>
+    <activity-date type="end-planned" iso-date="2016-09-30"/>
+    <contact-info>
+      <organisation>Pump Aid</organisation>
+      <person-name>Duncan Marsh</person-name>
+      <job-title>Programme Director</job-title>
+      <telephone>0845 504 6972 </telephone>
+      <email>duncanmarsh@pumpaid.org</email>
+      <mailing-address>5th Floor,&#13;
+90-92 Great Portland Street&#13;
+London&#13;
+W1W 7NT</mailing-address>
+      <website>www.pumpaid.org</website>
+    </contact-info>
+    <participating-org type="21" role="Implementing" ref="GB-CHC-1077889">Pump Aid</participating-org>
+    <participating-org type="10" role="Funding" ref="GB-1">DFID</participating-org>
+    <recipient-country code="MW" percentage="100"/>
+    <recipient-region code="298" vocabulary="2"/>
+    <location>
+      <location-type code="ADM2"/>
+      <name>Mchinji</name>
+      <administrative country="MW">Mchinji, Malawi</administrative>
+      <coordinates latitude="-13.795406203132826" longitude="32.876930236816406"/>
+      <gazetteer-entry gazetteer-ref="GEO">Mchinji</gazetteer-entry>
+    </location>
+    <location>
+      <location-type code="ADM2"/>
+      <name>Kasungu</name>
+      <administrative country="MW">Kasungu, Malawi</administrative>
+      <coordinates latitude="-13.04101744583918" longitude="33.48100662231445"/>
+      <gazetteer-entry gazetteer-ref="GEO">Kasungu</gazetteer-entry>
+    </location>
+    <location>
+      <location-type code="ADM2"/>
+      <name>Lilongwe</name>
+      <administrative country="MW" adm1="Central" adm2="Lilongwe">Lilongwe, Central, Malawi</administrative>
+      <coordinates latitude="-13.972051130772858" longitude="33.758583068847656"/>
+      <gazetteer-entry gazetteer-ref="GEO">Lilongwe</gazetteer-entry>
+    </location>
+    <sector code="14030" vocabulary="DAC"/>
+    <sector code="14081" vocabulary="DAC"/>
+    <budget type="1">
+      <period-start iso-date="2013-10-01"/>
+      <period-end iso-date="2014-03-31">Year 1 Budget (1/10/13 - 31/03/14)</period-end>
+      <value value-date="2014-07-01">591436</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2015-03-31">Year 2 Budget (1/04/14 - 01/03/15)</period-end>
+      <value value-date="2014-07-01">1129733</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-04-01"/>
+      <period-end iso-date="2016-03-31">Year 3 Budget (1/04/15 - 01/03/16)</period-end>
+      <value value-date="2014-07-17">986756</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2016-04-01"/>
+      <period-end iso-date="2016-09-30">Year 4 Budget (1/04/16 - 30/09/16)</period-end>
+      <value value-date="2014-07-22">488888</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C"/>
+      <provider-org ref="GB-1" provider-activity-id="GB-1-202035">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1077889" receiver-activity-id="GB-CHC-1077889-GPAF-IMP-100">Pump Aid</receiver-org>
+      <value value-date="2013-10-01">1200409</value>
+      <transaction-date iso-date="2013-10-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C"/>
+      <provider-org ref="GB-CHC-1077889" provider-activity-id="GB-CHC-1077889-GPAF-IMP-100">Pump Aid</provider-org>
+      <receiver-org ref="GB-CHC-1077889" receiver-activity-id="GB-CHC-1077889-GPAF-IMP-100">Pump Aid</receiver-org>
+      <value value-date="2013-03-04">1996404</value>
+      <transaction-date iso-date="2013-10-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Quarter 3 Year 1</transaction-type>
+      <provider-org ref="GB-CHC-1077889" provider-activity-id="GB-CHC-1077889-GPAF-IMP-100">Pump Aid </provider-org>
+      <receiver-org ref="GB-CHC-1077889" receiver-activity-id="GB-CHC-1077889-GPAF-IMP-100">Pump Aid</receiver-org>
+      <value value-date="2013-12-31">117445.41</value>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Quarter 4 Year 1</transaction-type>
+      <provider-org ref="GB-CHC-1077889" provider-activity-id="GB-CHC-1077889-GPAF-IMP-100">Pump Aid</provider-org>
+      <receiver-org ref="GB-CHC-1077889" receiver-activity-id="GB-CHC-1077889-GPAF-IMP-100">Pump Aid</receiver-org>
+      <value value-date="2014-03-31">105901.31</value>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <document-link url="http://www.aidstream.org/files/documents/Pump Aid DFID GPAF 100 Revised Log Frame 09 07 2014.xlsx" format="application/vnd.ms-excel">
+      <language>en</language>
+      <category code="A08">Log Frame</category>
+      <title>Pump Aid GPAF Log Frame </title>
+    </document-link>
+    <activity-website>http://www.pumpaid.org</activity-website>
+  </iati-activity>
+</iati-activities>

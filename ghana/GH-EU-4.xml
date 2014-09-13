@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity last-updated-datetime="2014-05-12T13:40:57Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <recipient-country xml:lang="en" code="LA">Lao People's Democratic Republic</recipient-country>
+    <recipient-country xml:lang="en" code="IN">India</recipient-country>
+    <recipient-country xml:lang="en" code="GH">Ghana</recipient-country>
+    <recipient-country xml:lang="en" code="NE">Niger</recipient-country>
+    <recipient-country xml:lang="en" code="TG">Togo</recipient-country>
+    <recipient-country xml:lang="en" code="BW">Botswana</recipient-country>
+    <recipient-country xml:lang="en" code="UG">Uganda</recipient-country>
+    <recipient-country xml:lang="en" code="ET">Ethiopia</recipient-country>
+    <recipient-country xml:lang="en" code="MG">Madagascar</recipient-country>
+    <recipient-country xml:lang="en" code="ZM">Zambia</recipient-country>
+    <recipient-country xml:lang="en" code="ID">Indonesia</recipient-country>
+    <recipient-country xml:lang="en" code="KP">Korea, Democratic People's Republic of</recipient-country>
+    <recipient-country xml:lang="en" code="SV">El Salvador</recipient-country>
+    <recipient-country xml:lang="en" code="AR">Argentina</recipient-country>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <recipient-country xml:lang="en" code="PS">Palestinian Territory, Occupied</recipient-country>
+    <recipient-country xml:lang="en" code="SC">Seychelles</recipient-country>
+    <recipient-country xml:lang="en" code="VC">Saint Vincent and the Grenadines</recipient-country>
+    <recipient-country xml:lang="en" code="KG">Kyrgyzstan</recipient-country>
+    <recipient-country xml:lang="en" code="AM">Armenia</recipient-country>
+    <recipient-country xml:lang="en" code="PE">Peru</recipient-country>
+    <recipient-country xml:lang="en" code="LC">Saint Lucia</recipient-country>
+    <recipient-country xml:lang="en" code="NA">Namibia</recipient-country>
+    <recipient-country xml:lang="en" code="GE">Georgia</recipient-country>
+    <recipient-country xml:lang="en" code="CN">China</recipient-country>
+    <recipient-country xml:lang="en" code="BJ">Benin</recipient-country>
+    <recipient-country xml:lang="en" code="PY">Paraguay</recipient-country>
+    <recipient-country xml:lang="en" code="EG">Egypt</recipient-country>
+    <recipient-country xml:lang="en" code="UA">Ukraine</recipient-country>
+    <recipient-country xml:lang="en" code="BO">Bolivia</recipient-country>
+    <recipient-country xml:lang="en" code="EC">Ecuador</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <iati-identifier>EU-4-ECHO/DRF/BUD/2013/91000</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-23296</other-identifier>
+    <title>Worldwide response to/preparedness for small- scale disasters via Sisaster Relief Emergency Fund (DREF)</title>
+    <description type="1">Worldwide response to/preparedness for small- scale disasters via Sisaster Relief Emergency Fund (DREF)</description>
+    <description type="2">Worldwide response to/preparedness for small- scale disasters via Sisaster Relief Emergency Fund (DREF)</description>
+    <activity-date iso-date="2012-11-13" type="start-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-actual"/>
+    <activity-date iso-date="2014-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Togo</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">88162</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Saint Lucia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">56054</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Korea, Democratic People's Republic of</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">132520</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Egypt</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">97279</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">161603</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>El Salvador</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">60976</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Namibia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">138008</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Uganda</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">70732</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Benin</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">123557</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Peru</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">65041</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>China</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">92114</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Kyrgyzstan</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">16619</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ghana</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">109767</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Paraguay</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">102098</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ecuador</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">107447</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Seychelles</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">44177</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Bolivia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">146267</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Argentina</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">115000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Indonesia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">30488</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Saint Vincent and the Grenadines</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">48780</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Madagascar</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">85500</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Botswana</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">74913</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ukraine</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">124533</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Georgia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">122468</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Lao People's Democratic Republic</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">166275</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Zambia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">34484</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Armenia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">157724</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>India</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">226748</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Palestinian Territory, Occupied</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">73567</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Niger</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">63844</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ethiopia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">63255</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <recipient-country xml:lang="en" code="GT">Guatemala</recipient-country>
+    <recipient-country xml:lang="en" code="PH">Philippines</recipient-country>
+    <recipient-country xml:lang="en" code="BZ">Belize</recipient-country>
+    <recipient-country xml:lang="en" code="GH">Ghana</recipient-country>
+    <recipient-country xml:lang="en" code="NE">Niger</recipient-country>
+    <recipient-country xml:lang="en" code="KZ">Kazakhstan</recipient-country>
+    <recipient-country xml:lang="en" code="BI">Burundi</recipient-country>
+    <recipient-country xml:lang="en" code="TJ">Tajikistan</recipient-country>
+    <recipient-country xml:lang="en" code="UG">Uganda</recipient-country>
+    <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+    <recipient-country xml:lang="en" code="HN">Honduras</recipient-country>
+    <recipient-country xml:lang="en" code="KP">Korea, Democratic People's Republic of</recipient-country>
+    <recipient-country xml:lang="en" code="BF">Burkina Faso</recipient-country>
+    <recipient-country xml:lang="en" code="SV">El Salvador</recipient-country>
+    <recipient-country xml:lang="en" code="CD">Congo, the Democratic Republic of the</recipient-country>
+    <recipient-country xml:lang="en" code="PS">Palestinian Territory, Occupied</recipient-country>
+    <recipient-country xml:lang="en" code="KG">Kyrgyzstan</recipient-country>
+    <recipient-country xml:lang="en" code="PA">Panama</recipient-country>
+    <recipient-country xml:lang="en" code="CR">Costa Rica</recipient-country>
+    <recipient-country xml:lang="en" code="SD">Sudan</recipient-country>
+    <recipient-country xml:lang="en" code="GE">Georgia</recipient-country>
+    <recipient-country xml:lang="en" code="BJ">Benin</recipient-country>
+    <recipient-country xml:lang="en" code="PY">Paraguay</recipient-country>
+    <recipient-country xml:lang="en" code="BY">Belarus</recipient-country>
+    <recipient-country xml:lang="en" code="DO">Dominican Republic</recipient-country>
+    <recipient-country xml:lang="en" code="RW">Rwanda</recipient-country>
+    <recipient-country xml:lang="en" code="EC">Ecuador</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <iati-identifier>EU-4-ECHO/DRF/BUD/2012/91000</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-21547</other-identifier>
+    <title>HUMANITARIAN IMPLEMENTATION PLAN (HIP)Worldwide response to/preparedness for small-scale disasters viaDisaster Relief Emergency Fund (DREF)</title>
+    <description type="1">HUMANITARIAN IMPLEMENTATION PLAN (HIP)Worldwide response to/preparedness for small-scale disasters viaDisaster Relief Emergency Fund (DREF)</description>
+    <description type="2">HUMANITARIAN IMPLEMENTATION PLAN (HIP)Worldwide response to/preparedness for small-scale disasters viaDisaster Relief Emergency Fund (DREF)</description>
+    <activity-date iso-date="2011-12-02" type="start-planned"/>
+    <activity-date iso-date="2012-01-01" type="start-actual"/>
+    <activity-date iso-date="2013-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Palestinian Territory, Occupied</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">59863</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Burkina Faso</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">46902</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Kyrgyzstan</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">40000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>El Salvador</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">74573</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Bangladesh</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">169891</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Belize</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">32335</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Sudan</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">176000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Paraguay</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">138055</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Guatemala</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">153807</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Dominican Republic</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">336767</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Panama</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">65230</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Korea, Democratic People's Republic of</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Burundi</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">36757</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Uganda</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">406956</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Congo, the Democratic Republic of the</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">159964</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Benin</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">55819</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Rwanda</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">85965</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Belarus</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">39580</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Philippines</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">75000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Tajikistan</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">80000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Costa Rica</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">67696</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Niger</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">117935</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ecuador</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">39603</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Kazakhstan</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">55825</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Georgia</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">118590</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ghana</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">122337</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-02"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Honduras</receiver-org>
+      <value value-date="2011-12-02" currency="EUR">44550</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

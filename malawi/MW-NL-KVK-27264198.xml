@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2013-03-28T18:04:01+00:00">
+    <reporting-org ref="NL-KVK-27264198" type="21" xml:lang="en">ActionAid International</reporting-org>
+    <iati-identifier>NL-KVK-27264198-1MAL-PJ-00079</iati-identifier>
+    <title>DFID ECRP Programme</title>
+    <description>Enhancing resilience of communities in the face of hunger, climate change and disasters</description>
+    <activity-status code="2"/>
+    <participating-org role="Funding" type="10" ref="GB-1">DFID</participating-org>
+    <participating-org role="Implementing">CARE International</participating-org>
+    <participating-org role="Implementing">Christian Aid</participating-org>
+    <recipient-country code="MW"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget>
+      <period-start iso-date="2011-09-01"/>
+      <period-end iso-date="2016-06-30"/>
+      <value value-date="2011-09-01" currency="GBP">1179906</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C"/>
+      <value value-date="2012-12-31">210270</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <value value-date="2012-12-31">185466</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <value value-date="2012-12-31">125570</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2013-03-28T18:04:16+00:00">
+    <reporting-org ref="NL-KVK-27264198" type="21" xml:lang="en">ActionAid International</reporting-org>
+    <iati-identifier>NL-KVK-27264198-1MAL-PJ-00043</iati-identifier>
+    <title>Kalondolondo/Community based project </title>
+    <description>The CSO and community based groups are involved in monitoring the public services using a scorecard in order to improve the efficiency and effectiveness of service delivery</description>
+    <activity-status code="2"/>
+    <participating-org role="Funding" type="10" ref="GB-1">DFID</participating-org>
+    <participating-org role="Accountable">Plan International</participating-org>
+    <participating-org role="Accountable">Congoma</participating-org>
+    <recipient-country code="MW"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget>
+      <period-start iso-date="2011-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2011-01-01" currency="GBP">2500000</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C"/>
+      <value value-date="2012-12-31">617262</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <value value-date="2012-12-31">284054</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <value value-date="2012-12-31">8396</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <value value-date="2012-12-31">617262</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

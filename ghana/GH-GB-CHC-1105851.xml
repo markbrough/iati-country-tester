@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-07-02T11:09:59" xml:lang="en">
+    <reporting-org ref="GB-CHC-1105851" type="INGO">Christian Aid</reporting-org>
+    <iati-identifier>GB-CHC-1105851-9PP00021227</iati-identifier>
+    <title>PPA Resilient Livelihoods</title>
+    <description>Ensure and promote food security for poor, marginalized and vulnerable women and men through off farm and on farm interventions in selected rural areas and enable them to sustain their livelihoods' conditions
+</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2014-03-01" type="end-planned"/>
+    <activity-date iso-date="2011-04-01" type="start-planned"/>
+    <participating-org ref="GB-1" role="Funding">DFID</participating-org>
+    <participating-org role="Extending"/>
+    <participating-org role="Implementing">0</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <transaction>
+      <value currency="GBP" value-date="2013-12-31">0</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-1105851" type="21">Christian Aid</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2012-12-31">48375</value>
+    </transaction>
+    <description>Promoting sustained civic participation and public accountability in support of service delivery and poverty reduction efforts at the local level with focus on marginalised groups. These target groups include persons with disabilities (PWDs), petty traders, people living with HIV (PLHIV), the aged, youth, womenďžs group, smallholder farmers, artisans, community-based organisations
+
+Working to monitor the progress of, and increase access to, the Ghana School Feeding Programme (GSFP), National Health Insurance Scheme (NHIS), the District Assembly Common Fund, Capitation Grant and the Savannah Accelerated Development Authority (SADA), benefitting many school children and disabled people.
+Promoting sustained civic participation and public accountability in support of service delivery and poverty reduction efforts at the local level with focus on marginalised groups. These target groups include persons with disabilities (PWDs), petty traders, people living with HIV (PLHIV), the aged, youth, womenďžs group, smallholder farmers, artisans, community-based organisations. Working to monitor the progress of, and increase access to, the Ghana School Feeding Programme (GSFP), National Health Insurance Scheme (NHIS), the District Assembly Common Fund, Capitation Grant and the Savannah Accelerated Development Authority (SADA), benefitting many school children and disabled people.</description>
+    <iati-identifier>GB-CHC-1105851-9DF00531227</iati-identifier>
+    <title>Governance and Transparency Fund</title>
+    <activity-date iso-date="2013-07-31" type="end-planned">2013-07-31</activity-date>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <participating-org ref="GB-1" role="Funding" type="10">DFID</participating-org>
+    <activity-date iso-date="2008-08-01" type="start-planned">2008-08-01</activity-date>
+    <participating-org ref="GB-CHC-1105851" role="Extending" type="21">Christian Aid</participating-org>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org role="implementing">SEND; Institute for Democratic Governance</participating-org>
+    <transaction>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-12-31">6441</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-07-02T11:09:59" xml:lang="en">
+    <reporting-org ref="GB-CHC-1105851" type="INGO">Christian Aid</reporting-org>
+    <iati-identifier>GB-CHC-1105851-9DF00681227</iati-identifier>
+    <title>Enhancing Community Resilience Programme (ECRP)</title>
+    <description>ECRP aims to strengthen the resilience of vulnerable communities in Malawi, due to climate change related effects like floods, droughts and changing weather conditions. This is in line with the Hyogo framework for action to reduce the losses and increasing resilience. ECRP is a consortium headed by Christian Aid, and works together with CARE and Action Aid, while 11 NGOs are implementing the work on the ground in 7 of the most vulnerable districts in Malawi. It aims to reach 305.000 community members directly through interventions like Disaster Risk Management, Village Savings and Loans, Conservation Agriculture, Irrigation, Post Harvest Management, Seed systems management, watershed management, agro-forestry, livestock and low carbon technologies (solar power and fuel efficient stoves).</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2016-06-30" type="end-planned"/>
+    <activity-date iso-date="2011-09-01" type="start-planned"/>
+    <participating-org ref="GB-1" role="Funding">DFID</participating-org>
+    <participating-org role="Extending"/>
+    <participating-org role="Implementing">0</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <transaction>
+      <value currency="GBP" value-date="2013-12-31">0</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-07-02T11:09:59" xml:lang="en">
+    <reporting-org ref="GB-CHC-1105851" type="INGO">Christian Aid</reporting-org>
+    <iati-identifier>GB-CHC-1105851-9DF02081227</iati-identifier>
+    <title>UK Aid Match</title>
+    <description>0</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2015-03-31" type="end-planned"/>
+    <activity-date iso-date="2012-04-01" type="start-planned"/>
+    <participating-org ref="GB-1" role="Funding">DFID</participating-org>
+    <participating-org role="Extending"/>
+    <participating-org role="Implementing">0</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <transaction>
+      <value currency="GBP" value-date="2013-12-31">1135.76</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-1105851" type="21">Christian Aid</reporting-org>
+    <transaction>
+      <transaction-date iso-date=""/>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="">31228</value>
+    </transaction>
+    <description>To contribute to the achievement of improved livelihoods of some of the poorest and most marginalised people as part of resilient and thriving societies in nine DFID priority countries</description>
+    <iati-identifier>GB-CHC-1105851-5DDF02081227</iati-identifier>
+    <title>UK Aid Match</title>
+    <activity-date iso-date="2015-03-31" type="end-planned">2015-03-31</activity-date>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <participating-org ref="GB-1" role="Funding" type="10">DFID</participating-org>
+    <activity-date iso-date="2012-04-01" type="start-planned">2012-04-01</activity-date>
+    <participating-org ref="GB-CHC-1105851" role="Extending" type="21">Christian Aid</participating-org>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org role="implementing">Youth Harvest Foundation Ghana; Northern Presbytery Agricultural Services; Voluntary Services Overseas Ghana; Friends of the Earth-Ghana</participating-org>
+    <transaction>
+      <transaction-date iso-date=""/>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="">0</value>
+    </transaction>
+  </iati-activity>
+</iati-activities>

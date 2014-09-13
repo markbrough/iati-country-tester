@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-03-05T12:50:10" xml:lang="en">
+    <reporting-org ref="GB-COH-03788027" type="70">Triple Line &amp; Crown Agents (Joint Venture)</reporting-org>
+    <iati-identifier>GB-COH-03788027-CSCF-501</iati-identifier>
+    <title>CSCF Grant</title>
+    <description>Disbursements to CSCF grantees</description>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-1" role="Funding" type="10">Department for International Development</participating-org>
+    <participating-org ref="GB-COH-03788027" role="Extending" type="70">Triple Line &amp; Crown Agents (Joint Venture)</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector>Social Inclusion</sector>
+    <transaction>
+      <description>Apr-Jun'12</description>
+      <receiver-org receiver-activity-id="CSCF-501">WOMANKIND Worldwide</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-501" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-05-15">32740.25</value>
+      <transaction-date iso-date="2012-05-01">01/05/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-501" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-05-11">32740.25</value>
+      <transaction-date iso-date="2012-05-01">01/05/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Jul-Sep'12</description>
+      <receiver-org receiver-activity-id="CSCF-501">WOMANKIND Worldwide</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-501" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-08-16">50459.27</value>
+      <transaction-date iso-date="2012-07-31">31/07/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-501" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-08-14">50459.27</value>
+      <transaction-date iso-date="2012-07-31">31/07/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Oct-Dec'12</description>
+      <receiver-org receiver-activity-id="CSCF-501">WOMANKIND Worldwide</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-501" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-11-15">40325.03</value>
+      <transaction-date iso-date="2012-10-31">31/10/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-501" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-11-13">40325.03</value>
+      <transaction-date iso-date="2012-10-31">31/10/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Jan-Mar'13</description>
+      <receiver-org receiver-activity-id="CSCF-501">WOMANKIND Worldwide</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-501" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2013-02-21">29785.97</value>
+      <transaction-date iso-date="2013-02-11">11/02/2013</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-501" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2013-02-19">29785.97</value>
+      <transaction-date iso-date="2013-02-11">11/02/2013</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-03-05T12:50:10" xml:lang="en">
+    <reporting-org ref="GB-COH-03788027" type="70">Triple Line &amp; Crown Agents (Joint Venture)</reporting-org>
+    <iati-identifier>GB-COH-03788027-CSCF-541</iati-identifier>
+    <title>CSCF Grant</title>
+    <description>Disbursements to CSCF grantees</description>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-1" role="Funding" type="10">Department for International Development</participating-org>
+    <participating-org ref="GB-COH-03788027" role="Extending" type="70">Triple Line &amp; Crown Agents (Joint Venture)</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector>Health</sector>
+    <transaction>
+      <description>Jan-Mar'12</description>
+      <receiver-org receiver-activity-id="GB-CHC-1079599-BN-2011-GH-DFID-541">Basic Needs </receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-541" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-06-14">30170</value>
+      <transaction-date iso-date="2012-05-30">30/05/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-541" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-06-12">30170</value>
+      <transaction-date iso-date="2012-05-30">30/05/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Apr-Jun'12</description>
+      <receiver-org receiver-activity-id="GB-CHC-1079599-BN-2011-GH-DFID-541">BasicNeeds</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-541" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-09-17">21474</value>
+      <transaction-date iso-date="2012-08-31">31/08/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-541" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-09-13">21474</value>
+      <transaction-date iso-date="2012-08-31">31/08/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Jul-Sep'12</description>
+      <receiver-org receiver-activity-id="GB-CHC-1079599-BN-2011-GH-DFID-541">BasicNeeds</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-541" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-12-12">20067.15</value>
+      <transaction-date iso-date="2012-11-30">30/11/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-541" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-12-10">20067.15</value>
+      <transaction-date iso-date="2012-11-30">30/11/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Jul-Sep'12</description>
+      <receiver-org receiver-activity-id="GB-CHC-1079599-BN-2011-GH-DFID-541">BasicNeeds</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-541" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2013-01-18">9209.85</value>
+      <transaction-date iso-date="2012-12-27">27/12/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-541" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2013-01-16">9209.85</value>
+      <transaction-date iso-date="2012-12-27">27/12/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Oct-Dec'12</description>
+      <receiver-org receiver-activity-id="GB-CHC-1079599-BN-2011-GH-DFID-541">BasicNeeds</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-541" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2013-02-21">29225</value>
+      <transaction-date iso-date="2013-02-11">11/02/2013</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-541" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2013-02-19">29225</value>
+      <transaction-date iso-date="2013-02-11">11/02/2013</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-03-05T12:50:10" xml:lang="en">
+    <reporting-org ref="GB-COH-03788027" type="70">Triple Line &amp; Crown Agents (Joint Venture)</reporting-org>
+    <iati-identifier>GB-COH-03788027-CSCF-532</iati-identifier>
+    <title>CSCF Grant</title>
+    <description>Disbursements to CSCF grantees</description>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-1" role="Funding" type="10">Department for International Development</participating-org>
+    <participating-org ref="GB-COH-03788027" role="Extending" type="70">Triple Line &amp; Crown Agents (Joint Venture)</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector>Education</sector>
+    <transaction>
+      <description>Apr-Jun'12</description>
+      <receiver-org receiver-activity-id="gb-chc-1093624-eb2011-15">AfriKids</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-532" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-05-15">20256.97</value>
+      <transaction-date iso-date="2012-05-01">01/05/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-532" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-05-11">20256.97</value>
+      <transaction-date iso-date="2012-05-01">01/05/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Jul-Sep'12</description>
+      <receiver-org receiver-activity-id="gb-chc-1093624-eb2011-15">AfriKids</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-532" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-08-16">23015.01</value>
+      <transaction-date iso-date="2012-07-31">31/07/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-532" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-08-14">23015.01</value>
+      <transaction-date iso-date="2012-07-31">31/07/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Oct-Dec'12</description>
+      <receiver-org receiver-activity-id="gb-chc-1093624-eb2011-15">AfriKids</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-532" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-11-15">31184.57</value>
+      <transaction-date iso-date="2012-10-31">31/10/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-532" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-11-13">31184.57</value>
+      <transaction-date iso-date="2012-10-31">31/10/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Jan-Mar'13</description>
+      <receiver-org receiver-activity-id="gb-chc-1093624-eb2011-15">AfriKids</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF-532" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2013-02-21">19292.89</value>
+      <transaction-date iso-date="2013-02-11">11/02/2013</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-CSCF-532" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-CSCF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2013-02-19">19292.89</value>
+      <transaction-date iso-date="2013-02-11">11/02/2013</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-03-05T12:41:50" xml:lang="en">
+    <reporting-org ref="GB-COH-03788027" type="70">Triple Line &amp; Crown Agents (Joint Venture)</reporting-org>
+    <iati-identifier>GB-COH-03788027-GPAF-IMP-029</iati-identifier>
+    <title>GPAF Grant</title>
+    <description>Disbursements to GPAF grantees</description>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-1" role="Funding" type="10">Department for International Development</participating-org>
+    <participating-org ref="GB-COH-03788027" role="Extending" type="70">Triple Line &amp; Crown Agents (Joint Venture)</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector>Education</sector>
+    <transaction>
+      <description>Jan-Mar'12</description>
+      <receiver-org receiver-activity-id="GB-CHC-1029161-GPAF-IMP-029">Camfed International</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-GPAF-IMP-029" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-05-15">236341.76</value>
+      <transaction-date iso-date="2012-04-30">30/04/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-GPAF-IMP-029" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-GPAF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-11-05">236341.76</value>
+      <transaction-date iso-date="2012-04-30">30/04/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Apr-Jun'12</description>
+      <receiver-org receiver-activity-id="GB-CHC-1029161-GPAF-IMP-029">Camfed International</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-GPAF-IMP-029" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-10-08">129476.34</value>
+      <transaction-date iso-date="2012-07-30">30/07/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-GPAF-IMP-029" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-GPAF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-08-08">129476.34</value>
+      <transaction-date iso-date="2012-07-30">30/07/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Jul-Sep'12</description>
+      <receiver-org receiver-activity-id="GB-CHC-1029161-GPAF-IMP-029">Camfed International</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-GPAF-IMP-029" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-11-13">160257.54</value>
+      <transaction-date iso-date="2012-10-30">30/10/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-GPAF-IMP-029" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-GPAF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2012-09-11">160257.54</value>
+      <transaction-date iso-date="2012-10-30">30/10/2012</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Oct-Dec'12</description>
+      <receiver-org receiver-activity-id="GB-CHC-1029161-GPAF-IMP-029">Camfed International</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-GPAF-IMP-029" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2013-02-21">539565.08</value>
+      <transaction-date iso-date="2013-08-02">02/08/2013</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Internal transfer from central pool to specific activity.</description>
+      <receiver-org receiver-activity-id="GB-COH-03788027-GPAF-IMP-029" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</receiver-org>
+      <provider-org provider-activity-id="GB-COH-03788027-GPAF" ref="GB-COH-03788027">Triple Line &amp; Crown Agents (Joint Venture)</provider-org>
+      <value value-date="2013-02-19">539565.08</value>
+      <transaction-date iso-date="2013-08-02">02/08/2013</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

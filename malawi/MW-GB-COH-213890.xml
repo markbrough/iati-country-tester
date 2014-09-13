@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity version="1.000000000000000000" last-updated-datetime="2014-06-27T14:39:58+00:00" xml:lang="en" default-currency="GBP" hierarchy="1">
+    <iati-identifier>GB-COH-213890-1156-MW</iati-identifier>
+    <title xml:lang="en">Community Nutrition In Malawi</title>
+    <description type="1" xml:lang="en">The Government of Malawi through the Department of Nutrition, HIV and AIDS (DNHA) in the Office of the President and Cabinet (OPC) has received financing towards the cost of the Nutrition, HIV and AIDS Project (NHAP). The Nutrition Project aims at contributing to the reduction of child stunting, maternal and child anemia in Malawi by: (i) enhancing and scaling up maternal and child nutrition (SUN) service delivery at community level and (ii) strengthening sectoral policy and program development, management and coordination at central, district and community levels.</description>
+    <activity-status code="2" xml:lang="en">Implementation</activity-status>
+    <activity-date type="start-planned" xml:lang="en" iso-date="2014-02-12Z">12 Feb 2014</activity-date>
+    <activity-date type="end-planned" xml:lang="en" iso-date="2016-02-11Z">11 Feb 2016</activity-date>
+    <contact-info>
+      <organisation>Save the Children UK</organisation>
+      <telephone>+44 (0)20 7012 6400</telephone>
+      <email>supporter.care@savethechildren.org.uk</email>
+      <mailing-address>1 St. John's Lane, London EC1M 4AR, UK</mailing-address>
+    </contact-info>
+    <reporting-org ref="GB-COH-213890" type="21" xml:lang="en">Save The Children UK</reporting-org><participating-org role="Accountable" type="21" ref="GB-COH-213890">Save the Children UK</participating-org>
+    <participating-org role="Funding" type="40" xml:lang="en">World Bank</participating-org>
+    <participating-org role="Implementing" ref="GB-COH-213890" type="21" xml:lang="en">Save the Children UK</participating-org>
+    <recipient-country percentage="100" code="MW" xml:lang="en">Malawi</recipient-country>
+    <recipient-region percentage="100" code="-1" xml:lang="en">No matching ISO country code</recipient-region>
+    <collaboration-type code="3" xml:lang="en">Bilateral, core contributions to NGOs and other private bodies / PPPs</collaboration-type>
+    <default-flow-type code="10" xml:lang="en">ODA</default-flow-type>
+    <default-aid-type code="B03" xml:lang="en">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</default-aid-type>
+    <default-finance-type code="110" xml:lang="en">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-tied-status code="5" xml:lang="en">Untied</default-tied-status>
+    <budget type="1">
+      <period-start iso-date="2014-02-12Z">Total project value</period-start>
+      <period-end iso-date="2016-02-11Z">Total project value</period-end>
+      <value currency="GBP" value-date="2014-06-27Z">1073845</value>
+    </budget>
+    <sector vocabulary="RO" code="35" percentage="100" xml:lang="en">NU012 Maternal &amp; Newborn Nutrition</sector>
+  </iati-activity>
+  <iati-activity version="1.000000000000000000" last-updated-datetime="2014-06-27T14:39:58+00:00" xml:lang="en" default-currency="GBP" hierarchy="1">
+    <iati-identifier>GB-COH-213890-1053-MW</iati-identifier>
+    <title xml:lang="en">Malawi Climatic Shocks</title>
+    <description type="1" xml:lang="en">The aim of this project is to provide immediate life-saving essential agricultural inputs to ensure successful production in the approaching season by 5,500 food insecure households affected by climatic shocks in the previous season. This project will also provide, by May 2014, essential tailor made training packages that would ensure successful crop production and enable the targeted 5,500 farming households to better cope with future shocks associated with floods or drought.</description>
+    <activity-status code="2" xml:lang="en">Implementation</activity-status>
+    <activity-date type="start-planned" xml:lang="en" iso-date="2013-11-01Z">01 Nov 2013</activity-date>
+    <activity-date type="end-planned" xml:lang="en" iso-date="2014-04-30Z">30 Apr 2014</activity-date>
+    <contact-info>
+      <organisation>Save the Children UK</organisation>
+      <telephone>+44 (0)20 7012 6400</telephone>
+      <email>supporter.care@savethechildren.org.uk</email>
+      <mailing-address>1 St. John's Lane, London EC1M 4AR, UK</mailing-address>
+    </contact-info>
+    <reporting-org ref="GB-COH-213890" type="21" xml:lang="en">Save The Children UK</reporting-org><participating-org role="Accountable" type="21" ref="GB-COH-213890">Save the Children UK</participating-org>
+    <participating-org role="Funding" type="40" xml:lang="en">UN Food &amp; Agricultural Organisation (FAO)</participating-org>
+    <participating-org role="Implementing" ref="GB-COH-213890" type="21" xml:lang="en">Save the Children UK</participating-org>
+    <recipient-country percentage="100" code="MW" xml:lang="en">Malawi</recipient-country>
+    <recipient-region percentage="100" code="-1" xml:lang="en">No matching ISO country code</recipient-region>
+    <collaboration-type code="3" xml:lang="en">Bilateral, core contributions to NGOs and other private bodies / PPPs</collaboration-type>
+    <default-flow-type code="10" xml:lang="en">ODA</default-flow-type>
+    <default-aid-type code="B03" xml:lang="en">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</default-aid-type>
+    <default-finance-type code="110" xml:lang="en">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-tied-status code="5" xml:lang="en">Untied</default-tied-status>
+    <budget type="1">
+      <period-start iso-date="2013-11-01Z">Total project value</period-start>
+      <period-end iso-date="2014-04-30Z">Total project value</period-end>
+      <value currency="GBP" value-date="2014-06-27Z">167181</value>
+    </budget>
+    <transaction>
+      <value currency="GBP" value-date="2014-03-31Z">17444</value>
+      <transaction-type code="E" xml:lang="en">Expenditure</transaction-type>
+      <transaction-date iso-date="2014-03-31Z"/>
+      <flow-type code="10" xml:lang="en">ODA</flow-type>
+      <aid-type code="B03" xml:lang="en">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110" xml:lang="en">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="5" xml:lang="en">Untied</tied-status>
+      <disbursement-channel code="2" xml:lang="en">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction>
+      <value currency="GBP" value-date="2014-03-31Z">38480</value>
+      <transaction-type code="IF" xml:lang="en">Incoming Funds</transaction-type><provider-org>UN Food &amp; Agricultural Organisation (FAO)</provider-org>
+      <transaction-date iso-date="2014-03-31Z"/>
+      <flow-type code="10" xml:lang="en">ODA</flow-type>
+      <aid-type code="B03" xml:lang="en">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110" xml:lang="en">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="5" xml:lang="en">Untied</tied-status>
+      <disbursement-channel code="2" xml:lang="en">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <sector vocabulary="RO" code="37" percentage="100" xml:lang="en">NU014 Other Nutrition</sector>
+  </iati-activity>
+  <iati-activity version="1.000000000000000000" last-updated-datetime="2014-06-27T14:39:58+00:00" xml:lang="en" default-currency="GBP" hierarchy="1">
+    <iati-identifier>GB-COH-213890-8952-MW</iati-identifier>
+    <title xml:lang="en">Humanitarian Assistance and Resilience</title>
+    <description type="1" xml:lang="en">The aim of this project is to support the affected vulnerable individuals to protect them against hunger, malnutrition and use of negative coping strategies. The proposed project seeks to improve lives, reduce suffering, and build resilience of drought affected households, food insecure vulnerable households to cope by facilitating access to financial assistance and improving their resilience to future shocks and disasters. The project will implement economic recovery interventions such as financial assistance, market linkage, and financial services, to address immediate food needs and at the same time build the capacity of the vulnerable community members to withstand shocks and disasters.</description>
+    <activity-status code="2" xml:lang="en">Implementation</activity-status>
+    <activity-date type="start-planned" xml:lang="en" iso-date="2013-10-01Z">01 Oct 2013</activity-date>
+    <activity-date type="end-planned" xml:lang="en" iso-date="2014-06-30Z">30 Jun 2014</activity-date>
+    <contact-info>
+      <organisation>Save the Children UK</organisation>
+      <telephone>+44 (0)20 7012 6400</telephone>
+      <email>supporter.care@savethechildren.org.uk</email>
+      <mailing-address>1 St. John's Lane, London EC1M 4AR, UK</mailing-address>
+    </contact-info>
+    <reporting-org ref="GB-COH-213890" type="21" xml:lang="en">Save The Children UK</reporting-org><participating-org role="Accountable" type="21" ref="GB-COH-213890">Save the Children UK</participating-org>
+    <participating-org ref="GB-1" role="Funding" type="10" xml:lang="en">Department for International Development (DfID)</participating-org>
+    <participating-org role="Implementing" ref="GB-COH-213890" type="21" xml:lang="en">Save the Children UK</participating-org>
+    <recipient-country percentage="100" code="MW" xml:lang="en">Malawi</recipient-country>
+    <recipient-region percentage="100" code="-1" xml:lang="en">No matching ISO country code</recipient-region>
+    <collaboration-type code="3" xml:lang="en">Bilateral, core contributions to NGOs and other private bodies / PPPs</collaboration-type>
+    <default-flow-type code="10" xml:lang="en">ODA</default-flow-type>
+    <default-aid-type code="B03" xml:lang="en">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</default-aid-type>
+    <default-finance-type code="110" xml:lang="en">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-tied-status code="5" xml:lang="en">Untied</default-tied-status>
+    <budget type="1">
+      <period-start iso-date="2013-10-01Z">Total project value</period-start>
+      <period-end iso-date="2014-06-30Z">Total project value</period-end>
+      <value currency="GBP" value-date="2014-06-27Z">2500000</value>
+    </budget>
+    <transaction>
+      <value currency="GBP" value-date="2014-03-31Z">1028919</value>
+      <transaction-type code="IF" xml:lang="en">Incoming Funds</transaction-type><provider-org ref="GB-1" provider-activity-id="">Department for International Development (DfID)</provider-org>
+      <transaction-date iso-date="2014-03-31Z"/>
+      <flow-type code="10" xml:lang="en">ODA</flow-type>
+      <aid-type code="B03" xml:lang="en">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110" xml:lang="en">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="5" xml:lang="en">Untied</tied-status>
+      <disbursement-channel code="2" xml:lang="en">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction>
+      <value currency="GBP" value-date="2013-12-31Z">838668</value>
+      <transaction-type code="E" xml:lang="en">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-12-31Z"/>
+      <flow-type code="10" xml:lang="en">ODA</flow-type>
+      <aid-type code="B03" xml:lang="en">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110" xml:lang="en">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="5" xml:lang="en">Untied</tied-status>
+      <disbursement-channel code="2" xml:lang="en">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction>
+      <value currency="GBP" value-date="2013-12-31Z">1464320</value>
+      <transaction-type code="IF" xml:lang="en">Incoming Funds</transaction-type><provider-org ref="GB-1" provider-activity-id="">Department for International Development (DfID)</provider-org>
+      <transaction-date iso-date="2013-12-31Z"/>
+      <flow-type code="10" xml:lang="en">ODA</flow-type>
+      <aid-type code="B03" xml:lang="en">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110" xml:lang="en">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="5" xml:lang="en">Untied</tied-status>
+      <disbursement-channel code="2" xml:lang="en">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction>
+      <value currency="GBP" value-date="2014-03-31Z">1260544</value>
+      <transaction-type code="E" xml:lang="en">Expenditure</transaction-type>
+      <transaction-date iso-date="2014-03-31Z"/>
+      <flow-type code="10" xml:lang="en">ODA</flow-type>
+      <aid-type code="B03" xml:lang="en">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110" xml:lang="en">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="5" xml:lang="en">Untied</tied-status>
+      <disbursement-channel code="2" xml:lang="en">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <sector vocabulary="RO" code="15" percentage="100" xml:lang="en">EM028 General Relief/Emergency Management</sector>
+  </iati-activity>
+</iati-activities>

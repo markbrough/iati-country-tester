@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-08-11T10:57:22+00:00">
+    <reporting-org ref="GB-CHC-1071886" type="21" xml:lang="en">TB Alert</reporting-org>
+    <iati-identifier>GB-CHC-1071886-GPAF-INN-040</iati-identifier>
+    <title>Empowering Communities for Early TB Case Detection and treatment among poor people in Mulanje District Malawi</title>
+    <description>The project aims to increase the number of people being tested and successfully treated for TB. This is through increasing the public's knowledge of TB through awareness raising activities; improving testing at local health centres through training of microscopists; improving treatment success rates by providing support/counselling to patients and their families and through supporting nutrition and veg garden projects. </description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2014-04-01"/>
+    <activity-date type="end-planned" iso-date="2017-03-31"/>
+    <contact-info type="Organisation contact">
+      <organisation>TB Alert</organisation>
+      <mailing-address>TB Alert, Community Base&#13;
+113 Queens Road&#13;
+Brighton&#13;
+BN1 3XG</mailing-address>
+      <website>www.tbalert.org</website>
+    </contact-info>
+    <participating-org type="10" role="Funding" ref="GB-1">DFID</participating-org>
+    <participating-org type="21" role="Implementing">TB Alert</participating-org>
+    <participating-org type="22" role="Implementing">DAPP, Malawi</participating-org>
+    <recipient-country code="MW" percentage="100"/>
+    <sector code="22" percentage="100"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="C01"/>
+    <budget type="1">
+      <period-start iso-date="2014-04-01">Year 1 start date</period-start>
+      <period-end iso-date="2015-03-31">Year 1 end date</period-end>
+      <value value-date="2014-04-01">85454</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C">Total amount from DFID for GPAF grant</transaction-type>
+      <provider-org ref="GB-1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1071886">TB Alert</receiver-org>
+      <value value-date="2014-04-01">250000</value>
+      <description>Total amount from DFID for GPAF grant</description>
+      <transaction-date iso-date="2014-04-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org ref="GB-CHC-1071886">TB Alert</provider-org>
+      <receiver-org>DAPP, Malawi</receiver-org>
+      <value value-date="2014-04-01">29799.93</value>
+      <description>Quarter 1 funds to DAPP</description>
+      <transaction-date iso-date="2014-04-01">Quarter 1 funds to DAPP</transaction-date>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Quarter 1 UK costs and International technical support visit</transaction-type>
+      <provider-org ref="GB-1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1071886">TB Alert</receiver-org>
+      <value value-date="2014-04-01">2422.31</value>
+      <description>Quarter 1 UK costs and International technical support visit</description>
+      <transaction-date iso-date="2014-04-01">Quarter 1 UK costs and International technical support visit</transaction-date>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Quarter 1 funds to TB Alert - paid in arrears</transaction-type>
+      <provider-org ref="GB-1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1071886">TB Alert</receiver-org>
+      <value value-date="2014-07-01">0.01</value>
+      <description>Quarter 1 funds to TB Alert - paid in arrears</description>
+      <transaction-date iso-date="2014-07-01">Quarter 1 funds to TB Alert - paid in arrears</transaction-date>
+    </transaction>
+    <document-link url="http://www.aidstream.org/files/documents/GPAF CP1 proposal form_INN-05-CN-1039.doc" format="application/msword">
+      <language>en</language>
+      <category code="A02">Original project proposal</category>
+      <title>GPAF project proposal</title>
+    </document-link>
+    <document-link url="http://www.aidstream.org/files/documents/IATI implementation schedule_best practice DAPP.xls" format="application/vnd.ms-excel">
+      <language>en</language>
+      <category code="A04">TB Alert was required to complete an Implementation Plan as part of the Conditions of the Grant Agreement</category>
+      <title>Implementation Plan</title>
+    </document-link>
+    <activity-website>http://www.tbalert.org</activity-website>
+  </iati-activity>
+</iati-activities>

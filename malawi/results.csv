@@ -1,0 +1,232 @@
+filename,test,success,fail,percentage
+data/MW-XM-DAC-21-1.xml,1 - Pipeline/identification projects,0,22,0.0
+data/MW-XM-DAC-21-1.xml,1 - Economic classification,0,22,0.0
+data/MW-XM-DAC-21-1.xml,1 - Functional/administrative classification,0,22,0.0
+data/MW-XM-DAC-21-1.xml,2 - Results,0,22,0.0
+data/MW-XM-DAC-21-1.xml,2 - Evaluations,0,0,0.0
+data/MW-XM-DAC-21-1.xml,3 - Fwd budgets,0,0,0.0
+data/MW-XM-DAC-21-1.xml,3 - Conditionality,0,22,0.0
+data/MW-XM-DAC-21-1.xml,4 - Disbursement channel,0,22,0.0
+data/MW-XM-DAC-21-1.xml,4 - Type of implementing org,0,22,0.0
+data/MW-XM-DAC-21-1.xml,5 - Sector,22,0,100.0
+data/MW-XM-DAC-21-1.xml,5 - Sub-national location,0,22,0.0
+data/MW-FI-3.xml,1 - Pipeline/identification projects,0,31,0.0
+data/MW-FI-3.xml,1 - Economic classification,0,31,0.0
+data/MW-FI-3.xml,1 - Functional/administrative classification,0,31,0.0
+data/MW-FI-3.xml,2 - Results,0,31,0.0
+data/MW-FI-3.xml,2 - Evaluations,0,17,0.0
+data/MW-FI-3.xml,3 - Fwd budgets,0,1,0.0
+data/MW-FI-3.xml,3 - Conditionality,0,31,0.0
+data/MW-FI-3.xml,4 - Disbursement channel,17,14,54.83870967741935
+data/MW-FI-3.xml,4 - Type of implementing org,0,31,0.0
+data/MW-FI-3.xml,5 - Sector,31,0,100.0
+data/MW-FI-3.xml,5 - Sub-national location,0,31,0.0
+data/MW-GB-1.xml,1 - Pipeline/identification projects,5,314,1.5673981191222568
+data/MW-GB-1.xml,1 - Economic classification,229,75,75.32894736842105
+data/MW-GB-1.xml,1 - Functional/administrative classification,202,102,66.44736842105263
+data/MW-GB-1.xml,2 - Results,0,314,0.0
+data/MW-GB-1.xml,2 - Evaluations,3,184,1.6042780748663104
+data/MW-GB-1.xml,3 - Fwd budgets,70,29,70.70707070707071
+data/MW-GB-1.xml,3 - Conditionality,75,239,23.88535031847134
+data/MW-GB-1.xml,4 - Disbursement channel,0,314,0.0
+data/MW-GB-1.xml,4 - Type of implementing org,0,314,0.0
+data/MW-GB-1.xml,5 - Sector,242,77,75.86206896551724
+data/MW-GB-1.xml,5 - Sub-national location,7,307,2.229299363057325
+data/MW-XM-DAC-701-8.xml,1 - Pipeline/identification projects,0,190,0.0
+data/MW-XM-DAC-701-8.xml,1 - Economic classification,0,190,0.0
+data/MW-XM-DAC-701-8.xml,1 - Functional/administrative classification,0,190,0.0
+data/MW-XM-DAC-701-8.xml,2 - Results,0,190,0.0
+data/MW-XM-DAC-701-8.xml,2 - Evaluations,0,3,0.0
+data/MW-XM-DAC-701-8.xml,3 - Fwd budgets,0,184,0.0
+data/MW-XM-DAC-701-8.xml,3 - Conditionality,0,190,0.0
+data/MW-XM-DAC-701-8.xml,4 - Disbursement channel,0,190,0.0
+data/MW-XM-DAC-701-8.xml,4 - Type of implementing org,0,190,0.0
+data/MW-XM-DAC-701-8.xml,5 - Sector,190,0,100.0
+data/MW-XM-DAC-701-8.xml,5 - Sub-national location,0,190,0.0
+data/MW-CA-3.xml,1 - Pipeline/identification projects,0,70,0.0
+data/MW-CA-3.xml,1 - Economic classification,0,70,0.0
+data/MW-CA-3.xml,1 - Functional/administrative classification,0,70,0.0
+data/MW-CA-3.xml,2 - Results,47,23,67.14285714285714
+data/MW-CA-3.xml,2 - Evaluations,0,43,0.0
+data/MW-CA-3.xml,3 - Fwd budgets,12,2,85.71428571428571
+data/MW-CA-3.xml,3 - Conditionality,70,0,100.0
+data/MW-CA-3.xml,4 - Disbursement channel,0,70,0.0
+data/MW-CA-3.xml,4 - Type of implementing org,70,0,100.0
+data/MW-CA-3.xml,5 - Sector,70,0,100.0
+data/MW-CA-3.xml,5 - Sub-national location,3,67,4.285714285714286
+data/MW-DE-1.xml,1 - Pipeline/identification projects,1,29,3.3333333333333335
+data/MW-DE-1.xml,1 - Economic classification,0,29,0.0
+data/MW-DE-1.xml,1 - Functional/administrative classification,0,29,0.0
+data/MW-DE-1.xml,2 - Results,0,29,0.0
+data/MW-DE-1.xml,2 - Evaluations,0,0,0.0
+data/MW-DE-1.xml,3 - Fwd budgets,0,29,0.0
+data/MW-DE-1.xml,3 - Conditionality,1,28,3.4482758620689653
+data/MW-DE-1.xml,4 - Disbursement channel,0,29,0.0
+data/MW-DE-1.xml,4 - Type of implementing org,0,29,0.0
+data/MW-DE-1.xml,5 - Sector,30,0,100.0
+data/MW-DE-1.xml,5 - Sub-national location,0,29,0.0
+data/MW-ES-5.xml,1 - Pipeline/identification projects,0,32,0.0
+data/MW-ES-5.xml,1 - Economic classification,0,32,0.0
+data/MW-ES-5.xml,1 - Functional/administrative classification,0,32,0.0
+data/MW-ES-5.xml,2 - Results,0,32,0.0
+data/MW-ES-5.xml,2 - Evaluations,0,32,0.0
+data/MW-ES-5.xml,3 - Fwd budgets,0,0,0.0
+data/MW-ES-5.xml,3 - Conditionality,0,32,0.0
+data/MW-ES-5.xml,4 - Disbursement channel,0,32,0.0
+data/MW-ES-5.xml,4 - Type of implementing org,0,32,0.0
+data/MW-ES-5.xml,5 - Sector,32,0,100.0
+data/MW-ES-5.xml,5 - Sub-national location,0,32,0.0
+data/MW-DK-1.xml,1 - Pipeline/identification projects,0,156,0.0
+data/MW-DK-1.xml,1 - Economic classification,0,156,0.0
+data/MW-DK-1.xml,1 - Functional/administrative classification,0,156,0.0
+data/MW-DK-1.xml,2 - Results,0,156,0.0
+data/MW-DK-1.xml,2 - Evaluations,0,156,0.0
+data/MW-DK-1.xml,3 - Fwd budgets,0,7,0.0
+data/MW-DK-1.xml,3 - Conditionality,0,156,0.0
+data/MW-DK-1.xml,4 - Disbursement channel,8,148,5.128205128205128
+data/MW-DK-1.xml,4 - Type of implementing org,8,148,5.128205128205128
+data/MW-DK-1.xml,5 - Sector,148,8,94.87179487179486
+data/MW-DK-1.xml,5 - Sub-national location,0,156,0.0
+data/MW-US.xml,1 - Pipeline/identification projects,0,2387,0.0
+data/MW-US.xml,1 - Economic classification,0,2387,0.0
+data/MW-US.xml,1 - Functional/administrative classification,0,2387,0.0
+data/MW-US.xml,2 - Results,0,2387,0.0
+data/MW-US.xml,2 - Evaluations,0,2387,0.0
+data/MW-US.xml,3 - Fwd budgets,0,1318,0.0
+data/MW-US.xml,3 - Conditionality,0,2387,0.0
+data/MW-US.xml,4 - Disbursement channel,2359,28,98.82697947214076
+data/MW-US.xml,4 - Type of implementing org,0,2387,0.0
+data/MW-US.xml,5 - Sector,0,2387,0.0
+data/MW-US.xml,5 - Sub-national location,2367,20,99.16212819438626
+data/MW-AU-5.xml,1 - Pipeline/identification projects,0,37,0.0
+data/MW-AU-5.xml,1 - Economic classification,0,0,0.0
+data/MW-AU-5.xml,1 - Functional/administrative classification,0,0,0.0
+data/MW-AU-5.xml,2 - Results,0,37,0.0
+data/MW-AU-5.xml,2 - Evaluations,0,16,0.0
+data/MW-AU-5.xml,3 - Fwd budgets,0,21,0.0
+data/MW-AU-5.xml,3 - Conditionality,0,37,0.0
+data/MW-AU-5.xml,4 - Disbursement channel,0,37,0.0
+data/MW-AU-5.xml,4 - Type of implementing org,0,37,0.0
+data/MW-AU-5.xml,5 - Sector,37,0,100.0
+data/MW-AU-5.xml,5 - Sub-national location,0,37,0.0
+data/MW-SE-0.xml,1 - Pipeline/identification projects,0,228,0.0
+data/MW-SE-0.xml,1 - Economic classification,0,228,0.0
+data/MW-SE-0.xml,1 - Functional/administrative classification,124,104,54.385964912280706
+data/MW-SE-0.xml,2 - Results,0,228,0.0
+data/MW-SE-0.xml,2 - Evaluations,0,198,0.0
+data/MW-SE-0.xml,3 - Fwd budgets,1,2,33.33333333333333
+data/MW-SE-0.xml,3 - Conditionality,228,0,100.0
+data/MW-SE-0.xml,4 - Disbursement channel,0,228,0.0
+data/MW-SE-0.xml,4 - Type of implementing org,227,1,99.56140350877193
+data/MW-SE-0.xml,5 - Sector,215,13,94.2982456140351
+data/MW-SE-0.xml,5 - Sub-national location,0,228,0.0
+data/MW-EU.xml,1 - Pipeline/identification projects,2,122,1.6129032258064515
+data/MW-EU.xml,1 - Economic classification,0,110,0.0
+data/MW-EU.xml,1 - Functional/administrative classification,0,110,0.0
+data/MW-EU.xml,2 - Results,0,122,0.0
+data/MW-EU.xml,2 - Evaluations,0,51,0.0
+data/MW-EU.xml,3 - Fwd budgets,38,0,100.0
+data/MW-EU.xml,3 - Conditionality,0,122,0.0
+data/MW-EU.xml,4 - Disbursement channel,0,122,0.0
+data/MW-EU.xml,4 - Type of implementing org,0,122,0.0
+data/MW-EU.xml,5 - Sector,124,0,100.0
+data/MW-EU.xml,5 - Sub-national location,65,57,53.278688524590166
+data/MW-41119.xml,1 - Pipeline/identification projects,0,54,0.0
+data/MW-41119.xml,1 - Economic classification,0,54,0.0
+data/MW-41119.xml,1 - Functional/administrative classification,0,54,0.0
+data/MW-41119.xml,2 - Results,12,42,22.22222222222222
+data/MW-41119.xml,2 - Evaluations,0,0,0.0
+data/MW-41119.xml,3 - Fwd budgets,0,0,0.0
+data/MW-41119.xml,3 - Conditionality,15,39,27.77777777777778
+data/MW-41119.xml,4 - Disbursement channel,37,17,68.51851851851852
+data/MW-41119.xml,4 - Type of implementing org,37,17,68.51851851851852
+data/MW-41119.xml,5 - Sector,31,23,57.407407407407405
+data/MW-41119.xml,5 - Sub-national location,2,52,3.7037037037037033
+data/MW-41114.xml,1 - Pipeline/identification projects,0,69,0.0
+data/MW-41114.xml,1 - Economic classification,0,69,0.0
+data/MW-41114.xml,1 - Functional/administrative classification,23,46,33.33333333333333
+data/MW-41114.xml,2 - Results,0,69,0.0
+data/MW-41114.xml,2 - Evaluations,0,37,0.0
+data/MW-41114.xml,3 - Fwd budgets,35,6,85.36585365853658
+data/MW-41114.xml,3 - Conditionality,34,35,49.275362318840585
+data/MW-41114.xml,4 - Disbursement channel,35,34,50.72463768115942
+data/MW-41114.xml,4 - Type of implementing org,34,35,49.275362318840585
+data/MW-41114.xml,5 - Sector,35,34,50.72463768115942
+data/MW-41114.xml,5 - Sub-national location,34,35,49.275362318840585
+data/MW-47045.xml,1 - Pipeline/identification projects,0,11,0.0
+data/MW-47045.xml,1 - Economic classification,0,11,0.0
+data/MW-47045.xml,1 - Functional/administrative classification,0,11,0.0
+data/MW-47045.xml,2 - Results,9,2,81.81818181818183
+data/MW-47045.xml,2 - Evaluations,5,0,100.0
+data/MW-47045.xml,3 - Fwd budgets,0,2,0.0
+data/MW-47045.xml,3 - Conditionality,11,0,100.0
+data/MW-47045.xml,4 - Disbursement channel,11,0,100.0
+data/MW-47045.xml,4 - Type of implementing org,11,0,100.0
+data/MW-47045.xml,5 - Sector,11,0,100.0
+data/MW-47045.xml,5 - Sub-national location,0,11,0.0
+data/MW-46002.xml,1 - Pipeline/identification projects,0,94,0.0
+data/MW-46002.xml,1 - Economic classification,0,84,0.0
+data/MW-46002.xml,1 - Functional/administrative classification,0,84,0.0
+data/MW-46002.xml,2 - Results,0,94,0.0
+data/MW-46002.xml,2 - Evaluations,1,81,1.2195121951219512
+data/MW-46002.xml,3 - Fwd budgets,0,9,0.0
+data/MW-46002.xml,3 - Conditionality,93,1,98.93617021276596
+data/MW-46002.xml,4 - Disbursement channel,0,94,0.0
+data/MW-46002.xml,4 - Type of implementing org,68,26,72.3404255319149
+data/MW-46002.xml,5 - Sector,94,0,100.0
+data/MW-46002.xml,5 - Sub-national location,12,82,12.76595744680851
+data/MW-41122.xml,1 - Pipeline/identification projects,0,69,0.0
+data/MW-41122.xml,1 - Economic classification,0,69,0.0
+data/MW-41122.xml,1 - Functional/administrative classification,0,69,0.0
+data/MW-41122.xml,2 - Results,69,0,100.0
+data/MW-41122.xml,2 - Evaluations,0,0,0.0
+data/MW-41122.xml,3 - Fwd budgets,66,3,95.65217391304348
+data/MW-41122.xml,3 - Conditionality,69,0,100.0
+data/MW-41122.xml,4 - Disbursement channel,69,0,100.0
+data/MW-41122.xml,4 - Type of implementing org,0,69,0.0
+data/MW-41122.xml,5 - Sector,68,1,98.55072463768117
+data/MW-41122.xml,5 - Sub-national location,0,0,0.0
+data/MW-44000.xml,1 - Pipeline/identification projects,0,24,0.0
+data/MW-44000.xml,1 - Economic classification,0,23,0.0
+data/MW-44000.xml,1 - Functional/administrative classification,0,23,0.0
+data/MW-44000.xml,2 - Results,0,24,0.0
+data/MW-44000.xml,2 - Evaluations,6,0,100.0
+data/MW-44000.xml,3 - Fwd budgets,0,16,0.0
+data/MW-44000.xml,3 - Conditionality,20,4,83.33333333333334
+data/MW-44000.xml,4 - Disbursement channel,0,24,0.0
+data/MW-44000.xml,4 - Type of implementing org,0,24,0.0
+data/MW-44000.xml,5 - Sector,24,0,100.0
+data/MW-44000.xml,5 - Sub-national location,13,11,54.166666666666664
+data/MW-47122.xml,1 - Pipeline/identification projects,0,24,0.0
+data/MW-47122.xml,1 - Economic classification,24,0,100.0
+data/MW-47122.xml,1 - Functional/administrative classification,24,0,100.0
+data/MW-47122.xml,2 - Results,24,0,100.0
+data/MW-47122.xml,2 - Evaluations,16,0,100.0
+data/MW-47122.xml,3 - Fwd budgets,2,2,50.0
+data/MW-47122.xml,3 - Conditionality,24,0,100.0
+data/MW-47122.xml,4 - Disbursement channel,0,24,0.0
+data/MW-47122.xml,4 - Type of implementing org,24,0,100.0
+data/MW-47122.xml,5 - Sector,24,0,100.0
+data/MW-47122.xml,5 - Sub-national location,24,0,100.0
+data/MW-DAC-1601.xml,1 - Pipeline/identification projects,0,82,0.0
+data/MW-DAC-1601.xml,1 - Economic classification,0,82,0.0
+data/MW-DAC-1601.xml,1 - Functional/administrative classification,76,6,92.6829268292683
+data/MW-DAC-1601.xml,2 - Results,0,82,0.0
+data/MW-DAC-1601.xml,2 - Evaluations,0,38,0.0
+data/MW-DAC-1601.xml,3 - Fwd budgets,22,6,78.57142857142857
+data/MW-DAC-1601.xml,3 - Conditionality,0,82,0.0
+data/MW-DAC-1601.xml,4 - Disbursement channel,82,0,100.0
+data/MW-DAC-1601.xml,4 - Type of implementing org,0,82,0.0
+data/MW-DAC-1601.xml,5 - Sector,82,0,100.0
+data/MW-DAC-1601.xml,5 - Sub-national location,0,68,0.0
+data/MW-NL-1.xml,1 - Pipeline/identification projects,0,3,0.0
+data/MW-NL-1.xml,1 - Economic classification,0,3,0.0
+data/MW-NL-1.xml,1 - Functional/administrative classification,0,3,0.0
+data/MW-NL-1.xml,2 - Results,0,3,0.0
+data/MW-NL-1.xml,2 - Evaluations,0,2,0.0
+data/MW-NL-1.xml,3 - Fwd budgets,0,0,0.0
+data/MW-NL-1.xml,3 - Conditionality,0,3,0.0
+data/MW-NL-1.xml,4 - Disbursement channel,0,3,0.0
+data/MW-NL-1.xml,4 - Type of implementing org,3,0,100.0
+data/MW-NL-1.xml,5 - Sector,3,0,100.0
+data/MW-NL-1.xml,5 - Sub-national location,0,3,0.0

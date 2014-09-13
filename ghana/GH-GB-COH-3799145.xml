@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-03-12T10:51:34+00:00">
+    <reporting-org ref="GB-COH-3799145" type="70" xml:lang="en">Coffey International Development</reporting-org>
+    <iati-identifier>GB-COH-3799145-IDEVREAN09076GH</iati-identifier>
+    <title>Strengthening Transparency, Accountability and Responsiveness in Ghana (STAR-Ghana)</title>
+    <description>STAR-Ghana is a multi- donor pooled funding mechanism (Funded by DFID, DANIDA, EU and USAID) to increase the influence of civil society and Parliament in the governance of public goods and service delivery, with the ultimate goal of improving the accountability and responsiveness of Ghana’s government, traditional authorities and the private sector. </description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2010-11-01"/>
+    <activity-date type="end-planned" iso-date="2015-05-29"/>
+    <participating-org role="Implementing" ref="GB-COH-3799145">Coffey International Development </participating-org>
+    <participating-org role="Funding">GB-1 DFID</participating-org>
+    <participating-org role="Funding">GB-1 DFID</participating-org>
+    <participating-org role="Funding">USAID</participating-org>
+    <recipient-country code="GH"/>
+    <sector code="15150">To increase the influence of civil society and Parliament in the governance of public goods and service delivery.</sector>
+    <budget type="1">
+      <period-start iso-date="2013-05-01"/>
+      <period-end iso-date="2014-04-30">Year 3 budget</period-end>
+      <value value-date="2013-12-13">1107511.05</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Total cost for Marketing, promotion &amp; dissemination since the start of the project</transaction-type>
+      <value value-date="2013-12-13">40650.74</value>
+      <description>Total cost for Marketing, promotion &amp; dissemination since the start of the project</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Total consutlancy services from the start of the project</transaction-type>
+      <value value-date="2013-12-13">2561708.19</value>
+      <description>Consulting services from the start of the project</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Total international flights and transfers since start of project</transaction-type>
+      <value value-date="2013-12-13">83484.39</value>
+      <description>Total flights and transfers since the start of the budget</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Total per diems since start of project</transaction-type>
+      <value value-date="2013-12-13">97898.7</value>
+      <description>Total per diems since start of project</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Total Office Set up,  Rent, Equipment, Furniture and Bills since the start of the project&#13;
+</transaction-type>
+      <value value-date="2013-12-13">334577.51</value>
+      <description>Total Office Set up,  Rent, Equipment, Furniture and Bills since the start of the project&#13;
+</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Total Vehicle purchase, insurance, drivers and local travel costs since the start of the project&#13;
+</transaction-type>
+      <value value-date="2013-12-13">154026.93</value>
+      <description>Vehicle purchase, insurance, drivers and local travel&#13;
+</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Total adminstration costs from the start of the project</transaction-type>
+      <value value-date="2013-12-13">21396.02</value>
+      <description>Total adminstration costs from the start of the project</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Total training meeting and event costs since the start of the project</transaction-type>
+      <value value-date="2013-12-13">267284.18</value>
+      <description>Total training meeting and event costs since the start of the project.</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Total cost website development, maintenance, domain name and IT Support since the project started</transaction-type>
+      <value value-date="2013-12-13">26514.94</value>
+      <description>Total cost website development, maintenance, domain name and IT Support since the project started</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Total costs for Miscellaneous/Other provision since the start of the project</transaction-type>
+      <value value-date="2013-12-13">12429.81</value>
+      <description>Total costs for Miscellaneous/Other provision since the start of the project</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <value currency="USD" value-date="2011-04-29">2736666.65</value>
+      <description>Total disburements for Inception Phase (Novemeber 2010 - April 2011)</description>
+      <transaction-date iso-date="2011-04-29"/>
+      <disbursement-channel code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Year 1 May 2011 to April 2012</transaction-type>
+      <value currency="USD" value-date="2012-04-30">5729620.7</value>
+      <transaction-date iso-date="2012-04-30"/>
+      <disbursement-channel code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Year 2 May 2012 to April 2013</transaction-type>
+      <value currency="USD" value-date="2013-04-30">7573622.2</value>
+      <transaction-date iso-date="2013-04-30"/>
+      <disbursement-channel code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <value value-date="2013-10-31">5047512.39</value>
+      <description>Year 3 (to date) May 2013 to Ocotber 2013</description>
+      <transaction-date iso-date="2013-10-31"/>
+      <disbursement-channel code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1" provider-activity-id="GB-1-201590 ">DFID</provider-org>
+      <value value-date="2013-10-31">3309056.35</value>
+      <description>Total finds received since start of project</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <document-link url="http://www.aidstream.org/files/documents/IDEVREAN09076GH_Annual Report_V2_Final_Jul13.pdf">
+      <category code="B01"/>
+      <title>Annual Report V2</title>
+    </document-link>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity last-updated-datetime="2014-07-24T12:59:26" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-001202</iati-identifier>
+    <other-identifier>C-001202</other-identifier>
+    <participating-org role="Implementing">Evangelical presbyterian Development and  Relief Agency</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <title>EPDRA Extension 2012</title>
+    <description>Ghana realizes significant economic growth through expanding agric and industrial sectors and a services sector being the largest contributor to the country’s GDP (48%). On agriculture, the government continued with the modernization policies and programs, providing subsidized fertilizers, tractors and other farm equipment, setting minimum commodity prices for major cereals (having mixed effects). 
+
+The three northern regions still struggle with average poverty levels of 62% compared to a national rate of only 18%. ICCO has supported the ACDEP network and three of its member NGOs (agric stations) over the past years through the EU/ICCO funded FAMAR program that has been extended till the end of 2012. EPDRA is one of the member NGOs that also has been supported bilaterally. 
+
+This project is an extension year that aims at consolidation of past efforts. EPDRA will work with all 5715 farmers (42% women) and focus on strengthening the 308 primary level FBOs and 3 secondary FBOS to address key gaps that were identified during evaluations in 2011. It will also enable EPDRA to reorient themselves and develop a clear vision for the future.</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2012-01-01"/>
+    <activity-date type="start-actual" iso-date="2012-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Evangelical presbyterian Development and  Relief Agency</organisation>
+      <mailing-address>Yendi</mailing-address>
+    </contact-info>
+    <sector code="240" percentage="50" vocabulary="DAC-3">Banking and Financial Services</sector>
+    <sector code="250" percentage="50" vocabulary="DAC-3">Business, Trade and other related services</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2012-07-06" currency="EUR">70000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206002030">Evangelical presbyterian Development and  Relief Agency</receiver-org>
+      <transaction-date iso-date="2012-09-30">2012-09-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-09-30" currency="EUR">70000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:26" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-001203</iati-identifier>
+    <other-identifier>C-001203</other-identifier>
+    <participating-org role="Implementing">Northern Presbytery (PCG) Agric. Serv. Exec.  Board</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <title>PCG Extension 2012</title>
+    <description>Project background&gt;&gt; PCG-Tamale is one of three ACDEP members that received direct support from ICCO as part of the EU/ICCO funded FAMAR program (2008-2011).  The program aimed to contribute to poverty reduction through raising agricultural productivity, strengthening farmer-based organizations (FBOs) and expanding access to markets and financial services for smallholder producers. During this period PCG-Tamale managed six agricultural stations in northern Ghana, of which four were supported by ICCO and the FAMAR program and worked with 9418 farmers (53% women), 516 primary FBOs (of which 27% were registered) and four secondary FBOs. However, different evaluations of the program at the end of 2011 had revealed that some of the project objectives had not been achieved, especially in relation to strengthening the capacity of FBOs. 
+Project activities and outputs&gt;&gt; The aim of this follow up project is to provide additional support to selected farmers and FBOs and strengthen their capacity to act more autonomously within the value chain and to negotiate directly with other market actors, including buyers and rural banks. The extension period also aims to provide an opportunity for PCG-Tamale to reorient itself and find additional funding sources, hence reducing its dependence on ICCO. 
+</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2012-01-01"/>
+    <activity-date type="start-actual" iso-date="2012-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Northern Presbytery (PCG) Agric. Serv. Exec.  Board</organisation>
+      <mailing-address>Tamale</mailing-address>
+    </contact-info>
+    <sector code="240" percentage="30" vocabulary="DAC-3">Banking and Financial Services</sector>
+    <sector code="250" percentage="20" vocabulary="DAC-3">Business, Trade and other related services</sector>
+    <sector code="311" percentage="50" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2011-09-26" currency="EUR">120000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206004658">Northern Presbytery (PCG) Agric. Serv. Exec.  Board</receiver-org>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-12-31" currency="EUR">40000</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>WD General</provider-org>
+      <receiver-org ref="NL-KVK-41177206004658">Northern Presbytery (PCG) Agric. Serv. Exec.  Board</receiver-org>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-12-31" currency="EUR">80000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:26" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-001192</iati-identifier>
+    <other-identifier>C-001192</other-identifier>
+    <participating-org role="Implementing">Tumu Deanery Rural Integrated Development  Programme</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <title>TUDRIDEP Extension 2012</title>
+    <description>Project background&gt;&gt; This project builds on an earlier project implemented by Tumu Deanery Rural Integrated Development Programme (TUDRIDEP) in northern Ghana, one of three ACDEP members that received direct support from ICCO as part of the EU/ICCO funded FAMAR program (2008-2011). The program aimed to contribute to poverty reduction through raising agricultural productivity, strengthening farmer-based organizations (FBOs) and expanding access to markets and financial services for smallholder producers. During this period, TUDRIDEP managed two agricultural stations in Tumu and Funsi that provided support to 2146 farmers (37% women), 151 primary FBOs, of which 29% were registered, and three secondary FBOs. However, different evaluations of the program at the end of 2011 had revealed that some of the project objectives had not been achieved, especially in relation to strengthening the capacity of FBOs. 
+Project activities and outputs&gt;&gt; The aim of this follow up project is to provide additional support to selected farmers and FBOs and strengthen their capacity to act more autonomously within the value chain and to negotiate directly with other market actors, including buyers and rural banks. The extension period is also intended to provide an opportunity for TUDRIDEP to reorient itself and find additional funding sources, hence reducing its dependence on ICCO.</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2012-01-01"/>
+    <activity-date type="start-actual" iso-date="2012-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Tumu Deanery Rural Integrated Development  Programme</organisation>
+      <mailing-address>Tumu, Upper West Region</mailing-address>
+    </contact-info>
+    <sector code="250" percentage="50" vocabulary="DAC-3">Business, Trade and other related services</sector>
+    <sector code="311" percentage="50" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2012-06-27" currency="EUR">30000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206005041">Tumu Deanery Rural Integrated Development  Programme</receiver-org>
+      <transaction-date iso-date="2012-09-30">2012-09-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-09-30" currency="EUR">30000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:26" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-003301</iati-identifier>
+    <other-identifier>C-003301</other-identifier>
+    <participating-org role="Implementing">Northern Presbytery (PCG) Agric. Serv. Exec.  Board</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <title>Poverty reduction through shea-chain development</title>
+    <description>Poverty in northern Ghana is deepest among food crop farmers and traditional, small scale producers who prepare land manually. Majority of the region’s population depends on non timber forest products such as honey and shea nuts, plantation crops such as cashew and mangoes, as well as livestock rearing.
+
+In addition to engaging in agriculture, one of the strategies that northern Ghanaian women use to increase their income is the production of shea butter. It has been estimated that there over 900,000 shea pickers and processors exist in Ghana and more than 600,000 are in northern Ghana .They derive their incomes directly from the sale of nuts and shea butter. Shea has the potentially large and rapid impact on rural poverty and well being. 
+
+Shea nuts collection and processing is traditionally women’s activity and can provide an important off-farm source of income during the dry season. Women harvest the fallen fruit from trees growing in the wild, extract the butter using time-consuming manual methods and yield a valuable vegetable fat that is traditionally used as cooking oil, a healing ointment and skin cream. Women also sell the nuts and the butter in local markets to obtain cash for education, health care or to purchase more shea nuts when prices are favourable. The process, from harvest to sale is labour intensive and yields inconsistent returns. The traditional oil extraction techniques of shea butter is time consuming, physically exhausting, poses serious health hazards to the women and requires large quantities of fuel wood and water resources that are scarce in the regions where the butter is produced. In general, it is also inefficient in terms of the amount of oil extracted.
+
+They also spend several hours gathering fuel wood for both domestic and cottage industrial use. They attributed the cause of deforestation partly to the indiscriminate feeling of trees for these uses as a result of these practices the shea tree which occurs almost the entire area of Northern Ghana, covering about 77,670 square kilometers is cut down for these uses and there must be a strategy to restore or protect this economic natural resource by way of planting improved shea tree seedlings and conserving existing tees in the environment. 
+
+This project will will improve the quality of the shea nuts by using best practices and improved technologies. In addition, PCG-Tamale will promote shea trees of short bearing age. Furthermore, the project will include advocacy to raise the awarness both at the community and government level on the need to protect shea parklands and seek the enforcement  of existing laws that classify shea as an economic tree.</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2013-11-15"/>
+    <activity-date type="start-actual" iso-date="2013-11-15"/>
+    <activity-date type="end-planned" iso-date="2014-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Northern Presbytery (PCG) Agric. Serv. Exec.  Board</organisation>
+      <mailing-address>Tamale</mailing-address>
+    </contact-info>
+    <sector code="311" percentage="100" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-10-29" currency="EUR">70000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>WD General</provider-org>
+      <receiver-org ref="NL-KVK-41177206004658">Northern Presbytery (PCG) Agric. Serv. Exec.  Board</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">19000</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>WD General</provider-org>
+      <receiver-org ref="NL-KVK-41177206004658">Northern Presbytery (PCG) Agric. Serv. Exec.  Board</receiver-org>
+      <transaction-date iso-date="2014-03-31">2014-03-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2014-03-31" currency="EUR">51000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:26" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-002374</iati-identifier>
+    <other-identifier>C-002374</other-identifier>
+    <participating-org role="Implementing">Global Shea Alliance</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <title>GSA support to National Shea Associations in West Africa</title>
+    <description>Approximately 16,000,000 poor rural African women collect shea nuts as a source of food and income across 21 countries in sub-Saharan Africa. The shea nuts are processed into butter which is utilized in local markets as soap and cooking oil and also exported for a variety of food and cosmetic products including chocolate, soap, and skin creams. Annually, about 1 M tons of nuts is consumed in West Africa and more than 300,000 tons of nuts and butter are exported (value of $75M USD). The demand for high quality nuts delivered at sufficient volumes for international processors is largely unmet due a various reasons, including poor knowledge, tools and means of women collectors to meet international standards. In addition, their competitive advantage could be improved if they would work in groups and organize the collection of the nuts.  
+
+The underlying program is to finance the Global Shea Alliance to strengthen the capacity of national shea alliances in Ghana, Mali and Benin as well as to conduct a quality campaign in the 3 countries during two years. The NSA’s are responsible to provide technical assistance and link these women with buyers. Approximately 750 women groups representing 40.000 women will be empowered. Close collaboration with private sector will be ensured in executing the quality campaigns and advocate for better contracts and prices as a result of improved quality. The NSA will have grown their membership with 100%, developed project for their members and achieved 50.000 USD funding from other sources.  
+
+The GSA will provide a blend of technical services to support national associations and establish viable organizations. The GSA will review all current By-laws, guidelines, constitutions, and other registration documents.  We will propose templates based on best practices for all national associations and educate stakeholder on the importance of structural changes in order to establish democratic institutions capable of receiving funding from public and private organizations.  We will also encourage each national association to register as a non-profit organization with the mission to manage projects on behalf of its members.
+
+Association Establishment: each secretariat will produce a database of in-country shea stakeholders including women’s groups, traders, industrial processors, cosmetic brands, non-profit organizations, development partners, and government agencies.  These stakeholders will be invited to a meeting to review and approve the registration documents and participate in a General Assembly to establish an Executive Committee.
+
+Strategic Planning: the GSA will provide technical assistance to each secretariat and assist the managing director and executive committees to complete a strategic planning process.  All members will provide formal feedback identifying challenges in their shea industries and proposing potential objectives of the alliance.  With this guidance, the secretariats will produce strategic plans defining key objectives to pursue and operational plans identifying activities, required funding, and schedules for implementation.  The GSA will also provide input and technical advise to each associaiton in order to ensure the most effective strategic and operational plans.
+
+Association Promotion: the GSA will provide technical assistance to each secretariat and ensure the development of websites and social media to communicate the mission and ongoing initiatives for each association.  The focus of this communication will to attract new members to the organization and in-country government agencies and development partners.  The GSA will also ensure the successful completion of annual registration drives and national conferences to accomplish strategic objectives and promote the associations.
+
+FundraisThe GSA will provide technical assistance to each secretariat and ensure the development of a database identifying all prospective public and private sector stakeholders in each country.  The secretariats will make presentations to prospective funders regarding their strategic and operational plans in each country and submit proposals based on their member-supported initiatives.  The GSA will regularly update the national associations with funding opportunities relevant to their associations and provide feedback and guidance on their proposals.  Additionally, the GSA will include national association initiatives on its own funding proposals as the opportunity arises.
+  
+The above project will empower a minimum of 75,000 women shea nut collectors with best practices in post harvest shea nut processing and handling.  Additionally, approximately 1,500 women’s groups will be registered under the GSA sustainability initiative providing them further visibility and access to markets.  The project will link women’s associations with shea nut purchasers increasing incomes and alleviating poverty.  
+
+The national association support activities will lead to thriving multi-stakeholder shea associations that are capable of raising funds and developing and managing projects to support their industries.  The associations will manage the quality campaigns and hold annual conferences as part of the ICCO grant.  At the conclusion of the grant, the associations will have grown their membership by 100%, developed projects that meet their stakeholders needs, and achieved funding of $50,000 USD each from public and private sector resources.
+
+</description>
+    <activity-website>http://www.globalshea.com</activity-website>
+    <activity-date type="start-planned" iso-date="2013-03-15"/>
+    <activity-date type="start-actual" iso-date="2013-03-15"/>
+    <activity-date type="end-planned" iso-date="2015-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Global Shea Alliance</organisation>
+      <mailing-address>ACCRA</mailing-address>
+    </contact-info>
+    <sector code="150" percentage="50" vocabulary="DAC-3">Government and Civil Society</sector>
+    <sector code="250" percentage="50" vocabulary="DAC-3">Business, Trade and other related services</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-04-08" currency="EUR">313490</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206018683">Global Shea Alliance</receiver-org>
+      <transaction-date iso-date="2013-06-30">2013-06-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-06-30" currency="EUR">130000</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206018683">Global Shea Alliance</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">107000</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206018683">Global Shea Alliance</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">3000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:26" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-002162</iati-identifier>
+    <other-identifier>C-002162</other-identifier>
+    <participating-org role="Implementing">ICCO</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <title>MT evaluation of SFMP program 2013</title>
+    <description>This an evaluation project. The Ghana Sustainable Forest Management (SFM) Program is a joint effort of five organizations that are joined by a vision of sustainable forest management in Ghana and have complementary expertise. These organizations are the National Working Group on Forest Certification, Rural Development and Youth Association, the Kumasi Wood Cluster Association, Agri-business in Sustainable Natural African Plant Products (ASNAPP), and Friends of the Earth. The SFMP is governed by a Steering Committee. The SFMP has been jointly developed by these organizations and is jointly implemented by them. It is believed that a concerted action of forest sector actors will achieve greater impact than any individual effort could. 
+
+The expected impact of the SFMP is the development of sustainable management of Ghana’s forests, which enhances the rights and interests of the marginalized in a sector highly influenced by commercial interests and political power. The Ghana SFM Program has four inter-related components, of which three are currently financed by ICCO. These are the 1) Forest Governance component, implemented by RUDEYA (lead), NWG and FOE; 2) Forest Certification component, by NWG (lead), KWC and FOE, with technical leadership provided by NWG and 3) Non-timber forest products by ASNAPP (lead), RUDEYA and KWC. The climate change component is not yet funded due to lack of funds. 
+
+The program runs from May 2011 till April 2014. In 2012 an evaluation was done of the programmatic collaboration between the five partners. The underlying mid term evaluation is supposed to measure mid term results, efficiency and effectiveness as well as a client satisfaction survey among the forest communities, timber companies and other key beneficiaries of the program. The outcomes of the evaluation and recommendations should inform the interventions of the last phase of the program. The MT evaluation will be done by a team of a Dutch and a Ghanaian evaluator, Mr. Paul Zambon and Mr. Paschal Atengdem who have complementary experiences and knowledge of the program. ICCO has been responsible for recruiting and selecting the evaluators.</description>
+    <activity-website>http://www.icco.nl</activity-website>
+    <activity-date type="start-planned" iso-date="2013-01-01"/>
+    <activity-date type="start-actual" iso-date="2013-01-01"/>
+    <activity-date type="end-planned" iso-date="2013-03-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>ICCO</organisation>
+      <mailing-address>UTRECHT</mailing-address>
+    </contact-info>
+    <sector code="312" percentage="100" vocabulary="DAC-3">Forestry</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-01-01" currency="EUR">25000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206000402">ICCO</receiver-org>
+      <transaction-date iso-date="2013-03-31">2013-03-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-03-31" currency="EUR">5250</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206000402">ICCO</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">2004</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206000402">ICCO</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">11717</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206000402">ICCO</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">6000</value>
+    </transaction>
+  </iati-activity>
+</iati-activities>

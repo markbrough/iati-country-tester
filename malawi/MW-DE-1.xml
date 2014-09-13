@@ -1,0 +1,1329 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-199535444</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">199535444</other-identifier>
+    <title xml:lang="de">STUDIEN- UND FACHKRAEFTEFONDS (ALT: 8921421)</title>
+    <title xml:lang="en">Studies and Expert Fund</title>
+    <description type="1" xml:lang="en">Financial and organisational foundations for examination and preparation of technical cooperation measures are in place.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">1995-04-05</activity-date>
+    <activity-date type="start-planned">1995-01-01</activity-date>
+    <activity-date type="end-planned">2015-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Finance</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="43010"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="1995-01-01">4439963</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">4395689</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>1520842</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>763826</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2111022</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201175025</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201175025</other-identifier>
+    <title xml:lang="de">Bürgerliches Engagement für Politikbeeinflussung und gute Regierungsführung, Fortführung</title>
+    <title xml:lang="en">Citizens participation and engagement on policy influence and good governance project</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-08-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15130"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-08-31">500000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">348700</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>336781</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>11919</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201121490</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201121490</other-identifier>
+    <title xml:lang="de">Stärkung des öffentlichen Finanzmanagements</title>
+    <title xml:lang="en">Support to Public Financial and Economic Management</title>
+    <description type="1" xml:lang="en">The implementation of the National development Strategy through national systems has improved.</description>
+    <activity-website>http://www.giz.de/de/weltweit/20103.html</activity-website>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-01-04</activity-date>
+    <activity-date type="start-planned">2012-02-03</activity-date>
+    <activity-date type="end-planned">2016-06-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministerium für Wirtschaftsplanung und  Entwicklung</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15110"/>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-02-03">14050000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">4216661</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>1032516</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>501090</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2683055</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201375310</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201375310</other-identifier>
+    <title xml:lang="de">Zusatzkurse in Inklusiver Bildung, Ernährungssicherung und Energie- und Ressourcenmanagement im Rahm</title>
+    <title xml:lang="en">Inclusive education, Food Security, Energy and Environmental Conservation Courses at ETTC</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-11-28</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-11-28">230000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201165638</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201165638</other-identifier>
+    <title xml:lang="de">Ergebnisorientierte Finanzierung von Mütter- und Neugeborenengesundheit II</title>
+    <title xml:lang="en">Results based financing of Maternal and Newborn Health III</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-12-22</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF HEALTH</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="13020"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-12-22">5000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">548806</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200967257</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200967257</other-identifier>
+    <title xml:lang="de">SWAp Gesundheit III</title>
+    <title xml:lang="en">Sectorwide Approach Programme Health III</title>
+    <description type="1" xml:lang="en">Supporting Malawian government in executing the new health policy, focus is on decentralising health distribution and thereby increasing access to health services to rural population.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2009-09-24</activity-date>
+    <activity-date type="start-planned">2012-02-01</activity-date>
+    <activity-date type="end-planned">2015-01-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF HEALTH</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="B04"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-08-08">10000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">7266182</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201330679</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201330679</other-identifier>
+    <title xml:lang="de">Weitere Förderung von Rechten für Frauen und Mädchen</title>
+    <title xml:lang="en">Continuation of Women and Girls Rights and Access to Justice</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-02-27</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15170"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-02-27">140000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">48500</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>45909</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2591</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200566513</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200566513</other-identifier>
+    <title xml:lang="de">Korbfinanzierung Grundbildung</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2005-12-16</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF EDUCATION AND VOCATIONAL TRAINING</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2005-12-16">11000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">5500000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200920553</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200920553</other-identifier>
+    <title xml:lang="de">KV-Programm Verbesserung der Grundbildung</title>
+    <title xml:lang="en">Basic Education Programme</title>
+    <description type="1" xml:lang="en">Access, quality and effectiveness of Basic Education are improved.</description>
+    <activity-website>http://www.giz.de/de/weltweit/20110.html</activity-website>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2008-08-29</activity-date>
+    <activity-date type="start-planned">2010-06-29</activity-date>
+    <activity-date type="end-planned">2014-06-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministerium für Bildung, Wissenschaft und Technologie</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-06-29">10068022</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">8497776</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>3418962</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>1510431</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>3568383</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200967190</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200967190</other-identifier>
+    <title xml:lang="de">Stärkung der Kooperation zwischen Staat und Privatsektor im Gesundheitssektor</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2009-09-08</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF HEALTH</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="13020"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2009-09-08">6829473</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">303528</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201155266</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201155266</other-identifier>
+    <title xml:lang="de">Prävention von Hörbehinderung, Blantyre, Malawi</title>
+    <title xml:lang="en">Prevention of hearing impairment, Malawi</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-09-01</activity-date>
+    <activity-date type="start-planned">2011-09-01</activity-date>
+    <activity-date type="end-planned">2014-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Christoffel-Blindenmission Deutschland e. V.</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12191"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-09-01">467009</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">439762</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201165653</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201165653</other-identifier>
+    <title xml:lang="de">Soziale Absicherung von absolut Armen (insb. AIDS Waisen) II</title>
+    <title xml:lang="en">Social Protection of ultra-poor II</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-12-22</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF GENDER, CHILDREN A ND COMMUNITY DEVELOPMENT</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="16010"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-12-22">11000000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201375328</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201375328</other-identifier>
+    <title xml:lang="de">Einführung von E-Learning in der Aus- und Fortbildung von Hebammen in Malawi</title>
+    <title xml:lang="en">Use of E-Learning to accelerate the upgrading of Malawi's nurse/midwives</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-11-28</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="13081"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-11-28">250000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">90000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>86949</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>3051</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201120906</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201120906</other-identifier>
+    <title xml:lang="de">Stärkung des Gesundheitssystems mit Fokus auf reproduktive Gesundheit</title>
+    <title xml:lang="en">Health System focused on Reproductive Health</title>
+    <description type="1" xml:lang="en">The ministry of Health, together with other non-state actors, provides effective and efficient quality health services, especially with regard to maternal and newborn health.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-12-27</activity-date>
+    <activity-date type="start-planned">2012-07-04</activity-date>
+    <activity-date type="end-planned">2016-09-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministerium für Gesundheit und Bevölkerung</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="13020"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <conditions attached="1">results-based approach</conditions>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-07-04">15100000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">5153780</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>1509310</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>220033</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>3424436</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200965368</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200965368</other-identifier>
+    <title xml:lang="de">Korbfinanzierung Grundbildung II</title>
+    <title xml:lang="en">Basic Education Basket II</title>
+    <description type="1" xml:lang="en">Financial contribution shall support a SWAp through a basket fund, improving basic education of the Malawian population, thereby enhancing access, quality, efficiency and management.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2008-09-11</activity-date>
+    <activity-date type="start-planned">2012-08-08</activity-date>
+    <activity-date type="end-planned">2015-08-08</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF EDUCATION AND VOCATIONAL TRAINING</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="B04"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-08-08">8500000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200920561</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200920561</other-identifier>
+    <title xml:lang="de">Programm Förderung der demokratischen Dezentralisierung</title>
+    <title xml:lang="en">Promoting Democratic Decentralization</title>
+    <description type="1" xml:lang="en">Local councils are functioning based on transparant accountibility within the legal system.</description>
+    <activity-website>http://www.giz.de/de/weltweit/20106.html</activity-website>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2008-08-29</activity-date>
+    <activity-date type="start-planned">2010-03-25</activity-date>
+    <activity-date type="end-planned">2014-03-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Local Government</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15112"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-03-25">9101692</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">7855332</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>3392279</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>501180</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>3961874</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201315415</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201315415</other-identifier>
+    <title xml:lang="de">Verbesserung der Lern- und Lebensbedingungen in Lusangazi für Schülerinnen/Schüler und Schwangere, Malawi</title>
+    <title xml:lang="en">Improvement of teaching (education) and living conditions in the Lusangazi area for the students and for pregnant women, Malawi</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-05-16</activity-date>
+    <activity-date type="start-planned">2013-04-01</activity-date>
+    <activity-date type="end-planned">2013-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Malawihilfe e.V.</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="43040"/>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-05-16">23542</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">23542</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200970418</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200970418</other-identifier>
+    <title xml:lang="de">Allgemeine Budgethilfe - Begleitmaßnahme (Stärkung des malawischen Rechnungshofes und anderer Strukturen der inländischen Rechenschaftslegung)</title>
+    <title xml:lang="en">Accompanying Measure to General Budget Support</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2009-09-24</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">REPUBLIC MALAWI</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2009-09-24">3500000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201022706</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201022706</other-identifier>
+    <title xml:lang="de">Ernährung und Zugang zu Grundbildung in Malawi</title>
+    <title xml:lang="en">Nutrition and access to Education</title>
+    <description type="1" xml:lang="en">Local capacities (DSHN, District SHN coordinator, DEM, PEA, nutrition advisor, community) are strengthened to implement school feeding.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-12-15</activity-date>
+    <activity-date type="start-planned">2011-01-27</activity-date>
+    <activity-date type="end-planned">2015-06-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministerium für Bildung, Wissenschaft und Technologie</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-01-27">4000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">1198662</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>714853</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>134412</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>349397</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200967398</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200967398</other-identifier>
+    <title xml:lang="de">Soziale Absicherung von absolut Armen</title>
+    <title xml:lang="en">Social Protection of the Ultra Poor</title>
+    <description type="1" xml:lang="en">Social protection of the ultra poor by measures of regular money transfers.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2009-11-05</activity-date>
+    <activity-date type="start-planned">2012-02-21</activity-date>
+    <activity-date type="end-planned">2015-02-20</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF GENDER, CHILDREN A ND COMMUNITY DEVELOPMENT</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="16010"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-04-19">13000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">11770789</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201165679</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201165679</other-identifier>
+    <title xml:lang="de">Stärkung von Public Private Partnerships zur Förderung reproduktiver Gesundheit</title>
+    <title xml:lang="en">Improving Access to family planning methods</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-12-22</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF HEALTH</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="13020"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-12-22">20000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">75000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201274760</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201274760</other-identifier>
+    <title xml:lang="de">Einführung Klima angepasster, ökologischer Lebensgrundlagen zur Stärkung dörflicher Resilienz</title>
+    <title xml:lang="en">Agro-livelihoods for community resilience</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-04-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31140"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-04-30">312000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">212400</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>202073</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>10327</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201135102</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201135102</other-identifier>
+    <title xml:lang="de">Studien- und Fachkräftefonds</title>
+    <title xml:lang="en">Studies and Expert Fund</title>
+    <description type="1" xml:lang="en">Financial and organisational foundations for examination and preparation of technical cooperation measures are in place.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-12-27</activity-date>
+    <activity-date type="start-planned">2012-06-28</activity-date>
+    <activity-date type="end-planned">2017-06-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Finance</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="43010"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-06-28">2814606</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">552268</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>173967</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>378301</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200124818</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200124818</other-identifier>
+    <title xml:lang="de">Förderung der Basisgesundheitsversorgung</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2001-11-13</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Noch offen</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2001-11-13">459</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200166215</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200166215</other-identifier>
+    <title xml:lang="de">Primarschulbildungsprogramm, Phase III (incl. Primarschullehrerausbildung)</title>
+    <title xml:lang="en">Primary School Education by Primary Teacher Training, Phase III</title>
+    <description type="1" xml:lang="en">Financial contribution shall improve Teacher Training Colleges (TTC) in Malawi in terms of equipment and acommodation for students.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2001-11-14</activity-date>
+    <activity-date type="start-planned">2011-03-31</activity-date>
+    <activity-date type="end-planned">2014-03-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF EDUCATION AND VOCATIONAL TRAINING</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-09-28">7045168</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">6819601</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201066174</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201066174</other-identifier>
+    <title xml:lang="de">Lokaler Entwicklungsfonds</title>
+    <title xml:lang="en">Local Development Fund</title>
+    <description type="1" xml:lang="en">Resources are meant to build up a local public infrastructure through the Urban Window of the Local Development Fund (Programme). Main focus is on medium sized public infrastructure measures.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-01-18</activity-date>
+    <activity-date type="start-planned">2012-05-07</activity-date>
+    <activity-date type="end-planned">2015-05-07</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">GOVERNMENT OF MALAWI</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15112"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-03-09">11000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">1083549</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201330018</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201330018</other-identifier>
+    <title xml:lang="de">Weiterführung des Genderprojekts für Jugendliche in Malawi</title>
+    <title xml:lang="en">Phase II - Gender Awareness among the youth in Malawi</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-01-04</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15170"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-01-04">180000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">95612</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>94566</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1046</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201332196</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201332196</other-identifier>
+    <title xml:lang="de">Förderung der Rechte von Frauen und Mädchen in der Diözese Karonga</title>
+    <title xml:lang="en">Participatory Women's Rights and Empowerment, Diocese of Karonga</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-06-27</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15170"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-06-27">135000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">57800</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>56460</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1340</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200820274</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200820274</other-identifier>
+    <title xml:lang="de">Programm "Nachhaltige Strukturen für das Gesundheitswesen"</title>
+    <title xml:lang="en">Programme Sustainable Structures for the Health Sector.</title>
+    <description type="1" xml:lang="en">The Ministry of Health is in a position to provide an effective and efficient basic health care system.</description>
+    <activity-website>http://www.giz.de/de/weltweit/20127.html</activity-website>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2008-11-11</activity-date>
+    <activity-date type="end-actual">2014-01-29</activity-date>
+    <activity-date type="start-planned">2008-11-11</activity-date>
+    <activity-date type="end-planned">2013-07-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL205@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministerium für Gesundheit und Bevölkerung</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2008-11-11">7397102</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">6413873</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>2770948</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>811204</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2831721</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201330034</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201330034</other-identifier>
+    <title xml:lang="de">Bildungspolitische Zusammenarbeit für interreligiösen Dialog und Konfliktmanagement des Center for Social Concern der Weißen Väter in Malawi</title>
+    <title xml:lang="en">Promotion of Inter Religious Dialogue/Conflict Management and Catholic Social Teaching (CST)</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-01-04</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-01-04">99000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">45300</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>43918</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1382</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

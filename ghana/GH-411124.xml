@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity last-updated-datetime="2013-09-13T11:51:17.8187750Z" xml:lang="en" default-currency="USD" hierarchy="1">
+    <iati-identifier>4111241017</iati-identifier>
+    <title xml:lang="en">Strategic Note and Annual Work Plan West Africa</title>
+    <description xml:lang="en" type="1">National planning and budgeting</description>
+    <description xml:lang="en" type="1">Peace and Security</description>
+    <description xml:lang="en" type="1">Ending violence against women</description>
+    <description xml:lang="en" type="1">Women's Economic Empowerment</description>
+    <description xml:lang="en" type="1">Leadership and Political Participation</description>
+    <description xml:lang="en" type="1">UN Women's WARO strategy covers and oversees the 7 countries in WARO that have developed their own AWPs. Within the five priorities will be the focus of work in 2012-2013: a) Funding mechanisms for increasing women’s political participation institutionalized; advocacy for implementation of affirmative Action (e.g. quotas) in partnership with ECOWAS. b) Empowering rural &amp; cross border women entrepreneurs to access opportunities &amp; financing from public &amp; private sectors. c) Creating a functional platform of key actors (security, judiciary, health, social welfare, gender &amp; CSOs) to promote a cross sectoral approach to addressing VAW. d) A pool of high level and community women mediators; Implementation of NAPs in post conflict countries. e) Engendering National GRB strategies.</description>
+    <activity-status xml:lang="en" code="2">Active</activity-status>
+    <activity-date iso-date="2012-12-31" xml:lang="en" type="end-planned">2012</activity-date>
+    <activity-date iso-date="2012-12-31" xml:lang="en" type="start-planned">2012</activity-date>
+    <contact-info>
+      <organisation>UN Women</organisation>
+      <person-name>Kerstin Speer-Bockelmann</person-name>
+      <telephone>+1 646 781 4760</telephone>
+      <mailing-address>Special Advisor to Executive Director  UN Women  220 42nd St. Suite 19-04  New York, NY 10017</mailing-address>
+      <email>kerstin.speer-bockelmann@unwomen.org</email>
+    </contact-info>
+    <budget type="1">
+      <period-start>2012</period-start>
+      <period-end>2012</period-end>
+      <value currency="USD" value-date="2012-12-31">1613671</value>
+    </budget>
+    <reporting-org xml:lang="en" type="40" ref="411124">UN Women</reporting-org>
+    <recipient-country code="SL" xml:lang="en">SIERRA LEONE</recipient-country>
+    <recipient-country code="SN" xml:lang="en">SENEGAL</recipient-country>
+    <recipient-country code="NG" xml:lang="en">NIGERIA</recipient-country>
+    <recipient-country code="ML" xml:lang="en">MALI</recipient-country>
+    <recipient-country code="LR" xml:lang="en">LIBERIA</recipient-country>
+    <recipient-country code="GW" xml:lang="en">GUINEA-BISSAU</recipient-country>
+    <recipient-country code="GH" xml:lang="en">GHANA</recipient-country>
+    <recipient-country code="CI" xml:lang="en">CÔTE D'IVOIRE</recipient-country>
+    <recipient-country code="CV" xml:lang="en">CAPE VERDE</recipient-country>
+  </iati-activity>
+</iati-activities>

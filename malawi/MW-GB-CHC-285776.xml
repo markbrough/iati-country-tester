@@ -1,0 +1,877 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity hierarchy="1" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-30T00:00:00">
+<reporting-org ref="GB-CHC-285776" type="21">CAFOD</reporting-org>
+<iati-identifier>GB-CHC-285776-MAL088</iati-identifier>
+<other-identifier>MAL088</other-identifier>
+<title>Archdiocese of Lilongwe Integrated HIV and AIDS Response Programme</title>
+<description>The Archdiodeces of Lilongwe is highly populated and has challenges of people living in abject poverty, unemployed, living with HIV and a young population of mothers. The Archdiocese of Lilongwe through its HIV and AIDS response aims at contributing to the reduction of new HIV infections and quality management of those living with the HIV virus.
+
+By systematically targeting the youth, young couple in rural and peri urban Lilongwe , The Diocese HBC integrated programme will conduct awareness programmes using various strategies and use of appropriate media to convey messages on the causes, effect and impact of HIV in the family and community .
+
+The programme will also try to address stigma, discrimination and denial in communities and to challenge those cultural practices that are causing the further spread of HIV. OVCs will be treated as a special component of the programme as it entails their access to treatment, care and support and education.
+The programme will explore opportunities for sustainable livelihoods and other economic empowerment initiatives. By 2015 the programme would have reached about 6000 beneficiaries directly.
+
+The program shall provide adequate and good quality management services to people living with HIV and AIDS through the provision of community palliative and home based care. 
+
+</description>
+<activity-status code="2">Implementation</activity-status>
+<default-tied-status code="5">Untied</default-tied-status>
+<activity-date type="start-actual" iso-date="2012-02-10"/>
+<activity-date type="end-planned" iso-date="2014-12-31"/>
+<contact-info>
+<organisation>CAFOD</organisation>
+<email>cafod@cafod.org.uk</email>
+</contact-info>
+<participating-org role="Funding" ref="GB-CHC-285776">CAFOD</participating-org>
+<participating-org role="Implementing">Archdiocese of Lilongwe Integrated HIV and AIDS Response</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector vocabulary="RO">HIV and AIDS </sector>
+<sector vocabulary="DAC" code="16064" percentage="20">Social mitigation of HIV/AIDS</sector>
+<sector vocabulary="DAC" code="73010" percentage="20">Reconstruction relief and rehabilitation</sector>
+<sector vocabulary="DAC" code="12250" percentage="20">Infectious disease control</sector>
+<sector vocabulary="DAC" code="15160" percentage="20">Human rights</sector>
+<sector vocabulary="DAC" code="16064" percentage="20">Social mitigation of HIV/AIDS</sector>
+<default-flow-type code="30">Private grants</default-flow-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<transaction ref="41755">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org provider-activity-id="GB-1-202669">CGF</provider-org>
+<value value-date="2012-04-01">50000</value>
+<transaction-date iso-date="2012-04-01">2012-04-01</transaction-date>
+</transaction>
+<transaction ref="56170">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Archdiocese of Lilongwe Integrated HIV and AIDS Response</receiver-org>
+<value value-date="2012-04-04">50000</value>
+<transaction-date iso-date="2012-04-01">2012-04-01</transaction-date>
+</transaction>
+<transaction ref="41622">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2013-04-01">50000</value>
+<transaction-date iso-date="2013-04-01">2013-04-01</transaction-date>
+</transaction>
+<transaction ref="58132">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Archdiocese of Lilongwe Integrated HIV and AIDS Response</receiver-org>
+<value value-date="2013-05-06">50000</value>
+<transaction-date iso-date="2013-04-01">2013-04-01</transaction-date>
+</transaction>
+<transaction ref="41623">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2014-01-01">50000</value>
+<transaction-date iso-date="2014-01-01">2014-01-01</transaction-date>
+</transaction>
+<transaction ref="59440">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Archdiocese of Lilongwe Integrated HIV and AIDS Response</receiver-org>
+<value value-date="2014-03-20">50000</value>
+<transaction-date iso-date="2014-01-01">2014-01-01</transaction-date>
+</transaction>
+</iati-activity>
+  <iati-activity hierarchy="1" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-30T00:00:00">
+<reporting-org ref="GB-CHC-285776" type="21">CAFOD</reporting-org>
+<iati-identifier>GB-CHC-285776-MAL091</iati-identifier>
+<other-identifier>MAL091</other-identifier>
+<title>CAFOD Contribution to Caritas Malawi Appeal - 2012/13</title>
+<description>
+Caritas Malawi is seeking support from CI member organisations to deal with unprecedented food insecurity situations in Southern Malawi. CI Secretariat has launched this appeal by mid July 2012 for an Emergency Food Security Programme ( Relief and Recovery) programme which will be implemented by Caritas Malawi (CADECOM) in four diocesan areas. The appeal actions are ranging from immediate food distribution to the most vulnerable and marginalised groups who are chronically ill people, who have no other means of living for a period of five months, considered as the most critical and hunger period in the country, food for work to enhance food security and inter-related recovery work (delivery of seed inputs and initiating disaster risk reduction measures) through community capacity building mainly oriented to be better preparedness in terms of food security. 
+
+In the framework of this Emergency Appeal Caritas Malawi will contribute in alleviating hunger and protect livelihoods of 6,040 vulnerable households in the food insecure areas of Chikwawa, Dedza, Blantyre and Mangochi Dioceses. A total of 33,220 affected Malawians will benefit from the initiative, above 60% of whom are females.
+
+Programme Goal
+To contribute to the alleviation of hunger and food insecurity among vulnerable households in Malawi.
+
+Programme Purpose
+To reduce the impact of hunger and protect livelihoods of 6,040 vulnerable households in food insecure areas of Chikwawa, Dedza, Blantyre and Mangochi Dioceses in the period till the next harvest.
+
+Outputs
+1.Community food security, disaster prevention and mitigation measures are initiated in 75 villages as Food for Work projects 
+2.905 most vulnerable households received monthly food rations during 5 months
+3.5,135 households engaged in food for work activities for five months.
+4.Information, Education and Communication sessions on the prevention and mitigation of HIV/AIDS and gender messages delivered at 34 food distribution points.
+5.Seed packs distributed to 5,135 households in Chikwawa, Blantyre, Dedza and Mangochi dioceses
+6.Strengthened capacity of CADECOM at diocesan and community level to plan and monitor a relief programme 
+</description>
+<activity-status code="2">Implementation</activity-status>
+<default-tied-status code="5">Untied</default-tied-status>
+<activity-date type="start-actual" iso-date="2012-08-08"/>
+<activity-date type="end-planned" iso-date="2013-06-30"/>
+<contact-info>
+<organisation>CAFOD</organisation>
+<email>cafod@cafod.org.uk</email>
+</contact-info>
+<participating-org role="Funding" ref="GB-CHC-285776">CAFOD</participating-org>
+<participating-org role="Implementing">Catholic Development Commission Malawi </participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector vocabulary="RO">Emergency Relief and Recovery</sector>
+<sector vocabulary="DAC" code="52010" percentage="70">Food aid/Food security programmes</sector>
+<sector vocabulary="DAC" code="72010" percentage="30">Material relief assistance and services </sector>
+<default-flow-type code="30">Private grants</default-flow-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<transaction ref="42939">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org provider-activity-id="GB-1-202669">CGF</provider-org>
+<value value-date="2012-07-01">50000</value>
+<transaction-date iso-date="2012-07-01">2012-07-01</transaction-date>
+</transaction>
+<transaction ref="57016">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Catholic Development Commission Malawi </receiver-org>
+<value value-date="2012-10-08">50000</value>
+<transaction-date iso-date="2012-07-01">2012-07-01</transaction-date>
+</transaction>
+</iati-activity>
+  <iati-activity hierarchy="1" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-30T00:00:00">
+<reporting-org ref="GB-CHC-285776" type="21">CAFOD</reporting-org>
+<iati-identifier>GB-CHC-285776-MAL092</iati-identifier>
+<other-identifier>MAL092</other-identifier>
+<title>Mobilization for the tabling, enactment, and effective adoption of the protection for tenant farmers</title>
+<description>The project aims to influence the policies and legal framework that adequately protect against abuses and exploitation of tenant farmers in Malawi. Tenancy farming is an agricultural production system in which landowners contributes their land and often a measure of operating capital and management; while tenant farmers contribute their labour.  Tenant farmers are often migrant farmers (i.e. they come from other regions of Malawi-most commonly from the southern Region) who are generally amongst the poorest of the poor in Malawi, and are vulnerable to abuse. They become tenants only because they are unable to find alternative employment or are unable to sustain themselves as independent smallholder farmers. They are also located in rural areas where conditions are worse than in the urban centres. The absence of legislative protection for tenant farmers is exacerbating and critical to the perpetuation of abuses and exploitation in tenancy system. The tabling, enactment and adoption of the Tenancy Bill has been extremely slow so far. This project therefore seek to mobilise for the tabling, enactment of Legal framework regulating tenancy system; increase tenant farmers' knowledge on their rights, obligations and ability to claim their space-(Education for confidence); and contribute towards creation of an environment that enables the coordinated, effective adoption of the Tenancy Labour Bill to prevent economic exploitation and other violations of tenants’ rights through media by 2015.
+</description>
+<activity-status code="2">Implementation</activity-status>
+<default-tied-status code="5">Untied</default-tied-status>
+<activity-date type="start-actual" iso-date="2013-10-24"/>
+<activity-date type="end-planned" iso-date="2014-10-31"/>
+<contact-info>
+<organisation>CAFOD</organisation>
+<email>cafod@cafod.org.uk</email>
+</contact-info>
+<participating-org role="Funding" ref="GB-CHC-285776">CAFOD</participating-org>
+<participating-org role="Implementing">Centre for Social Concern </participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector vocabulary="RO">Governance, Citizenship and Rights</sector>
+<sector vocabulary="DAC" code="15160" percentage="100">Human rights</sector>
+<default-flow-type code="30">Private grants</default-flow-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<transaction ref="44656">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org provider-activity-id="GB-1-202669">CGF</provider-org>
+<value value-date="2013-11-01">30000</value>
+<transaction-date iso-date="2013-11-01">2013-11-01</transaction-date>
+</transaction>
+<transaction ref="58910">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Centre for Social Concern </receiver-org>
+<value value-date="2013-11-28">30000</value>
+<transaction-date iso-date="2013-11-01">2013-11-01</transaction-date>
+</transaction>
+</iati-activity>
+  <iati-activity hierarchy="1" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-30T00:00:00">
+<reporting-org ref="GB-CHC-285776" type="21">CAFOD</reporting-org>
+<iati-identifier>GB-CHC-285776-MAL086</iati-identifier>
+<other-identifier>MAL086</other-identifier>
+<title>Lilongwe Diocese HBC</title>
+<description>Lilongwe Diocese Home Based Care programme envisions itself has  been contributing to the reduction of the impact of HIV and AIDS in communities in Malawi by harnessing the people’s potential through mobilising sustainable community responses to prevent the spread and mitigate the impact of HIV and AIDS to affected and infected individuals including children and their families.
+In order to realise their vision they network with other NGOs and Faith Based Organisations.
+The major activities of the Diocese will be HIV and AIDS prevention and Management of HIV and AIDS. The prevalent practices to be tackled in part in the process are as follows:
+- Sexual cultural practices such as initiation, rituals associated with death of spouse or other practices that end up exposing young girls ‘ being blankets for chiefs’
+- Trading of sex for money
+- Addressing inconsistent and inaccurate messages relating to the promotion of condoms
+- Addressing stigma and discrimination which continue to suppress openness about HIV and AIDS
+- Inadequate legal enforcements in controlling sexual exploitation of girls and boys in resort parts o Malawi and many other recreational facilities.
+- Establishing an effective referral system
+- Ensuring and facilitating accessibility of facilities to clients and communities , for example , PMTCT, ART
+- Provision of basic nursing care of chronically ill in their homes and alleviation of pain.
+- Following up patients on treatment and adherence
+- Formation of support groups.</description>
+<activity-status code="3">Completion</activity-status>
+<default-tied-status code="5">Untied</default-tied-status>
+<activity-date type="start-actual" iso-date="2009-01-13"/>
+<activity-date type="end-planned" iso-date="2011-09-30"/>
+<contact-info>
+<organisation>CAFOD</organisation>
+<email>cafod@cafod.org.uk</email>
+</contact-info>
+<participating-org role="Funding" ref="GB-CHC-285776">CAFOD</participating-org>
+<participating-org role="Implementing">Lilongwe Diocese</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector vocabulary="RO">HIV and AIDS </sector>
+<sector vocabulary="DAC" code="16064" percentage="40">Social mitigation of HIV/AIDS</sector>
+<sector vocabulary="DAC" code="15160" percentage="40">Human rights</sector>
+<sector vocabulary="DAC" code="12261" percentage="20">Health education</sector>
+<default-flow-type code="30">Private grants</default-flow-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<transaction ref="33578">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org provider-activity-id="GB-1-202669">CGF</provider-org>
+<value value-date="2008-10-01">25000</value>
+<transaction-date iso-date="2008-10-01">2008-10-01</transaction-date>
+</transaction>
+<transaction ref="50590">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Lilongwe Diocese</receiver-org>
+<value value-date="2009-04-17">25000</value>
+<transaction-date iso-date="2008-10-01">2008-10-01</transaction-date>
+</transaction>
+<transaction ref="33579">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2008-10-01">6299</value>
+<transaction-date iso-date="2008-10-01">2008-10-01</transaction-date>
+</transaction>
+<transaction ref="33580">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2008-10-01">9000</value>
+<transaction-date iso-date="2008-10-01">2008-10-01</transaction-date>
+</transaction>
+<transaction ref="33578">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2008-10-01">25000</value>
+<transaction-date iso-date="2008-10-01">2008-10-01</transaction-date>
+</transaction>
+<transaction ref="50705">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Lilongwe Diocese</receiver-org>
+<value value-date="2009-05-06">15299</value>
+<transaction-date iso-date="2008-10-01">2008-10-01</transaction-date>
+</transaction>
+<transaction ref="33579">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2008-10-01">6299</value>
+<transaction-date iso-date="2008-10-01">2008-10-01</transaction-date>
+</transaction>
+<transaction ref="33580">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2008-10-01">9000</value>
+<transaction-date iso-date="2008-10-01">2008-10-01</transaction-date>
+</transaction>
+<transaction ref="36168">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2009-10-01">50000</value>
+<transaction-date iso-date="2009-10-01">2009-10-01</transaction-date>
+</transaction>
+<transaction ref="52522">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Lilongwe Diocese</receiver-org>
+<value value-date="2010-05-11">50000</value>
+<transaction-date iso-date="2009-10-01">2009-10-01</transaction-date>
+</transaction>
+<transaction ref="38433">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2009-10-01">6250</value>
+<transaction-date iso-date="2009-10-01">2009-10-01</transaction-date>
+</transaction>
+<transaction ref="53615">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Lilongwe Diocese</receiver-org>
+<value value-date="2011-02-02">6250</value>
+<transaction-date iso-date="2009-10-01">2009-10-01</transaction-date>
+</transaction>
+<transaction ref="39425">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2010-10-01">50000</value>
+<transaction-date iso-date="2010-10-01">2010-10-01</transaction-date>
+</transaction>
+<transaction ref="54395">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Lilongwe Diocese</receiver-org>
+<value value-date="2011-05-11">50000</value>
+<transaction-date iso-date="2010-10-01">2010-10-01</transaction-date>
+</transaction>
+</iati-activity>
+  <iati-activity hierarchy="1" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-30T00:00:00">
+<reporting-org ref="GB-CHC-285776" type="21">CAFOD</reporting-org>
+<iati-identifier>GB-CHC-285776-MAL090</iati-identifier>
+<other-identifier>MAL090</other-identifier>
+<title>Securing Rights for Women and Girls in Karonga</title>
+<description>
+Outcomes
+1. Reduced incidence of cases of violence against women and girls in two traditional authorities in Karonga Diocese.
+2. Women have increased access to justice delivery systems in the targeted areas 
+
+Activities
+1.1.Conduct 1 training and sensitisation meeting with religious and traditional leaders in women’s rights, social justice, inheritance law,
+
+1.2.Hold 2 monitoring and review meetings (every 6 months) with traditional and religious leaders, to discuss gender-related issues in their communities,
+
+1.3.Hold  2 training workshops for  parish justice and peace committees in women’s rights, social justice, gender based violence, case recording and investigation skills, Catholic social Teaching and spirituality of justice,
+2.1.Train 40 members of 2 parish justice and peace teams in basic paralegal skills,
+
+2.2.Each trained paralegal will conduct at least 2 community awareness meetings per quarter, with each  meeting targeting at least 20 participants.
+
+2.3.Establish links and relationships with formal and informal justice delivery systems in the target areas,
+
+2.4.Trained paralegals refer women and girls to service providers,
+
+2.5.Hold quarterly monitoring, review and support meetings for parish justice and peace teams,
+
+
+
+
+</description>
+<activity-status code="2">Implementation</activity-status>
+<default-tied-status code="5">Untied</default-tied-status>
+<activity-date type="start-actual" iso-date="2012-05-18"/>
+<activity-date type="end-planned" iso-date="2015-03-31"/>
+<contact-info>
+<organisation>CAFOD</organisation>
+<email>cafod@cafod.org.uk</email>
+</contact-info>
+<participating-org role="Funding" ref="GB-CHC-285776">CAFOD</participating-org>
+<participating-org role="Implementing">Karonga Diocese CCJP</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector vocabulary="RO">Governance, Citizenship and Rights</sector>
+<sector vocabulary="DAC" code="15160" percentage="80">Human rights</sector>
+<sector vocabulary="DAC" code="15160" percentage="20">Human rights</sector>
+<default-flow-type code="30">Private grants</default-flow-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<transaction ref="42751">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org provider-activity-id="GB-1-202669">CGF</provider-org>
+<value value-date="2012-06-01">22250</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="58000">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Karonga Diocese CCJP</receiver-org>
+<value value-date="2013-04-19">-3062</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="42752">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-06-01">3602</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="42751">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-06-01">22250</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="58388">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Karonga Diocese CCJP</receiver-org>
+<value value-date="2013-07-17">176</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="42752">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-06-01">3602</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="42751">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-06-01">22250</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="58716">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Karonga Diocese CCJP</receiver-org>
+<value value-date="2013-10-07">1088</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="42752">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-06-01">3602</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="42751">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-06-01">22250</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="58863">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Karonga Diocese CCJP</receiver-org>
+<value value-date="2013-11-13">-544</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="42752">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-06-01">3602</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="42751">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-06-01">22250</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="56601">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Karonga Diocese CCJP</receiver-org>
+<value value-date="2012-07-05">25852</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="42752">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-06-01">3602</value>
+<transaction-date iso-date="2012-06-01">2012-06-01</transaction-date>
+</transaction>
+<transaction ref="44007">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2013-04-01">20000</value>
+<transaction-date iso-date="2013-04-01">2013-04-01</transaction-date>
+</transaction>
+<transaction ref="57974">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Karonga Diocese CCJP</receiver-org>
+<value value-date="2013-04-17">20000</value>
+<transaction-date iso-date="2013-04-01">2013-04-01</transaction-date>
+</transaction>
+<transaction ref="45103">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2014-04-01">20000</value>
+<transaction-date iso-date="2014-04-01">2014-04-01</transaction-date>
+</transaction>
+<transaction ref="59364">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Karonga Diocese CCJP</receiver-org>
+<value value-date="2014-03-11">20000</value>
+<transaction-date iso-date="2014-04-01">2014-04-01</transaction-date>
+</transaction>
+<transaction ref="59427">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Karonga Diocese CCJP</receiver-org>
+<value value-date="2014-03-18">-20000</value>
+<transaction-date iso-date="2014-04-01">2014-04-01</transaction-date>
+</transaction>
+<transaction ref="59431">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Karonga Diocese CCJP</receiver-org>
+<value value-date="2014-03-19">20000</value>
+<transaction-date iso-date="2014-04-01">2014-04-01</transaction-date>
+</transaction>
+</iati-activity>
+  <iati-activity hierarchy="1" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-30T00:00:00">
+<reporting-org ref="GB-CHC-285776" type="21">CAFOD</reporting-org>
+<iati-identifier>GB-CHC-285776-MAL076</iati-identifier>
+<other-identifier>MAL076</other-identifier>
+<title>Development and Support of HIV Testing and Counselling in Malawi				</title>
+<description>1) Quality HIV / AIDS treatment care and support services provided through Lighthouse
+2) Innovative approaches for HIV treatment, care and support Developed, Piloted, Evaluated and Disseminated in Malawi
+3) Capacity for HIV/AIDS treatment, care and support in Malawi strengthened
+
+
+</description>
+<activity-status code="3">Completion</activity-status>
+<default-tied-status code="5">Untied</default-tied-status>
+<activity-date type="start-actual" iso-date="2003-01-29"/>
+<activity-date type="end-planned" iso-date="2011-11-30"/>
+<contact-info>
+<organisation>CAFOD</organisation>
+<email>cafod@cafod.org.uk</email>
+</contact-info>
+<participating-org role="Funding" ref="GB-CHC-285776">CAFOD</participating-org>
+<participating-org role="Implementing">The Lighthouse Project</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector vocabulary="RO">HIV and AIDS </sector>
+<sector vocabulary="DAC" code="16064" percentage="60">Social mitigation of HIV/AIDS</sector>
+<sector vocabulary="DAC" code="51010" percentage="20">General budget support</sector>
+<sector vocabulary="DAC" code="12261" percentage="20">Health education</sector>
+<default-flow-type code="30">Private grants</default-flow-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<transaction ref="25716">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org provider-activity-id="GB-1-202669">CGF</provider-org>
+<value value-date="2003-01-01">45290</value>
+<transaction-date iso-date="2003-01-01">2003-01-01</transaction-date>
+</transaction>
+<transaction ref="39643">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2003-04-16">45290</value>
+<transaction-date iso-date="2003-01-01">2003-01-01</transaction-date>
+</transaction>
+<transaction ref="26466">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2004-01-01">60000</value>
+<transaction-date iso-date="2004-01-01">2004-01-01</transaction-date>
+</transaction>
+<transaction ref="41129">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2004-03-26">60000</value>
+<transaction-date iso-date="2004-01-01">2004-01-01</transaction-date>
+</transaction>
+<transaction ref="1140">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2005-01-01">53166</value>
+<transaction-date iso-date="2005-01-01">2005-01-01</transaction-date>
+</transaction>
+<transaction ref="42663">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2005-03-04">25983</value>
+<transaction-date iso-date="2005-01-01">2005-01-01</transaction-date>
+</transaction>
+<transaction ref="43734">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2005-09-21">25983</value>
+<transaction-date iso-date="2005-01-01">2005-01-01</transaction-date>
+</transaction>
+<transaction ref="48074">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2008-01-28">1200</value>
+<transaction-date iso-date="2005-01-01">2005-01-01</transaction-date>
+</transaction>
+<transaction ref="27326">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2005-01-01">48000</value>
+<transaction-date iso-date="2005-01-01">2005-01-01</transaction-date>
+</transaction>
+<transaction ref="43085">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2005-04-25">48000</value>
+<transaction-date iso-date="2005-01-01">2005-01-01</transaction-date>
+</transaction>
+<transaction ref="28700">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2006-07-01">50000</value>
+<transaction-date iso-date="2006-07-01">2006-07-01</transaction-date>
+</transaction>
+<transaction ref="45446">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2006-09-01">50000</value>
+<transaction-date iso-date="2006-07-01">2006-07-01</transaction-date>
+</transaction>
+<transaction ref="30664">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2007-07-01">50000</value>
+<transaction-date iso-date="2007-07-01">2007-07-01</transaction-date>
+</transaction>
+<transaction ref="48075">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2008-01-28">50000</value>
+<transaction-date iso-date="2007-07-01">2007-07-01</transaction-date>
+</transaction>
+<transaction ref="33146">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2008-07-01">50000</value>
+<transaction-date iso-date="2008-07-01">2008-07-01</transaction-date>
+</transaction>
+<transaction ref="50076">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2009-01-30">50000</value>
+<transaction-date iso-date="2008-07-01">2008-07-01</transaction-date>
+</transaction>
+<transaction ref="35731">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2009-12-01">40000</value>
+<transaction-date iso-date="2009-12-01">2009-12-01</transaction-date>
+</transaction>
+<transaction ref="51924">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2010-02-10">40000</value>
+<transaction-date iso-date="2009-12-01">2009-12-01</transaction-date>
+</transaction>
+<transaction ref="38411">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2010-12-01">40000</value>
+<transaction-date iso-date="2010-12-01">2010-12-01</transaction-date>
+</transaction>
+<transaction ref="53432">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Project</receiver-org>
+<value value-date="2011-01-07">40000</value>
+<transaction-date iso-date="2010-12-01">2010-12-01</transaction-date>
+</transaction>
+</iati-activity>
+  <iati-activity hierarchy="1" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-30T00:00:00">
+<reporting-org ref="GB-CHC-285776" type="21">CAFOD</reporting-org>
+<iati-identifier>GB-CHC-285776-MAL093</iati-identifier>
+<other-identifier>MAL093</other-identifier>
+<title>Improved Access to Water and Sanitation in Karonga District</title>
+<description>In Karonga, 45% of people lack access to clean water and 89% lack adequate sanitation facilities. This has a significant impact on health and well being. This project will improve access to safe drinking water by rehabilitating 7 out of use water points, and establishing 4 new water points. Sanitation will be improved by constructing 62 latrines with hand washing facilities in 5 schools and 2 clinics.  Hygiene practices will be enhanced through health and hygiene messaging and the establishment of 5 School Health Clubs. Water Point Committees and pump minders will be trained to maintain infrastructure, to ensure sustainability.</description>
+<activity-status code="2">Implementation</activity-status>
+<default-tied-status code="5">Untied</default-tied-status>
+<activity-date type="start-actual" iso-date="2014-01-14"/>
+<activity-date type="end-planned" iso-date="2015-03-31"/>
+<contact-info>
+<organisation>CAFOD</organisation>
+<email>cafod@cafod.org.uk</email>
+</contact-info>
+<participating-org role="Funding" ref="GB-CHC-285776">CAFOD</participating-org>
+<participating-org role="Implementing">Karonga Diocese CCJP</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector vocabulary="RO">Health and Well-being</sector>
+<sector vocabulary="DAC" code="14030" percentage="50">Basic drinking water supply and basic sanitation</sector>
+<sector vocabulary="DAC" code="14030" percentage="30">Basic drinking water supply and basic sanitation</sector>
+<sector vocabulary="DAC" code="12261" percentage="20">Health education</sector>
+<default-flow-type code="30">Private grants</default-flow-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<transaction ref="45763">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org provider-activity-id="GB-1-202669">CGF</provider-org>
+<value value-date="2014-04-01">15000</value>
+<transaction-date iso-date="2014-04-01">2014-04-01</transaction-date>
+</transaction>
+<transaction ref="59874">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Karonga Diocese CCJP</receiver-org>
+<value value-date="2014-07-11">28555</value>
+<transaction-date iso-date="2014-04-01">2014-04-01</transaction-date>
+</transaction>
+<transaction ref="45764">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2014-04-01">33000</value>
+<transaction-date iso-date="2014-04-01">2014-04-01</transaction-date>
+</transaction>
+</iati-activity>
+  <iati-activity hierarchy="1" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-30T00:00:00">
+<reporting-org ref="GB-CHC-285776" type="21">CAFOD</reporting-org>
+<iati-identifier>GB-CHC-285776-MAL085</iati-identifier>
+<other-identifier>MAL085</other-identifier>
+<title>CCJP Natl. Programme on Civic and Voter Education and Elections Monitoring for 2009 Elections Malawi</title>
+<description>In order for Malawi to have free and fair elections in 2009, the electorate should be well informed and the electoral process should be transparent and respect the guiding values and principles for a free, fair and accessible election. CCJP will provide voter education and monitoring of the electoral process.
+</description>
+<activity-status code="3">Completion</activity-status>
+<default-tied-status code="5">Untied</default-tied-status>
+<activity-date type="start-actual" iso-date="2008-12-08"/>
+<activity-date type="end-planned" iso-date="2013-10-31"/>
+<contact-info>
+<organisation>CAFOD</organisation>
+<email>cafod@cafod.org.uk</email>
+</contact-info>
+<participating-org role="Funding" ref="GB-CHC-285776">CAFOD</participating-org>
+<participating-org role="Implementing">Trocaire Northern Ireland</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector vocabulary="RO">Human Rights</sector>
+<sector vocabulary="DAC" code="99810" percentage="100">Sectors not specified</sector>
+<default-flow-type code="30">Private grants</default-flow-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<transaction ref="33066">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org provider-activity-id="GB-1-202669">CGF</provider-org>
+<value value-date="2008-11-01">26816</value>
+<transaction-date iso-date="2008-11-01">2008-11-01</transaction-date>
+</transaction>
+<transaction ref="50331">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Trocaire Northern Ireland</receiver-org>
+<value value-date="2009-03-20">26816</value>
+<transaction-date iso-date="2008-11-01">2008-11-01</transaction-date>
+</transaction>
+<transaction ref="34634">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2009-04-01">27411</value>
+<transaction-date iso-date="2009-04-01">2009-04-01</transaction-date>
+</transaction>
+<transaction ref="51273">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Trocaire Northern Ireland</receiver-org>
+<value value-date="2009-09-08">27411</value>
+<transaction-date iso-date="2009-04-01">2009-04-01</transaction-date>
+</transaction>
+<transaction ref="37211">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>DfiD</provider-org>
+<value value-date="2010-04-01">32000</value>
+<transaction-date iso-date="2010-04-01">2010-04-01</transaction-date>
+</transaction>
+<transaction ref="53335">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Trocaire Northern Ireland</receiver-org>
+<value value-date="2010-12-14">16000</value>
+<transaction-date iso-date="2010-04-01">2010-04-01</transaction-date>
+</transaction>
+<transaction ref="52563">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Trocaire Northern Ireland</receiver-org>
+<value value-date="2010-05-24">16000</value>
+<transaction-date iso-date="2010-04-01">2010-04-01</transaction-date>
+</transaction>
+</iati-activity>
+  <iati-activity hierarchy="1" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-30T00:00:00">
+<reporting-org ref="GB-CHC-285776" type="21">CAFOD</reporting-org>
+<iati-identifier>GB-CHC-285776-MAL087</iati-identifier>
+<other-identifier>MAL087</other-identifier>
+<title>Enabling Faith Leaders to Take Action in Malawi</title>
+<description>This is CFSC’s Y4 and Y5 project under the ABG Programme; participation of CFSC in ABG began in Y3. 
+
+Faith-Leaders involved in this project will commit to a two-fold approach. Firstly, they use the trainings and meetings provided through the project to create awareness among their flock of the responsibilities of government within the MGDS and motivate citizens to get involved in the development issues. Secondly, they will undertake interfaith and direct advocacy activities with Government on issues of concern.  
+
+What The Project will Entail.
+a) Empowering faith-leaders through training on the rights-based approach to development and governance issues; taking government to tasks on its responsibilities with regard to poverty reduction, respect of human rights and rule of law.
+b) Supporting faith-leaders to undertake lobby and advocacy initiatives through timely dissemination of data.
+c) Increasing awareness at grassroots (through faith-leaders and coalitions) on their rights and how to exercise them, and the roles of the human rights bodies in promoting and protecting people.
+d) Increase awareness among citizens of their responsibility to participate in development issues that affect their local communities particularly through their local governments and build consensus on the importance of decentralisation as key to development and good governance.
+e)  Monitoring of MDGS implementation and sharing the findings in accessible format through faith communities and coalitions; to be done in tandem with a regular sectorial budget monitoring and analysis to ensure that resources are spent on priority areas as stipulated in the MGDS.
+
+To accurately expose the prevailing living conditions of people and to facilitate deeper reflection on the underlying causes of injustices and to inspire value-driven action in the promotion, the CFSC shall concentrate on the three regions of the country  where it currently has contextualised Tobacco Estate studies, and Basic Needs Basket activities;
+
+(a) Blantyre Archdiocese (Covering Zomba District , Blantyre City and Mangochi District)
+
+(b) Lilongwe Archdiocese (Covering Kasungu District, Lilongwe City and Mchinji District)
+
+(c) Mzuzu Diocese  (Covering Mzimba District, Mzuzu City and Rumphi District)
+
+Although the actual contact with faith-leaders will take place at the above district headquarters, engagement with the grassroots will take place at community level; through small communities.
+</description>
+<activity-status code="3">Completion</activity-status>
+<default-tied-status code="5">Untied</default-tied-status>
+<activity-date type="start-actual" iso-date="2010-04-05"/>
+<activity-date type="end-planned" iso-date="2013-06-30"/>
+<contact-info>
+<organisation>CAFOD</organisation>
+<email>cafod@cafod.org.uk</email>
+</contact-info>
+<participating-org role="Funding" ref="GB-CHC-285776">CAFOD</participating-org>
+<participating-org role="Implementing">Trocaire Northern Ireland</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector vocabulary="RO">Governance, Citizenship and Rights</sector>
+<sector vocabulary="DAC" code="15110" percentage="60">Public sector policy and administrative management</sector>
+<sector vocabulary="DAC" code="51010" percentage="40">General budget support</sector>
+<default-flow-type code="30">Private grants</default-flow-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<transaction ref="36963">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org provider-activity-id="GB-1-202669">DfiD</provider-org>
+<value value-date="2010-04-01">32000</value>
+<transaction-date iso-date="2010-04-01">2010-04-01</transaction-date>
+</transaction>
+<transaction ref="52564">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Trocaire Northern Ireland</receiver-org>
+<value value-date="2010-05-24">16000</value>
+<transaction-date iso-date="2010-04-01">2010-04-01</transaction-date>
+</transaction>
+<transaction ref="53706">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Trocaire Northern Ireland</receiver-org>
+<value value-date="2011-02-15">16000</value>
+<transaction-date iso-date="2010-04-01">2010-04-01</transaction-date>
+</transaction>
+<transaction ref="40621">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>DfiD</provider-org>
+<value value-date="2011-07-01">32003</value>
+<transaction-date iso-date="2011-07-01">2011-07-01</transaction-date>
+</transaction>
+<transaction ref="54974">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Trocaire Northern Ireland</receiver-org>
+<value value-date="2011-09-21">32003</value>
+<transaction-date iso-date="2011-07-01">2011-07-01</transaction-date>
+</transaction>
+<transaction ref="42469">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-04-01">26110</value>
+<transaction-date iso-date="2012-04-01">2012-04-01</transaction-date>
+</transaction>
+<transaction ref="56469">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>Trocaire Northern Ireland</receiver-org>
+<value value-date="2012-05-28">26110</value>
+<transaction-date iso-date="2012-04-01">2012-04-01</transaction-date>
+</transaction>
+</iati-activity>
+  <iati-activity hierarchy="1" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-30T00:00:00">
+<reporting-org ref="GB-CHC-285776" type="21">CAFOD</reporting-org>
+<iati-identifier>GB-CHC-285776-MAL089</iati-identifier>
+<other-identifier>MAL089</other-identifier>
+<title> HIV testing and Counselling (HTC) in Malawi-Lighthouse</title>
+<description>Lighthouse would like to increase the number of HIV testing and counselling, by increasing the individual sites of Maula prison, community HTC which form part of the Lighthouse's  linkage with Archdiocese of Lilongwe CHBC. The testing in Kamuzu central Hospital’s short stay is a good practice in reaching the untested.
+
+HIV testing to inmates is critical in reaching the special groups. The Lighthouse will continue with this service to link those that test HIV positive into care and support services including treatment
+
+About 60% of chronic coughers at Martin Preaus Center test HIV positive. This knowledge of status will help in linking clients to care services and treatment. TB/HIV co infection makes them eligible for ART.
+
+The Lighthouse would want to increase HIV ascertainment among TB suspects to 80%. Early Infant Diagnosis is a great PMTCT intervention and the programme will continue to provide HTC to the infants and link them to care services. Those that fail to return for DNA-PCR results will be followed and traced for the same.
+
+Lighthouse commitment to HTC service quality continues with this objective. The partner observes and will continue to uphold the   counselling and testing protocols and that SOPs are being followed. This is where the partner builds its  strength to support MoH quality assurance systems.
+
+
+</description>
+<activity-status code="2">Implementation</activity-status>
+<default-tied-status code="5">Untied</default-tied-status>
+<activity-date type="start-actual" iso-date="2012-02-14"/>
+<activity-date type="end-planned" iso-date="2014-06-30"/>
+<contact-info>
+<organisation>CAFOD</organisation>
+<email>cafod@cafod.org.uk</email>
+</contact-info>
+<participating-org role="Funding" ref="GB-CHC-285776">CAFOD</participating-org>
+<participating-org role="Implementing">The Lighthouse Trust</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector vocabulary="RO">HIV and AIDS </sector>
+<sector vocabulary="DAC" code="12250" percentage="40">Infectious disease control</sector>
+<sector vocabulary="DAC" code="73010" percentage="20">Reconstruction relief and rehabilitation</sector>
+<sector vocabulary="DAC" code="16064" percentage="40">Social mitigation of HIV/AIDS</sector>
+<default-flow-type code="30">Private grants</default-flow-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<transaction ref="41533">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org provider-activity-id="GB-1-202669">CGF</provider-org>
+<value value-date="2011-07-01">40000</value>
+<transaction-date iso-date="2011-07-01">2011-07-01</transaction-date>
+</transaction>
+<transaction ref="56215">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Trust</receiver-org>
+<value value-date="2012-04-19">40000</value>
+<transaction-date iso-date="2011-07-01">2011-07-01</transaction-date>
+</transaction>
+<transaction ref="43217">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2012-07-01">45000</value>
+<transaction-date iso-date="2012-07-01">2012-07-01</transaction-date>
+</transaction>
+<transaction ref="57455">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Trust</receiver-org>
+<value value-date="2013-02-04">45000</value>
+<transaction-date iso-date="2012-07-01">2012-07-01</transaction-date>
+</transaction>
+<transaction ref="44751">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<provider-org>CGF</provider-org>
+<value value-date="2013-07-01">45000</value>
+<transaction-date iso-date="2013-07-01">2013-07-01</transaction-date>
+</transaction>
+<transaction ref="58966">
+<transaction-type code="D">Disbursement</transaction-type>
+<receiver-org>The Lighthouse Trust</receiver-org>
+<value value-date="2013-12-10">45000</value>
+<transaction-date iso-date="2013-07-01">2013-07-01</transaction-date>
+</transaction>
+</iati-activity>
+</iati-activities>

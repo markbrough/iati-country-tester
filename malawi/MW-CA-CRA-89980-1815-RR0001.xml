@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-04-01T00:00:00+00:00" default-currency="CAD" xml:lang="en">
+
+<reporting-org type="22" ref="CA-CRA-89980-1815-RR0001">Engineers Without Borders Canada</reporting-org>
+  <iati-identifier>CA-CRA-89980-1815-RR0001-CA-CRA-89980-1815-RR0001-WatSan</iati-identifier>
+
+  <title>Water and Sanitation</title>
+
+
+
+
+<participating-org role="Implementing" type="22" ref="CA-CRA-89980-1815-RR0001">
+   Engineers Without Borders Canada
+ </participating-org>
+
+
+
+    <activity-website>www.ewb.ca</activity-website>
+
+
+
+
+    <budget>
+      <value currency="CAD" value-date="">322525</value>
+    </budget>
+
+        <recipient-country code="MW">
+          Malawi
+        </recipient-country>
+
+        <location>
+          <location-type code="ADM1">Central Region</location-type>
+          <location-type code="ADM2">Ntchisi</location-type>
+        </location>
+
+
+
+
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-01-31">
+          67457
+        </value>
+
+        <transaction-date iso-date="2012-01-31"/>
+
+
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-01-31">
+          2500
+        </value>
+
+        <transaction-date iso-date="2012-01-31"/>
+
+
+            <description xml:lang="en">Q1 Fiscal 2011-2012 Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-30">
+          87359
+        </value>
+
+        <transaction-date iso-date="2012-04-30"/>
+
+
+            <description xml:lang="en">Q2 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-30">
+          33102
+        </value>
+
+        <transaction-date iso-date="2012-04-30"/>
+
+
+            <description xml:lang="en">Q2 Fiscal 2011-2012 Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-07-31">
+          57171
+        </value>
+
+        <transaction-date iso-date="2012-07-31"/>
+
+
+            <description xml:lang="en">Q3 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-07-31">
+          1092
+        </value>
+
+        <transaction-date iso-date="2012-07-31"/>
+
+
+            <description xml:lang="en">Q3 Fiscal 2011-2012 Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-10-31">
+          53491
+        </value>
+
+        <transaction-date iso-date="2012-10-31"/>
+
+
+            <description xml:lang="en">Q4 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-10-31">
+          25895
+        </value>
+
+        <transaction-date iso-date="2012-10-31"/>
+
+
+            <description xml:lang="en">Q4 Fiscal 2011-2012 Incoming Funding</description>
+        </transaction>
+
+
+
+
+
+
+    </iati-activity>
+</iati-activities>

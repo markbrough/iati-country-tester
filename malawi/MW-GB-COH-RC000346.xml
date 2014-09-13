@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-25T14:50:51" xml:lang="en">
+    <reporting-org ref="GB-COH-RC000346" type="15">Medical Research Council</reporting-org>
+    <iati-identifier>GB-COH-RC000346-MR/K006533/1</iati-identifier>
+    <title>An advanced cookstove intervention to prevent pneumonia in children under 5 years old in 12262awi: a cluster randomised controlled trial</title>
+    <description>Research Grant</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2017-05-31" type="end planned"/>
+    <activity-date iso-date="2012-12-01" type="start-planned"/>
+    <participating-org ref="GB-BIS" role="Funding" type="10">Department for Business Innovation and Skills</participating-org>
+    <participating-org ref="GB-COH-RC000346" role="Extending" type="15">Medical Research Council</participating-org>
+    <participating-org role="Implementing" type="80">Liverpool School of Tropical Medicine</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="13022" vocabulary="DAC"/>
+    <transaction ref="MR/K006533/1">
+      <flow-type code="ODA"/>
+      <provider-org ref="GB-COH-RC000346">Medical Research Council</provider-org>
+      <receiver-org>Liverpool School of Tropical Medicine</receiver-org>
+      <value value-date="2012-12-01">2697485</value>
+      <finance-type code="110"/>
+      <transaction-date iso-date="2012-12-01"/>
+      <transaction-type code="C">Commitment</transaction-type>
+      <description>Total lifetime award</description>
+    </transaction>
+    <transaction>
+      <flow-type code="ODA"/>
+      <provider-org ref="GB-COH-RC000346">Medical Research Council</provider-org>
+      <receiver-org>Liverpool School of Tropical Medicine</receiver-org>
+      <value value-date="2013-12-30">155890</value>
+      <finance-type code="110"/>
+      <transaction-date iso-date="2013-12-30"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>CY13 Total spend</description>
+    </transaction>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2011-10-07">2011-10-07</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2011-10-07">15293</value>
+    </transaction>
+    <description>This action will contribute to poverty reduction and improved health among vegetable farmers in the Techiman district of the Brong Ahafo Region through increased farm incomes as well as reduction in the use of inorganic fertilizers and inputs. Specfically the program will assist farmers to increase their vegetable production outputs by facilitating year-round vegetable production through access to drip irrigation facilities. Participating farmers will double their output by the end of two years. Simultaneously the action will assist farmers to improve the profitability of their farm enterprise through better enterprise management practices.  Through improved planning and coordination as well as cost reduction through reduction in the use of inorganic inputs, the project will assist beneficiaries to increase their earnings by at least 50%.</description>
+    <iati-identifier>GB-CHC-272465-960</iati-identifier>
+    <title>Ghana - BrongAhofo Rural Livelihoods Enhancement Project</title>
+    <activity-date iso-date="2012-10-07" type="end-planned">2012-10-07</activity-date>
+    <sector code="31120" vocab="DAC">Agricultural Development</sector>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <participating-org role="funding">Irish Embassy</participating-org>
+    <activity-date iso-date="2011-10-07" type="start-planned">2011-10-07</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2007-08-24">2007-08-24</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-08-24">355749</value>
+    </transaction>
+    <description>Promoting the creation of independent income for women and improving the knowledge of health rights will empower women and lead to increased participation in local government activities including voting and the direct representation of these women.</description>
+    <iati-identifier>GB-CHC-272465-569</iati-identifier>
+    <title>Ghana - Women of the Upper West - Ending Poverty, Upholding Rights</title>
+    <activity-date iso-date="2012-08-23" type="end-planned">2012-08-23</activity-date>
+    <sector code="11230" vocab="DAC">Basic Life Skills</sector>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <participating-org role="funding">Big Lottery Fund</participating-org>
+    <activity-date iso-date="2007-08-24" type="start-planned">2007-08-24</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2011-10-01">2011-10-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2011-10-01">438597</value>
+    </transaction>
+    <description>The overall goal of the proposed project is to enhance smallholder maize farmers access to markets by stimulating competitive Farmer Based Organizations (FBOs) that are empowered to access post-harvest services and fair markets. This project will work at three levels; 1: To strengthen the organizational capacity of smallholder maize farmer based organizations. 2:  To enhance access of smallholder maize farmers to postharvest services. 3:  To improve access of smallholder maize farmers to markets</description>
+    <iati-identifier>GB-CHC-272465-1070</iati-identifier>
+    <title>Ghana -Development of Market Access and Post Harvest Services for Smallholder Farmers in BrongAhafo</title>
+    <activity-date iso-date="2014-09-30" type="end-planned">2014-09-30</activity-date>
+    <sector code="31120" vocab="DAC">Agricultural Development</sector>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <participating-org role="funding">AGRA</participating-org>
+    <activity-date iso-date="2011-10-01" type="start-planned">2011-10-01</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2010-01-01">2010-01-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-01-01">76174</value>
+    </transaction>
+    <description>This project provides micro-loans to women in order for them to start small businesses.  Businesses include soap making, weaving of local cloth, batik/tye and dye, table/street side shop, and shea butter processing, among others.</description>
+    <iati-identifier>GB-CHC-272465-932</iati-identifier>
+    <title>Ghana - Micro-loans for the Women of the Upper West</title>
+    <activity-date iso-date="2014-12-31" type="end-planned">2014-12-31</activity-date>
+    <sector code="31120" vocab="DAC">Agricultural Development</sector>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <participating-org role="funding">JA Clark CT</participating-org>
+    <activity-date iso-date="2010-01-01" type="start-planned">2010-01-01</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+    <participating-org role="funding">Waterloo Foundation</participating-org>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+    <participating-org role="funding">Individual Donors</participating-org>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+    <participating-org role="funding">Standard Chartered Bank (Ghana)</participating-org>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+    <participating-org role="funding">Small Foundation</participating-org>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+    <participating-org role="funding">Waterloo Foundation</participating-org>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+</iati-activities>

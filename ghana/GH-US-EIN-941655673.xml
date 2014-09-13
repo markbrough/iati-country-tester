@@ -1,0 +1,627 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2012-09-11T00:00:00.0000000-07:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-246000376">The Pennsylvania State University</participating-org>
+    <iati-identifier>US-EIN-941655673-28218</iati-identifier>
+    <activity-website>http://www.psu.edu</activity-website>
+    <other-identifier>28218</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2009-07-20"/>
+    <activity-date type="end-planned" iso-date="2011-07-20"/>
+    <title>for collaborative doctoral training and research mentorship at the Population Research Institute</title>
+    <transaction>
+      <transaction-date iso-date="2009-07-20"/>
+      <value value-date="2009-07-20">300000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-246000376">The Pennsylvania State University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2010-08-26"/>
+      <value value-date="2010-08-26">150000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-246000376">The Pennsylvania State University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-08-02"/>
+      <value value-date="2011-08-02">150000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-246000376">The Pennsylvania State University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Population</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>The Pennsylvania State University</organisation>
+      <mailing-address>201 Old Main University Park, PA  16802</mailing-address>
+      <telephone/>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="3">Completion</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-12-20T00:00:00.0000000-08:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing">University of Sussex</participating-org>
+    <iati-identifier>US-EIN-941655673-28909</iati-identifier>
+    <activity-website>http://www.sussex.ac.uk/</activity-website>
+    <other-identifier>28909</other-identifier>
+    <recipient-country code="SN">SENEGAL</recipient-country>
+    <recipient-country code="ML">MALI</recipient-country>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <recipient-country code="UG">UGANDA</recipient-country>
+    <recipient-country code="TZ">TANZANIA, UNITED REPUBLIC OF</recipient-country>
+    <recipient-country code="KE">KENYA</recipient-country>
+    <activity-date type="start-planned" iso-date="2009-11-16"/>
+    <activity-date type="end-planned" iso-date="2011-05-16"/>
+    <title>for a study of teacher professional development programs in six African countries</title>
+    <transaction>
+      <transaction-date iso-date="2009-11-16"/>
+      <value value-date="2009-11-16">1200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org>University of Sussex</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2009-12-14"/>
+      <value value-date="2009-12-14">1200000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org>University of Sussex</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Global Development</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>University of Sussex</organisation>
+      <mailing-address>Sussex House, Falmer Brighton,   BN1 9RH England, United Kingdom</mailing-address>
+      <telephone>+44(0)1273-606-755</telephone>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="3">Completion</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2014-02-11T00:00:00.0000000-08:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing">Ghana Center for Democratic Development</participating-org>
+    <iati-identifier>US-EIN-941655673-30613</iati-identifier>
+    <activity-website>www.cddgh.org</activity-website>
+    <other-identifier>30613</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2011-11-29"/>
+    <activity-date type="end-planned" iso-date="2012-11-14"/>
+    <title>for a project to provide citizens with information on the performance of public officials in Ghana</title>
+    <transaction>
+      <transaction-date iso-date="2011-11-29"/>
+      <value value-date="2011-11-29">274000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org>Ghana Center for Democratic Development</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-07"/>
+      <value value-date="2011-12-07">224000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org>Ghana Center for Democratic Development</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2013-05-03"/>
+      <value value-date="2013-05-03">50000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org>Ghana Center for Democratic Development</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Global Development and Population</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>Ghana Center for Democratic Development</organisation>
+      <mailing-address>No. 95 Nortei Ababio LoopNorth Airport Residential Area Accra,    Ghana</mailing-address>
+      <telephone/>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="3">Completion</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2014-06-26T00:00:00.0000000-07:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-042103580">President and Fellows of Harvard College</participating-org>
+    <iati-identifier>US-EIN-941655673-31251</iati-identifier>
+    <activity-website>http://www.harvard.edu</activity-website>
+    <other-identifier>31251</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2011-11-30"/>
+    <activity-date type="end-planned" iso-date="2012-09-14"/>
+    <title>for providing technical assistance to support the launch of CDD-Ghana's data center</title>
+    <transaction>
+      <transaction-date iso-date="2011-11-30"/>
+      <value value-date="2011-11-30">167000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-042103580">President and Fellows of Harvard College</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-09"/>
+      <value value-date="2011-12-09">167000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-042103580">President and Fellows of Harvard College</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Global Development and Population</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>President and Fellows of Harvard College</organisation>
+      <mailing-address>124 Mount Auburn Street Cambridge, MA  02138</mailing-address>
+      <telephone/>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="2">Implementation</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-12-20T00:00:00.0000000-08:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-237069110">Oxfam-America, Inc.</participating-org>
+    <iati-identifier>US-EIN-941655673-28619</iati-identifier>
+    <activity-website>http://www.oxfamamerica.org</activity-website>
+    <other-identifier>28619</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2009-07-20"/>
+    <activity-date type="end-planned" iso-date="2010-07-20"/>
+    <title>for civil society to participate in developing a transparent system for managing Ghana's oil wealth</title>
+    <transaction>
+      <transaction-date iso-date="2009-07-20"/>
+      <value value-date="2009-07-20">120000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-237069110">Oxfam-America, Inc.</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2009-09-16"/>
+      <value value-date="2009-09-16">120000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-237069110">Oxfam-America, Inc.</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Global Development</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>Oxfam-America, Inc.</organisation>
+      <mailing-address>226 Causeway StreetFifth Floor Boston, MA  02114-2206</mailing-address>
+      <telephone>(617) 482-1211</telephone>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="3">Completion</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2014-02-28T00:00:00.0000000-08:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-060646973">Yale University</participating-org>
+    <iati-identifier>US-EIN-941655673-30873</iati-identifier>
+    <activity-website>http://www.yale.edu/</activity-website>
+    <other-identifier>30873</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2011-11-14"/>
+    <activity-date type="end-planned" iso-date="2013-11-14"/>
+    <title>for research on reproductive health in Ghana</title>
+    <transaction>
+      <transaction-date iso-date="2011-11-14"/>
+      <value value-date="2011-11-14">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-060646973">Yale University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-08-27"/>
+      <value value-date="2012-08-27">100000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-060646973">Yale University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2013-07-09"/>
+      <value value-date="2013-07-09">100000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-060646973">Yale University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2013-09-10"/>
+      <value value-date="2013-09-10">100000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-060646973">Yale University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Global Development and Population</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>Yale University</organisation>
+      <mailing-address>P.O. Box 2038 New Haven, CT  06520</mailing-address>
+      <telephone/>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="2">Implementation</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-12-20T00:00:00.0000000-08:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-061660068">Innovations for Poverty Action, A New Jersey Nonprofit Corporation</participating-org>
+    <iati-identifier>US-EIN-941655673-30181</iati-identifier>
+    <activity-website>http://www.poverty-action.org</activity-website>
+    <other-identifier>30181</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2010-11-15"/>
+    <activity-date type="end-planned" iso-date="2011-11-15"/>
+    <title>for evaluating a remedial education program in Ghana</title>
+    <transaction>
+      <transaction-date iso-date="2010-11-15"/>
+      <value value-date="2010-11-15">250000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-061660068">Innovations for Poverty Action, A New Jersey Nonprofit Corporation</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2010-12-02"/>
+      <value value-date="2010-12-02">250000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-061660068">Innovations for Poverty Action, A New Jersey Nonprofit Corporation</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Global Development</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>Innovations for Poverty Action, A New Jersey Nonprofit Corporation</organisation>
+      <mailing-address>101 Whitney AvenueSecond Floor New Haven, CT  06510</mailing-address>
+      <telephone>(203) 772-2216</telephone>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="3">Completion</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-12-20T00:00:00.0000000-08:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-131687001">Population Council, Inc.</participating-org>
+    <iati-identifier>US-EIN-941655673-28513</iati-identifier>
+    <activity-website>http://www.popcouncil.org</activity-website>
+    <other-identifier>28513</other-identifier>
+    <recipient-country code="SN">SENEGAL</recipient-country>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <recipient-country code="NA">NAMIBIA</recipient-country>
+    <activity-date type="start-planned" iso-date="2009-07-20"/>
+    <activity-date type="end-planned" iso-date="2011-07-20"/>
+    <title>for a project to increase data demand by African journalists</title>
+    <transaction>
+      <transaction-date iso-date="2009-07-20"/>
+      <value value-date="2009-07-20">600000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-131687001">Population Council, Inc.</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2009-08-06"/>
+      <value value-date="2009-08-06">600000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-131687001">Population Council, Inc.</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Population</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>Population Council, Inc.</organisation>
+      <mailing-address>One Dag Hammarskjold Plaza New York, NY  10017-2201</mailing-address>
+      <telephone>(212) 339-0663</telephone>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="3">Completion</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2014-03-05T00:00:00.0000000-08:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-246000376">The Pennsylvania State University</participating-org>
+    <iati-identifier>US-EIN-941655673-31773</iati-identifier>
+    <activity-website>http://www.psu.edu</activity-website>
+    <other-identifier>31773</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2012-07-16"/>
+    <activity-date type="end-planned" iso-date="2015-07-16"/>
+    <title>for collaborative doctoral training and research mentorship at the Population Research Institute</title>
+    <transaction>
+      <transaction-date iso-date="2012-07-16"/>
+      <value value-date="2012-07-16">450000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-246000376">The Pennsylvania State University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-08-23"/>
+      <value value-date="2012-08-23">150000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-246000376">The Pennsylvania State University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2013-06-05"/>
+      <value value-date="2013-06-05">150000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-246000376">The Pennsylvania State University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Global Development and Population</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>The Pennsylvania State University</organisation>
+      <mailing-address>201 Old Main University Park, PA  16802</mailing-address>
+      <telephone/>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="2">Implementation</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-04-15T00:00:00.0000000-07:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-237069110">Oxfam-America, Inc.</participating-org>
+    <iati-identifier>US-EIN-941655673-30064</iati-identifier>
+    <activity-website>http://www.oxfamamerica.org</activity-website>
+    <other-identifier>30064</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2010-11-15"/>
+    <activity-date type="end-planned" iso-date="2012-11-15"/>
+    <title>for civil society to participate in developing a transparent system for managing Ghana's oil wealth</title>
+    <transaction>
+      <transaction-date iso-date="2010-11-15"/>
+      <value value-date="2010-11-15">500000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-237069110">Oxfam-America, Inc.</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-02-09"/>
+      <value value-date="2011-02-09">323728</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-237069110">Oxfam-America, Inc.</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-03-23"/>
+      <value value-date="2012-03-23">176272</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-237069110">Oxfam-America, Inc.</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Global Development</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>Oxfam-America, Inc.</organisation>
+      <mailing-address>226 Causeway StreetFifth Floor Boston, MA  02114-2206</mailing-address>
+      <telephone>(617) 482-1211</telephone>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="3">Completion</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2014-02-11T00:00:00.0000000-08:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-204451390">Revenue Watch Institute</participating-org>
+    <iati-identifier>US-EIN-941655673-30834</iati-identifier>
+    <activity-website>www.resourcegovernance.org</activity-website>
+    <other-identifier>30834</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2011-11-14"/>
+    <activity-date type="end-planned" iso-date="2012-11-14"/>
+    <title>for the videoconferencing project</title>
+    <transaction>
+      <transaction-date iso-date="2011-11-14"/>
+      <value value-date="2011-11-14">42810</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-204451390">Revenue Watch Institute</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-07"/>
+      <value value-date="2011-12-07">42810</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-204451390">Revenue Watch Institute</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Global Development and Population</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>Revenue Watch Institute</organisation>
+      <mailing-address>1700 Broadway, 17th Floor New York, NY  10019</mailing-address>
+      <telephone>(646) 929-9750</telephone>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="3">Completion</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-04-12T00:00:00.0000000-07:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-135598093">Trustees of Columbia University in the City of New York</participating-org>
+    <iati-identifier>US-EIN-941655673-29155</iati-identifier>
+    <activity-website>http://www.columbia.edu</activity-website>
+    <other-identifier>29155</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2009-11-17"/>
+    <activity-date type="end-planned" iso-date="2011-11-17"/>
+    <title>for a project to strengthen reproductive health and family planning services in sub-Sahara Africa</title>
+    <transaction>
+      <transaction-date iso-date="2009-11-17"/>
+      <value value-date="2009-11-17">400000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-135598093">Trustees of Columbia University in the City of New York</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2010-07-29"/>
+      <value value-date="2010-07-29">200000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-135598093">Trustees of Columbia University in the City of New York</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-09-07"/>
+      <value value-date="2012-09-07">200000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-135598093">Trustees of Columbia University in the City of New York</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Population</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>Trustees of Columbia University in the City of New York</organisation>
+      <mailing-address>2960 Broadway New York, NY  10027-6902</mailing-address>
+      <telephone/>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="3">Completion</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2014-06-26T00:00:00.0000000-07:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing">Ghana Center for Democratic Development</participating-org>
+    <iati-identifier>US-EIN-941655673-33105</iati-identifier>
+    <activity-website>www.cddgh.org</activity-website>
+    <other-identifier>33105</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2013-11-11"/>
+    <activity-date type="end-planned" iso-date="2015-03-22"/>
+    <title>for a project to inform citizens about the quality of public service delivery</title>
+    <description>This project tests the hypothesis that public service delivery for the poor may be improved by increasing citizen access to socioeconomic data at the district level in Ghana. The Ghana Center for Democratic Development will collect, analyze, archive, and disseminate data on the quality of public services alongside other publicly available information on quality of life and development outcomes. Empowered with this objective and comparable information, citizens, researchers, and the media will be able to evaluate whether public officials are effectively using public resources. The Center will then measure the degree to which citizen demands for greater public official accountability result in improved service delivery.</description>
+    <transaction>
+      <transaction-date iso-date="2013-11-11"/>
+      <value value-date="2013-11-11">1000000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org>Ghana Center for Democratic Development</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2014-01-14"/>
+      <value value-date="2014-01-14">250000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org>Ghana Center for Democratic Development</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Global Development and Population</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>Ghana Center for Democratic Development</organisation>
+      <mailing-address>No. 95 Nortei Ababio LoopNorth Airport Residential Area Accra,    Ghana</mailing-address>
+      <telephone/>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="2">Implementation</activity-status>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-12-20T00:00:00.0000000-08:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</reporting-org>
+    <participating-org role="Funding" type="60" ref="US-EIN-941655673">The William and Flora Hewlett Foundation</participating-org>
+    <participating-org role="Implementing" ref="US-EIN-060646973">Yale University</participating-org>
+    <iati-identifier>US-EIN-941655673-28847</iati-identifier>
+    <activity-website>http://www.yale.edu/</activity-website>
+    <other-identifier>28847</other-identifier>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <activity-date type="start-planned" iso-date="2009-12-16"/>
+    <activity-date type="end-planned" iso-date="2011-12-16"/>
+    <title>for research on reproductive health in Ghana</title>
+    <transaction>
+      <transaction-date iso-date="2009-11-16"/>
+      <value value-date="2009-11-16">300000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+      <receiver-org ref="US-EIN-060646973">Yale University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2010-02-02"/>
+      <value value-date="2010-02-02">300000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <receiver-org ref="US-EIN-060646973">Yale University</receiver-org>
+      <provider-org ref="US-EIN-941655673">The William and Flora Hewlett Foundation</provider-org>
+      <disbursement-channel code="2">Grant to implementing institutions</disbursement-channel>
+    </transaction>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <sector vocabulary="RO">Population</sector>
+    <collaboration-type code="3"/>
+    <contact-info>
+      <organisation>Yale University</organisation>
+      <mailing-address>P.O. Box 2038 New Haven, CT  06520</mailing-address>
+      <telephone/>
+    </contact-info>
+    <default-flow-type code="30">Private Grants</default-flow-type>
+    <default-finance-type code="110">Grant</default-finance-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-status code="3">Completion</activity-status>
+  </iati-activity>
+</iati-activities>

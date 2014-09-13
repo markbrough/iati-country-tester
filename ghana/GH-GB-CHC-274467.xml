@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:48" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-XGH0Z12000-REB007-R-2560-GH</iati-identifier>
+    <title>Governments and EU</title>
+    <description>Government Grants/Funding</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2015-12-31" type="end-planned"/>
+    <activity-date iso-date="2012-01-01" type="start-planned"/>
+    <participating-org role="Funding" type="10">DUTCH MINISTRY OF FOREIGN AFFAIRS</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-XGH0Z12000-REB007-R-2560-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2012-01-01">187463</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2012-01-01">2012-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received from DFID and European Union (EC Grants)</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-FF00NS00-DEO000-R-2100-GH</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-FF00NS00-DEO000-R-2100-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">434408</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T11:57:45" xml:lang="en">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-XGH0D12001-REB007-R-2550-GH</iati-identifier>
+    <title>Regular Appeals</title>
+    <description>Individual donations</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned">2013-12-31</activity-date>
+    <activity-date iso-date="2013-01-01" type="start-planned">2013-01-01</activity-date>
+    <participating-org role="Funding" type="15">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-XGH0D12001-REB007-R-2550-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value value-date="2013-01-01">1</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Donations received from individuals</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-GH000012-REB008-R-2112-GH</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-GH000012-REB008-R-2112-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">50</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2013-06-14T14:14:51+00:00">
+    <reporting-org ref="GB-CHC-274467" type="21" xml:lang="en">ActionAid UK</reporting-org>
+    <iati-identifier>GB-CHC-274467-5AAI-PJ-00171</iati-identifier>
+    <title>Women’s Rights to Sustainable Livelihoods  </title>
+    <description>This food security and women’s rights programme seeks to address the barriers that prevent women from participating in economic, political and social actions that would enable them to fully realise their rights as smallholder farmers and equal members of their society.  </description>
+    <activity-status code="2"/>
+    <activity-date iso-date="2015-12-31" type="end-planned"/>
+    <activity-date iso-date="2012-01-01" type="start-actual"/>
+    <participating-org role="Funding">Dutch Ministry of Foreign Affairs</participating-org>
+    <participating-org role="Accountable">ActionAid UK</participating-org>
+    <participating-org role="Implementing">ActionAide Rwanda</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-country code="RW"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value value-date="2012-01-01">2044577</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C"/>
+      <value value-date="2012-12-31">370251</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <value value-date="2012-12-31">185592</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <value value-date="2012-12-31">607908</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-CS-REK000-R-2101-GH</iati-identifier>
+    <title>Child Sponsorship</title>
+    <description>Income from individuals to support children and their communities</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-CS-REK000-R-2101-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">255054</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through Child Sponsorhip </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:01:13" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-XGH0D13000-REB007-R-2510-GH</iati-identifier>
+    <title>Trusts</title>
+    <description>Funds provided by Trusts and Foundations</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2014-04-21" type="end-planned"/>
+    <activity-date iso-date="2013-04-22" type="start-planned"/>
+    <participating-org role="Funding" type="60">Trusts</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-XGH0D13000-REB007-R-2510-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-04-22">35055</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-04-22"/>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Donations received from Trusts and Foundations</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-FF000009-REB009-R-2112-GH</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-FF000009-REB009-R-2112-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">75</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2013-06-18T13:37:37+00:00">
+    <reporting-org ref="GB-CHC-274467" type="21" xml:lang="en">ActionAid UK</reporting-org>
+    <iati-identifier>GB-CHC-274467-5GBR-PM-00044</iati-identifier>
+    <title>Strengthening the international food security network (IFSN 2) for an increased Food and nutritional security </title>
+    <description>Strengthening the international food security network (IFSN) for an increased Food and nutritional security </description>
+    <activity-status code="3"/>
+    <activity-date iso-date="2009-10-06" type="start-actual"/>
+    <activity-date iso-date="2012-11-30" type="end-actual"/>
+    <participating-org role="Funding">EC (UK)</participating-org>
+    <participating-org role="Accountable">ActionAid UK</participating-org>
+    <recipient-country code="BD"/>
+    <recipient-country code="BF"/>
+    <recipient-country code="KH"/>
+    <recipient-country code="ET"/>
+    <recipient-country code="GH"/>
+    <recipient-country code="IN"/>
+    <recipient-country code="MW"/>
+    <recipient-country code="MZ"/>
+    <recipient-country code="PT"/>
+    <recipient-country code="NL"/>
+    <recipient-country code="PK"/>
+    <recipient-country code="FR"/>
+    <recipient-country code="SN"/>
+    <recipient-country code="GM"/>
+    <recipient-country code="UG"/>
+    <recipient-country code="VN"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget>
+      <period-start iso-date="2009-10-06"/>
+      <period-end iso-date="2012-11-30"/>
+      <value value-date="2009-10-06" currency="EUR">2796000</value>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-CS-REB031-R-2113-GH</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-CS-REB031-R-2113-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">144</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-FF00NS00-REB002-R-2113-GH</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-FF00NS00-REB002-R-2113-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">144</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2013-06-14T13:20:17+00:00">
+    <reporting-org ref="GB-CHC-274467" type="21" xml:lang="en">ActionAid UK</reporting-org>
+    <iati-identifier>GB-CHC-274467-5GBR-PJ-00041</iati-identifier>
+    <title xml:lang="en">Stop Violence Against Girls in School</title>
+    <description>This project is tackling structural barriers to education for girls: violence against girls in schools in Mozambique, Kenya and Ghana. Through research, advocacy and community work this project is changing the school environment for girls by working with girls, boys, teachers, school management committees, parents, police, health care workers, and decision-makers at the community, district and national level. It is identifying effective interventions and influencing policy makers to adopt and implement a legal and policy framework that specifically addresses VAGS.</description>
+    <activity-status code="2"/>
+    <activity-date iso-date="2008-07-01" type="start-actual"/>
+    <activity-date iso-date="2013-08-31" type="end-planned"/>
+    <participating-org role="Funding">Big Lottery Fund</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Mozambique</participating-org>
+    <participating-org role="Implementing">ActionAid Kenya</participating-org>
+    <participating-org role="Accountable">ActionAid UK</participating-org>
+    <recipient-country code="MZ"/>
+    <recipient-country code="KE"/>
+    <recipient-country code="GH"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget>
+      <period-start iso-date="2008-07-01"/>
+      <period-end iso-date="2013-08-31"/>
+      <value value-date="2008-07-01">4531530</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C"/>
+      <provider-org>Department for International Development</provider-org>
+      <receiver-org>ActionAid UK</receiver-org>
+      <value value-date="2012-12-31">1023243</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org>Department for International Development</provider-org>
+      <receiver-org>ActionAid UK </receiver-org>
+      <value value-date="2012-12-31">978068</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org>Department for International Development (DFID) </provider-org>
+      <receiver-org>ActionAid UK </receiver-org>
+      <value value-date="2012-12-31">868119</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-FF000004-REB009-R-2112-GH</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-FF000004-REB009-R-2112-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">1100</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T11:57:45" xml:lang="en">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-CS-REB001-R-2315-GH</iati-identifier>
+    <title>Regular Appeals</title>
+    <description>Individual donations</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned">2013-12-31</activity-date>
+    <activity-date iso-date="2013-01-01" type="start-planned">2013-01-01</activity-date>
+    <participating-org role="Funding" type="15">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Ghana</participating-org>
+    <participating-org role="Implementing">ActionAid Ghana</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-CS-REB001-R-2315-GH">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Ghana</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value value-date="2013-01-01">72</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Donations received from individuals</description>
+    </transaction>
+  </iati-activity>
+</iati-activities>

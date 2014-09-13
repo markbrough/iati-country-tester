@@ -1,0 +1,77 @@
+official,pct,remove,org,orgname,orgtype,filename,url,package_name,package_title
+1,0.0180398734,,XM-DAC-21-1,DFAT  / Irish Aid,10,MW-XM-DAC-21-1.xml,,MW-XM-DAC-21-1,MW Activity file XM-DAC-21-1
+1,0.0017967069,,FI-3,Ministry for Foreign Affairs of Finland,10,MW-FI-3.xml,,MW-FI-3,MW Activity file FI-3
+1,0.079915755,,GB-1,Department for International Development,10,MW-GB-1.xml,http://iati.dfid.gov.uk/iati_files/Country/DFID-Malawi-MW.xml,MW-GB-1,MW Activity file GB-1
+1,0.0444756463,,XM-DAC-701-8,Japan International Cooperation Agency (JICA),10,MW-XM-DAC-701-8.xml,,MW-XM-DAC-701-8,MW Activity file XM-DAC-701-8
+1,0.0179852701,,CA-3,Canada,10,MW-CA-3.xml,,MW-CA-3,MW Activity file CA-3
+1,0.0456509162,,DE-1,BMZ,10,MW-DE-1.xml,,MW-DE-1,MW Activity file DE-1
+1,0.0004290255,,ES-5,"Ministry of Foreign Affairs and Cooperation, Spain",10,MW-ES-5.xml,,MW-ES-5,MW Activity file ES-5
+1,0.0042798547,,DK-1,"Ministry of Foreign Affairs, Denmark",10,MW-DK-1.xml,,MW-DK-1,MW Activity file DK-1
+1,0.1518568355,,US,United States,10,MW-US.xml,http://datafagov.azurewebsites.net/Activities/Malawi.xml,MW-US,MW Activity file US
+1,0.0046646775,,AU-5,Australian Aid,10,MW-AU-5.xml,,MW-AU-5,MW Activity file AU-5
+1,0.0017161021,,SE-0,Sweden,10,MW-SE-0.xml,http://iati.openaid.se/xml/GH.xml,MW-SE-0,MW Activity file SE-0
+1,0.138588246,,EU,European Commission - Development and Cooperation-EuropeAid,15,MW-EU.xml,,MW-EU,MW Activity file EU
+1,0.0029563759,,41119,United Nations Population Fund,40,MW-41119.xml,,MW-41119,MW Activity file 41119
+1,0.0069996165,,41114,United Nations Development Programme,40,MW-41114.xml,http://www.undp.org/content/dam/undp/documents/iati_xml/CO_2014/Ghana_projects.xml,MW-41114,MW Activity file 41114
+1,0.0613740518,,47045,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",40,MW-47045.xml,,MW-47045,MW Activity file 47045
+1,0.0307624304,,46002,African Development Bank Group,40,MW-46002.xml,,MW-46002,MW Activity file 46002
+1,0.0081956876,,41122,UNICEF,40,MW-41122.xml,,MW-41122,MW Activity file 41122
+1,0.2014755878,,44000,World Bank Group,40,MW-44000.xml,http://siteresources.worldbank.org/IATI/WB-GH.xml,MW-44000,MW Activity file 44000
+1,0.0160767566,,47122,The Global Alliance for Vaccination and Immunisation,40,MW-47122.xml,,MW-47122,MW Activity file 47122
+,,,411124,UN Women,40,MW-411124.xml,,MW-411124,MW Activity file 411124
+1,0.0085077062,,DAC-1601,Bill and Melinda Gates Foundation,60,MW-DAC-1601.xml,,MW-DAC-1601,MW Activity file DAC-1601
+1,0,,NL-1,Ministry of Foreign Affairs (DGIS),10,MW-NL-1.xml,,MW-NL-1,MW Activity file NL-1
+,,1,GB-3,Foreign & Commonwealth Office,10,MW-GB-3.xml,,MW-GB-3,MW Activity file GB-3
+,,1,50,Spain,10,MW-50.xml,,MW-50,MW Activity file 50
+,,,GB-COH-RC000346,Medical Research Council,15,MW-GB-COH-RC000346.xml,,MW-GB-COH-RC000346,MW Activity file GB-COH-RC000346
+,,,GB-CHC-1139083,GROW Movement,21,MW-GB-CHC-1139083.xml,,MW-GB-CHC-1139083,MW Activity file GB-CHC-1139083
+,,,21020,International HIV/AIDS Alliance	,21,MW-21020.xml,,MW-21020,MW Activity file 21020
+,,,GB-CHC-1102028,Canon Collins Trust,21,MW-GB-CHC-1102028.xml,,MW-GB-CHC-1102028,MW Activity file GB-CHC-1102028
+,,,GB-CHC-285908,World Vision UK,21,MW-GB-CHC-285908.xml,,MW-GB-CHC-285908,MW Activity file GB-CHC-285908
+,,,GB-CHC-1085096,Women and Children First (UK),21,MW-GB-CHC-1085096.xml,,MW-GB-CHC-1085096,MW Activity file GB-CHC-1085096
+,,,GB-CHC-272465,Concern Universal,21,MW-GB-CHC-272465.xml,,MW-GB-CHC-272465,MW Activity file GB-CHC-272465
+,,,GB-CHC-1077889,Pump Aid,21,MW-GB-CHC-1077889.xml,,MW-GB-CHC-1077889,MW Activity file GB-CHC-1077889
+,,,NL-KVK-27264198,ActionAid International,21,MW-NL-KVK-27264198.xml,,MW-NL-KVK-27264198,MW Activity file NL-KVK-27264198
+,,,GB-CHC-1104287,MicroLoan Foundation,21,MW-GB-CHC-1104287.xml,,MW-GB-CHC-1104287,MW Activity file GB-CHC-1104287
+,,,GB-CHC-1071886,TB Alert,21,MW-GB-CHC-1071886.xml,,MW-GB-CHC-1071886,MW Activity file GB-CHC-1071886
+,,,GB-CHC-1079358,Motivation,21,MW-GB-CHC-1079358.xml,,MW-GB-CHC-1079358,MW Activity file GB-CHC-1079358
+,,,GB-CHC-202918,Oxfam GB,21,MW-GB-CHC-202918.xml,,MW-GB-CHC-202918,MW Activity file GB-CHC-202918
+,,,US-EIN-84-1166148,Water for People,21,MW-US-EIN-84-1166148.xml,,MW-US-EIN-84-1166148,MW Activity file US-EIN-84-1166148
+,,,GB-CHC-274467,ActionAid United Kingdom,21,MW-GB-CHC-274467.xml,,MW-GB-CHC-274467,MW Activity file GB-CHC-274467
+,,,GB-CHC-1105851,Christian Aid,21,MW-GB-CHC-1105851.xml,,MW-GB-CHC-1105851,MW Activity file GB-CHC-1105851
+,,,21032,Population Services International,21,MW-21032.xml,,MW-21032,MW Activity file 21032
+,,,NL-KVK-27327087,Akvo Foundation,21,MW-NL-KVK-27327087.xml,,MW-NL-KVK-27327087,MW Activity file NL-KVK-27327087
+,,,GB-OSCR-SC032327,EMMS International,21,MW-GB-OSCR-SC032327.xml,,MW-GB-OSCR-SC032327,MW Activity file GB-OSCR-SC032327
+,,,NL-KVK-41160054,Stichting Cordaid,21,MW-NL-KVK-41160054.xml,,MW-NL-KVK-41160054,MW Activity file NL-KVK-41160054
+,,,GB-COH-213890,Save The Children UK,21,MW-GB-COH-213890.xml,,MW-GB-COH-213890,MW Activity file GB-COH-213890
+,,,GB-CHC-1001698,Interact Worldwide,21,MW-GB-CHC-1001698.xml,,MW-GB-CHC-1001698,MW Activity file GB-CHC-1001698
+,,,GB-CHC-1104458,Theatre for a Change UK,21,MW-GB-CHC-1104458.xml,,MW-GB-CHC-1104458,MW Activity file GB-CHC-1104458
+,,,GB-COH-1364201,Plan International UK,21,MW-GB-COH-1364201.xml,,MW-GB-COH-1364201,MW Activity file GB-COH-1364201
+,,,US-EIN-300108263,GlobalGiving,21,MW-US-EIN-300108263.xml,,MW-US-EIN-300108263,MW Activity file US-EIN-300108263
+,,,GB-CHC-288701,WaterAid,21,MW-GB-CHC-288701.xml,,MW-GB-CHC-288701,MW Activity file GB-CHC-288701
+,,,GB-COH-NI21482,Trocaire (Northern Ireland),21,MW-GB-COH-NI21482.xml,,MW-GB-COH-NI21482,MW Activity file GB-COH-NI21482
+,,,GB-CHC-313757,Voluntary Service Overseas (VSO),21,MW-GB-CHC-313757.xml,,MW-GB-CHC-313757,MW Activity file GB-CHC-313757
+,,,NL-KVK-34229026,Aflatoun,21,MW-NL-KVK-34229026.xml,,MW-NL-KVK-34229026,MW Activity file NL-KVK-34229026
+,,,IE-6663,Self Help Africa,21,MW-IE-6663.xml,,MW-IE-6663,MW Activity file IE-6663
+,,,GB-CHC-291824,Twin,21,MW-GB-CHC-291824.xml,,MW-GB-CHC-291824,MW Activity file GB-CHC-291824
+,,,GB-CHC-285776,CAFOD,21,MW-GB-CHC-285776.xml,,MW-GB-CHC-285776,MW Activity file GB-CHC-285776
+,,,GB-SC-037959,Link Community Development Scotland,21,MW-GB-SC-037959.xml,,MW-GB-SC-037959,MW Activity file GB-SC-037959
+,,,GB-CHC-207544,Sightsavers,21,MW-GB-CHC-207544.xml,,MW-GB-CHC-207544,MW Activity file GB-CHC-207544
+,,,GB-GHC-207544,Sightsavers,21,MW-GB-GHC-207544.xml,,MW-GB-GHC-207544,MW Activity file GB-GHC-207544
+,,,CA-CRA-89980-1815-RR0001,Engineers Without Borders Canada,22,MW-CA-CRA-89980-1815-RR0001.xml,,MW-CA-CRA-89980-1815-RR0001,MW Activity file CA-CRA-89980-1815-RR0001
+,,,MW-NBM-00139,Theatre for a Change Malawi,22,MW-MW-NBM-00139.xml,,MW-MW-NBM-00139,MW Activity file MW-NBM-00139
+,,,dm,Development Aid from People to People,22,MW-dm.xml,,MW-dm,MW Activity file dm
+,,,NL-KVK-41177206,ICCO,22,MW-NL-KVK-41177206.xml,,MW-NL-KVK-41177206,MW Activity file NL-KVK-41177206
+,,,NL-KVK-41198677,HIVOS,22,MW-NL-KVK-41198677.xml,,MW-NL-KVK-41198677,MW Activity file NL-KVK-41198677
+,,,IM-CR-017899B,Manx Times,23,MW-IM-CR-017899B.xml,,MW-IM-CR-017899B,MW Activity file IM-CR-017899B
+,,,EU-4,Humanitarian Aid Office of the European Commission,40,MW-EU-4.xml,,MW-EU-4,MW Activity file EU-4
+,,,41140,World Food Programme,40,MW-41140.xml,,MW-41140,MW Activity file 41140
+,,,41120,UN-Habitat,40,MW-41120.xml,,MW-41120,MW Activity file 41120
+,,,41AAA,United Nations Office for Project Services,40,MW-41AAA.xml,,MW-41AAA,MW Activity file 41AAA
+,,,GB-CHC-1075920,The Indigo Trust,60,MW-GB-CHC-1075920.xml,,MW-GB-CHC-1075920,MW Activity file GB-CHC-1075920
+,,,GB-CHC-1087997,Stars Foundation,60,MW-GB-CHC-1087997.xml,,MW-GB-CHC-1087997,MW Activity file GB-CHC-1087997
+,,,GB-COH-03580586-GEC,Girls' Education Challenge - Fund Manager PwC,70,MW-GB-COH-03580586-GEC.xml,,MW-GB-COH-03580586-GEC,MW Activity file GB-COH-03580586-GEC
+,,,GB-COH-03788027,Triple Line & Crown Agents (Joint Venture),70,MW-GB-COH-03788027.xml,,MW-GB-COH-03788027,MW Activity file GB-COH-03788027
+,,1,GB-COH-03877777,CDC Group plc,70,MW-GB-COH-03877777.xml,,MW-GB-COH-03877777,MW Activity file GB-COH-03877777
+,,,NL-KvK-27108436,,,MW-NL-KvK-27108436.xml,,MW-NL-KvK-27108436,MW Activity file NL-KvK-27108436
+,,,XM-DAC-44101,Global Education Project,,MW-XM-DAC-44101.xml,,MW-XM-DAC-44101,MW Activity file XM-DAC-44101

@@ -1,0 +1,1279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012004964</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012004964</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-10951-1</other-identifier>
+		<title xml:lang="en">MAINTENANCE OF THE NURSERY SCHOOL.</title>
+		<description xml:lang="es">Mantenimiento de guardería infantil ::  --- original channelcode : 11003</description>
+		<sector vocabulary="DAC" code="11240"/>
+		<activity-date type="start-planned" iso-date="2012-10-01"/>
+		<activity-date type="end-planned" iso-date="2013-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="4"/>
+		<policy-marker vocabulary="DAC" code="1" significance="2"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Poblado de Mlale</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">4800</value>
+			<transaction-date iso-date="2012-10-01"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">4800</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012006435</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012006435</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-12720-1</other-identifier>
+		<title xml:lang="en">LABORATORY AND EQUIPMENT FOR THE FISH-FARM OF THE FARM-SCHOOL OF MLALE. MALAWI.</title>
+		<description xml:lang="es">Laboratorio y equipamiento para la piscifactoría de la granja-escuela de Mlale. Malawi ::</description>
+		<sector vocabulary="DAC" code="31320"/>
+		<activity-date type="start-planned" iso-date="2012-07-02"/>
+		<activity-date type="end-planned" iso-date="2013-07-01"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Mlale</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">29066</value>
+			<transaction-date iso-date="2012-07-02"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">29066</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011007506</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011007506</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-2553-0001</other-identifier>
+		<title xml:lang="en">ELDER PEOPLE PROGRAM IN THE RURAL VILLAGES OF MLALE.</title>
+		<description xml:lang="es">Programa de ancianos en los poblados rurales de Mlale</description>
+		<sector vocabulary="DAC" code="16010"/>
+		<activity-date type="start-planned" iso-date="2011-10-01"/>
+		<activity-date type="end-planned" iso-date="2012-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">4000</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">4000</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011007461</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011007461</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-2563-0001</other-identifier>
+		<title xml:lang="en">6TH PHASE. FARMING SCHOOL AND WATER DISTRIBUTION NETWORK.</title>
+		<description xml:lang="es">6ª Fase Escuela Agropecuaria y red de distribución de agua</description>
+		<sector vocabulary="DAC" code="31181"/>
+		<activity-date type="start-planned" iso-date="2011-10-01"/>
+		<activity-date type="end-planned" iso-date="2012-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="0"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">75000</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">75000</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011007478</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011007478</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-2561-0001</other-identifier>
+		<title xml:lang="en">EMERGENCY FOOD AID AND AGAINST UNDERNOURISHMENT.</title>
+		<description xml:lang="es">Ayuda de emergencia para alimentación y contra la desnutrición</description>
+		<sector vocabulary="DAC" code="72040"/>
+		<activity-date type="start-planned" iso-date="2011-10-01"/>
+		<activity-date type="end-planned" iso-date="2012-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">18000</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">18000</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012006408</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012006408</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-12613-1</other-identifier>
+		<title xml:lang="en">AMBULANCE BICYCLES FOR THE RURAL AREA OF MALAWI.</title>
+		<description xml:lang="es">Bicicletas ambulancia para el área rural de Malawi :: Mejorar el estado de salud de las comunidades rurales del distrito de Lilongwe</description>
+		<sector vocabulary="DAC" code="12230"/>
+		<activity-date type="start-planned" iso-date="2012-06-01"/>
+		<activity-date type="end-planned" iso-date="2013-06-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>35 aldeas de los distritos de Lilongwe i Mchinji, en 8 de las cuales colabora indirectamente el Ayu</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">7118</value>
+			<transaction-date iso-date="2012-06-01"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">7118</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!--Advance of Spanish cooperation data-->
+    <reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+    <participating-org role="Funding" type="10" xml:lang="en">Spain</participating-org>
+    <participating-org role="Extending" ref="21" xml:lang="es">CCAA ARA - Aragón</participating-org>
+    <participating-org role="Implementing" ref="230" xml:lang="es">Fundación Entreculturas - Fe y Alegría</participating-org>
+    <participating-org role="Accountable" ref="21" xml:lang="es">CCAA ARA - Aragón</participating-org>
+    <recipient-country code="MW" percentage="100" xml:lang="es">MALAWI</recipient-country>
+    <recipient-region code="289" vocabulary="DAC"/>
+    <collaboration-type code="1" xml:lang="es"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <iati-identifier>ES-5-009-066317</iati-identifier>
+    <other-identifier owner-ref="ES-5">009-066317-1</other-identifier>
+    <title xml:lang="es">MEJORA DE LA EDUCACIÓN DE LA POBLACIÓN REFUGIADA EN EL CAMPO DE DZALEKA, MALAWI</title>
+    <description xml:lang="es">Responder a las necesidades educativas del campo de refugiados mediante la provisión de educación tanto formal como no formal, desde preescolar hasta educación para adultos.</description>
+    <sector vocabulary="DAC" code="11120"/>
+    <activity-date type="start-planned" iso-date="2013-12-01"/>
+    <activity-date type="end-planned" iso-date="2014-12-01"/>
+    <contact-info>
+      <organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+      <email>aod.sgpolde@maec.es</email>
+    </contact-info>
+    <policy-marker vocabulary="DAC" code="1" significance="0"/>
+    <policy-marker vocabulary="DAC" code="2" significance="0"/>
+    <policy-marker vocabulary="DAC" code="3" significance="0"/>
+    <policy-marker vocabulary="DAC" code="4" significance="0"/>
+    <policy-marker vocabulary="DAC" code="5" significance="0"/>
+    <policy-marker vocabulary="DAC" code="6" significance="0"/>
+    <policy-marker vocabulary="DAC" code="7" significance="0"/>
+    <policy-marker vocabulary="DAC" code="8" significance="0"/>
+    <budget>
+      <period-start iso-date="2013-12-01"/>
+      <period-end iso-date="2014-12-01"/>
+      <value currency="EUR" value-date="2013-12-01">100000</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="2013-12-01"/>
+      <period-end iso-date="2014-12-01"/>
+      <value currency="EUR" value-date="2013-12-01">100000</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="C"/>
+      <value currency="EUR" value-date="2014-12-01">100000</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <value currency="EUR" value-date="2014-12-01">100000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011007496</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011007496</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-2549-0001</other-identifier>
+		<title xml:lang="en">DRESSMAKING WORKSHOP.</title>
+		<description xml:lang="es">Taller de costura</description>
+		<sector vocabulary="DAC" code="11230"/>
+		<activity-date type="start-planned" iso-date="2011-10-01"/>
+		<activity-date type="end-planned" iso-date="2012-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">8000</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">8000</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!--Advance of Spanish cooperation data-->
+    <reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+    <participating-org role="Funding" type="10" xml:lang="en">Spain</participating-org>
+    <participating-org role="Extending" ref="57" xml:lang="es">UNIVERSIDADES</participating-org>
+    <participating-org role="Implementing" ref="181" xml:lang="es">Otra ONG nacional - país donante</participating-org>
+    <participating-org role="Accountable" ref="57" xml:lang="es">UNIVERSIDADES</participating-org>
+    <recipient-country code="MW" percentage="100" xml:lang="es">MALAWI</recipient-country>
+    <recipient-region code="289" vocabulary="DAC"/>
+    <collaboration-type code="1" xml:lang="es"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <iati-identifier>ES-5-009-066955</iati-identifier>
+    <other-identifier owner-ref="ES-5">009-066955-1</other-identifier>
+    <title xml:lang="es">CONVOCATORIA PORPIA: PROYECTO AJENO Taller-almacén para el centro materno-infantil de Benga. Malawi</title>
+    <description xml:lang="es">Construcción y equipamiento de un centro materno-infantil con servicio de guardería y comedor para mejorar la calidad de vida de los niños de Benga y sus familias.</description>
+    <sector vocabulary="DAC" code="13020"/>
+    <activity-date type="start-planned" iso-date="2013-02-01"/>
+    <activity-date type="end-planned" iso-date="2013-11-30"/>
+    <contact-info>
+      <organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+      <email>aod.sgpolde@maec.es</email>
+    </contact-info>
+    <policy-marker vocabulary="DAC" code="1" significance="1"/>
+    <policy-marker vocabulary="DAC" code="2" significance="0"/>
+    <policy-marker vocabulary="DAC" code="3" significance="0"/>
+    <policy-marker vocabulary="DAC" code="4" significance="0"/>
+    <policy-marker vocabulary="DAC" code="5" significance="0"/>
+    <policy-marker vocabulary="DAC" code="6" significance="0"/>
+    <policy-marker vocabulary="DAC" code="7" significance="0"/>
+    <policy-marker vocabulary="DAC" code="8" significance="0"/>
+    <budget>
+      <period-start iso-date="2013-02-01"/>
+      <period-end iso-date="2013-11-30"/>
+      <value currency="EUR" value-date="2013-02-01">9000</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="2013-02-01"/>
+      <period-end iso-date="2013-11-30"/>
+      <value currency="EUR" value-date="2013-02-01">9000</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="C"/>
+      <value currency="EUR" value-date="2013-11-30">9000</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <value currency="EUR" value-date="2013-11-30">9000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011007498</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011007498</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-2567-0001</other-identifier>
+		<title xml:lang="en">EMERGENCY AID. ASSISTANCE TO ELDER PEOPLE WITH FOOD, CLOTHING AND MEDICINES IN RURAL VILLAGES OF MLALE.</title>
+		<description xml:lang="es">Ayuda de emergencia. Atención a ancianos en alimentación, vestidos y medicamentos en poblados rurales de Mlale</description>
+		<sector vocabulary="DAC" code="16010"/>
+		<activity-date type="start-planned" iso-date="2011-10-01"/>
+		<activity-date type="end-planned" iso-date="2012-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">6700</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">6700</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-15">Autonomous Governments</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="D01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-15-2011-2011001106</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011001106</other-identifier>
+		<other-identifier owner-ref="ES-15">009-002157-1</other-identifier>
+		<title xml:lang="en">VOLUNTARY AID WORKERS IN R.</title>
+		<description xml:lang="es">FAO Malawi Género y desarrollo Agrícola</description>
+		<sector vocabulary="DAC" code="31120"/>
+		<activity-date type="start-planned" iso-date="2010-10-15"/>
+		<activity-date type="end-planned" iso-date="2012-10-15"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="2"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">6180</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012005703</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012005703</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-11215-1</other-identifier>
+		<title xml:lang="en">IMPROVING THE ACCESS TO A QUALITY SECONDARY EDUCATION FOR THE REFUGEE PEOPLE IN THE DZALEKA CAMP, MALAWI.</title>
+		<description xml:lang="es">Mejorado el acceso a una educación secundaria de calidad para la población refugiada en el campo de Dzaleka, Malawi. :: Se pretende actuar en la población refugiada del campo de Dzaleka (Malawi), con refugiados de República Democrática del Congo, Burundi y Ruanda, así como de Somalia, Etiopía y Eritrea. Se quiere mejorar el acceso a la educación secundaria para los refugiados, de 500 alumnos de secundaria, de entre 13 y 22 años. El Servicio Jesuita a Refugiados es el responsable de la educación en los campos, como socio implementador de ACNUR,</description>
+		<sector vocabulary="DAC" code="11320"/>
+		<activity-date type="start-planned" iso-date="2012-12-01"/>
+		<activity-date type="end-planned" iso-date="2013-11-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Campo de Dzaleka</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">17035</value>
+			<transaction-date iso-date="2012-12-01"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">17035</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012004990</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012004990</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-10977-1</other-identifier>
+		<title xml:lang="en">EMERGENCY AID. EXTENSION  IX  SURGICAL INTERVENTION CAMPAIGN IN HAITI AND MALAWI.</title>
+		<description xml:lang="es">Ayuda de emergencia. Campaña programa de intervenciones quirúrgicas en Malawi y Haití ::</description>
+		<sector vocabulary="DAC" code="12191"/>
+		<activity-date type="start-planned" iso-date="2012-04-30"/>
+		<activity-date type="end-planned" iso-date="2013-04-29"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="2"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Hospital de Mlale en Malawi y Ambulatorio de Fond Verette en Haití</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">15500</value>
+			<transaction-date iso-date="2012-04-30"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">15500</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012004965</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012004965</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-10952-1</other-identifier>
+		<title xml:lang="en">SHIPMENT OF A CONTAINER OF HUMANITARIAN AID.</title>
+		<description xml:lang="es">Envío de contenedor de Ayuda Humanitaria ::  --- original channelcode : 11003</description>
+		<sector vocabulary="DAC" code="12230"/>
+		<activity-date type="start-planned" iso-date="2012-10-01"/>
+		<activity-date type="end-planned" iso-date="2013-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="4"/>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Hospital del poblado de Mlale</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">2800</value>
+			<transaction-date iso-date="2012-10-01"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">2800</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012006536</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012006536</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-12663-1</other-identifier>
+		<title xml:lang="en">IMPROVING HEALTH CONDITIONS.</title>
+		<description xml:lang="es">Mejora de las condiciones sanitarias :: Mejora de las condiciones sanitarias de la población de Atupele</description>
+		<sector vocabulary="DAC" code="12220"/>
+		<activity-date type="start-planned" iso-date="2012-11-30"/>
+		<activity-date type="end-planned" iso-date="2013-11-29"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Atupele</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">6000</value>
+			<transaction-date iso-date="2012-11-30"/>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011009808</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011009808</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-0325-0001</other-identifier>
+		<title xml:lang="en">IMPROVEMENT OF THE EDUCATIONAL INFRASTRUCTURE FOR A QUALITY PROFESSIONAL TRAINING OF YOUNG PEOPLE IN MTENDERE.</title>
+		<description xml:lang="es">El Movimiento Champagnat (Hermanos Maristas) gestiona un centro educativo sin ánimo de lucro (primaria y FP) para menores y jóvenes de ambos sexos (200) con escasos recursos, huérfanos y/o en situaciones de discapacidad. Con el proyecto se pretende atender la necesidad de que estos jóvenes puedan prepararse para el desempeño de oficios (especialmente las mujeres ya que no son admitidas en los centros de educación secundaria).Se pretende la construcción y equipamiento de un módulo (edificio de una planta con dos grandes aulas) para prácticas de economía doméstica (sastrería, carpintería, metalurgia y albañilería) y nutrición</description>
+		<sector vocabulary="DAC" code="11330"/>
+		<activity-date type="start-planned" iso-date="2011-12-01"/>
+		<activity-date type="end-planned" iso-date="2012-11-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<location>
+			<name>Mtendere</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">20000</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">20000</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012004963</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012004963</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-10950-1</other-identifier>
+		<title xml:lang="en">PROMOTION OF WOMEN. DRESS-MAKING WORKSHOP.</title>
+		<description xml:lang="es">Promoción de la Mujer. Taller de costura ::  --- original channelcode : 11003</description>
+		<sector vocabulary="DAC" code="11230"/>
+		<activity-date type="start-planned" iso-date="2012-10-01"/>
+		<activity-date type="end-planned" iso-date="2013-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="4"/>
+		<policy-marker vocabulary="DAC" code="1" significance="2"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Mujeres del área 49</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">4800</value>
+			<transaction-date iso-date="2012-10-01"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">4800</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="12000">Recipient government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012004993</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012004993</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-10980-1</other-identifier>
+		<title xml:lang="en">EMERGENCY AID AND SUPPORT TO THE RURAL HOSPITAL OF MLALE.</title>
+		<description xml:lang="es">Ayuda de Emergencia y apoyo al Hospital rural de Mlale ::</description>
+		<sector vocabulary="DAC" code="12230"/>
+		<activity-date type="start-planned" iso-date="2012-10-01"/>
+		<activity-date type="end-planned" iso-date="2013-10-31"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Población de Mlale</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">15550</value>
+			<transaction-date iso-date="2012-10-01"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">15550</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011007492</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011007492</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-2550-0001</other-identifier>
+		<title xml:lang="en">MAINTENANCE OF THE KINDERGARTEN. RURAL HOSPITAL OF MLALE.</title>
+		<description xml:lang="es">Mantenimiento guardería infantil Hospital Rural de Mlale</description>
+		<sector vocabulary="DAC" code="11240"/>
+		<activity-date type="start-planned" iso-date="2011-10-01"/>
+		<activity-date type="end-planned" iso-date="2012-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">9650</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">9650</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011007497</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011007497</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-2560-0001</other-identifier>
+		<title xml:lang="en">URGENT SHIPMENT OF A CONTAINER WITH MEDICINES.</title>
+		<description xml:lang="es">Envío urgente de contenedor con medicinas</description>
+		<sector vocabulary="DAC" code="12191"/>
+		<activity-date type="start-planned" iso-date="2011-10-01"/>
+		<activity-date type="end-planned" iso-date="2012-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">7500</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">7500</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012004998</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012004998</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-10985-1</other-identifier>
+		<title xml:lang="en">EMERGENCY AID: SHIPMENT OF A CONTAINER WITH HUMANITARIAN AID.</title>
+		<description xml:lang="es">Ayuda de Emergencia. Envío de contenedor con ayuda humanitaria ::</description>
+		<sector vocabulary="DAC" code="72010"/>
+		<activity-date type="start-planned" iso-date="2012-12-01"/>
+		<activity-date type="end-planned" iso-date="2013-05-31"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="4"/>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Hospital rural de Mlale</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">4000</value>
+			<transaction-date iso-date="2012-12-01"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">4000</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="30000">PUBLIC-PRIVATE PARTNERSHIPS</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012005000</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012005000</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-10987-1</other-identifier>
+		<title xml:lang="en">FARMING SCHOOL AND NETWORK OF WATER DISTRIBUTION IN THE HAMLETS OF MLALE. VII PHASE.</title>
+		<description xml:lang="es">Escuela Agropecuaria y red de distribución de agua en los poblados de Mlale- VII Fase ::</description>
+		<sector vocabulary="DAC" code="43010"/>
+		<activity-date type="start-planned" iso-date="2012-12-01"/>
+		<activity-date type="end-planned" iso-date="2013-12-31"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="1"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>poblados de Mlale</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">44750</value>
+			<transaction-date iso-date="2012-12-01"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">44750</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-15">Autonomous Governments</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-15-2011-2011000331</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011000331</other-identifier>
+		<other-identifier owner-ref="ES-15">009-000621-1</other-identifier>
+		<title xml:lang="en">IMPROVEMENT OF THE CAPACITIES AND PSYCHOSOCIAL WELFARE OF THE REFUGEE POPULATION OF THE DZALEKA CAMP AND THE URBAN REFUGEES IN LILONGWE. MALAWI.</title>
+		<description xml:lang="es">Los refugiados proceden de la zona de los Grandes Lagos y también de Somalia, Etiopía y Eritrea. Se trata de mejorar sus condiciones de vida y el socio local, como responsable de la educación en los campos ha diseñado un proyecto para atender las necesidades educativas y psicosociales de la población refugiada.</description>
+		<sector vocabulary="DAC" code="11120"/>
+		<activity-date type="start-planned" iso-date="2011-01-01"/>
+		<activity-date type="end-planned" iso-date="2012-01-01"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="0"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="1"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>EL CAMPO DE DZALEKA Y LOS REFUGIADOS URBANOS DE LILONGWE, MALAWI</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">249697</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">167596</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!--Advance of Spanish cooperation data-->
+    <reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+    <participating-org role="Funding" type="10" xml:lang="en">Spain</participating-org>
+    <participating-org role="Extending" ref="57" xml:lang="es">UNIVERSIDADES</participating-org>
+    <participating-org role="Implementing" ref="676" xml:lang="es">US - Universidad de Sevilla</participating-org>
+    <participating-org role="Accountable" ref="57" xml:lang="es">UNIVERSIDADES</participating-org>
+    <recipient-country code="MW" percentage="100" xml:lang="es">MALAWI</recipient-country>
+    <recipient-region code="289" vocabulary="DAC"/>
+    <collaboration-type code="1" xml:lang="es"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="4"/>
+    <iati-identifier>ES-5-009-065187</iati-identifier>
+    <other-identifier owner-ref="ES-5">009-065187-1</other-identifier>
+    <title xml:lang="es">CONVOCATORIA PROPIA: Ayuda para el Hospital de Mlale en Malawi</title>
+    <description xml:lang="es">Ayuda concedida al Departamento de Cirugía de la US para el Hospital de Mlale en Malawi</description>
+    <sector vocabulary="DAC" code="12230"/>
+    <activity-date type="start-planned" iso-date="2013-01-01"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <contact-info>
+      <organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+      <email>aod.sgpolde@maec.es</email>
+    </contact-info>
+    <policy-marker vocabulary="DAC" code="1" significance="0"/>
+    <policy-marker vocabulary="DAC" code="2" significance="0"/>
+    <policy-marker vocabulary="DAC" code="3" significance="0"/>
+    <policy-marker vocabulary="DAC" code="4" significance="0"/>
+    <policy-marker vocabulary="DAC" code="5" significance="0"/>
+    <policy-marker vocabulary="DAC" code="6" significance="0"/>
+    <policy-marker vocabulary="DAC" code="7" significance="0"/>
+    <policy-marker vocabulary="DAC" code="8" significance="0"/>
+    <budget>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value currency="EUR" value-date="2013-01-01">3300</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value currency="EUR" value-date="2013-01-01">3300</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="C"/>
+      <value currency="EUR" value-date="2013-12-31">3300</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <value currency="EUR" value-date="2013-12-31">3300</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011007391</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011007391</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-2481-0001</other-identifier>
+		<title xml:lang="en">EMERGENCY PROJECT: URGENT OPERATIONS IN SEVERAL COUNTRIES: MALAWI, HAITI AND HONDURAS.</title>
+		<description xml:lang="es">Proyecto de emergencia: Intervenciones quirúrgicas urgentes en varios países: Malawi, Haití y Honduras</description>
+		<sector vocabulary="DAC" code="12220"/>
+		<activity-date type="start-planned" iso-date="2011-03-01"/>
+		<activity-date type="end-planned" iso-date="2012-02-29"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<location>
+			<name>Malawi</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">5167</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">5167</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-15">Autonomous Governments</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-15-2011-2011000097</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011000097</other-identifier>
+		<other-identifier owner-ref="ES-15">009-000163-1</other-identifier>
+		<title xml:lang="en">IMPROVEMENT OF THE SOCIAL-ECONOMIC SITUATION OF VULNERABLE WOMEN OF THE DEPRESSED AREAS OF LILONGWE THROUGH THE PROMOTION OF HANDICRAFT CAPACITIES.</title>
+		<description xml:lang="es">El objetivo del presente proyecto es mejorar la situación socioeconómica de las mujeres pobres de las zonas marginales de Lilongwe. Las beneficiarias del proyecto son mujeres organizadas en torno a grupos de trabajo que han creado una red de organizaciones llamada Lilongwe Women´s Forum.Se dotará las mujeres de los medios y las capacidades para que puedan emprender un negocio de pequeña escala y mejorar su situación y la defensa de sus derechos de manera autónoma.</description>
+		<sector vocabulary="DAC" code="32163"/>
+		<activity-date type="start-planned" iso-date="2011-06-01"/>
+		<activity-date type="end-planned" iso-date="2012-06-01"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="2"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="1"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Lilongwe</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">98040</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">98040</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012004962</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012004962</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-10949-1</other-identifier>
+		<title xml:lang="en">ASSISTANCE PROGRAM FOR ELDER PEOPLE OF THE MLALE HAMLET.</title>
+		<description xml:lang="es">Programa de atención a ancianos del poblado de Mlale ::  --- original channelcode : 11003</description>
+		<sector vocabulary="DAC" code="16010"/>
+		<activity-date type="start-planned" iso-date="2012-10-01"/>
+		<activity-date type="end-planned" iso-date="2013-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="4"/>
+		<policy-marker vocabulary="DAC" code="1" significance="1"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Poblado de Mlale</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">4000</value>
+			<transaction-date iso-date="2012-10-01"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">4000</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011007469</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011007469</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-2536-0001</other-identifier>
+		<title xml:lang="en">ACQUISITION OF A 4X4 VEHICLE. MLALE, RURAL HOSPITAL.</title>
+		<description xml:lang="es">Adquisición vehículo pick-up 4x4. Hospital Rural de Mlale</description>
+		<sector vocabulary="DAC" code="12230"/>
+		<activity-date type="start-planned" iso-date="2011-10-01"/>
+		<activity-date type="end-planned" iso-date="2012-09-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">24400</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">24400</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011010376</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011010376</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-0987-0001</other-identifier>
+		<title xml:lang="en">AMBULANCE BICYCLES FOR THE RURAL AREA OF MALAWI.</title>
+		<description xml:lang="es">El presente proyecto se dirige a mejorar el estado de salud de las comunidades que componen los distritos, proporcionando facilidad en el transporte a los centros de salud en casos de emergencias y de enfermedad. Los resultados esperados son: RE1:Mejorado el acceso de los miembros de las comunidades a los centros de salud; y RE2: Mejorados los tejidos sociales de la comunidad a través de la formación de comités y el fortalecimiento de los ya existentes. Para ello, se pretende comprar y distribuir 70 bicicletas ambulancias (2 bicicletas por aldea) en 35 aldeas de los Distritos de Mchinji (31.030 habitantes) y Lilongwe (19.396) ubicados en la Región Central de Malawi, y tener en cada aldea un comité responsable para la administración y mantenimiento de las bicicletas ambulancia para un total de 35 comités. Por lo tanto, el proyecto de bicicletas ambulancias pretende mejorar el acceso a los servicios de salud en los distritos escogidos a través de la distribución en estas comunidades de medios de transporte permanentes para personas enfermas o heridas, facilitándoles el acceso al tratamiento cuando lo necesiten. ADRA- Malawi en los distritos beneficiarios y 3 distritos más de Malawi como son Mzuzu, Machinga y Mulanje ha desarrollado programas de ?Acción para un cambio social? (Action for Social Change - ASC), lo cual permitirá trabajar con Organizaciones de base comunitaria registradas (CBOs) que serán las responsables de distribuir y administrar las bicicletas ambulancia. Con ello se asegurará que todos los miembros de la comunidad y especialmente los grupos más vulnerables, tengan igual acceso a todos los servicios que proveen las bicicletas ambulancia.La presente propuesta, supone la réplica de un proyecto similar implementado en Zambia durante 2008-2009, que supuso una mejora sustancial de la accesibilidad a los servicios sanitarios. En la evaluación de dicha intervención se observó que los tres principales motivos de transporte fueron: tratamientos retrovirales (40%), malaria (20%) y atención al embarazo y parto (17%); teniendo un 85% de efectividad vital. Las principales actividades que serán llevadas a cabo son: los contactos y formación de la comunidad, la adquisición y distribución de las bicicletas ambulancia, formación y fortalecimiento de los comités que estarán a cargo de la administración y el mantenimiento de las bicicletas ambulancias; actividades de monitoreo y evaluación e informe final. -- Geographical target area : 35 aldeas de los Distritos de Mchinji (31.030 habitantes) y Lilongwe (19.396) ubicados en la Región Central de Malawi, --</description>
+		<sector vocabulary="DAC" code="11220"/>
+		<activity-date type="start-planned" iso-date="2011-12-01"/>
+		<activity-date type="end-planned" iso-date="2012-06-30"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<location>
+			<name>35 aldeas de los Distritos de Mchinji (31.030 habitantes) y Lilongwe (19.396) ubicados en la Región</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">28245</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">28245</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011010573</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011010573</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-2984-0001</other-identifier>
+		<title xml:lang="en">AMBULANCE BICYCLES FOR THE RURAL AREA.</title>
+		<description xml:lang="es">COMPRA DE 56 BICICLETAS PARA FACILITAR EL TRASPORTE A LOS CENTROS DE SALUD EN CASOS DE EMERGENCIA Y DE ENFERMEDAD PARA 28 ALDEAS EN EL DISTRITO DE MULANJE</description>
+		<sector vocabulary="DAC" code="12191"/>
+		<activity-date type="start-planned" iso-date="2011-01-01"/>
+		<activity-date type="end-planned" iso-date="2011-12-31"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<location>
+			<name>DISTRITO DE MULANJE</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">2908</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">2908</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="22000">NATIONAL NGOs</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2012-2012006997</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2012006997</other-identifier>
+		<other-identifier owner-ref="ES-16">2012-FEMP-11413-1</other-identifier>
+		<title xml:lang="en">A GOOD EDUCATION WITH GOOD TEACHERS.</title>
+		<description xml:lang="es">Una buena educación con un buen profesorado :: Ofrecer incentivos a los profesores para aumentar su motivación y rendimiento, lo que repercutirá en el alumnado.</description>
+		<sector vocabulary="DAC" code="11130"/>
+		<activity-date type="start-planned" iso-date="2012-01-01"/>
+		<activity-date type="end-planned" iso-date="2012-12-31"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<policy-marker vocabulary="DAC" code="1" significance="0"/>
+		<policy-marker vocabulary="DAC" code="2" significance="0"/>
+		<policy-marker vocabulary="DAC" code="3" significance="0"/>
+		<policy-marker vocabulary="DAC" code="4" significance="0"/>
+		<policy-marker vocabulary="DAC" code="5" significance="0"/>
+		<policy-marker vocabulary="DAC" code="6" significance="0"/>
+		<policy-marker vocabulary="DAC" code="7" significance="0"/>
+		<policy-marker vocabulary="DAC" code="8" significance="0"/>
+		<location>
+			<name>Localidad de Mtengo nthenga, distrito de Dowa, a 60 km de Liklogwe, capital de Malawi</name>
+		</location>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2012-12-31">3700</value>
+			<transaction-date iso-date="2012-01-01"/>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2012-12-31">3700</value>
+		</transaction>
+	</iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" default-currency="eur" hierarchy="1">
+		<reporting-org ref="ES-5" type="10" xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</reporting-org>
+		<participating-org role="Funding" type="10" ref="ES">Spain</participating-org>
+		<participating-org role="Extending" ref="ES-16">Municipalities</participating-org>
+		<participating-org role="Implementing" ref="11000">Donor government</participating-org>
+		<recipient-country code="MW"/>
+		<collaboration-type code="1"/>
+		<default-flow-type code="10"/>
+		<default-aid-type code="C01"/>
+		<default-finance-type code="110"/>
+		<iati-identifier>ES-16-2011-2011007113</iati-identifier>
+		<other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2011007113</other-identifier>
+		<other-identifier owner-ref="ES-16">2011-EELL-1912-0001</other-identifier>
+		<title xml:lang="en">PROJECT OF AGRICULTURAL SCHOOL AND SYSTEMS OF IRRIGATION IN MLALE</title>
+		<description xml:lang="es">Creación de una escuela agropecuaria</description>
+		<sector vocabulary="DAC" code="31181"/>
+		<activity-date type="start-planned" iso-date="2011-01-01"/>
+		<activity-date type="end-planned" iso-date="2011-12-31"/>
+		<contact-info>
+			<organisation>SGCID (Secretaría General de Cooperación Internacional para el Desarrollo)</organisation>
+			<email>aod.sgpolde@maec.es</email>
+		</contact-info>
+		<default-tied-status code="5"/>
+		<transaction>
+			<transaction-type code="C"/>
+			<value currency="EUR" value-date="2011-12-31">25000</value>
+		</transaction>
+		<transaction>
+			<transaction-type code="D"/>
+			<value currency="EUR" value-date="2011-12-31">25000</value>
+		</transaction>
+	</iati-activity>
+</iati-activities>

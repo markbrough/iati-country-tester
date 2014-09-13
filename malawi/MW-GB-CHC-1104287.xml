@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-09-01T14:47:24+00:00">
+    <reporting-org ref="GB-CHC-1104287" type="21" xml:lang="en">MicroLoan Foundation</reporting-org>
+    <iati-identifier>GB-CHC-1104287-GPAF</iati-identifier>
+    <title xml:lang="en">Pathways from Poverty (Southern Malawi)</title>
+    <description xml:lang="en" type="1">Providing 6,300 women in Southern Malawi with financial services and support for small business development</description>
+    <activity-status xml:lang="en" code="2"/>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2013-04-01"/>
+    <activity-date xml:lang="en" type="end-actual" iso-date="2016-03-31"/>
+    <activity-date xml:lang="en" type="end-planned" iso-date="2016-03-31"/>
+    <contact-info>
+      <organisation>MicroLoan Foundation</organisation>
+      <person-name>Alistair Chase</person-name>
+      <telephone>+44 (0)20 8827 1693</telephone>
+      <email>alistair.chase@microloanfoundation.org.uk</email>
+      <mailing-address>MicroLoan Foundation, Lamb House, Church Street, London, W4 2PD</mailing-address>
+    </contact-info>
+    <participating-org xml:lang="en" type="21" role="Accountable" ref="GB-CHC-1104287">MicroLoan Foundation UK</participating-org>
+    <participating-org xml:lang="en" type="22" role="Implementing">MicroLoan Foundation Malawi</participating-org>
+    <participating-org xml:lang="en" type="10" role="Funding" ref="GB-1">DFID</participating-org>
+    <recipient-country xml:lang="en" code="MW" percentage="100"/>
+    <recipient-region xml:lang="en" code="298"/>
+    <sector xml:lang="en" vocabulary="DAC" code="32130"/>
+    <default-flow-type xml:lang="en" code="30"/>
+    <default-aid-type xml:lang="en" code="C01"/>
+    <budget type="1">
+      <period-start iso-date="2013-04-01"/>
+      <period-end iso-date="2016-03-31"/>
+      <value currency="GBP" value-date="2013-01-07">1005500</value>
+    </budget>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1" provider-activity-id="GB-1-202035">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1104287" receiver-activity-id="GB/CHC/1104287-GPAF">MicroLoan Foundation</receiver-org>
+      <value currency="GBP" value-date="2013-04-18">33568</value>
+      <description xml:lang="en">First instalment</description>
+      <transaction-date iso-date="2013-04-18"/>
+      <flow-type code="30" xml:lang="en"/>
+      <aid-type code="C01" xml:lang="en"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org ref="GB-CHC-1104287" provider-activity-id="GB/CHC/1104287-GPAF">MicroLoan Foundation</provider-org>
+      <receiver-org>MicroLoan Foundation Malawi</receiver-org>
+      <value currency="GBP" value-date="2013-10-21">23504</value>
+      <description xml:lang="en">First instalment</description>
+      <transaction-date iso-date="2013-05-09"/>
+      <flow-type code="30" xml:lang="en"/>
+      <aid-type code="C01" xml:lang="en"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1" provider-activity-id="GB-1-202035">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1104287" receiver-activity-id="GB/CHC/1104287-GPAF">MicroLoan Foundation</receiver-org>
+      <value currency="GBP" value-date="2013-08-09">11381.5</value>
+      <description xml:lang="en">Second instalment</description>
+      <transaction-date iso-date="2013-08-09"/>
+      <flow-type code="30" xml:lang="en"/>
+      <aid-type code="C01" xml:lang="en"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org ref="GB-CHC-1104287" provider-activity-id="GB/CHC/1104287-GPAF">MicroLoan Foundation</provider-org>
+      <receiver-org>MicroLoan Foundation Malawi</receiver-org>
+      <value currency="GBP" value-date="2013-07-22">22760.62</value>
+      <transaction-date iso-date="2013-07-22"/>
+      <flow-type code="30" xml:lang="en"/>
+      <aid-type code="C01" xml:lang="en"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1" provider-activity-id="GB-1-202035">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1104287" receiver-activity-id="GB-CHC-1104287-GPAF">Microloan Foundation UK</receiver-org>
+      <value value-date="2014-08-14">60677.01</value>
+      <description>Q2 2014 advance payment</description>
+      <transaction-date iso-date="2014-08-14"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Oct - Dec advance payment</transaction-type>
+      <provider-org ref="GB-CHC-1104287" provider-activity-id="GB/CHC/1104287-GPAF">Advance payment</provider-org>
+      <receiver-org ref="GB-CHC-1104287" receiver-activity-id="GB/CHC/1104287-GPAF">Microloan Foundation. Oct - Dec advance payment</receiver-org>
+      <value value-date="2013-10-21">24813.58</value>
+      <transaction-date iso-date="2013-10-21"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org ref="GB-CHC-1104287" provider-activity-id="GB-CHC-1104287- GPAF">Actual expenditure Oct - Dec 2013</provider-org>
+      <receiver-org>Microloan Foundation</receiver-org>
+      <value value-date="2014-04-21">20107.24</value>
+      <description>Actual expenditure Oct - Dec 2013</description>
+      <transaction-date iso-date="2014-04-21"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-CHC-1104287" provider-activity-id="GB/CHC/1104287 - GPAF">Microloan Foundation - advance payment</provider-org>
+      <value value-date="2014-04-21">21638.92</value>
+      <description>Jan - March 2014 advance payment</description>
+      <transaction-date iso-date="2014-04-21"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org ref="GB-CHC-1104287" provider-activity-id="GB/CHC/1104287- GPAF">Microloan Foundation</provider-org>
+      <receiver-org>July - Sept advance payment</receiver-org>
+      <value value-date="2014-07-22">67045.01</value>
+      <transaction-date iso-date="2014-07-22"/>
+    </transaction>
+    <document-link url="http://www.aidstream.org/files/documents/Revised Logframe.xls" format="application/vnd.ms-excel">
+      <language>en</language>
+      <category code="A02"/>
+      <title>Updated Logframe</title>
+    </document-link>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-07-22T10:06:40+00:00">
+    <reporting-org ref="dm" type="22" xml:lang="en">Development Aid from People to People</reporting-org>
+    <iati-identifier>dm-Dfidgpaf-imp031</iati-identifier>
+    <title xml:lang="en">Women Empowerment Via Farmers Club Project</title>
+    <description xml:lang="en" type="1">The project focuses on fostering a long term and sustainable impact to the community reducing extreme poverty. The impact of the project will be to see a community which is food secured and which is capable to creating wealth through empowering women to take leading roles in the fight against poverty and hunger. This will be through intensive training leading to: increased food production for own consumption as well for sales  increased engagement in animal husbandry, increased level of literacy, of capacity to plan and budget for the agriculture production and the family economy,  improved health and greater gender equality at household level and in the wider community.</description>
+    <description xml:lang="en" type="2">Overall the fundamental approach of the project is to train and equip the participating farmers to be able to carry on and further what they have achieved during the project period within the framework of the structures &amp; organisation of the Clubs, cooperatives and associations - as well as the government structures of extension services. The project fosters: 1) sustainable empowerment of women  which remains with each individual and enable each individual and the Clubs to excel and develop further - which after completion of the project will be hand in hand with existing structures. 2) Institutional sustainability by organizing the women farmers and creating ownership of these structures amongst the farmers them selves.  3) Financial sustainability: The farmers will learn how to multiply seeds and cuttings and how to make natural fertilizers to ensure that they have access to these inputs from their own resources. The farmers will learn planning and budgeting to cater for their ongoing production. A part of the Exit Strategy will be that beneficiaries under supervision of Farming Instructors will find their own inputs for the last growing season in the project.&#13;
+The exposure of the results achieved using this program model via field visits by current and potential donors, via the public statements from MoAFS on the its potential attention is drawn to this program which will result in funding towards upscale in the areas of most need.&#13;
+</description>
+    <description xml:lang="en" type="3">The primary target groups is 5250 women farmers. Women were selected as a group because of the disproportionate impact that poverty has on women in all its forms, whether social, political, physical or economic.  Women work longer hours, earn less, receive less education, are subject to high levels of domestic violence, are more at risk from HIV and have limited access to resources and decision making. They face discrimination in inheritance and divorce settlements – a cause of increased vulnerability of women headed households. In terms of employment men have the advantage to go anywhere and work while women are predesigned by culture that they are to remain at home and take care of children. To achieving MDG 3 requires a change for women. Gender disparities among in the target communities is still rampant  The Sena tribe always put a man first in everything and it is one of the culture barriers which we seek to address in this project.  From the Chikhwawa Social economic profile other examples supports this: In 2007 twice as many men applied fertilizer than women apparently due to easier access to markets and centers of distribution.* and subsequently got a better yield. From the same source 3 to 4 times as many males hold paid work as compared to women. &#13;
+The project will both empower the women farmers via the program as well as include men in the process for them both to appreciate and respect the potential of the women and for both parties work together towards the needed changes in traditions and behaviors leading to the gender inequalities. &#13;
+</description>
+    <activity-status xml:lang="en" code="2">The project is in its second year of implementation </activity-status>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2012-08-01">The actual starting date of the project</activity-date>
+    <contact-info>
+      <organisation>Development Aid from People to People (DAPP) Malawi</organisation>
+      <person-name>Lisbeth Thomsen</person-name>
+      <telephone>265(0)888992732</telephone>
+      <email>rnkane@yahoo.com</email>
+      <mailing-address> Baines Road; Opposite Kas Freight; Ginnery Corner, Box 2732, Blantyre, Malawi</mailing-address>
+    </contact-info>
+    <participating-org xml:lang="en" type="10" role="Funding" ref="DFID">Department For International Development (DFID)</participating-org>
+    <participating-org xml:lang="en" type="22" role="Implementing" ref="dapp mw">Development Aid from People to People (DAPP) Malawi</participating-org>
+    <recipient-country xml:lang="en" code="MW" percentage="100">Recipient Country where the project is being implemented</recipient-country>
+    <sector xml:lang="en" code="" percentage="100" vocabulary="ADT">The project aims to empower women as well as enhance their livelihood security </sector>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="B01"/>
+    <default-tied-status code="4"/>
+    <budget type="1">
+      <period-start iso-date="2012-08-01">The project main budget for all activities</period-start>
+      <period-end iso-date="2015-07-31">Project end date</period-end>
+      <value currency="GBP" value-date="2012-08-01">715002</value>
+    </budget>
+    <activity-website>http://www.dapp-malawi.org</activity-website>
+  </iati-activity>
+</iati-activities>

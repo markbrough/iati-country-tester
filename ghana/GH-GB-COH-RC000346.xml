@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-25T14:50:51" xml:lang="en">
+    <reporting-org ref="GB-COH-RC000346" type="15">Medical Research Council</reporting-org>
+    <iati-identifier>GB-COH-RC000346-MR/J01477X/1</iati-identifier>
+    <title>R Phillips, K12240ST Ghana. Pathogenesis and management of M. ulcerans disease, Buruli ulcer</title>
+    <description>Research Grant</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2017-09-02" type="end planned"/>
+    <activity-date iso-date="2012-09-03" type="start-planned"/>
+    <participating-org ref="GB-BIS" role="Funding" type="10">Department for Business Innovation and Skills</participating-org>
+    <participating-org ref="GB-COH-RC000346" role="Extending" type="15">Medical Research Council</participating-org>
+    <participating-org role="Implementing" type="80">St George's University of London</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector code="12250" vocabulary="DAC"/>
+    <transaction ref="MR/J01477X/1">
+      <flow-type code="ODA"/>
+      <provider-org ref="GB-COH-RC000346">Medical Research Council</provider-org>
+      <receiver-org>St George's University of London</receiver-org>
+      <value value-date="2012-09-03">454042</value>
+      <finance-type code="110"/>
+      <transaction-date iso-date="2012-09-03"/>
+      <transaction-type code="C">Commitment</transaction-type>
+      <description>Total lifetime award</description>
+    </transaction>
+    <transaction>
+      <flow-type code="ODA"/>
+      <provider-org ref="GB-COH-RC000346">Medical Research Council</provider-org>
+      <receiver-org>St George's University of London</receiver-org>
+      <value value-date="2013-12-30">75875</value>
+      <finance-type code="110"/>
+      <transaction-date iso-date="2013-12-30"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>CY13 Total spend</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-25T14:50:51" xml:lang="en">
+    <reporting-org ref="GB-COH-RC000346" type="15">Medical Research Council</reporting-org>
+    <iati-identifier>GB-COH-RC000346-G1001337/1</iati-identifier>
+    <title>J GYAPONG, UNIVERSITY OF GHANA, FILARIASIS ELIMINATION IN AFRICA: REFINING THE STRATEGIES THROUGH RESEARCH</title>
+    <description>Research Grant</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2016-03-31" type="end planned"/>
+    <activity-date iso-date="2011-04-01" type="start-planned"/>
+    <participating-org ref="GB-BIS" role="Funding" type="10">Department for Business Innovation and Skills</participating-org>
+    <participating-org ref="GB-COH-RC000346" role="Extending" type="15">Medical Research Council</participating-org>
+    <participating-org role="Implementing" type="80">Liverpool School of Tropical Medicine</participating-org>
+    <recipient-country code="GH">Ghana, </recipient-country>
+    <sector code="12250" vocabulary="DAC"/>
+    <transaction ref="G1001337/1">
+      <flow-type code="ODA"/>
+      <provider-org ref="GB-COH-RC000346">Medical Research Council</provider-org>
+      <receiver-org>Liverpool School of Tropical Medicine</receiver-org>
+      <value value-date="2011-04-01">1852961</value>
+      <finance-type code="110"/>
+      <transaction-date iso-date="2011-04-01"/>
+      <transaction-type code="C">Commitment</transaction-type>
+      <description>Total lifetime award</description>
+    </transaction>
+    <transaction>
+      <flow-type code="ODA"/>
+      <provider-org ref="GB-COH-RC000346">Medical Research Council</provider-org>
+      <receiver-org>Liverpool School of Tropical Medicine</receiver-org>
+      <value value-date="2013-12-30">396547</value>
+      <finance-type code="110"/>
+      <transaction-date iso-date="2013-12-30"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>CY13 Total spend</description>
+    </transaction>
+  </iati-activity>
+</iati-activities>

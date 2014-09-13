@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-27T16:51:26" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-31220-E-paid</iati-identifier>
+    <title>Ghana sector 31220 flow type 10 finance type 511</title>
+    <participating-org ref="GB-COH-0387777" role="Extending" type="70">CDC Group plc</participating-org>
+    <participating-org role="Funding">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="31220" vocabulary="DAC">Forestry development</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction>
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value currency="GBP" value-date="2012-12-31">97604</value>
+      <finance-type code="511">Equity</finance-type>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Forestry development sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-27T16:51:26" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-24020-E-paid</iati-identifier>
+    <title>Ghana sector 24020 flow type 10 finance type 511</title>
+    <participating-org ref="GB-COH-0387777" role="Extending" type="70">CDC Group plc</participating-org>
+    <participating-org role="Funding">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="24020" vocabulary="DAC">Monetary institutions</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction>
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value currency="GBP" value-date="2012-12-31">1977953</value>
+      <finance-type code="511">Equity</finance-type>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Monetary institutions sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-07-29T12:00:16" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-32310-E-paid</iati-identifier>
+    <title>Ghana sector 32310 flow type 10 finance type 511</title>
+    <participating-org ref="GB-2" role="Extending" type="70">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="32310" vocabulary="DAC">Construction policy and administrative management</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction ref="GH-32310-E-paid">
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value value-date="2013-12-31">8089449</value>
+      <finance-type code="511">Equity</finance-type>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Construction policy and administrative management sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-27T16:51:26" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-32310-E-received</iati-identifier>
+    <title>Ghana sector 32310 flow type 10 finance type 511</title>
+    <participating-org ref="GB-COH-0387777" role="Extending" type="70">CDC Group plc</participating-org>
+    <participating-org role="Funding">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="32310" vocabulary="DAC">Construction policy and administrative management</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction>
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <receiver-org ref="GB-COH-03877777">CDC Group plc</receiver-org>
+      <value currency="GBP" value-date="2012-12-31">-27868810</value>
+      <finance-type code="511">Equity</finance-type>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Represents net amount(s) received from Ś Ghana Ś Construction policy and administrative management sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-27T16:51:26" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-16061-E-paid</iati-identifier>
+    <title>Ghana sector 16061 flow type 10 finance type 511</title>
+    <participating-org ref="GB-COH-0387777" role="Extending" type="70">CDC Group plc</participating-org>
+    <participating-org role="Funding">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="16061" vocabulary="DAC">Culture and recreation</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction>
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value currency="GBP" value-date="2012-12-31">487272</value>
+      <finance-type code="511">Equity</finance-type>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Culture and recreation sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-27T16:51:26" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-21010-E-paid</iati-identifier>
+    <title>Ghana sector 21010 flow type 10 finance type 511</title>
+    <participating-org ref="GB-COH-0387777" role="Extending" type="70">CDC Group plc</participating-org>
+    <participating-org role="Funding">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="21010" vocabulary="DAC">Transport policy and administrative management</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction>
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value currency="GBP" value-date="2012-12-31">251354</value>
+      <finance-type code="511">Equity</finance-type>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Transport policy and administrative management sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-27T16:51:26" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-32110-E-paid</iati-identifier>
+    <title>Ghana sector 32110 flow type 10 finance type 511</title>
+    <participating-org ref="GB-COH-0387777" role="Extending" type="70">CDC Group plc</participating-org>
+    <participating-org role="Funding">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="32110" vocabulary="DAC">Industrial policy and administrative management</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction>
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value currency="GBP" value-date="2012-12-31">369185</value>
+      <finance-type code="511">Equity</finance-type>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Industrial policy and administrative management sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-27T16:51:26" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-22040-E-paid</iati-identifier>
+    <title>Ghana sector 22040 flow type 10 finance type 511</title>
+    <participating-org ref="GB-COH-0387777" role="Extending" type="70">CDC Group plc</participating-org>
+    <participating-org role="Funding">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="22040" vocabulary="DAC">Information and communication technology (ICT)</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction>
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value currency="GBP" value-date="2012-12-31">919034</value>
+      <finance-type code="511">Equity</finance-type>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Information and communication technology (ICT) sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-07-29T12:00:16" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-12020-E-paid</iati-identifier>
+    <title>Ghana sector 12020 flow type 10 finance type 511</title>
+    <participating-org ref="GB-2" role="Extending" type="70">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="12020" vocabulary="DAC">Health unallocable/unspecified</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction ref="GH-12020-E-paid">
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value value-date="2013-12-31">5027</value>
+      <finance-type code="511">Equity</finance-type>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Health unallocable/unspecified sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-07-29T12:00:16" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-23030-D-OOF-paid</iati-identifier>
+    <title>Ghana sector 23030 flow type 20 finance type 411</title>
+    <participating-org ref="GB-2" role="Extending" type="70">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="23030" vocabulary="DAC">Power generation/renewable sources</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction ref="GH-23030-D-OOF-paid">
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="20">OOF</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value value-date="2013-12-31">1747669</value>
+      <finance-type code="411">Loan</finance-type>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Power generation/renewable sources sector Ś flow type OOF Ś finance type Loan Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-07-29T12:00:16" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-21031-E-paid</iati-identifier>
+    <title>Ghana sector 21031 flow type 10 finance type 511</title>
+    <participating-org ref="GB-2" role="Extending" type="70">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="21031" vocabulary="DAC">Other transport</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction ref="GH-21031-E-paid">
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <receiver-org ref="GB-COH-03877777">CDC Group plc</receiver-org>
+      <value value-date="2013-12-31">-46836</value>
+      <finance-type code="511">Equity</finance-type>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Represents net amount(s) received from Ś Ghana Ś Other transport sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-07-29T12:00:16" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-33110-E-paid</iati-identifier>
+    <title>Ghana sector 33110 flow type 10 finance type 511</title>
+    <participating-org ref="GB-2" role="Extending" type="70">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="33110" vocabulary="DAC">Trade policy and administrative management</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction ref="GH-33110-E-paid">
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value value-date="2013-12-31">171896</value>
+      <finance-type code="511">Equity</finance-type>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Trade policy and administrative management sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-07-29T12:00:16" xml:lang="en">
+    <reporting-org ref="GB-COH-03877777" type="70">CDC Group plc</reporting-org>
+    <iati-identifier>GB-COH-03877777-GH-22020-E-paid</iati-identifier>
+    <title>Ghana sector 22020 flow type 10 finance type 511</title>
+    <participating-org ref="GB-2" role="Extending" type="70">CDC Group plc</participating-org>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <sector code="22020" vocabulary="DAC">Telecommunications</sector>
+    <collaboration-type code="6">Private sector outflow</collaboration-type>
+    <transaction ref="GH-22020-E-paid">
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="GB-COH-03877777">CDC Group plc</provider-org>
+      <value value-date="2013-12-31">450398</value>
+      <finance-type code="511">Equity</finance-type>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <description>Represents net amount(s) paid to Ś Ghana Ś Telecommunications sector Ś flow type ODA Ś finance type Equity Ś </description>
+    </transaction>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2013-12-10T14:45:02+00:00">
+    <reporting-org ref="GB-CHC-1001698" type="21" xml:lang="en">Interact Worldwide</reporting-org>
+    <iati-identifier>GB-CHC-1001698-MLW001</iati-identifier>
+    <title>MANGA MANASO, MANGA MALAWI: EMPOWERING KEY VULNERABLE COMMUNITIES AND STRENGTHENING RIGHTS BASED APPROACHES TO ADDRESSING THEIR NEEDS</title>
+    <description type="1">EMPOWERING KEY VULNERABLE COMMUNITIES AND STRENGTHENING RIGHTS BASED APPROACHES TO ADDRESSING THEIR NEEDS</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2008-07-01"/>
+    <activity-date type="end-planned" iso-date="2012-06-30"/>
+    <contact-info>
+      <email>programmes@interactworldwide.org</email>
+    </contact-info>
+    <participating-org role="Implementing">MALAWI NETWORK OF AIDS SERVICE ORGANISATIONS</participating-org>
+    <recipient-country code="MW"/>
+    <sector code="16064"/>
+    <collaboration-type code="2"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <budget type="1">
+      <period-start iso-date="2008-07-01"/>
+      <period-end iso-date="2012-06-30"/>
+      <value currency="GBP" value-date="2012-05-17">499993</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CHC-1001698"/>
+      <value currency="GBP" value-date="2012-03-31">438976</value>
+      <transaction-date iso-date="2012-03-31">Total expenditure on the project to 31st March 2012</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-CHC-1001698">DFID ADVANCES</provider-org>
+      <receiver-org ref="GB-CHC-1001698"/>
+      <value currency="GBP" value-date="2012-03-31">439202</value>
+      <transaction-date iso-date="2012-03-31">ALL ADVANCES TO 31ST MARCH 2012</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="1"/>
+      <tied-status code="5"/>
+    </transaction>
+    <document-link url="http://www.interactworldwide.org/publications%20and%20files%20container/iati-project-documents/MLW001-MANASO/MLW001-proposal/view" format="application/pdf">
+      <language>en</language>
+      <category code="A02" xml:lang="en">Proposal</category>
+      <title xml:lang="en">MLW001 MANASO proposal</title>
+    </document-link>
+    <document-link url="http://www.interactworldwide.org/publications%20and%20files%20container/iati-project-documents/MLW001-MANASO/MLW001%20logframe/view" format="application/pdf">
+      <language>en</language>
+      <category code="A02" xml:lang="en">MLW001 logframe</category>
+      <title xml:lang="en">MLW001 logframe</title>
+    </document-link>
+  </iati-activity>
+</iati-activities>

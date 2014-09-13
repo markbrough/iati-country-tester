@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-07-17T16:24:08+00:00">
+    <reporting-org ref="GB-CHC-1079358" type="21" xml:lang="en">Motivation</reporting-org>
+    <iati-identifier>GB-CHC-1079358-AFR34</iati-identifier>
+    <title>Increasing survival and reducing poverty of disabled children and adults in Malawi</title>
+    <description type="2">Disabled children and adults have improved health, mobility and knowledge about the prevention of HIV/AIDS, enabling them to survive longer and be included in education and employment activities, thereby reducing their poverty and contributing to the MDGs in Malawi.</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2013-12-01"/>
+    <activity-date type="end-planned" iso-date="2016-11-30"/>
+    <participating-org type="10" role="Funding" ref="GB-1">DFID</participating-org>
+    <participating-org type="21" role="Implementing" ref="GB-CHC-1079358">Motivation</participating-org>
+    <participating-org type="22" role="Implementing">Local organisations in Malawi</participating-org>
+    <participating-org type="15" role="Funding">Other funders - various</participating-org>
+    <recipient-country code="MW" percentage="100"/>
+    <sector code="16010" percentage="100"/>
+    <budget type="1">
+      <period-start iso-date="2013-12-01"/>
+      <period-end iso-date="2014-03-31"/>
+      <value value-date="2014-03-31">211204</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2015-03-31"/>
+      <value value-date="2014-04-01">510964</value>
+    </budget>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1079358">Motivation</receiver-org>
+      <value value-date="2013-12-01">78038</value>
+      <description>1st transfer of funds for Y1</description>
+      <transaction-date iso-date="2013-12-13"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CHC-1079358" provider-activity-id="GB-CHC-1079358-AFR34">Motivation Charitable Trust</provider-org>
+      <receiver-org>Capital Expenditure</receiver-org>
+      <value value-date="2014-03-31">6982.56</value>
+      <description>Capital Expenditure</description>
+      <transaction-date iso-date="2014-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="3"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CHC-1079358" provider-activity-id="GB-CHC-1079358-AFR34">Motivation Charitable Trust</provider-org>
+      <receiver-org>Project Activities</receiver-org>
+      <value value-date="2014-03-31">9490.52</value>
+      <description>Project Activities</description>
+      <transaction-date iso-date="2014-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="3"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CHC-1079358" provider-activity-id="GB-CHC-1079358-AFR34">Motivation Charitable Trust</provider-org>
+      <receiver-org>All Staff Costs</receiver-org>
+      <value value-date="2014-03-31">23096.49</value>
+      <description>All Staff Costs</description>
+      <transaction-date iso-date="2014-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="3"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CHC-1079358" provider-activity-id="GB-CHC-1079358-AFR34">Motivation Charitable Trust</provider-org>
+      <receiver-org>Other Administration Costs</receiver-org>
+      <value value-date="2014-03-31">7322.77</value>
+      <description>Other Administration Costs</description>
+      <transaction-date iso-date="2014-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="3"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CHC-1079358" provider-activity-id="GB-CHC-1079358-AFR34">Motivation Charitable Trust</provider-org>
+      <receiver-org>Monitoring and evaluation</receiver-org>
+      <value value-date="2014-03-31">10822.14</value>
+      <description>Monitoring and evaluation</description>
+      <transaction-date iso-date="2014-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="3"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1" provider-activity-id="GB-1-202035-101">UK Department for International Development</provider-org>
+      <receiver-org ref="GB-CHC-1079358" receiver-activity-id="GB-CHC-1079358-AFR34">Motivation Charitable Trust</receiver-org>
+      <value value-date="2014-05-09">50871.19</value>
+      <description>Y2 Q1 funding tranche</description>
+      <transaction-date iso-date="2014-05-09"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="3"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org>Various donors - matched funding</provider-org>
+      <receiver-org ref="GB-CHC-1079358" receiver-activity-id="GB-CHC-1079358-AFR34">Motivation Charitable Trust</receiver-org>
+      <value value-date="2014-03-31">6410.03</value>
+      <description>Matched funding from various donors</description>
+      <transaction-date iso-date="2014-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="3"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CHC-1079358" provider-activity-id="GB-CHC-1079358-AFR34">Motivation Charitable Trust</provider-org>
+      <receiver-org>Matched funding expenditure - Capital Expenditure, Project Activities, All Staff Costs and Other Administrative Costs</receiver-org>
+      <value value-date="2014-03-31">8203.25</value>
+      <description>Matched funding expenditure - Capital Expenditure, Project Activities, All Staff Costs and Other Administrative Costs</description>
+      <transaction-date iso-date="2014-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="3"/>
+      <tied-status code="4"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

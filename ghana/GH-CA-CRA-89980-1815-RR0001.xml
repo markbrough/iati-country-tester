@@ -1,0 +1,789 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-04-01T00:00:00+00:00" default-currency="CAD" xml:lang="en">
+
+<reporting-org type="22" ref="CA-CRA-89980-1815-RR0001">Engineers Without Borders Canada</reporting-org>
+  <iati-identifier>CA-CRA-89980-1815-RR0001-CA-CRA-89980-1815-RR0001-GaRI</iati-identifier>
+
+  <title>Governance and Rural Infrastructure</title>
+
+    <description>Focus on working within government offices in Ghana’s Northern region that are working with civil servants to develop the tools, processes and skills required to make evidence-based decisions and plans that ensure Ghana’s infrastructure continuously improves.</description>
+
+
+
+<participating-org role="Implementing" type="22" ref="CA-CRA-89980-1815-RR0001">
+   Engineers Without Borders Canada
+ </participating-org>
+
+
+
+    <activity-website>www.ewb.ca</activity-website>
+
+            <sector vocabulary="DAC" code="15140">
+              Government administration
+            </sector>
+
+
+
+    <budget>
+      <value currency="CAD" value-date="">121064</value>
+    </budget>
+
+        <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+
+
+
+
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-01-31">
+          19526
+        </value>
+
+        <transaction-date iso-date="2012-01-31"/>
+
+
+            <description xml:lang="en">Q1 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-30">
+          18811
+        </value>
+
+        <transaction-date iso-date="2012-04-30"/>
+
+
+            <description xml:lang="en">Q2 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-07-31">
+          17956
+        </value>
+
+        <transaction-date iso-date="2012-07-31"/>
+
+
+            <description xml:lang="en">Q3 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-10-31">
+          36208
+        </value>
+
+        <transaction-date iso-date="2012-10-31"/>
+
+
+            <description xml:lang="en">Q4 Fiscal 2011-2012</description>
+        </transaction>
+
+
+
+
+
+
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-04-01T00:00:00+00:00" default-currency="CAD" xml:lang="en">
+
+<reporting-org type="22" ref="CA-CRA-89980-1815-RR0001">Engineers Without Borders Canada</reporting-org>
+  <iati-identifier>CA-CRA-89980-1815-RR0001-CA-CRA-89980-1815-RR0001-AgEx</iati-identifier>
+
+  <title>Agriculture Extensions Team</title>
+
+    <description>Focuses on the change in the agricultural extension sector.</description>
+
+    <activity-status code="2">Implementing</activity-status>
+    <activity-date type="start-actual" iso-date="2011-12-04">
+      2011-12-04
+    </activity-date>
+
+
+<participating-org role="Implementing" type="22" ref="CA-CRA-89980-1815-RR0001">
+   Engineers Without Borders Canada
+ </participating-org>
+
+
+
+    <activity-website>www.ewb.ca</activity-website>
+
+
+
+
+    <budget>
+      <value currency="CAD" value-date="2011-12-04">137073</value>
+    </budget>
+
+        <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+
+
+
+    <contact-info>
+        <person-name>Erin Antcliffe</person-name>
+
+        <email>erinantcliffe@ewb.ca</email>
+    </contact-info>
+
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-01-30">
+          23
+        </value>
+
+        <transaction-date iso-date="2012-01-30"/>
+
+
+            <description xml:lang="en">Q1 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-29">
+          32385
+        </value>
+
+        <transaction-date iso-date="2012-04-29"/>
+
+
+            <description xml:lang="en">Q2 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-07-30">
+          22478
+        </value>
+
+        <transaction-date iso-date="2012-07-30"/>
+
+
+            <description xml:lang="en">Q3 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-29">
+          300
+        </value>
+
+        <transaction-date iso-date="2012-04-29"/>
+            <provider-org ref="" provider-activity-id="CA-CRA-89980-1815-RR0001-AVC">
+              Engineers Without Borders Canada
+            </provider-org>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AgEx">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Sale of moto</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Reimbursement">
+          R
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-06-29">
+          173
+        </value>
+
+        <transaction-date iso-date="2012-06-29"/>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AgEx">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Reimbursement of cost</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-07-30">
+          274
+        </value>
+
+        <transaction-date iso-date="2012-07-30"/>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AgEx">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Sale of moto</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-02-16">
+          3202
+        </value>
+
+        <transaction-date iso-date="2012-02-16"/>
+            <provider-org ref="" provider-activity-id="">
+              International Food Policy (IFPRI)
+            </provider-org>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AgEx">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-01">
+          5000
+        </value>
+
+        <transaction-date iso-date="2012-04-01"/>
+            <provider-org ref="" provider-activity-id="">
+              CIDA - PSU
+            </provider-org>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AgEx">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-10-31">
+          22794
+        </value>
+
+        <transaction-date iso-date="2012-10-31"/>
+
+
+            <description xml:lang="en">Q4 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-10-31">
+          2500
+        </value>
+
+        <transaction-date iso-date="2012-10-31"/>
+
+
+            <description xml:lang="en">Q4 Fiscal 2011-2012 Incoming Funding from Partner</description>
+        </transaction>
+
+
+
+
+
+
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-04-01T00:00:00+00:00" default-currency="CAD" xml:lang="en">
+
+<reporting-org type="22" ref="CA-CRA-89980-1815-RR0001">Engineers Without Borders Canada</reporting-org>
+  <iati-identifier>CA-CRA-89980-1815-RR0001-CA-CRA-89980-1815-RR0001-AVC</iati-identifier>
+
+  <title>Agriculture Value Chains Team</title>
+
+    <description>The AVC team provides a high quality consulting service to leading edge market facilitation projects - helping their staff to learn faster, be more innovative and create deeper behaviour change in the market actors they are targeting. </description>
+
+    <activity-status code="2">Implementing</activity-status>
+    <activity-date type="start-actual" iso-date="2011-07-31">
+      2011-07-31
+    </activity-date>
+
+    <activity-date type="end-planned" iso-date="2015-12-29">
+      2015-12-29
+    </activity-date>
+
+<participating-org role="Implementing" type="22" ref="CA-CRA-89980-1815-RR0001">
+   Engineers Without Borders Canada
+ </participating-org>
+
+
+
+
+
+
+
+    <budget>
+      <value currency="CAD" value-date="2011-07-31">161600</value>
+    </budget>
+
+        <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+
+        <recipient-country code="UG">
+          Uganda
+        </recipient-country>
+
+
+
+    <contact-info>
+        <person-name>Mike Klassen</person-name>
+
+        <email>mikeklassen@ewb.ca</email>
+    </contact-info>
+
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-29">
+          38686
+        </value>
+
+        <transaction-date iso-date="2012-04-29"/>
+
+
+            <description xml:lang="en">Q2 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-07-30">
+          43769
+        </value>
+
+        <transaction-date iso-date="2012-07-30"/>
+
+
+            <description xml:lang="en">Q3 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2011-12-18">
+          530
+        </value>
+
+        <transaction-date iso-date="2011-12-18"/>
+            <provider-org ref="" provider-activity-id="">
+              Avian Venutres
+            </provider-org>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AVC">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2011-11-17">
+          73
+        </value>
+
+        <transaction-date iso-date="2011-11-17"/>
+            <provider-org ref="" provider-activity-id="">
+              Technoserve
+            </provider-org>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AVC">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-01">
+          2566
+        </value>
+
+        <transaction-date iso-date="2012-04-01"/>
+            <provider-org ref="" provider-activity-id="">
+              ACDI/VOCA
+            </provider-org>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AVC">
+              En
+            </receiver-org>
+
+            <description xml:lang="en">Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-24">
+          7591
+        </value>
+
+        <transaction-date iso-date="2012-04-24"/>
+            <provider-org ref="" provider-activity-id="">
+              Technoserve
+            </provider-org>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AVC">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-29">
+          6583
+        </value>
+
+        <transaction-date iso-date="2012-04-29"/>
+            <provider-org ref="" provider-activity-id="">
+              Technoserve
+            </provider-org>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AVC">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-06-10">
+          20000
+        </value>
+
+        <transaction-date iso-date="2012-06-10"/>
+            <provider-org ref="" provider-activity-id="">
+              USAID
+            </provider-org>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AVC">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-06-21">
+          2633
+        </value>
+
+        <transaction-date iso-date="2012-06-21"/>
+            <provider-org ref="" provider-activity-id="">
+              Technoserve
+            </provider-org>
+
+            <receiver-org ref="" receiver-activity-id="CA-CRA-89980-1815-RR0001-AVC">
+              Engineers Without Borders Canada
+            </receiver-org>
+
+            <description xml:lang="en">Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-01-31">
+          27
+        </value>
+
+        <transaction-date iso-date="2012-01-31"/>
+
+
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-10-31">
+          10000
+        </value>
+
+        <transaction-date iso-date="2012-10-31"/>
+
+
+            <description xml:lang="en">MercyCorp first installment</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-10-31">
+          29
+        </value>
+
+        <transaction-date iso-date="2012-10-31"/>
+
+
+        </transaction>
+
+      <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+
+      <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+
+      <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+
+      <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+
+      <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" last-updated-datetime="2013-04-01T00:00:00+00:00" default-currency="CAD" xml:lang="en">
+
+<reporting-org type="22" ref="CA-CRA-89980-1815-RR0001">Engineers Without Borders Canada</reporting-org>
+  <iati-identifier>CA-CRA-89980-1815-RR0001-CA-CRA-89980-1815-RR0001-BDS</iati-identifier>
+
+  <title>Business Development Services</title>
+
+
+
+
+<participating-org role="Implementing" type="22" ref="CA-CRA-89980-1815-RR0001">
+   Engineers Without Borders Canada
+ </participating-org>
+
+
+
+    <activity-website>www.ewb.ca</activity-website>
+
+
+
+
+    <budget>
+      <value currency="CAD" value-date="">134220</value>
+    </budget>
+
+        <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+
+        <recipient-country code="ZM">
+          Zambia
+        </recipient-country>
+
+
+
+
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-01-31">
+          15530
+        </value>
+
+        <transaction-date iso-date="2012-01-31"/>
+
+
+            <description xml:lang="en">Q1 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-01-31">
+          9000
+        </value>
+
+        <transaction-date iso-date="2012-01-31"/>
+
+
+            <description xml:lang="en">Q1 Fiscal 2011-2012 Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-01-31">
+          666
+        </value>
+
+        <transaction-date iso-date="2012-01-31"/>
+
+
+            <description xml:lang="en">Q1 Fiscal 2011-2012 Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-30">
+          34436
+        </value>
+
+        <transaction-date iso-date="2012-04-30"/>
+
+
+            <description xml:lang="en">Q2 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-04-30">
+          3333
+        </value>
+
+        <transaction-date iso-date="2012-04-30"/>
+
+
+            <description xml:lang="en">Q2 Fiscal 2011-2012 Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-07-31">
+          34542
+        </value>
+
+        <transaction-date iso-date="2012-07-31"/>
+
+
+            <description xml:lang="en">Q3 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-07-31">
+          3000
+        </value>
+
+        <transaction-date iso-date="2012-07-31"/>
+
+
+            <description xml:lang="en">Q3 Fiscal 2011-2012 Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-07-31">
+          999
+        </value>
+
+        <transaction-date iso-date="2012-07-31"/>
+
+
+            <description xml:lang="en">Q3 Fiscal 2011-2012 Incoming Funds</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Expenditure">
+          E
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-10-31">
+          83179
+        </value>
+
+        <transaction-date iso-date="2012-10-31"/>
+
+
+            <description xml:lang="en">Q4 Fiscal 2011-2012</description>
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-10-31">
+          1833
+        </value>
+
+        <transaction-date iso-date="2012-10-31"/>
+
+
+        </transaction>
+      <transaction>
+        <transaction-type code="Incoming Funds">
+          IF
+        </transaction-type>
+
+        <value currency="CAD" value-date="2012-10-31">
+          15080
+        </value>
+
+        <transaction-date iso-date="2012-10-31"/>
+
+
+            <description xml:lang="en">Q4 Fiscal 2011-2012 Incoming Funding</description>
+        </transaction>
+
+
+
+
+
+
+    </iati-activity>
+</iati-activities>

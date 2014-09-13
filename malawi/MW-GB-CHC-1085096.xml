@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-06-16T15:55:03+00:00">
+    <reporting-org ref="GB-CHC-1085096" type="21" xml:lang="en">Women and Children First (UK)</reporting-org>
+    <iati-identifier>GB-CHC-1085096-GPAF-INN-041</iati-identifier>
+    <title>Improving maternal and newborn health for women and newborns in Nkhotakota District, Malawi</title>
+    <description type="1">Empowering rural women to access quality maternal and newborn health services in Nkhotakota, Malawi.  Direct beneficiaries are 52,976 women and 11,517 newborns. Our innovation is to combine evidence that mobilising communities reduces maternal and newborn mortality with MaiKhanda’s experience that facilitating community/facility dialogue and communities and holding healthcare providers accountable can improve maternal and newborn health services.</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2014-04-01"/>
+    <activity-date type="end-planned" iso-date="2016-10-31"/>
+    <contact-info>
+      <organisation>Women and Children First UK</organisation>
+      <person-name>Mikey Rosato</person-name>
+      <job-title>Senior Programmes Manager</job-title>
+      <telephone>02077006309</telephone>
+      <email>m.rosato@womenandchildrenfirst.org.uk</email>
+      <mailing-address>Women and Children First&#13;
+United House&#13;
+North Road&#13;
+London&#13;
+N7 9DP&#13;
+United Kingdom</mailing-address>
+      <website>www.womenandchildrenfirst.org.uk</website>
+    </contact-info>
+    <participating-org type="10" role="Funding" ref="GB-1">DfID</participating-org>
+    <participating-org type="22" role="Implementing">MaiKhanda Trust</participating-org>
+    <participating-org type="21" role="Accountable" ref="GB-CHC-1085096">Women and Children First UK</participating-org>
+    <recipient-country code="MW" percentage="100"/>
+    <location percentage="100">
+      <location-type code="ADM1"/>
+      <name>Nkhotakota District</name>
+      <administrative country="MW" adm1="Nkhotakota District">Nkhotakota, Republic of Malawi</administrative>
+      <coordinates latitude="-12.924260634987855" longitude="34.29588317871094" precision="4"/>
+    </location>
+    <sector code="13020" percentage="100" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <budget type="1">
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2015-03-31"/>
+      <value value-date="2014-04-01">109706</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-04-01"/>
+      <period-end iso-date="2016-03-31"/>
+      <value value-date="2015-04-01">81806</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2016-04-01"/>
+      <period-end iso-date="2016-10-31"/>
+      <value value-date="2016-04-01">54589</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C"/>
+      <provider-org ref="GB-1">DfID</provider-org>
+      <receiver-org ref="GB-CHC-1085096" receiver-activity-id="GPAF-INN-041">Women and Children First</receiver-org>
+      <value currency="GBP" value-date="2014-02-14">246101</value>
+      <transaction-date iso-date="2014-02-14"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1">DfID</provider-org>
+      <receiver-org ref="GB-CHC-1085096">Women and Children First (UK)</receiver-org>
+      <value currency="GBP" value-date="2014-04-10">53611</value>
+      <description>Y1Q1 funds.</description>
+      <transaction-date iso-date="2014-04-10"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="1"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org ref="GB-CHC-1085096">Women and Children First (UK)</provider-org>
+      <receiver-org>MaiKhanda Trust</receiver-org>
+      <value currency="GBP" value-date="2014-04-10">48580</value>
+      <description>Y1Q1 disbursement.</description>
+      <transaction-date iso-date="2014-04-10"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-1">DfID</provider-org>
+      <receiver-org ref="GB-CHC-1085096">Women and Children First (UK)</receiver-org>
+      <value value-date="2014-04-10">5031</value>
+      <description>Y1Q1 expenditure.</description>
+      <transaction-date iso-date="2014-04-10"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="1"/>
+      <tied-status code="5"/>
+    </transaction>
+    <document-link url="http://aidstream.org/files/documents/MK_GPAF_IATIContract_15022014.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="A11"/>
+      <title>Grant Arrangement between the Department for International Development and Women and Children First (UK)</title>
+    </document-link>
+    <document-link url="http://aidstream.org/files/documents/MK_GPAF_IATILogFrame_02062014.xlsx" format="application/vnd.ms-excel">
+      <language>en</language>
+      <category code="A08"/>
+      <title>Project LogFrame</title>
+    </document-link>
+    <document-link url="http://aidstream.org/files/documents/MK_GPAF_IATIMoU_06032014.docx" format="application/msword">
+      <language>en</language>
+      <category code="A09"/>
+      <title>Memorandum of Understanding between Women and Children First and MaiKhanda Trust</title>
+    </document-link>
+    <document-link url="http://aidstream.org/files/documents/MK_GPAF2013_IATIBudget_v1_02042014.xlsx" format="application/vnd.ms-excel">
+      <language>en</language>
+      <category code="A05"/>
+      <title>Project budget</title>
+    </document-link>
+    <document-link url="http://aidstream.org/files/documents/MK_GPAF2013_IATIProposal_02042014.docx" format="application/msword">
+      <language>en</language>
+      <category code="A02"/>
+      <title>Project proposal</title>
+    </document-link>
+  </iati-activity>
+</iati-activities>

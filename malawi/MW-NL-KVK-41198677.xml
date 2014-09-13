@@ -1,0 +1,1516 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2012-09-10T10:54:20">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1004961</iati-identifier>
+<title>Addressing Child Marriages through empowerment of girls and their communities in Malawi</title>
+<description>
+Kanengo AIDS Support Organization-KASO is a registered Civil Society Organization working in Lilongwe and Dowa districts. KASO is part of the Multi-Actor Initiative-MAI in which different Civil Society Organizations are implementing a programme from 2011 to 2015 with a higher goal of significantly reducing the incidences of child marriages which are rampant in Malawi
+
+The project goal is to contribute to the significant reduction of child marriages in Malawi by 2015.For the 2012-2013 project implementation years, KASO will implement activities focused on villages. The overall goal of these interventions is to promote the rights of girls to Sexual Reproductive Health, build and strengthen community capacities to support women and girls human rights and to educate the community and raise awareness on the harmful cultural practices that impinge on women and girls rights. Specifically, this project, aims at changing people and communities’ attitudes, perceptions and mind sets towards the role and position of women and girls in the community and in an effort to reduce child marriages that are viewed as a norm in Malawi.
+
+The objectives of the programme are:
+1.	To empower girls with SRHR information and services and enable them to make informed decisions about their sexual lives
+2.	To equip community structure to promote and support girls SRH  rights and education
+3.	To create and strengthen community capacity to provide psychosocial care and support for girls including those who dropped from school due to early pregnancy
+4.	To build and strengthen community structures that would support the demand from girls and promote the rights of girls to these services
+5.	To raise awareness on girls rights to SRH, education and gender equity in the community
+6.	To empower girls with enough skills to develop confidence and self-esteem and be able to make informed decisions about their lives
+Crucially, this project aims at equipping girls so that they are empowered to change the way they look at themselves against boys in their communities so that they can develop self confidence and self-esteem to take up any decision making, educational and claim their sexual and reproductive health rights. This will be done through training of Community educators in Sexual Reproductive Health rights for girls and women and advocacy, training in child development, child rights and guidance counseling , awareness campaigns on girls SRH rights, dangers of child marriages, GBV, promotion of girls’ education and mapping out different roles community duty bearers should play in reducing child marriages, community awareness raising campaigns on early marriages and girls’ rights to SRH, education and harmful cultural practices against women and girls and life skill training for young girls.
+Hivos intends to support KASO through the multi actor initiative because it is a strategic partner on reduction of early child marriages due to their experience and knowledge around children’s rights. 
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2012-08-19"/>
+<activity-date type="end-actual" iso-date="2015-01-01"/>
+<contact-info>
+<organisation>Rights Institute  for Social Empowerment( Formerly KASO)</organisation>
+<telephone>265 9307398</telephone>
+<mailing-address>P.O.Box 31381 , Lilongwe 3 , , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Rights Institute  for Social Empowerment( Formerly KASO)</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="40" vocabulary="DAC-3">Education</sector>
+<sector code="121" percentage="40" vocabulary="DAC-3">Health</sector>
+<sector code="151" percentage="10" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<sector code="160" percentage="10" vocabulary="DAC-3">Other social infrastructure and services</sector>
+<policy-marker/>
+<budget><value value-date="2012-07-10" currency="EUR">60000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2012-09-26" currency="EUR">6248</value>
+<transaction-date iso-date="2012-09-26"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2012-09-26" currency="EUR">5752</value>
+<transaction-date iso-date="2012-09-26"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2012-12-04" currency="EUR">10000</value>
+<transaction-date iso-date="2012-12-04"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2013-11-12" currency="EUR">6248</value>
+<transaction-date iso-date="2013-11-12"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2013-11-12" currency="EUR">3752</value>
+<transaction-date iso-date="2013-11-12"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2012-09-26" currency="EUR">3000</value>
+<transaction-date iso-date="2012-09-26"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2014-02-25" currency="EUR">10000</value>
+<transaction-date iso-date="2014-02-25"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2014-05-22" currency="EUR">10000</value>
+<transaction-date iso-date="2014-05-22"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-09-20T12:01:57">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1006417</iati-identifier>
+<title>Quality HIV and reproductive maternal and neonatal health services for women and young women in Africa through good clinical governance and community driven accountability</title>
+<description>
+STOP AIDS NOW! is a partnership-driven organisation, founded in 2000 by Aids Fonds and four Dutch development organisations: Cordaid, Hivos, ICCO, and Oxfam Novib. STOP AIDS NOW! works towards a world without AIDS through four core functions: communication and campaigning; fundraising; lobby and advocacy; and policy and programme development.22
+
+STOP AIDS NOW! emphasizes local ownership and a participatory approach throughout. STOP AIDS NOW! works with local CSOs, and always involves the community and those infected and affected by HIV. In all interventions, STOP AIDS NOW! makes use of partnerships and seeks cooperation with governments, other CSOs and individuals.
+
+STOP AIDS NOW! has built extensive expertise in generating knowledge through a learning by doing approach. The general idea of this approach is to innovate, redefine and integrate new and existing strategies on specific thematic areas with partners in pilot countries. STOP AIDS NOW! believes that capacity building is most effective when organisations implement and experiment with their own new learned lessons. In all interventions, evidence is gathered and built through applied research. STOP AIDS NOW!’s thematic focus is:
+•	Developing a comprehensive approach to HIV prevention for youth
+•	Linking HIV and SRHR
+•	Supporting children living in a context of HIV and AIDS through families and
+•	communities
+•	Mainstreaming HIV and AIDS in broader development programmes
+•	Treatment as Prevention
+
+SAN stimulate and support innovative initiatives. The ‘Learning by Doing’ method, for instance,has resulted in several valuable new approaches and tools. ‘Learning by Doing’ has been applied in STOP AIDS NOW! programmes in Ethiopia, India, Indonesia, Kenya, Malawi, South Africa, Uganda, Zambia, and Zimbabwe.
+
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-01-01"/>
+<activity-date type="end-actual" iso-date="2015-12-30"/>
+<contact-info>
+<organisation>Stop Aids Now!</organisation>
+<telephone>020-5287828</telephone>
+<mailing-address>Keizersgracht 390, Amsterdam, 1016 GB, Nederland</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Stop Aids Now!</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-03-06" currency="EUR">60000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Stop Aids Now! (SAN)</provider-org>
+<receiver-org>Stop Aids Now!</receiver-org>
+<value value-date="2013-10-21" currency="EUR">20000</value>
+<transaction-date iso-date="2013-10-21"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Stop Aids Now! (SAN)</provider-org>
+<receiver-org>Stop Aids Now!</receiver-org>
+<value value-date="2014-05-14" currency="EUR">20000</value>
+<transaction-date iso-date="2014-05-14"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-05-15T12:13:29">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1006647</iati-identifier>
+<title>Child Marriages Programme in Malawi-consultancy </title>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-05-01"/>
+<activity-date type="end-actual" iso-date="2013-12-30"/>
+<contact-info>
+<organisation>Tsitsi Maradze  </organisation>
+<telephone> +263 772 237 858</telephone>
+<mailing-address>3911shumba road winsor park Ruwa, Harare, , Zimbabwe</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Tsitsi Maradze  </participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-05-03" currency="EUR">21000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Tsitsi Maradze  </receiver-org>
+<value value-date="2013-11-18" currency="EUR">6000</value>
+<transaction-date iso-date="2013-11-18"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Tsitsi Maradze  </receiver-org>
+<value value-date="2013-05-22" currency="EUR">9000</value>
+<transaction-date iso-date="2013-05-22"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Tsitsi Maradze  </receiver-org>
+<value value-date="2013-09-12" currency="EUR">6000</value>
+<transaction-date iso-date="2013-09-12"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2014-07-28T16:06:16">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1005067</iati-identifier>
+<title>Promotion of Lesbians, Gay, Bisexual and Transgender issues in the context of human rights and HIV and AIDS in Malawi	 </title>
+<description>
+The Centre for Human Rights and Rehabilitation (CHRR) is one of Malawi’s leading human rights non-governmental organizations. It was founded in February 1995 as a non – partisan non-profit making organization registered under the Trustees Incorporation Act of 1962.  CHRR is a Human Rights organization working to uphold the values of the constitution and encourage the strengthening of the various pillars of democracy in Malawi. CHRR’s mission is to contribute towards the protection, promotion and consolidation of good governance by empowering rural and urban communities in Malawi to be aware of and exercise their rights through research, advocacy and networking in order to realise human development. CHRR plays the role of watchdog and has a national presence unlike other organizations. It has built a reputation of checking on government activities to ensure that they comply with the democratic principles. CHRR is integral to the civil society scene in Malawi and its ""the"" lead organization in advocating for and protection of civil and political rights. CHRR is collaborating with CEDEP to implement a LGBT project in Malawi.
+
+Centre for the Development of People (CEDEP) is a registered human rights, HIV/AIDS organisation under the Trustees Incorporation Act of 1962.The organisation was established in November 2006 in order to address the needs and challenges of minority groups in Malawi  in the context of human rights, health and social development. Such minority groups include LGBT, prisoners and sex workers whose rights are often neglected.
+  Hivos is motivated to support CHRR and CEDEP  because of their objectives which seek to foster a culture of human rights in Malawi. This is in line with Hivos' policy on human rights particularly LGBT rights.
+
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2012-07-01"/>
+<activity-date type="end-actual" iso-date="2014-12-30"/>
+<contact-info>
+<organisation>CENTRE FOR HUMAN RIGHTS AND REHABILITATION</organisation>
+<telephone>01 761 122</telephone>
+<mailing-address>P.O Box 2340, Lilongwe , , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">CENTRE FOR HUMAN RIGHTS AND REHABILITATION</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2012-08-06" currency="EUR">238000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>CENTRE FOR HUMAN RIGHTS AND REHABILITATION</receiver-org>
+<value value-date="2013-08-06" currency="EUR">47000</value>
+<transaction-date iso-date="2013-08-06"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>CENTRE FOR HUMAN RIGHTS AND REHABILITATION</receiver-org>
+<value value-date="2014-02-05" currency="EUR">15000</value>
+<transaction-date iso-date="2014-02-05"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>CENTRE FOR HUMAN RIGHTS AND REHABILITATION</receiver-org>
+<value value-date="2012-11-22" currency="EUR">53000</value>
+<transaction-date iso-date="2012-11-22"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>CENTRE FOR HUMAN RIGHTS AND REHABILITATION</receiver-org>
+<value value-date="2014-07-09" currency="EUR">25000</value>
+<transaction-date iso-date="2014-07-09"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>CENTRE FOR HUMAN RIGHTS AND REHABILITATION</receiver-org>
+<value value-date="2012-09-20" currency="EUR">98000</value>
+<transaction-date iso-date="2012-09-20"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2011-11-24T17:01:41">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1003561</iati-identifier>
+<title>Centre for Youth and Children Affairs (CEYCA) - Combating the problem of Early Child Marriages in Malawi</title>
+<description>
+Hivos will be funding the contribution towards reducing early child marriages in Malawi. Below are the objectives and indicators for the project to be supported by Hivos: 
+
+To contribute to the combating the Problem of Early Marriages through the Promotion of Sexual and Reproductive Health of the Youth of Malawi through empowering the youth of Malawi to claim their rights in SRH.
+
+Objectives:
+-	 to mobilize resources in order to raise awareness and drum up support from community leaders towards an advocacy for reduction of early marriages among young people in Malawi 
+-	to empower the youth, their parents, guardians and community leadership with knowledge about sexual and reproductive health and rights, the obligations that arise from them 
+-	to enable policy makers to take steps that would facilitate the proper support to realisation of reproductive rights through proper legal framework. 
+Indicators:
+•	Increased public knowledge and general awareness about early marriages, sexual and reproductive health and rights by the youth, parents and guardians, traditional leaders, faith groups and service providers 
+•	Improved public perception on early marriage, sexual and reproductive health and rights 
+•	Increased support, from traditional leaders, in lobbying and advocating for efforts for  the enactment/review of laws on marriage age
+•	Decreased number of adolescent girls entering marriage before the age of 18
+•	 Increased number of teenage mothers going back to school
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2011-11-01"/>
+<activity-date type="end-actual" iso-date="2013-12-30"/>
+<contact-info>
+<organisation> Centre for Youth and Children Affairs  </organisation>
+<telephone>+(265) 0888 567428</telephone>
+<mailing-address>Falls Estate,  Off Malangalanga Road 120 metres from Malanga, Lilongwe , , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing"> Centre for Youth and Children Affairs  </participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="30" vocabulary="DAC-3">Education</sector>
+<sector code="121" percentage="40" vocabulary="DAC-3">Health</sector>
+<sector code="151" percentage="10" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<sector code="160" percentage="20" vocabulary="DAC-3">Other social infrastructure and services</sector>
+<policy-marker/>
+<budget><value value-date="2011-11-08" currency="EUR">150000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org> Centre for Youth and Children Affairs  </receiver-org>
+<value value-date="2011-11-30" currency="EUR">75000</value>
+<transaction-date iso-date="2011-11-30"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org> Centre for Youth and Children Affairs  </receiver-org>
+<value value-date="2012-12-04" currency="EUR">35000</value>
+<transaction-date iso-date="2012-12-04"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org> Centre for Youth and Children Affairs  </receiver-org>
+<value value-date="2013-10-25" currency="EUR">5000</value>
+<transaction-date iso-date="2013-10-25"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org> Centre for Youth and Children Affairs  </receiver-org>
+<value value-date="2012-09-20" currency="EUR">25000</value>
+<transaction-date iso-date="2012-09-20"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org> Centre for Youth and Children Affairs  </receiver-org>
+<value value-date="2013-10-03" currency="EUR">10000</value>
+<transaction-date iso-date="2013-10-03"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2012-08-03T13:18:55">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1004500</iati-identifier>
+<title> Malawi Agribusiness Youth Program(MAYOP II) 2012</title>
+<description>
+Farmers Forum for Trade &amp; Justice (Farmers Forum) was set up to develop entrepreneurial skills among youth engaged in agriculture and agro processing in Malawi. A baseline survey conducted in 2008 at the initial stages of its formation revealed that youth who go into farming lack marketing skills and the capacity to distribute their produce to the markets. The organization targets male and female youths organized into farmers forums. These are then given training in business and market research skills. The farmers’ forums are organized at village and area level and these further give young farmers a platform to discuss and advocate with support from Farmers Forum for policies and legal frameworks that promote the interest young farmers. The organization also targets women as these are disadvantaged in terms of lack of skills and credit to engage in profitable production. To date, 3,880 youths from have been trained in agribusiness and 76 youth  group enterprises operating in a variety of value chains like rice, paprika, vegetables and soya beans.  So far youths have formed a total of 90 village farmers Forums. 
+
+Hivos support will be directed to training 3 000 youth in Zomba, Lilongwe and Thyolo districts in agri-business skills.  This will give the youth skills to set up their own enterprises focusing on agriculture production and processing. Specifically, the program will focus on further capacity building of the selected 20 most viable enterprises to formalize their business structures and processes, modernize their production, processing and marketing systems to increase efficiency and  integrate climate change, HIV/AIDS and Gender in the development and  management of their agribusiness initiatives.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2012-04-02"/>
+<activity-date type="end-actual" iso-date="2015-04-30"/>
+<contact-info>
+<organisation>Farmers Forum For Trade &amp; Social Justice </organisation>
+<telephone/>
+<mailing-address>Blessing House, Tsiranana Avenue, Area 3, Near Korea Garden, LILONGWE, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Farmers Forum For Trade &amp; Social Justice </participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="30" vocabulary="DAC-3">Education</sector>
+<sector code="240" percentage="10" vocabulary="DAC-3">Banking and financial services</sector>
+<sector code="250" percentage="20" vocabulary="DAC-3">Business, trade and other related services</sector>
+<sector code="311" percentage="30" vocabulary="DAC-3">Agriculture</sector>
+<policy-marker/>
+<budget><value value-date="2012-03-19" currency="EUR">140000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Farmers Forum For Trade &amp; Social Justice </receiver-org>
+<value value-date="2013-06-21" currency="EUR">30000</value>
+<transaction-date iso-date="2013-06-21"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Farmers Forum For Trade &amp; Social Justice </receiver-org>
+<value value-date="2013-12-11" currency="EUR">30000</value>
+<transaction-date iso-date="2013-12-11"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Farmers Forum For Trade &amp; Social Justice </receiver-org>
+<value value-date="2012-05-30" currency="EUR">50000</value>
+<transaction-date iso-date="2012-05-30"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Farmers Forum For Trade &amp; Social Justice </receiver-org>
+<value value-date="2013-10-25" currency="EUR">15000</value>
+<transaction-date iso-date="2013-10-25"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Farmers Forum For Trade &amp; Social Justice </receiver-org>
+<value value-date="2014-07-03" currency="EUR">15000</value>
+<transaction-date iso-date="2014-07-03"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-06-06T15:46:57">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1006631</iati-identifier>
+<title>Farm Income Diversification through Small Scale Commercial Farming                                                             </title>
+<description>
+Community Partnership for Relief and Development (COPRED) is an organization set up to assist communities improve their productive capacities and thus sustain their livelihoods. The communities that COPRED works with lack adequate productive resources to make them produce profitably. Failure to access inputs and lack of knowledge in good farming technologies has led to failed production. Further social problems like HIV//AIDS, have constrained the ability of the small scale producers to engage in viable agricultural activities. Thus the focus of COPRED is to assist communities to engage in sustainable production by using locally available resources and through training in sustainable agriculture and facilitation to access markets. Although COPRED is not yet fully following organic farming principles, it does train its target group the small holder vegetable farmers around Blantyre in conservation farming techniques. The project emphasis will be placed on building production capacities of the farm-family to enable it build financial reserves for re-investment, increase production, add value and management sustained supply chain. This support will see COPRED reaching 9000 farmers and 1500 small traders the project will be focused on farm-families, rather than individual farmers, Based on the Sustainable Livelihoods Development Project that targeted 8383farm-families and some farmers realised good returns from production, COPRED will continue to focus on training to improve the quality of crop production to enable more farmers to enter local markets. In this period, COPRED will work jointly with Ministry of Trade through district trade officers present in the district to link farmers with buyers through One Village One Product (OVOP) initiative and will also work with Community Savings and Investment Promotion (COMSIP), which is another government department that was created to cultivate a culture of savings among all communities in Malawi to enable them to save enough resources that can be invested in the productive sectors of the economy.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-05-01"/>
+<activity-date type="end-actual" iso-date="2015-12-30"/>
+<contact-info>
+<organisation>Community Partnership for Relief and Development </organisation>
+<telephone/>
+<mailing-address> , BLANTYRE, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Community Partnership for Relief and Development </participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="230" percentage="25" vocabulary="DAC-3">Energy generation and supply</sector>
+<sector code="311" percentage="50" vocabulary="DAC-3">Agriculture</sector>
+<sector code="312" percentage="25" vocabulary="DAC-3">Forestry</sector>
+<policy-marker/>
+<budget><value value-date="2013-04-30" currency="EUR">196038</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Community Partnership for Relief and Development </receiver-org>
+<value value-date="2013-12-11" currency="EUR">50000</value>
+<transaction-date iso-date="2013-12-11"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Community Partnership for Relief and Development </receiver-org>
+<value value-date="2013-06-11" currency="EUR">70000</value>
+<transaction-date iso-date="2013-06-11"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2012-09-10T11:04:36">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1005073</iati-identifier>
+<title>Addressing Child Marriages in the Lilongwe 3 district of Malawi</title>
+<description>
+The Meaningful Action on HIV/AIDS Support Network (MASUNA) is a Community Based Organization (CBO) established in the year 2000 to provide care and support to people living and affected with HIV and AIDS in the target communities in T/A Tsabango’s Area in Lilongwe, Malawi. The organization was incorporated into a Trust under the Trustees Incorporation Act (Cap. 5:03) of the Laws of the Republic of Malawi in 2005. MASUNA is also an affiliate member of various umbrella organizations as well as institutions of similar strategic interests and objectives including: Malawi AIDS Services Organization (MANASO) and National Youth Council of Malawi
+Vision:  
+MASUNA, envisage a society that is healthy with adequate social amenities and therefore free from diseases and socio-economic hardships that impede the meaningful development of the country.
+Mission
+MASUNA strives to enhance meaningful action on HIV/AIDS service provision and seek to provide social and economic services in the best interest of people living and affected with HIV/AIDS in Malawi especially the youth, women, orphans and vulnerable children.
+Values
+The programme efforts drive force towards:
+•	Upholding Children’s and Women’s Rights
+•	Ensuring Transparency and Accountability
+•	Achieving Non-discrimination and equal opportunities
+•	Sustaining Peace and stability
+•	Remaining Focused, Non-partisan and non-religious</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2012-08-19"/>
+<activity-date type="end-actual" iso-date="2015-01-01"/>
+<contact-info>
+<organisation>Meaningful Action on HIV AIDS Support Network Association</organisation>
+<telephone>+265 999300102                          </telephone>
+<mailing-address>Lilongwe Blantyre M 1 Road, After Partners in Hope Islamic, Lilongwe, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Meaningful Action on HIV AIDS Support Network Association</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="40" vocabulary="DAC-3">Education</sector>
+<sector code="121" percentage="10" vocabulary="DAC-3">Health</sector>
+<sector code="151" percentage="20" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<sector code="160" percentage="20" vocabulary="DAC-3">Other social infrastructure and services</sector>
+<sector code="250" percentage="10" vocabulary="DAC-3">Business, trade and other related services</sector>
+<policy-marker/>
+<budget><value value-date="2012-08-06" currency="EUR">40000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Meaningful Action on HIV AIDS Support Network Association</receiver-org>
+<value value-date="2012-10-01" currency="EUR">15000</value>
+<transaction-date iso-date="2012-10-01"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Meaningful Action on HIV AIDS Support Network Association</receiver-org>
+<value value-date="2014-06-27" currency="EUR">10000</value>
+<transaction-date iso-date="2014-06-27"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Meaningful Action on HIV AIDS Support Network Association</receiver-org>
+<value value-date="2012-12-04" currency="EUR">10000</value>
+<transaction-date iso-date="2012-12-04"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-02-06T12:32:43">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1005191</iati-identifier>
+<title>Increased Financial Deepening and Expanded Outreach  </title>
+<description>
+The Malawi Union of Savings and Credit Cooperatives (MUSCCO) is a national democratically controlled apex organization of Savings and Credit Cooperatives (SACCOs) affiliated to it. MUSCCO was established in 1980 with a mandate to promote, develop, support and service Savings and Credit Cooperatives affiliated to it in Malawi.  
+MUSCCO provides a variety of services to its affiliated SACCOs in its quest to grow and develop a strong and viable network of Savings and Credit Cooperatives. Outline below are some of the services provided by MUSCCO to its affiliates.
+
+MUSCCO is owned by the SACCOs affiliated to it. SACCOs affiliated to MUSCCO are the sole shareholders of MUSCCO.  The member SACCOs access a range of services from MUSCCO that include:
+a)	Technical Assistance support services in such  areas as, bookkeeping , accounting systems support;  business planning and Budgeting;  policy formulation and promotion; SACCO linkages;  SACCO education programs design;  SACCO management and leadership training; ICT in SACCOs;  general inspection and supervision of SACCOs, auditing and other consultancies; 
+
+b)	 Central Finance Facility (CFF)  services through which member SACCOs access share accounts; deposit accounts (ordinary, fixed or Liquidity) and credit facilities for agricultural lending and other revolving financing services;  
+
+c)	Advocacy and Lobbying and representation support; MUSCCO advocate for and represent SACCOs both nationally and internally. It is through this function that SACCOs’ benefits to members and impact in the communities where they operate are made known world over.
+
+d) Insurance services to all member SACCOs covering their member loans and savings. This insurance programme called SACCO Financial Protection Plan (SFPP) protects SACCO member savings and loans.
+ The SACCOs affiliated to MUSCCO from the three geographical regions of Malawi are grouped into chapters. The three chapters democratically elect Directors who sit on the Board of MUSCCO.
+
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2012-11-01"/>
+<activity-date type="end-actual" iso-date="2015-12-30"/>
+<contact-info>
+<organisation>Malawi Union of Savings and Credit Cooperatives</organisation>
+<telephone/>
+<mailing-address>Muscco House, Mandala Road , LILONGWE, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Malawi Union of Savings and Credit Cooperatives</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="240" percentage="100" vocabulary="DAC-3">Banking and financial services</sector>
+<policy-marker/>
+<budget><value value-date="2012-09-13" currency="EUR">230000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Union of Savings and Credit Cooperatives</receiver-org>
+<value value-date="2014-06-25" currency="EUR">50000</value>
+<transaction-date iso-date="2014-06-25"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Union of Savings and Credit Cooperatives</receiver-org>
+<value value-date="2012-11-01" currency="EUR">19974</value>
+<transaction-date iso-date="2012-11-01"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Union of Savings and Credit Cooperatives</receiver-org>
+<value value-date="2012-11-01" currency="EUR">45000</value>
+<transaction-date iso-date="2012-11-01"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Union of Savings and Credit Cooperatives</receiver-org>
+<value value-date="2014-01-28" currency="EUR">17000</value>
+<transaction-date iso-date="2014-01-28"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Union of Savings and Credit Cooperatives</receiver-org>
+<value value-date="2013-12-06" currency="EUR">53000</value>
+<transaction-date iso-date="2013-12-06"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-11-04T13:49:21">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1007532</iati-identifier>
+<title>Integrated organic agricultural micro-enterprise development-Malawi</title>
+<description>
+Malawi Organic Growers Association (MOGA) is a network of smallholder producers interested in organic agriculture.  Currently, it has 5000 members producing organic coffee and horticultural crops including herbs and plants used for making spices. 67 % of these are women. MOGA 's main focus is to improve through training the production and income base  of these farmers who are its members.  MOGA has planned a series of project activities meant to improve the organic farming and business skills of producers.  This way farmers benefit from increased production of quality produce and value of outputs. The project will ensure that farmers following organic farming practices have comparative advantage over those involved in conventional farming using chemical fertilisers as they benefit from reduced costs of production hence better returns and sustained soil fertility.  MOGA will also facilitate marketing through linking farmers with  buyers. Further MOGA will assist farmers to save and access credit through collaboration with micro-finance institutions. Structured marketing through contract farming will be initiated and be maintained. The project will operate through the following strategic objectives;
+
+1.	 To promote Agribusiness skills and Value Chain Management for  5000 organic producers by 2015
+2.	To promote Organic Standards implementation and Certification system for farmers
+3.	To strengthen cooperate governance and financial management of MOGA 
+4.	To Promote organic production, membership and advocacy
+5.	To promote low carbon practice enterprises among 5000 households by 2015
+
+The project addresses challenges that bring about limited production, lack of market access, lack of focus in business management, lack of sustainable farming, cost of farm inputs, poor farmer organization and management capacity all of which have combined to limit improved economic performance by small holder producers.
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-10-30"/>
+<activity-date type="end-actual" iso-date="2015-07-31"/>
+<contact-info>
+<organisation>Malawi Organic Growers Association</organisation>
+<telephone/>
+<mailing-address>ADMARC Campus P.O Box 20288, LILONGWE, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Malawi Organic Growers Association</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="250" percentage="30" vocabulary="DAC-3">Business, trade and other related services</sector>
+<sector code="311" percentage="50" vocabulary="DAC-3">Agriculture</sector>
+<policy-marker/>
+<budget><value value-date="2013-10-25" currency="EUR">150000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Organic Growers Association</receiver-org>
+<value value-date="2013-11-05" currency="EUR">75000</value>
+<transaction-date iso-date="2013-11-05"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Organic Growers Association</receiver-org>
+<value value-date="2014-07-03" currency="EUR">60000</value>
+<transaction-date iso-date="2014-07-03"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2012-09-18T17:35:39">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1005072</iati-identifier>
+<title>Addressing Child Marriages in the Nkata Bay and Karonga Districts of Malawi</title>
+<description>
+Foundation for Children’s Rights (FCR) is a non profit making organization based in the city of Mzuzu in the Northern Region of Malawi. FCR was established in 2001 as a result of the concerns over the growing number of violations and abuses that are being targeted at the Malawian children largely because they have limited knowledge and skills around issues of human rights where they could have been defending themselves as well as protecting and demanding their entitlements. The challenge, has however, been manifested in the  education sector where   HIV and AIDS pandemic has exacerbated the problem by among other things increasing  the number of orphans and other abandoned children whose figure is estimated to have soured to a million . It is against this background that FCR, among other key objectives, was established and is currently running projects that are addressing some of the challenges faced by our children in some selected districts. FCR, therefore, proposes to extend the current project, ‘’ , “Advocacy Campaign for Combating  child Marriages through SRHR Model in Nkhata Bay and Karonga Districts’’  The project will be   implemented in  Mazamba Education Zone in TA Kabunduli in Nkhata-Bay South and  T/A Mwilang’ombe in Karonga South Constituency. </description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2012-08-20"/>
+<activity-date type="end-actual" iso-date="2015-01-01"/>
+<contact-info>
+<organisation>Foundation for Childrens Rights</organisation>
+<telephone>+265888380091</telephone>
+<mailing-address>Private Box 1170 , Mzuzu, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Foundation for Childrens Rights</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="40" vocabulary="DAC-3">Education</sector>
+<sector code="121" percentage="10" vocabulary="DAC-3">Health</sector>
+<sector code="151" percentage="20" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<sector code="250" percentage="10" vocabulary="DAC-3">Business, trade and other related services</sector>
+<policy-marker/>
+<budget><value value-date="2012-08-06" currency="EUR">120000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Foundation for Childrens Rights</receiver-org>
+<value value-date="2012-12-04" currency="EUR">20000</value>
+<transaction-date iso-date="2012-12-04"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Foundation for Childrens Rights</receiver-org>
+<value value-date="2013-10-01" currency="EUR">10000</value>
+<transaction-date iso-date="2013-10-01"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Foundation for Childrens Rights</receiver-org>
+<value value-date="2012-09-27" currency="EUR">60000</value>
+<transaction-date iso-date="2012-09-27"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2012-09-18T10:03:04">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1005074</iati-identifier>
+<title>Addressing Child Marriages in the Chimutu District of Malawi</title>
+<description>
+
+Centre for Youth Development and Social Empowerment (CYDSE) is a local nonprofit making, non political nongovernmental  organization which was formed in 1999 to act as a catalyst in raising awareness on HIV/AIDS and related issues in the communities of Traditional Authority Chimutu, Lilongwe, Malawi Africa.
+CYDSE was established in 1999 and is registered under the Trustees Incorporation Act (CAP.5:03) registration number TR/INC: 4725 in August 2010 and following 1996 Act of the National Youth Council of Malawi in August 2003. Other registrations, District Aids Coordinating Committee (DACC), Lilongwe District Social Welfare, Malawi Network for Aids Services Organization (MANASO) and other collaborating partners are Malawi Human Rights Youth Network (MHRYN), Chiwamba Health Centre, Education Advisors, Chiwamba EPA 21, Centre for Youth and Children Affairs (CEYCA), World Vision, DAPP, Lutheran and Faith Based Organizations.  
+CYDSE implements activities aimed at HIV prevention through strengthened awareness and peer education programmes. CYDSE also provides information on behavior change, provision of care and support for People living with HIV/AIDS, chronically ill people, Orphans and vulnerable children. Other activities CYDSE offers include civic education on Human rights, Democracy, gender and environmental rehabilitation and conservation. The activities are carried out through satellite clubs and volunteers who include youths and adults.
+Traditional Authority Chimutu is one of the biggest T/A s in Lilongwe with the total estimated population of over 100,000 people according to the 2008 population and house census report.  The area is largely rural with the majority relying on small scale farming with poor yields every year leading to low quality of livelihoods. Chiwamba is one of the under developed areas in the district but highly populated.   
+CYDSE is concerned with conception, implementation, and follow ups of the programmatic small scaled field oriented development projects. The organization encourages the beneficiaries to take full responsibilities for the projects. 
+OUR VISION
+To have a society with healthy people that respects human rights with active participation of youth for sustainable development.
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2012-08-19"/>
+<activity-date type="end-actual" iso-date="2015-01-01"/>
+<contact-info>
+<organisation>Centre of youth Development Social Empowerment</organisation>
+<telephone>+265999270672</telephone>
+<mailing-address>P.O Box 20 Chiwamba , Lilongwe, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Centre of youth Development Social Empowerment</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="40" vocabulary="DAC-3">Education</sector>
+<sector code="121" percentage="10" vocabulary="DAC-3">Health</sector>
+<sector code="151" percentage="20" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<sector code="160" percentage="20" vocabulary="DAC-3">Other social infrastructure and services</sector>
+<sector code="250" percentage="10" vocabulary="DAC-3">Business, trade and other related services</sector>
+<policy-marker/>
+<budget><value value-date="2012-08-06" currency="EUR">40000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Centre of youth Development Social Empowerment</receiver-org>
+<value value-date="2014-07-15" currency="EUR">10000</value>
+<transaction-date iso-date="2014-07-15"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Centre of youth Development Social Empowerment</receiver-org>
+<value value-date="2012-09-20" currency="EUR">15000</value>
+<transaction-date iso-date="2012-09-20"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Centre of youth Development Social Empowerment</receiver-org>
+<value value-date="2012-12-04" currency="EUR">10000</value>
+<transaction-date iso-date="2012-12-04"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-10-08T12:16:37">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1007306</iati-identifier>
+<title>Chisanko Project</title>
+<description>
+Through our proposed project we would like to help Civil Society Organizations (CSOs) and Malawians at large in their attempt to situate elections as a trusted and effective tool for enabling democratic succession and command the confidence of the electorate. We are convinced that elections must not only be free and fair but they must also be seen to be so. Through this project the CSOs are going to have a platform with which to reach out to the masses with timely and relevant information about the election. On their part Malawian citizens will have the opportunity to shape the nature of the tripartite elections by reporting any mishaps in the electoral process. Through collaboration with various stakeholders (CSOs and others) we are going to gain from their experience and their already existing structures at community level. It must be noted that this project will be based on three key building blocks namely; collaboration/partnership; open innovation and transparency.    
+
+The activities under this project will include conducting consultative meetings, targeted trainings and on-demand learning activities, creating an online platform, reporting, documentation and verification of reports. </description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-09-01"/>
+<activity-date type="end-actual" iso-date="2014-01-02"/>
+<contact-info>
+<organisation>Young Advocates for the Advancement of ICT related Developme</organisation>
+<telephone/>
+<mailing-address>Mtaleya Investments House, Behind OIBM Bank, Malangalanga, , Lilongwe, , Malawi,Mtaleya Investments House, Behind OIBM Bank, Malangalanga, Lilongwe, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Young Advocates for the Advancement of ICT related Developme</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-09-18" currency="EUR">18000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Young Advocates for the Advancement of ICT related Developme</receiver-org>
+<value value-date="2013-10-10" currency="EUR">18000</value>
+<transaction-date iso-date="2013-10-10"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="USD" last-updated-datetime="2014-02-10T08:39:29">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1007832</iati-identifier>
+<title>IKI - Invest in Knowledge: Child Marriages Programme in Malawi</title>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-12-30"/>
+<activity-date type="end-actual" iso-date="2014-12-31"/>
+<contact-info>
+<organisation>Invest in Knowledge</organisation>
+<telephone/>
+<mailing-address>P.O. Box 506, PIJO House, Zomba, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Invest in Knowledge</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2014-01-15" currency="USD">80000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ford Foundation</provider-org>
+<receiver-org>Invest in Knowledge</receiver-org>
+<value value-date="2014-02-13" currency="USD">43522</value>
+<transaction-date iso-date="2014-02-13"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-09-13T09:43:37">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1007051</iati-identifier>
+<title>Expanding rural outreach in Malawi</title>
+<description>
+CUMO Microfinance Limited (CUMO), is a Malawi MFI  whose headquarters and registered office is in Dedza,  CUMO is Malawi’s largest rural microfinance services provider, delivering facilitated savings, loans and insurance services to rural people across 14 districts of Malawi. CUMO was registered as a not for profit Company in 2007 and is currently reaching some 59,667 rural people in 4,700 groups from the 14 districts.  The Company is dully licensed by the Reserve Bank of Malawi  as a non deposit taking Microfinance institution under the Microfinance Act 2010.
+CUMO operates exclusively in rural areas, working beyond trading centers to reach remotest rural areas where most formal financial service providers fail to reach. CUMO is also the first microfinance institution in Malawi to have introduced health and death benefit insurance to the rural poor. By keeping minimum loan sizes  low enough  and targeting the remotest rural areas, CUMO ensures that its client profile consists of a significant proportion of the very poor, vulnerable but active population who live below the poverty line and currently make up 40% of the country’s population. 96% of CUMO’s clients are within the poorest to upper poor category, surviving on a land holding of less that 2 Acres, with an education level lower than standard 5. At least 57% of them have little or no knowledge of business at the time of recruitment and get little access to profitable markets.  
+
+Hivos support to CUMO entail a seed capital of 150 000 which will help the company increase outreach 94 600 beneficiaries by 2015. In the period 2013-2015, the focus of CUMO and Hivos is more on attaining financial viability and high portfolio quality through technological improvements. 
+
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-08-01"/>
+<activity-date type="end-actual" iso-date="2015-11-29"/>
+<contact-info>
+<organisation>CUMO Microfinance Limited</organisation>
+<telephone>+265 1 223 604/694</telephone>
+<mailing-address>P O Box 222, Dedza, , Dedza, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">CUMO Microfinance Limited</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="240" percentage="50" vocabulary="DAC-3">Banking and financial services</sector>
+<sector code="311" percentage="50" vocabulary="DAC-3">Agriculture</sector>
+<policy-marker/>
+<budget><value value-date="2013-07-24" currency="EUR">155000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>CUMO Microfinance Limited</receiver-org>
+<value value-date="2013-09-20" currency="EUR">150000</value>
+<transaction-date iso-date="2013-09-20"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>CUMO Microfinance Limited</receiver-org>
+<value value-date="2013-09-20" currency="EUR">-150000</value>
+<transaction-date iso-date="2013-09-20"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Mannekus Fonds</provider-org>
+<receiver-org>CUMO Microfinance Limited</receiver-org>
+<value value-date="2013-09-20" currency="EUR">150000</value>
+<transaction-date iso-date="2013-09-20"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2014-07-14T16:47:57">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1008886</iati-identifier>
+<title>Financial Support for Increasing Outreach in Malawi-PHASE 2 </title>
+<description>
+CUMO Microfinance Limited (CUMO), is a Malawi MFI  whose headquarters and registered office is in Dedza,  CUMO is Malawi’s largest rural microfinance services provider, delivering facilitated savings, loans and insurance services to rural people across 14 districts of Malawi. CUMO was registered as a not for profit Company in 2007 and is currently reaching some 59,667 rural people in 4,700 groups from the 14 districts.  The Company is dully licensed by the Reserve Bank of Malawi  as a non deposit taking Microfinance institution under the Microfinance Act 2010.
+CUMO operates exclusively in rural areas, working beyond trading centers to reach remotest rural areas where most formal financial service providers fail to reach. CUMO is also the first microfinance institution in Malawi to have introduced health and death benefit insurance to the rural poor. By keeping minimum loan sizes low enough  and targeting the remotest rural areas, CUMO ensures that its client profile consists of a significant proportion of the very poor, vulnerable but active population who live below the poverty line and currently make up 40% of the country’s population. 96% of CUMO’s clients are within the poorest to upper poor category, surviving on a land holding of less that 2 Acres, with an education level lower than standard 5. At least 57% of them have little or no knowledge of business at the time of recruitment and get little access to profitable markets.  80% of the beneficiaries are female.
+
+Hivos supports CUMO with a seed capital of 150 000 Euros since 2013, further financial support of 500 000 Euros will help the company increase outreach to 100,609 more beneficiaries. In the period 2014-2015, the focus of CUMO and Hivos is more on attaining financial viability and high portfolio quality through technological improvements. 
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2014-05-23"/>
+<activity-date type="end-actual" iso-date="2015-12-30"/>
+<contact-info>
+<organisation>CUMO Microfinance Limited</organisation>
+<telephone>+265 1 223 604/694</telephone>
+<mailing-address>P O Box 222, Dedza, , Dedza, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">CUMO Microfinance Limited</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="240" percentage="65" vocabulary="DAC-3">Banking and financial services</sector>
+<sector code="311" percentage="35" vocabulary="DAC-3">Agriculture</sector>
+<policy-marker/>
+<budget><value value-date="2014-05-20" currency="EUR">500000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>CUMO Microfinance Limited</receiver-org>
+<value value-date="2014-07-18" currency="EUR">210000</value>
+<transaction-date iso-date="2014-07-18"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-09-10T13:43:52">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1007081</iati-identifier>
+<title>Addressing Child Marriages</title>
+<description>
+The Hivos programme was motivated by the need to address the violation of girls’ and young women’s rights. Hivos opted to do so through making a contribution towards ending the practice of child marriages in Malawi. The programme therefore deals with a complex, diverse and deep rooted practice, which is fuelled by a variety of factors. 
+To progress with this work Hivos adopted a process approach using a multi-actor initiative strategy, which sought to bring together as many interested and influential actors to maximise on expertise and knowledge as well as skills for effective address.  
+
+The development of socially and psychologically empowered young women in Malawi aligns with the future Open Society strategy of Hivos, which seeks to:
+ 
+-   Develop independent thinking, decision making and choice among girls and women
+-  Accountable government with enabling laws and policies that protect and enables its citizens
+- Open society that accepts and accommodates the choices of others and tolerates diversity
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-08-01"/>
+<activity-date type="end-actual" iso-date="2014-07-31"/>
+<contact-info>
+<organisation>Hivos Regional Office Southern Africa</organisation>
+<telephone/>
+<mailing-address>20 Phillips Avenue Belgravia, Harare, , Zimbabwe</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Hivos Regional Office Southern Africa</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="20" vocabulary="DAC-3">Education</sector>
+<sector code="121" percentage="20" vocabulary="DAC-3">Health</sector>
+<sector code="151" percentage="40" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<sector code="160" percentage="10" vocabulary="DAC-3">Other social infrastructure and services</sector>
+<sector code="250" percentage="10" vocabulary="DAC-3">Business, trade and other related services</sector>
+<policy-marker/>
+<budget><value value-date="2013-08-01" currency="EUR">192508</value></budget>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-09-25T15:17:43">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1004486</iati-identifier>
+<title>Addressing Child Marriages in Malawi (Multi-Actor Initiative)</title>
+<description>
+This is an own project to be implemented by Hivos team working with partner organisations</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2012-01-01"/>
+<activity-date type="end-actual" iso-date="2013-12-31"/>
+<contact-info>
+<organisation>Hivos Regional Office Southern Africa</organisation>
+<telephone/>
+<mailing-address>20 Phillips Avenue Belgravia, Harare, , Zimbabwe</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Hivos Regional Office Southern Africa</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2012-06-01" currency="EUR">81000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Hivos Regional Office Southern Africa</receiver-org>
+<value value-date="2013-09-17" currency="EUR">21767</value>
+<transaction-date iso-date="2013-09-17"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Hivos Regional Office Southern Africa</receiver-org>
+<value value-date="2012-09-03" currency="EUR">6776</value>
+<transaction-date iso-date="2012-09-03"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Hivos Regional Office Southern Africa</receiver-org>
+<value value-date="2012-11-19" currency="EUR">2015</value>
+<transaction-date iso-date="2012-11-19"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Hivos Regional Office Southern Africa</receiver-org>
+<value value-date="2012-12-04" currency="EUR">5306</value>
+<transaction-date iso-date="2012-12-04"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Hivos Regional Office Southern Africa</receiver-org>
+<value value-date="2012-12-14" currency="EUR">1113</value>
+<transaction-date iso-date="2012-12-14"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Hivos Regional Office Southern Africa</receiver-org>
+<value value-date="2013-05-17" currency="EUR">4022</value>
+<transaction-date iso-date="2013-05-17"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2014-07-28T16:03:13">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1005049</iati-identifier>
+<title>Combating Child Labour and Child Trafficking in Kasungu and Mchnji districts project -Malawi</title>
+<description>
+The main objective of the Project is to contribute to the elimination of child labor in Malawi.
+Hivos under this project will support activities aimed to;
+
+1.	To strengthen the capacity of anti- child labor community structures in Kasungu and Mchinji Districts. 
+2.	To enhance knowledge and application of child labour policies and laws in Kasungu and Mchinji Districts.
+3.	To increase material and psychosocial support to withdrawn children from the labor industryinKasungu and Mchinji Districts.
+4.	To enhance collaboration and lessons sharing among community monitoring structures and CALAM network members at district and national level. 
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2012-07-02"/>
+<activity-date type="end-actual" iso-date="2014-12-30"/>
+<contact-info>
+<organisation> Centre for Youth and Children Affairs  </organisation>
+<telephone>+(265) 0888 567428</telephone>
+<mailing-address>Falls Estate,  Off Malangalanga Road 120 metres from Malanga, Lilongwe , , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing"> Centre for Youth and Children Affairs  </participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2012-08-02" currency="EUR">135000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org> Centre for Youth and Children Affairs  </receiver-org>
+<value value-date="2012-10-04" currency="EUR">45000</value>
+<transaction-date iso-date="2012-10-04"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org> Centre for Youth and Children Affairs  </receiver-org>
+<value value-date="2012-12-06" currency="EUR">42491</value>
+<transaction-date iso-date="2012-12-06"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org> Centre for Youth and Children Affairs  </receiver-org>
+<value value-date="2013-10-04" currency="EUR">2509</value>
+<transaction-date iso-date="2013-10-04"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org> Centre for Youth and Children Affairs  </receiver-org>
+<value value-date="2014-02-07" currency="EUR">15000</value>
+<transaction-date iso-date="2014-02-07"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2014-07-28T15:44:59">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1007193</iati-identifier>
+<title>Enhancing Citizen Action for Accountable and Responsive Local governance</title>
+<description>
+The Pan African Civic Educators Network (PACENET)  aims at empowering local governance structures and communities to demand their rights, accountability and responsiveness from duty bearers at local government level.  The proposed new project will target 81 rural communities as rights holders who will be reached out through three  local based community  structures ,namely; Village Development Committees (VDC's), Area Development Committees (ADC's), and Community Based Organizations (CBOs-36) which will form transparency and accountability clubs (TAC's). Key stakeholders in local governance which include; Central Government and Local council staff will also be targeted as duty bearers.The overall goal of this project is to revive and strengthen democratic, accountable and responsive local governance and improve the quality of service delivery at local government level.
+The project will strive to address key challenges of low levels of knowledge of the right to development, local governance and its functions among citizens; lack of confidence among community members and leaders to drive development agenda with the council, demand accountability and responsiveness from duty bearers  and lack of administrative machinery in the council offices for community liaison to facilitate citizen participation as a right. 
+The project will address these challenges through a multi-pronged approach involving the following:
+•	Capacity building of  citizens through local governance structures.
+•	Community mobilization for action aimed at creating a critical mass at grassroots.
+•	Lobbying and advocacy: This project is important to Hivos for it aims at promoting good governance and democratisation which is one of Hivos' key result areas. The project also aims at empowering citizens to take action which is an important element in achieving the desired change in Hivos.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-09-01"/>
+<activity-date type="end-actual" iso-date="2014-08-31"/>
+<contact-info>
+<organisation>Pan African Civic Educators Network</organisation>
+<telephone>+265 888 644 813</telephone>
+<mailing-address>Hamdan House, Next to Luchenza Sec School, Luchenza Municipa, Luchenza, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Pan African Civic Educators Network</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="20" vocabulary="DAC-3">Education</sector>
+<sector code="151" percentage="50" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<sector code="160" percentage="30" vocabulary="DAC-3">Other social infrastructure and services</sector>
+<policy-marker/>
+<budget><value value-date="2013-09-03" currency="EUR">45000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Pan African Civic Educators Network</receiver-org>
+<value value-date="2013-09-12" currency="EUR">40000</value>
+<transaction-date iso-date="2013-09-12"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-07-29T12:29:06">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1007043</iati-identifier>
+<title>Combating Child Labour and Child Trafficking in Kasungu and Mchinji districts project -Malawi CEYCA Mid term Evaluation 2013</title>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-07-29"/>
+<activity-date type="end-actual" iso-date="2013-08-30"/>
+<contact-info>
+<organisation>Peter Mbiko Faith Jere</organisation>
+<telephone>(265) 8-88-850-016/ 9-99-420-034</telephone>
+<mailing-address>P.O. Box 31810, Lilongwe 3, , Lilongwe, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Peter Mbiko Faith Jere</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-07-22" currency="EUR">7234</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Peter Mbiko Faith Jere</receiver-org>
+<value value-date="2013-10-25" currency="EUR">1234</value>
+<transaction-date iso-date="2013-10-25"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Peter Mbiko Faith Jere</receiver-org>
+<value value-date="2013-08-06" currency="EUR">3000</value>
+<transaction-date iso-date="2013-08-06"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Peter Mbiko Faith Jere</receiver-org>
+<value value-date="2013-10-04" currency="EUR">3000</value>
+<transaction-date iso-date="2013-10-04"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2014-06-10T17:01:42">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1008516</iati-identifier>
+<title>Increasing the engagement youth and young people in the social-economic development in Malawi using a dedicated Radio Station</title>
+<description>
+Youth Net and Counselling (YONEC) was established in 1997 and celebrates 10 years of existence now. YONECO seeks a self - reliant HIV/AIDS free society that respects democratic principles and values. YONECO is committed to empowering youth, women and children, combating the spread of HIV infection, mitigating the impact of AIDS and promoting democracy and human rights and conducting research for youth, women and child development. YONECO focus areas therefore are youth, women and child development with particular reference to youth development, HIV/AIDS, Human Rights and Democracy. YONECO seeks to promote youth, women and children participation in socio economic development. In the women and children, YONECO seeks to protect the rights of women, provide counselling services and enhance comprehensive community child protection mechanism at community levels. YONECO believes in and upholds the values of respect for human dignity, confidentiality, integrity, team spirit and transparency and accountability. The objectives of YONECO are:
+(a)To promote positive youth, women and child development through counselling, life skills, leadership and entrepreneurship ;
+(b)To safeguard, promote and protect human rights with particular reference to the rights of youth, women and children;
+(c)To conduct civic education on HIV/AIDS, human rights, gender, democracy, and good governance among the general population;
+(d)To enhance youth, women and children participation in democratization process and socio – economic development of the Nation;
+(e)To provide social and economic support services for abused and victimized women and children at community level;
+(f)To provide care and support to those affected and infected with HIV/AIDS including people living with HIV/AIDS and orphans;
+(g)To provide networking and collaboration services locally and internationally on youth, women and children
+YONECO is strategically structured into four service programmes for effective implementation of its activities and these include youth development, women and children and democracy and governance. 
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2014-03-31"/>
+<activity-date type="end-actual" iso-date="2015-01-01"/>
+<contact-info>
+<organisation>Youth Net &amp; Counselling</organisation>
+<telephone>+2651525674</telephone>
+<mailing-address>Along Zomba Lilongwe Road Next to Calvary Church , Zomba, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Youth Net &amp; Counselling</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="160" percentage="100" vocabulary="DAC-3">Other social infrastructure and services</sector>
+<policy-marker/>
+<budget><value value-date="2014-03-23" currency="EUR">200000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Youth Net &amp; Counselling</receiver-org>
+<value value-date="2014-06-12" currency="EUR">190000</value>
+<transaction-date iso-date="2014-06-12"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-09-24T11:31:36">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1005380</iati-identifier>
+<title>Support to Increase Access to Financial Services for the Rural and Urban Poor</title>
+<description>
+The Malawi Union of Savings and Credit Cooperatives (MUSCCO) is a national democratically controlled apex organization of Savings and Credit Cooperatives (SACCOs) affiliated to it. MUSCCO was established in 1980 with a mandate to promote, develop, support and service Savings and Credit Cooperatives affiliated to it in Malawi.  
+MUSCCO provides a variety of services to its affiliated SACCOs in its quest to grow and develop a strong and viable network of Savings and Credit Cooperatives. Outline below are some of the services provided by MUSCCO to its affiliates.
+
+MUSCCO is owned by the SACCOs affiliated to it. SACCOs affiliated to MUSCCO are the sole shareholders of MUSCCO.  The member SACCOs access a range of services from MUSCCO that include:
+a)	Technical Assistance support services in such  areas as, bookkeeping , accounting systems support;  business planning and Budgeting;  policy formulation and promotion; SACCO linkages;  SACCO education programs design;  SACCO management and leadership training; ICT in SACCOs;  general inspection and supervision of SACCOs, auditing and other consultancies; 
+
+b)	 Central Finance Facility (CFF)  services through which member SACCOs access share accounts; deposit accounts (ordinary, fixed or Liquidity) and credit facilities for agricultural lending and other revolving financing services;  
+
+c)	Advocacy and Lobbying and representation support; MUSCCO advocate for and represent SACCOs both nationally and internally. It is through this function that SACCOs’ benefits to members and impact in the communities where they operate are made known world over.
+
+d) Insurance services to all member SACCOs covering their member loans and savings. This insurance programme called SACCO Financial Protection Plan (SFPP) protects SACCO member savings and loans.
+ The SACCOs affiliated to MUSCCO from the three geographical regions of Malawi are grouped into chapters. The three chapters democratically elect Directors who sit on the Board of MUSCCO
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2012-10-01"/>
+<activity-date type="end-actual" iso-date="2015-12-30"/>
+<contact-info>
+<organisation>Malawi Union of Savings and Credit Cooperatives</organisation>
+<telephone/>
+<mailing-address>Muscco House, Mandala Road , LILONGWE, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Malawi Union of Savings and Credit Cooperatives</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="240" percentage="100" vocabulary="DAC-3">Banking and financial services</sector>
+<policy-marker/>
+<budget><value value-date="2012-10-12" currency="EUR">150000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Union of Savings and Credit Cooperatives</receiver-org>
+<value value-date="2013-10-16" currency="EUR">50000</value>
+<transaction-date iso-date="2013-10-16"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Union of Savings and Credit Cooperatives</receiver-org>
+<value value-date="2014-07-07" currency="EUR">31160</value>
+<transaction-date iso-date="2014-07-07"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Union of Savings and Credit Cooperatives</receiver-org>
+<value value-date="2013-12-06" currency="EUR">10000</value>
+<transaction-date iso-date="2013-12-06"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Malawi Union of Savings and Credit Cooperatives</receiver-org>
+<value value-date="2012-11-21" currency="EUR">58840</value>
+<transaction-date iso-date="2012-11-21"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-02-06T11:14:03">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1002722</iati-identifier>
+<title>Seed Capital Capacity Building Support</title>
+<description>
+Location:	Lilongwe, Mzuzu and  Blantyre in Malawi
+Beneficiary:small entrepreneurs: small business, trade, crafts, services 
+Activity: savings and credit
+Direct outreach:	52000 - Beneficiaries: poor and/or marginalized women and men
+Indirect outreach:208000 - Beneficiaries: poor and/or marginalized women and men 
+
+Hivos support to FINCOOP, a Malawian financial service provider, is for organizational development.  The main focal areas for organizational development are in product diversification and marketing to reach the youth, more female clients and position FINCOOP better in within the Malawian financial sector. In addition Hivos support will enable the achievement of  financial growth and sustainability, human resource development and support rural expansion through rural satellite offices and mobile banking outlets that will ensure the effectiveness of FINCOOP service delivery for both rural and urban clientelle.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2011-08-02"/>
+<activity-date type="end-actual" iso-date="2013-12-29"/>
+<contact-info>
+<organisation>FINCOOP Savings &amp; Credit Cooperative Limited</organisation>
+<telephone>+265888873013</telephone>
+<mailing-address>ADL House 3rd floor City Centre , Lilongwe , , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">FINCOOP Savings &amp; Credit Cooperative Limited</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="10" vocabulary="DAC-3">Education</sector>
+<sector code="240" percentage="60" vocabulary="DAC-3">Banking and financial services</sector>
+<sector code="250" percentage="25" vocabulary="DAC-3">Business, trade and other related services</sector>
+<sector code="311" percentage="10" vocabulary="DAC-3">Agriculture</sector>
+<policy-marker/>
+<budget><value value-date="2011-06-27" currency="EUR">40000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>FINCOOP Savings &amp; Credit Cooperative Limited</receiver-org>
+<value value-date="2011-08-25" currency="EUR">40000</value>
+<transaction-date iso-date="2011-08-25"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2014-07-28T16:43:55">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1008454</iati-identifier>
+<title>Improving Social Service Delivery in Malawi </title>
+<description>
+This is a joint implementation by three NGOs: CHRR, CISP and MHRRC (herein referred as the Consortium for Social Service Delivery) of the project “Improving Social Service Delivery through Strengthening Decentralisation and Community Engagement.” The overall goal of the project is to improve social service delivery and accountability from duty bearers in targeted districts of Salima, Ntchisi and Blantyre through active citizen participation in the decentralisation process.
+
+The project has four specific objectives as follows:
+1.	To strengthen  the capacity of members of local government structures and CSOs on their roles and responsibilities in the decentralisation setup in the  targeted districts by May 2015 
+2.	To build capacity of communities on the roles of local government structures and facilitate their effective engagement as rights holders with duty bearers in order to improve social service delivery in the targeted districts by May 2015
+3.	To improve vulnerable women’s socio-economic status through participation in the decentralization process  by May 2015
+4.	To develop and operationalise a mechanism for effective management of the project by May, 2015.
+
+The implementation strategy of this project is in accordance with the full application documents submitted to Hivos, and seeks to contribute to the areas of focus of the Hivos strategic plan and Future Calling which will help in cultivating and consolidating of democratic, transparency and accountability values and improve social service delivery in Malawi. 
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2014-02-28"/>
+<activity-date type="end-actual" iso-date="2015-05-28"/>
+<contact-info>
+<organisation>CENTRE FOR HUMAN RIGHTS AND REHABILITATION</organisation>
+<telephone>+265 992166 191</telephone>
+<mailing-address>P.O Box 2340, Lilongwe , , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">CENTRE FOR HUMAN RIGHTS AND REHABILITATION</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="50" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<sector code="160" percentage="50" vocabulary="DAC-3">Other social infrastructure and services</sector>
+<policy-marker/>
+<budget><value value-date="2014-03-11" currency="EUR">236970</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>CENTRE FOR HUMAN RIGHTS AND REHABILITATION</receiver-org>
+<value value-date="2014-03-27" currency="EUR">118485</value>
+<transaction-date iso-date="2014-03-27"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2014-06-09T10:56:58">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1008136</iati-identifier>
+<title>Synthesis of Programming Opportunities for Green Villages in the Nsanje District of Malawi
+</title>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2014-01-15"/>
+<activity-date type="end-actual" iso-date="2014-04-30"/>
+<contact-info>
+<organisation>Christopher John Pienaar</organisation>
+<telephone>+44 (0) 7886 354 119</telephone>
+<mailing-address>8 Bright Street, South Normanton, Derbyshire, , United Kingdom</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Christopher John Pienaar</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="230" percentage="50" vocabulary="DAC-3">Energy generation and supply</sector>
+<sector code="311" percentage="40" vocabulary="DAC-3">Agriculture</sector>
+<sector code="312" percentage="10" vocabulary="DAC-3">Forestry</sector>
+<policy-marker/>
+<budget><value value-date="2014-01-13" currency="EUR">29800</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Christopher John Pienaar</receiver-org>
+<value value-date="2014-05-14" currency="EUR">11800</value>
+<transaction-date iso-date="2014-05-14"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Christopher John Pienaar</receiver-org>
+<value value-date="2014-04-03" currency="EUR">9000</value>
+<transaction-date iso-date="2014-04-03"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Christopher John Pienaar</receiver-org>
+<value value-date="2014-01-30" currency="EUR">9000</value>
+<transaction-date iso-date="2014-01-30"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-09-02T16:59:59">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1006611</iati-identifier>
+<title>Helping young women living with HIV realize their destiny</title>
+<description>
+Founded in 1997 by people living with HIV and AIDS, the Malawi Network of People Living with HIV and AIDS (MANET+) is a registered national umbrella organisation for people living with HIV and AIDS support groups in Malawi. Currently MANET+ has a registered membership of 433 support groups across the country. 
+
+MANET+ exists to improve the quality of life of PLWHA through the creation of a supportive environment for people living with HIV and AIDS to meet their material, health and emotional needs. MANET+ main activities are advocating for greater respect and protection of the rights and freedoms of PLWHAs in all spheres of human treatment; facilitating free flow of information amongst community support groups, collaborators and donors; advocating for greater representation and participation of PLWHAs in national policy making bodies regarding HIV and AIDS; and providing capacity building to community support groups and volunteers. More information on MANET+ can be obtained at their website whose address is www.manetplus.com 
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-05-01"/>
+<activity-date type="end-actual" iso-date="2015-12-30"/>
+<contact-info>
+<organisation>MANET +</organisation>
+<telephone/>
+<mailing-address>Kang'ombe Building, 6th Floor, Lilongwe, Malawi , LILONGWE, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">MANET +</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="50" vocabulary="DAC-3">Education</sector>
+<sector code="121" percentage="15" vocabulary="DAC-3">Health</sector>
+<sector code="151" percentage="35" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-04-25" currency="EUR">150000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Stop Aids Now! (SAN)</provider-org>
+<receiver-org>MANET +</receiver-org>
+<value value-date="2013-09-05" currency="EUR">52500</value>
+<transaction-date iso-date="2013-09-05"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-07-04T11:30:12">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1006530</iati-identifier>
+<title>Scaling up HIV prevention education and services among girls and young women in rural remote villages</title>
+<description>
+Kanengo AIDS Support Organization is a Civil Society organization registered with the Malawi government in 2008. The organization registration number is TR/INC: 3068. KASO is working in Lilongwe and Dowa districts in central Malawi. The Organization was formed to contribute to the promotion and protection of the rights of women, girls and children especially those made more vulnerable by HIV/AIDS, poverty, Gender Based Violence and other injustices.
+
+Kanengo AIDS Support Organization-KASO is currently working in Lilongwe and Dowa districts as part of the Multi-Actor Initiative-MAI in which different Civil Society Organizations are implementing a programme from 2011 to 2015 with a higher goal of significantly reducing the incidences of child marriages which are rampant in Malawi
+
+KASO main purpose of KASO is creation of empowerment for women, girls, young people, children and their communities and build their capabilities so that they are able to advocate and promote their human rights, protect themselves and be protected from HIV/AIDS, Gender Based Violence and be able to actively participate in the governance, policy formulation and decision making processes including democratization in Malawi.
+
+The programme goal is to significantly reduce new HIV infections among girls and young women and mitigate HIV and AIDS impact on girls and young women living with HIV/AIDS, their families and communities through increased access and uptake to SRH, PMTCT, HTC and care and support services.
+
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-04-01"/>
+<activity-date type="end-actual" iso-date="2015-12-31"/>
+<contact-info>
+<organisation>Rights Institute  for Social Empowerment( Formerly KASO)</organisation>
+<telephone>265 9307398</telephone>
+<mailing-address>P.O.Box 31381 , Lilongwe 3 , , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Rights Institute  for Social Empowerment( Formerly KASO)</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="40" vocabulary="DAC-3">Education</sector>
+<sector code="151" percentage="60" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-04-03" currency="EUR">90000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Stop Aids Now! (SAN)</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2014-02-25" currency="EUR">30000</value>
+<transaction-date iso-date="2014-02-25"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Stop Aids Now! (SAN)</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2013-08-01" currency="EUR">25000</value>
+<transaction-date iso-date="2013-08-01"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Stop Aids Now! (SAN)</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2013-08-01" currency="EUR">5000</value>
+<transaction-date iso-date="2013-08-01"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2014-07-28T16:29:30">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1007223</iati-identifier>
+<title>Community – Based Human Rights Defenders Forums (CBHRDF): for the defense of political and civil rights</title>
+<description>
+HRCC is a network of 97 local CSOs with interest in the protection of people’s rights, promotion of human rights agenda, and safeguarding good governance and the rule of law. Established in July, 1995, the network was an initiative of human rights NGOs and the Law Society in order to address issues around human rights, advocacy and information sharing among civil society organisations. 
+
+HRCC seeks to implement a Good Governance project titled, ‘Community – Based Human Rights Defenders Forums (CBHRDF): for the defence of political and civil rights.’ The project objectives are as follows;
+ 
+a)	To increase Civil Society Organizations’ coordination in developing shadow Human Rights Reports. 
+b)	To develop a coordinated Human Rights database/ alert system that will be fed on a quarterly basis. 
+c)	 To promote civil society networking on human rights at grassroots (district) level. 
+d)	 To facilitate learning through management of Human Rights cases. 
+
+The project resonates well with Hivos Annual Plan for 2014 and with Open for Change programme in that it seeks to protect human rights defenders who continue to operate in difficult settings. An accessible, interactive and up to date Internet - based Human Rights Database will be developed which will assist Hivos in promoting transparency and accountability by law enforcement agencies who are generally seen as major persecutors of human rights defenders.
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-09-01"/>
+<activity-date type="end-actual" iso-date="2014-08-31"/>
+<contact-info>
+<organisation>Human Rights Consultative Committee</organisation>
+<telephone>265 (0) 1775 252</telephone>
+<mailing-address>Off Presidential Way; Area 14, Plot No.14/34; P.O. Box 30316, Lilongwe, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Human Rights Consultative Committee</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-09-01" currency="EUR">45033</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Human Rights Consultative Committee</receiver-org>
+<value value-date="2013-10-01" currency="EUR">40000</value>
+<transaction-date iso-date="2013-10-01"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-06-21T09:07:44">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1006692</iati-identifier>
+<title>BLANTYRE ARTS FESTIVAL </title>
+<description>
+Blantyre Arts Festival (BAF) is an annual arts festival organised by the Warehouse Cultural Centre in Malawi.  Its objective is to promote Malawian cultural and artistic talent by providing a platform where individual artists can showcase their talent. BAF was registered under a trusteeship in October 2009. It is represented by a 5 member Board. In 2009, BAF started successfully managed the maiden festival with a local Artists and a 2 days program at the Warehouse Cultural Centre.
+
+BAF is a young and motivated festival driven by young Malawian artists, which gives it a local flavour and ownership.  Although located in Blantyre, its outreach is national owing to the organisation's good working relationship with Government and the media. However, in the BAF is transforming into a formal institution offering various forms of support to the artists through arts development programmes which run throughout the year.  These services are designed and provided on a needs basis.  The immediate beneficiaries will be the artists themselves, particularly those from less privileged communities, and then the general arts sector in Malawi.  Local and international artists and festivals will be targeted too, especially in the form of exchanges and collaborations.  BAF is essentially providing a platform and an opportunity for young and talented artists whose professional growth is usually limited by lack of resources.  It also creates a condusive environment for women artists to fully participate at professional level, thus reducing society's negative perception (stigmatisation) of this group.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-05-01"/>
+<activity-date type="end-actual" iso-date="2015-10-30"/>
+<contact-info>
+<organisation>Blantyre Arts Festival </organisation>
+<telephone/>
+<mailing-address>The Warehouse Cultural Centre, Blantyre, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Blantyre Arts Festival </participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="5" vocabulary="DAC-3">Education</sector>
+<sector code="151" percentage="85" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<sector code="250" percentage="10" vocabulary="DAC-3">Business, trade and other related services</sector>
+<policy-marker/>
+<budget><value value-date="2013-05-15" currency="EUR">120000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Blantyre Arts Festival </receiver-org>
+<value value-date="2013-06-24" currency="EUR">20000</value>
+<transaction-date iso-date="2013-06-24"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Blantyre Arts Festival </receiver-org>
+<value value-date="2014-07-18" currency="EUR">20000</value>
+<transaction-date iso-date="2014-07-18"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Blantyre Arts Festival </receiver-org>
+<value value-date="2013-08-21" currency="EUR">20000</value>
+<transaction-date iso-date="2013-08-21"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ministry of Foreign Affairs The Netherlands</provider-org>
+<receiver-org>Blantyre Arts Festival </receiver-org>
+<value value-date="2013-12-11" currency="EUR">20000</value>
+<transaction-date iso-date="2013-12-11"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2013-07-05T08:54:02">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1006612</iati-identifier>
+<title>Building the Capacity of Adolescents Living with HIV to access treatment, care and Support in Malawi</title>
+<description>
+Centre for Girls &amp; Interaction (CEGI) is a non-profit making organization, primarily concerned with creating access to information on girls  and young women rights or related issues through interaction, advocacy, documentation, education, networking  for positive change. The Mission Statement for CEGI is to mobilize young women and girls to achieve their full potential in meeting their needs through promotion of girl’s participation and interaction for change. The Overall Goal is to have a healthy, productive and aesthetic environment where men and women have a sense of belonging, with equitable and adequate distribution of resources. CEGI is guided by the following Values; Focus on the needy, Promote people-centered development, Tolerance, Acceptance and respect for different opinions, equity, equality, ethnicity, beliefs, sex, race, social/health status and physical appearance. Integrity Delivering and acting according to expectations and requirements in a transparent, accountable, honest, just, fair and responsible manner., Solidarity and Standing together, championing for a common cause, where mutual trust and commitment are adhered.
+
+CEGI has in its record the ability to undertake the functions listed below:
+
+	HIV/AIDS, Health and Sexual Reproductive Health Rights
+	Gender Based Violence
+	Women Rights and Girl child trafficking
+	Prevention of Unsafe Abortion (Safe Abortion)
+	Ending Early child marriage 
+	Education sponsorship 
+	Sports for change 
+	Climate change and environmental 
+
+CEGI currently works in collaboration with partners such as the Malawi Government, Women on Web Foundation (WoW), Coalition on Prevention of Unsafe Abortion in Malawi (COPUA), Girls Not Bride Malawi Chapter, International Consortium for Medical Abortion (ICMA), Northern Youth Network, Global Women Network for Reproductive Rights (Gwnrr), Ipas Malawi, Centre for Children and Youth Affairs (CEYCA), Alert Fund for Youth, Peace Child International 
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2013-05-01"/>
+<activity-date type="end-actual" iso-date="2015-12-30"/>
+<contact-info>
+<organisation>Center for Girls and Interaction</organisation>
+<telephone>+265995463231/+265888142220</telephone>
+<mailing-address>P.O Box 748 Mzuzu Northern Region, Mzuzu, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Center for Girls and Interaction</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="111" percentage="55" vocabulary="DAC-3">Education</sector>
+<sector code="121" percentage="25" vocabulary="DAC-3">Health</sector>
+<sector code="151" percentage="20" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2013-04-25" currency="EUR">60000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Stop Aids Now! (SAN)</provider-org>
+<receiver-org>Center for Girls and Interaction</receiver-org>
+<value value-date="2013-07-08" currency="EUR">20000</value>
+<transaction-date iso-date="2013-07-08"/>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Stop Aids Now! (SAN)</provider-org>
+<receiver-org>Center for Girls and Interaction</receiver-org>
+<value value-date="2014-02-25" currency="EUR">20000</value>
+<transaction-date iso-date="2014-02-25"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="USD" last-updated-datetime="2014-03-12T13:56:02">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1008144</iati-identifier>
+<title>IDM Consultancy - Programme support</title>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2014-01-20"/>
+<activity-date type="end-actual" iso-date="2014-06-30"/>
+<contact-info>
+<organisation>IDM Consulting &amp; Associates</organisation>
+<telephone>+265 888846102/999776799</telephone>
+<mailing-address>Centre House Arcade, Top Floor, City Centre, , Lilongwe 3, , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">IDM Consulting &amp; Associates</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="151" percentage="100" vocabulary="DAC-3">Government &amp; Civil society</sector>
+<policy-marker/>
+<budget><value value-date="2014-01-15" currency="USD">8522</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Ford Foundation</provider-org>
+<receiver-org>IDM Consulting &amp; Associates</receiver-org>
+<value value-date="2014-03-13" currency="USD">4522</value>
+<transaction-date iso-date="2014-03-13"/>
+</transaction>
+</iati-activity>
+  <iati-activity xml:lang="en" hierarchy="1" default-currency="EUR" last-updated-datetime="2014-07-16T11:30:46">
+<reporting-org type="22" ref="NL-KVK-41198677">HIVOS</reporting-org>
+<iati-identifier>NL-2-1009039</iati-identifier>
+<title>Normalizing the lives of girls and young women living with HIV/AIDS through economic empowerment</title>
+<description>
+Rights Institute for Social Empowerment-RISE is a Civil Society Organization dedicated to the advancement of equality, promotion of social justice and the respect of human dignity in Malawi. Our role is contributing to the creation of a human rights based culture in Malawi through advocacy and direct empowerment of women, girls, young people, children and their communities by building their capabilities so that they are able to rise up to the consciousness and capacity of advocating for the promotion of their human rights, protect themselves and be protected from human rights violations of all forms and be able to actively participate in the governance, policy formulation and decision making processes including democratization in Malawi.
+RISE Malawi is focusing on the promotion and protection of human rights for marginalized social groups in Malawi. Our approach is human rights based approach to programming and implementing interventions. Our projects are benefiting the most vulnerable and socially excluded members of the Malawi society including women, girls, children and young people. RISE core business is the protection of fundamental human rights for marginalized people made more vulnerable by human rights violations, HIV/AIDS, poverty and other forms of social injustices through advocacy, capacity building, direct service provision, collaboration, awareness raising and participatory human rights education capacity building.
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2014-06-01"/>
+<activity-date type="end-actual" iso-date="2016-06-30"/>
+<contact-info>
+<organisation>Rights Institute  for Social Empowerment( Formerly KASO)</organisation>
+<telephone>265 9307398</telephone>
+<mailing-address>P.O.Box 31381 , Lilongwe 3 , , Malawi</mailing-address>
+</contact-info>
+<participating-org xml:lang="en" role="Implementing">Rights Institute  for Social Empowerment( Formerly KASO)</participating-org>
+<recipient-country code="MW">Malawi</recipient-country>
+<sector code="160" percentage="90" vocabulary="DAC-3">Other social infrastructure and services</sector>
+<policy-marker/>
+<budget><value value-date="2014-06-19" currency="EUR">60000</value></budget>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<provider-org>Stop Aids Now! (SAN)</provider-org>
+<receiver-org>Rights Institute  for Social Empowerment( Formerly KASO)</receiver-org>
+<value value-date="2014-07-18" currency="EUR">10000</value>
+<transaction-date iso-date="2014-07-18"/>
+</transaction>
+</iati-activity>
+</iati-activities>

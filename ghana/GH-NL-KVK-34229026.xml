@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-09-02T13:44:05" xml:lang="en">
+    <reporting-org ref="NL-KVK-34229026" type="21">Aflatoun</reporting-org>
+    <iati-identifier>a0A4000000DDiFJ</iati-identifier>
+    <iati-identifier>NL-KVK-34229026</iati-identifier>
+    <description>Budget consists of support in services, not goods or monetary flow</description>
+    <description>WADEP is implementing Aflatoun in Nkuanta district of Volta region. Knowing that scale can only be achieved with multiple partnership WADEP shared its expertise with Plan International-Ghana and SNV that are currently implemnting Aflatoun in their programme implementation areas in Ghana.</description>
+    <activity-status code="2"/>
+    <activity-date iso-date="2015-08-28" type="end-actual"/>
+    <activity-date iso-date="2009-01-01" type="start-actual"/>
+    <contact-info>
+      <person-name>RA</person-name>
+      <job-title>Programme Manager</job-title>
+    </contact-info>
+    <participating-org ref="NL-KVK-34229026" role="accountable" type="21">St. Child Savings Int.</participating-org>
+    <participating-org role="Implementing" type="21">Women and Development Project (WADEP)</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region percentage="100" vocabulary="DAC">289</recipient-region>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget type="1">
+      <period-start iso-date="2009-01-01">start date</period-start>
+      <value currency="EUR" value-date="2014-01-01">13465</value>
+      <period-end iso-date="2015-08-28">end date</period-end>
+    </budget>
+    <transaction ref="NL-KVK-34229026">
+      <transaction-type code="E">support</transaction-type>
+      <value currency="EUR" value-date="2014-01-01">13465</value>
+    </transaction>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-02-05T16:04:13+00:00">
+    <reporting-org ref="GB-CHC-1087997" type="60" xml:lang="en">Stars Foundation</reporting-org>
+    <iati-identifier>GB-CHC-1087997-2013ImpactAwards</iati-identifier>
+    <title xml:lang="en">2013 Stars Impact Awards</title>
+    <description xml:lang="en" type="1">The Stars Impact Awards recognise strong locally registered organisations working to improve the lives of disadvantaged children. The 2013 Awards were provided across two regions: Africa-Middle East and Asia-Pacific. The Awards are open to organisations based in countries with the highest rates of under-five mortality. More information on eligibility can be accessed through: http://www.starsfoundation.org.uk/impact-awards/how-to-apply&#13;
+In total, 15 Awards were provided in 2013 split across the two regions and four thematic categories: Health, Education, Protection and WASH (water, sanitation and hygiene).&#13;
+The main Impact Award winners per region receive US$100,000 of unrestricted funding together with a bespoke package of consultancy, PR support, and media training. Runners Up will receive up to US$50,000 of unrestricted funding in addition to consultancy support. Rising Stars receive US$15,000 of unrestricted funding in addition to consultancy support. </description>
+    <activity-status xml:lang="en" code="2">2013 Stars Impact Award winners receive their funding in early 2014. They are expected to complete their proposed activities and spend their allocation of funding within three years of receipt of funding. </activity-status>
+    <activity-date xml:lang="en" type="start-planned" iso-date="2014-01-01">2013 Stars Impact Award winners receive their funding in early 2014, however the exact date of receipt of funding differs between individual winners.</activity-date>
+    <participating-org xml:lang="en" type="22" role="Implementing">Gram Vikas - India (Winner), SAMU SOCIAL SENEGAL - Senegal (Winner), M'Lop Tapang - Cambodia (Winner), Mobile Creches for Working Mothers’ Children - India (Winner), Ikamva Lisezandleni Zethu (IkamvaYouth) - South Africa (Winner), Krousar Thmey - Cambodia (Winner), Water School Uganda - Uganda (Winner), Child Welfare Scheme Nepal - Nepal (Winner).&#13;
+Nepal Water for Health - Nepal (Runner Up), Uganda and Voluntary Action for Development (VAD) - Uganda (Runner Up), Theatre for a Change Malawi - Malawi (Runner Up), Ba Futuru - Timor-Leste (Runner Up), South African Education and Environment Project (SAEP) - South Africa (Runner Up)&#13;
+Kesho - Kenya (Rising Star), Kick4Life - Lesotho (Rising Star)</participating-org>
+    <recipient-country xml:lang="en" code="KH" percentage="18">M'Lop Tapang - Cambodia - Winner&#13;
+Krousar Thmey - Cambodia - Winner</recipient-country>
+    <recipient-country xml:lang="en" code="IN" percentage="18">Mobile Creches for Working Mothers' Children - India - Winner&#13;
+Gram Vikas - India - Winner&#13;
+</recipient-country>
+    <recipient-country xml:lang="en" code="KE" percentage="2">Kesho - Kenya - Rising Star&#13;
+</recipient-country>
+    <recipient-country xml:lang="en" code="LS" percentage="2">Kick4Life - Lesotho - Rising Star&#13;
+</recipient-country>
+    <recipient-country xml:lang="en" code="MW" percentage="4">Theatre for a Change Malawi - Malawi - Runner Up&#13;
+</recipient-country>
+    <recipient-country xml:lang="en" code="NP" percentage="13">Child Welfare Scheme Nepal - Nepal - Winner&#13;
+Nepal Water for Health - Nepal - Runner Up&#13;
+</recipient-country>
+    <recipient-country xml:lang="en" code="SN" percentage="9">SAMU SOCIAL SENEGAL - Senegal - Winner&#13;
+</recipient-country>
+    <recipient-country xml:lang="en" code="ZA" percentage="17">Ikamva Lisezandleni Zethu (IkamvaYouth) - South Africa - Winner&#13;
+South African Education and Environment Project (SAEP) - South Africa - Runner Up&#13;
+</recipient-country>
+    <recipient-country xml:lang="en" code="TL" percentage="4">Ba Futuru - Timor-Leste - Runner Up&#13;
+</recipient-country>
+    <recipient-country xml:lang="en" code="UG" percentage="13">Water School Uganda - Uganda - Winner&#13;
+Uganda and Voluntary Action for Development (VAD) - Uganda - Runner Up&#13;
+</recipient-country>
+    <sector xml:lang="en" code="" vocabulary="RO">Stars Impact Awards span across the following four categories: child health, education, protection and WASH. </sector>
+    <default-finance-type code="110"/>
+    <default-aid-type code="B01"/>
+    <default-tied-status code="5"/>
+    <budget type="1">
+      <period-start iso-date="2014-01-01">2013 Impact Award winners receive their funding in early 2014 following submission of their plans and budget specification.</period-start>
+      <period-end iso-date="2014-12-31">The full anticipated budget for 2013 Impact Award winners is provided. The 'period' provided relating to this budget is one year, however, Award winners have the option of spreading their funding over a period of three years - therefore it is possible that the full budget amount provided is spent out of the period stated on IATI. </period-end>
+      <value currency="USD" value-date="2014-01-01">1360000</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org>Stars Foundation </provider-org>
+      <receiver-org>Gram Vikas - India (Winner), SAMU SOCIAL SENEGAL - Senegal (Winner), M'Lop Tapang - Cambodia (Winner), Mobile Creches for Working Mothers’ Children - India (Winner), Ikamva Lisezandleni Zethu (IkamvaYouth) - South Africa (Winner), Krousar Thmey - Cambodia (Winner), Water School Uganda - Uganda (Winner), Child Welfare Scheme Nepal - Nepal (Winner).&#13;
+Nepal Water for Health - Nepal (Runner Up), Uganda and Voluntary Action for Development (VAD) - Uganda (Runner Up), Theatre for a Change Malawi - Malawi (Runner Up), Ba Futuru - Timor-Leste (Runner Up), South African Education and Environment Project (SAEP) - South Africa (Runner Up)&#13;
+Kesho - Kenya (Rising Star), Kick4Life - Lesotho (Rising Star)</receiver-org>
+      <value currency="USD" value-date="2014-01-01">1360000</value>
+      <description xml:lang="en">The total amount of budgeted expenditure provided aggregates the funding given to Impact Award Winners (US$100,000), Runners-Up (US$50,000) and Rising Stars (US$15,000), in addition to consultancy support to award Winners (US$20,000) and Runners-Up/Rising Stars (US$10,000). Some recipient organisations may also receive additional top-up funding, subject to Board approval. </description>
+      <transaction-date iso-date="2014-01-01">Funding to 2013 Impact Award recipients will commence from early 2014. Award recipients area able to spend their funding over a 3 year period.</transaction-date>
+      <flow-type code="30" xml:lang="en"/>
+      <finance-type code="110" xml:lang="en"/>
+      <aid-type code="B01" xml:lang="en"/>
+      <disbursement-channel code="2" xml:lang="en"/>
+      <tied-status code="5"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

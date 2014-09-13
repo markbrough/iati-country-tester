@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663WC1</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="GH" percentage="100" xml:lang="EN">GH</recipient-country>
+                <title>WC1 - Beekeeping and soil conservation in Northern Ghana</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2012-1-2" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2012-10-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="EUR" value-date="2012-1-2">11000.0</value>
+                   <period-start iso-date="2012-1-2"/>
+                   <period-end iso-date="2012-10-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="EUR" value-date="2013-09-30">7997.698968093939</value></transaction>
+                <description type="1" xml:lang="en">
+                    Improved natural resource management, Beekeeping and soil conservation in Northern Ghana 
+                </description>
+                <organisation>SHA Ghana</organisation>
+                <sector code="31150">Agricultural inputs</sector>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">CHRISTADELPHIAN MEAL A DAY FND</participating-org>
+                <participating-org ref="" role="Funding" type="" xml:lang="EN">PPA - FARM AFRICA</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663WC8</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="GH" percentage="100" xml:lang="EN">GH</recipient-country>
+                <title>WC8 - Climate change adaptation in northern Ghana</title>
+                <activity-status code="2" xml:lang="EN">2</activity-status>
+                <activity-date iso-date="2012-5-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2013-12-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GHC" value-date="2012-5-1">256393.0</value>
+                   <period-start iso-date="2012-5-1"/>
+                   <period-end iso-date="2013-12-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GHC" value-date="2013-09-30">231925.98313130115</value></transaction>
+                <description type="1" xml:lang="en">
+                    Climate change adaptation: Increased food security for farmers and their families in the face of increasingly difficult climatic conditions in northern Ghana 
+                </description>
+                <organisation>SHA Ghana</organisation>
+                <sector code="31161">Food crop production</sector>
+                <participating-org ref="" role="Funding" type="" xml:lang="EN">PPA - FARM AFRICA</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+</iati-activities>

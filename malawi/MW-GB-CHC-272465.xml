@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2011-08-01">2011-08-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2011-08-01">937678</value>
+    </transaction>
+    <description>The DISCOVER project will work with communities and local government structures in order to bring about a tangible and significant increase in the resilience of the most vulnerable communities  located in disaster prone districts in Malawi, based firmly on (and scaling up) the community level successes which consortium members have achieved in recent years. It represents a direct response to urgent and immediate adaptation needs of the most vulnerable communities in Malawi, identified as top priorities by the Government of Malawi in the National Adaptation Programme of Action (NAPA) and by the relevant District Councils. DISCOVER aims to ensure that the most vulnerable communities and individuals are empowered to develop sustainable, entrepreneurial and innovative solutions to climate change variability. These solutions will provide an enduring platform to enable the wholesale shift from hanging in to stepping up and stepping out livelihoods strategies in these resilient communities.</description>
+    <iati-identifier>GB-CHC-272465-1054</iati-identifier>
+    <title>Malawi - DISCOVER- Developing Innovative Solutions with Communities to Overcome Vulnerability through Enhanced Resilience</title>
+    <activity-date iso-date="2016-06-30" type="end-planned">2016-06-30</activity-date>
+    <sector code="74010" vocab="DAC">Disaster Prevention &amp; Preparedness</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">DFID</participating-org>
+    <activity-date iso-date="2011-08-01" type="start-planned">2011-08-01</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2008-10-01">2008-10-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-10-01">672804</value>
+    </transaction>
+    <description>The goal of the proposed project is to reduce malaria associated mortality and morbidity by 50% compared to the pre-initiative level. The project specific objectives are to: (i) increase malaria awareness at community level; (ii) promote correct and consistent use and treatment of ITNs; (iii) increase access to IPT; and, (iv) build the capacity of indigenous organisations in malaria management. These objectives will have a primary emphasis and focus on pregnant women, children under five, PLWHA, and other vulnerable groups (i.e. the elderly, child-headed households, OVCs), as well as at general Phalombe community as appropriate.</description>
+    <iati-identifier>GB-CHC-272465-779</iati-identifier>
+    <title>Malawi - Phalombe Malaria Communities Project</title>
+    <activity-date iso-date="2012-09-30" type="end-planned">2012-09-30</activity-date>
+    <sector code="12261" vocab="DAC">Health Education</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">USAID</participating-org>
+    <activity-date iso-date="2008-10-01" type="start-planned">2008-10-01</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2011-04-01">2011-04-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2011-04-01">950000</value>
+    </transaction>
+    <description>This project will bring safe water supply to an additional 68,500 people (35,750 women and 32,7500 men); provide improved sanitation facilities for an additional 54,700 people (30,600 women and 24,100 men); and lead to the adoption of improved hygiene practices, such as the washing of hands with soap or ash, by 57,300 additional people (33,900 women and 23,400 men). Concern Universal will work with District Councils to introduce a number of new innovations in this work. These include: efforts to reduce the cost (but maintain the quality) of school sanitation construction; the repair and community maintenance of gravity-fed schemes; working with the private sector to promote soap usage; installing Waterguard facilities for unprotected water sources; and encouraging the creation of a more dynamic private market for borehole repairs.</description>
+    <iati-identifier>GB-CHC-272465-999</iati-identifier>
+    <title>Malawi - Kasumbu and Mpando Water, Sanitation and Hygiene Promotion and Capacity Building Project</title>
+    <activity-date iso-date="2012-07-31" type="end-planned">2012-07-31</activity-date>
+    <sector code="12261" vocab="DAC">Health Education</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">DFID</participating-org>
+    <activity-date iso-date="2011-04-01" type="start-planned">2011-04-01</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2012-01-01">2012-01-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2012-01-01">494267</value>
+    </transaction>
+    <description>The long term goal of NECS-SUN is to contribute to prevention of widespread stunting of children under-five years of age. This proposal therefore seeks to reduce the current rates of stunting in the district by about 50% (moderate stunting reduced from 51% to 26%) by 2016 (MDHS 2010 p.317). This will lead to a healthier population better able to contribute positively to the development of the country.</description>
+    <iati-identifier>GB-CHC-272465-1150</iati-identifier>
+    <title>Malawi - Scaling Up Nutrition in Dedza District</title>
+    <activity-date iso-date="2016-12-31" type="end-planned">2016-12-31</activity-date>
+    <sector code="31120" vocab="DAC">Agricultural Development</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">IrishAid</participating-org>
+    <activity-date iso-date="2012-01-01" type="start-planned">2012-01-01</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2012-03-12">2012-03-12</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2012-03-12">135902</value>
+    </transaction>
+    <description>This project will improve access to safe water supply and sanitation facilities, and the management of such assets at household level, in schools and in health centres. Improved knowledge of key hygiene practices and corresponding behaviour change, leading to reduction of water borne diseases will benefit sanitation and health as will increased capacity of local government service providers and community groups to effectively plan, lead and support development initiatives. The project will also work to increase community capacity to recognise and act on its rights and responsibilities in relation to development, gender, HIV/AIDS, and environmental management and develop effective monitoring and evaluation system established and implemented.</description>
+    <iati-identifier>GB-CHC-272465-1156</iati-identifier>
+    <title>Malawi - Enhancing Quality and Inclusive Public Services in Dedza and Ntcheu</title>
+    <activity-date iso-date="2013-03-29" type="end-planned">2013-03-29</activity-date>
+    <sector code="15162" vocab="DAC">Human Rights</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">Tilitonse Fund</participating-org>
+    <activity-date iso-date="2012-03-12" type="start-planned">2012-03-12</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2010-12-01">2010-12-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-01">229046</value>
+    </transaction>
+    <description>This project will enable the adoption and proper use if improved cook stoves targeting 32,000 households in the Districts of Ntcheu and Dedza over 3 years. Through demonstrating the social, environmental and economic impacts of fuel efficiency (reduced exposure to indoor air pollution and reduced time and effort in collection of firewood) and the promotion of awareness on the benefits of a diversified diet through outreach, training and social marketing techniques this project will encourage energy security and emission reductions.</description>
+    <iati-identifier>GB-CHC-272465-1034</iati-identifier>
+    <title>Malawi - Increasing Resilience through Improved Cooking Practices Project</title>
+    <activity-date iso-date="2013-11-30" type="end-planned">2013-11-30</activity-date>
+    <sector code="11230" vocab="DAC">Basic Life Skills</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">Clioma Limited</participating-org>
+    <activity-date iso-date="2010-12-01" type="start-planned">2010-12-01</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2011-07-20">2011-07-20</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2011-07-20">1966748</value>
+    </transaction>
+    <description>The objective of the project is to achieve improved poor people's health and sustainable socio-economic development (in Chafumbwa EPA, Dedza district and Upper TA Makwangwala, Ntcheu district). The specific objective is to improve access to and management of sustainable safe water supply and sanitation facilities and hygienic practices.</description>
+    <iati-identifier>GB-CHC-272465-987</iati-identifier>
+    <title>Malawi - Chafumbwa and Upper Makwangwala Water and Sanitation Project</title>
+    <activity-date iso-date="2016-07-20" type="end-planned">2016-07-20</activity-date>
+    <sector code="12261" vocab="DAC">Health Education</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">EC</participating-org>
+    <activity-date iso-date="2011-07-20" type="start-planned">2011-07-20</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2011-07-12">2011-07-12</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2011-07-12">392667</value>
+    </transaction>
+    <description>The overall project objective is to achieve improved poor people's health and sustainable socio-economic development through a decrease in open defecation and increased use of improved sanitation and hygiene in TA Kalembo, Balaka District and TA Nazombe, Phalombe District</description>
+    <iati-identifier>GB-CHC-272465-1050</iati-identifier>
+    <title>Malawi - Kalembo and Nazombe Sanitation and Hygiene Promotion Project</title>
+    <activity-date iso-date="2015-07-11" type="end-planned">2015-07-11</activity-date>
+    <sector code="12261" vocab="DAC">Health Education</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">Global Sanitation Fund</participating-org>
+    <activity-date iso-date="2011-07-12" type="start-planned">2011-07-12</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2011-07-01">2011-07-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2011-07-01">952672</value>
+    </transaction>
+    <description>This project will improve livelihoods of 4000 vulnerable households in TA Mphuka in Thyolo District by 2016. This aim will be achieved through three levels of intenvention; 1.To strengthen food and nutrition security status of marginalised households on equitable and sustainable basis, 2. To reduce incidences of waterborne diseases in the target community ( 8000 households) because the WASH is targeting the entire community. 3. To strengthen capacity of communities to lobby for improved access to services and contribute to formulation of policies and active involvement in the design and implementation of local development plans.</description>
+    <iati-identifier>GB-CHC-272465-1088</iati-identifier>
+    <title>Malawi - Mphuka Livelihoods Project</title>
+    <activity-date iso-date="2016-07-01" type="end-planned">2016-07-01</activity-date>
+    <sector code="31120" vocab="DAC">Agricultural Development</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">AusAID</participating-org>
+    <activity-date iso-date="2011-07-01" type="start-planned">2011-07-01</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2007-12-10">2007-12-10</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-10">1596301</value>
+    </transaction>
+    <description>The action aims to bring about in Traditional Authority (TA) Msamala improved, sustainable access to and use of fuel-wood energy, for the 180 370 people (61% of district populations) in poor subsistence farmers households living in 321 communities, and access to solar lighting impacting on about 5000 students and 50 teachers. TA Msamala is selected because of an increasing number of unsustainable businesses based on extraction of energy and natural resources. The action will achieve its objectives using an intensive community empowerment approach, and will be multi-sectoral in approach, facilitating links among stakeholders in communities, the district and nationally.</description>
+    <iati-identifier>GB-CHC-272465-649</iati-identifier>
+    <title>Malawi - Msamala Sustainable Energy Project</title>
+    <activity-date iso-date="2012-12-19" type="end-planned">2012-12-19</activity-date>
+    <sector code="31120" vocab="DAC">Agricultural Development</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">Fondation Ensemble</participating-org>
+    <activity-date iso-date="2007-12-10" type="start-planned">2007-12-10</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+    <participating-org role="funding">Cargill</participating-org>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+    <participating-org role="funding">EC</participating-org>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2009-12-16">2009-12-16</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-16">2424266</value>
+    </transaction>
+    <description>This action will contribute to supporting the effective implementation of the GoMs NAS for sugar with a poverty reduction focus.The porject will improve the capacity of sugar out growers in agricultural methods.and build sugar outgrowers management capabilities.</description>
+    <iati-identifier>GB-CHC-272465-894</iati-identifier>
+    <title>Malawi - Capacity building for sugar outgrowers in agricultural methods and the building of sugar outgrowers management capabilities in Malawi</title>
+    <activity-date iso-date="2010-12-31" type="end-planned">2010-12-31</activity-date>
+    <sector code="31120" vocab="DAC">Agricultural Development</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">EC</participating-org>
+    <activity-date iso-date="2010-07-01" type="start-planned">2010-07-01</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+    <participating-org role="funding">Schokland Fund</participating-org>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+    <participating-org role="funding">Stichting Solidaridad</participating-org>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-272465" type="21">Concern Universal</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2010-07-01">2010-07-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-07-01">5017464</value>
+    </transaction>
+    <description>The Goal of the Local Development Support Programme is to contribute to poverty and vulnerability reduction through local development. This will be achieved through enhancing the capacity of local governments to deliver services and through improving food and nutrition security, health and incomes in the target area. To successfully achieve these objectives, the Programme will capitalise on Concern Universals 20 years of experience in Malawi working in partnership with communities, central and local government structures, civil society organisations and the private sector.</description>
+    <iati-identifier>GB-CHC-272465-680</iati-identifier>
+    <title>Malawi - Local Development Support Programme</title>
+    <activity-date iso-date="2015-06-30" type="end-planned">2015-06-30</activity-date>
+    <sector code="31120" vocab="DAC">Agricultural Development</sector>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org role="funding">Irish Aid</participating-org>
+    <activity-date iso-date="2010-07-01" type="start-planned">2010-07-01</activity-date>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org ref="GB-CHC-272465" role="implementing" type="21">Concern Universal</participating-org>
+  </iati-activity>
+</iati-activities>

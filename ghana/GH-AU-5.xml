@@ -1,0 +1,1146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ269-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Scholarships Africa ADS - Initial 2010 Intake</title>
+    <description type="1">Funding under this initiative supports the Australian Development Scholarships (ADS) in Africa for the 2010 intake of awardees. The funding will be used to deliver a total of 200 long-term awards offered through the Australia Scholarships for Africa (ASA) program. The funding covers all costs related to the delivery of the scholarships program including but not limited to: selection and mobilisation of awardees; costs of maintaining and updating alumni records; tuition and stipends for awardees whilst in Australia; and costs of running a range of alumni events. The scholarship will be provided to mostly public-sector recipients from countries across Africa (with a focus on East and Southern Africa), with the expectation that these students will return to their public sector jobs where they are able to influence policy, reform and implementation of development changes in target sectors. The total value of this multi-country initiative is $17.1 million over 7 years, starting 2009-10.</description>
+    <sector code="43081"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2015-12-31"/>
+    <activity-date type="start-actual" iso-date="2010-01-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">593445</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">9057</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK124-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AVID - Australian Volunteers International </title>
+    <description type="1">The Australian Volunteers for International Development (AVID) program provides effective contribution to development through Australian volunteers working with people and organisations in developing countries. Individual Australians contribute by undertaking assignments in a range of developing countries, helping to build capacity in host organisations which are focused on meeting development needs across sectors such as health, education, rural development, and law and justice. Funding under this initiative assists Australian Volunteers International ongoing costs for volunteers including allowances, recruitment, insurance, management and other associated administrative costs. The total value of this initiative is $47.0 million over 3 years, starting 2011-12.</description>
+    <sector code="15110"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">236463</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">250949</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">240151</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI916-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>UNCERF Multi-year Commitment</title>
+    <description type="1">Provision of financial support to the UN Central Emergency Response Fund (CERF) to enable more timely and reliable humanitarian assistance to those affected by natural disasters and armed conflict. The Fund aims to: promote early action and response to reduce loss of life; enhance response to time-critical requirements; and strengthen core elements of humanitarian response in underfunded crises. The total value of this initiative is $71.0 million over 5 years, starting 2009-10.</description>
+    <sector code="72010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-12-09"/>
+    <activity-date type="end-planned" iso-date="2014-12-31"/>
+    <activity-date type="start-actual" iso-date="2009-12-09"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">80000</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK770-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AusAID Development Research Awards Scheme 2012</title>
+    <description type="1">The AusAID Development Research Awards Scheme (ADRAS) is AusAID’s flagship competitive research program, funding primary research projects to improve the quality and effectiveness of Australian aid in developing countries. Funding under this initiative supports the ADRAS Research on priority development themes to inform policy development including mining for development, disability inclusion, gender equality, education, health and needs in Africa. The total value of this initiative is $32.9 million over 3 years, starting 2012-13.</description>
+    <sector code="43082"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2013-02-01"/>
+    <activity-date type="end-planned" iso-date="2016-06-30"/>
+    <activity-date type="start-actual" iso-date="2013-02-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">463990</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK267-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>World Bank Governance Partnership Facility</title>
+    <description type="1">Contribution to the World Bank's Governance Partnership Facility (GPF) for implementation of the Governance and Anti-Corruption Strategy through innovative governance work. This funding will support: innovative, country-level governance programs; single or multi-country and global initiatives in frontier areas of governance; global learning and knowledge platforms; and public financial management and public management support. The total value of this multi-country initiative is $10.0 million for the 2011-12 financial year.</description>
+    <sector code="15150"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-09-24"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-09-24"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">267440</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK572-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Bilateral Climate Change Mitigation</title>
+    <description type="1">Funding under this initiative will support: a multi-country Measurement, reporting and Verification (MRV) program; the South African bilateral climate change partnership; and the design and operationalization of the Green Climate Fund (GCF). The total value of this initiative is $2.0 million over 2 years, starting 2011-12.</description>
+    <sector code="41010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2014-08-31"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">71429</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">214286</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ344-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia-Africa Community Grants Scheme</title>
+    <description type="1">The Australia-Africa Community Grants Scheme (AACGS) will enable support to community-level partnerships that target progress towards the MDGs while maintaining flexible sector coverage. The total value of this multi-country initiative is $10.6 million over 3 years, starting 2010-11.</description>
+    <sector code="43010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">160714</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">69309</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK135-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AVID - Australian Red Cross</title>
+    <description type="1">The Australian Volunteers for International Development (AVID) program provides effective contribution to development through Australian volunteers working with people and organisations in developing countries. Individual Australians contribute by undertaking assignments in a range of developing countries, helping to build capacity in host organisations which are focused on meeting development needs across sectors such as health, education, rural development, and law and justice. Funding under this initiative assists Australian Red Cross (ARC) ongoing costs for the deployment of 94 new volunteers including recruitment, remuneration, travel, insurance, management and other associated administrative costs and the ongoing management of 9 existing volunteers currently in the field. The total value of this initiative is $22.7 million over 3 years, starting 2011-12.</description>
+    <sector code="15110"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">142495</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">135149</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">82415</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK134-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AVID - Austraining International </title>
+    <description type="1">The Australian Volunteers for International Development (AVID) program provides effective contribution to development through Australian volunteers working with people and organisations in developing countries. Individual Australians contribute by undertaking assignments in a range of developing countries, helping to build capacity in host organisations which are focused on meeting development needs across sectors such as health, education, rural development, and law and justice. Funding under this initiative assists Austraining International ongoing costs for volunteers including allowances, recruitment, insurance, management and other associated administrative costs. The total value of this initiative is $64.5 million over 3 years, starting 2011-12.</description>
+    <sector code="15110"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">268257</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">281981</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">439613</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI978-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia Awards in Africa</title>
+    <description type="1">Funding under this initiative provides funding support to the Australian Scholarships for Africa Program, specifically to deliver on the Australian Government's commitment to increase the Scholarships for Africa Program to 1,000 awards per year by 2012-13. The funding covers all costs related to delivery of the scholarship program including but not limited to: selection and mobilisation of awardees; tuition and stipends for awardees while in Australia; costs of managing the program in-country; and costs of monitoring and evaluating the program. The total value of this multi-country initiative is $141.9 million over 5 years, starting 2009-10.</description>
+    <sector code="43081"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-10-15"/>
+    <activity-date type="end-planned" iso-date="2015-10-31"/>
+    <activity-date type="start-actual" iso-date="2009-10-15"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">585137</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">1141365</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">588842</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">926456</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ213-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Regional Water and Sanitation - UNICEF &amp; WSSCC</title>
+    <description type="1">Funding under this initiative provides support for two regional water and sanitation programs in Africa, specifically: the United Nations Children's Fund (UNICEF) Water, Sanitation and Hygiene (WASH) Program to provide strategic support for WASH programs in Africa, with a focus on school WASH programs and sanitation; and the Water Supply and Sanitation Collaborative Council (WSSCC), to primarily support the Global Sanitation Fund which assists government and community efforts in helping large numbers of poor people attain safe and sustainable sanitation services and adopt good hygiene practices. The total value of this multi-country initiative is $5.5 million over 2 years, starting 2009-10.</description>
+    <sector code="14030"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-06-12"/>
+    <activity-date type="end-planned" iso-date="2011-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-06-12"/>
+    <activity-date type="end-actual" iso-date="2011-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">126349</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">55844</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI955-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>SPRINT Africa and Asia Pacific</title>
+    <description type="1">The Sexual and Reproductive Health Program in Crisis and Post Crisis Situations in East, Southeast Asia and the Pacific (SPRINT) aims to increase access to sexual and reproductive health information and services for populations surviving crises and living in post-crises situations in the Asia-Pacific region. Neglecting Sexual and Reproductive Health (SRH) in crises situations has serious consequences such as maternal and newborn deaths, sexual violence, sexually transmitted infections, unwanted pregnancies and the increased spread of HIV.  Funding under this initiative supports training of humanitarian and health workers and the integration of SHR into national emergency preparedness plans. The total value of this initiative is $1.5 million over 2 years, starting 2009-10.</description>
+    <sector code="72050"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2010-06-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <activity-date type="start-actual" iso-date="2010-06-01"/>
+    <activity-date type="end-actual" iso-date="2011-12-31"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">76829</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK235-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>International Mining for Development Centre</title>
+    <description type="1">The International Mining for Development Centre aims to strengthen the capacity of targeted developing partner countries to translate resource richness into significant and sustainable economic and social benefits. The Centre provides a range of practical and tailor-made advisory, education, training and capacity building services to developing country governments and other key stakeholders in developing partner countries, across a broad range of mining issues relevant to the development context. The Centre also conducts applied research to support the provision of its program of work such as the preparation and dissemination of material and best practice advice. The total value of this initiative is $31.0 million over 4 years, starting 2011-12.</description>
+    <sector code="32210"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-08-10"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-08-10"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">819451</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">936515</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK624-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AVID - International Forest Carbon Initiative</title>
+    <description type="1">The International Forest Carbon Initiative (IFCI) is an initiative jointly managed by AusAID and the Department of Climate Change and Energy Efficiency which purpose is to support global efforts to reduce carbon emissions from deforestation. Funding of volunteers under IFCI is to encompass volunteer placements in developing countries through government and non-government organisations in areas relevant to IFCI objectives. The total value of this initiative is $1.3 million during the 2011-12 financial year.</description>
+    <sector code="41010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2012-06-04"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2012-06-04"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">19791</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK131-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Multilateral climate change mitigation</title>
+    <description type="1">Funding under this initiative supports the multilateral climate change financing budget measure and provides funding to multilateral organisations to conduct climate change mitigation activities, specifically: Global Green Growth Institute; Partnership for Market Readiness; Scaling-Up Renewable Energy Program; and UNDP Low-Emission Capacity Building Programme. This forms part of Australia's fast-start climate change finance package. The total value of this multi-country initiative is $43.2 million over two years, starting 2011-12.</description>
+    <sector code="41010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">400000</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">100000</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK246-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>ANCP Program and Policy Support </title>
+    <description type="1">The Australia-Non-Government Organisations (NGOs) Cooperation Program (ANCP) is a long-running program that subsidises the overseas development activities of accredited Australian NGOs. Through the ANCP, Australia supports accredited Australian NGOs to implement their own international development programs. This initiative specifically provides funding to 'Partnership' NGOs. Under the Partnership agreements, the Australian government and the partnership NGOs are working more strategically on addressing issues such as child protection, gender, food security and climate change to accelerate the joint efforts of both government and non-government organisations to help reach the Millennium Development Goals. The ANCP also aims to enhance NGO effectiveness and accountability through a well-developed accreditation and reporting system, and to promote innovation in the sector through the ANCP Innovations Fund.  The total value of the program for all countries is $8.2 million over four years, starting 2011-12.</description>
+    <sector code="43010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-09-27"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-09-27"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">3051</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">2723</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK680-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Direct Aid Program (DAP) 2012-13 </title>
+    <description type="1">The Direct Aid Program (DAP) is a small grants scheme administered by the Department of Foreign Affairs and Trade (DFAT) through Australia's diplomatic posts in developing partner countries. The DAP's objective is to deliver targeted local level assistance. The total value of this multi-country initiative is $8.9 million expensed over the 2012-13 financial year.</description>
+    <sector code="43010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2012-07-01"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2012-07-01"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">264929</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ522-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Direct Aid Program (DAP) 2010-11</title>
+    <description type="1">The Direct Aid Program (DAP) is a small grants scheme administered by the Department of Foreign Affairs and Trade (DFAT) through Australia's diplomatic posts in developing partner countries. The DAP's objective is to deliver targeted local level assistance. The total value of this multi-country initiative for the financial year 2010-11 is $7.8 million.</description>
+    <sector code="43010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-01"/>
+    <activity-date type="end-planned" iso-date="2011-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-07-01"/>
+    <activity-date type="end-actual" iso-date="2011-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">275240</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI691-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Water and Sanitation Initiative Global Programming</title>
+    <description type="1">Water and Sanitation Initiative (WSI) Global Programming is an initiative to fund global water, sanitation and hygiene programs delivered through multilateral agencies including UNICEF; the World Bank; the Water Supply and Sanitation Collaborative Council; and WHO. The purpose of these contributions is to widen the geographical focus and impact of water, sanitation and hygiene programs; complement activities funded bilaterally; and to work with multilateral partners to enhance learning and information exchange opportunities. Supporting these programs enables DFAT to increase the impact, effectiveness and responsiveness of its water, sanitation and hygiene activities. The planned value of this initiative is approximately $110 million over 8 years, starting 2008-09.</description>
+    <sector code="14010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-06-10"/>
+    <activity-date type="end-planned" iso-date="2016-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-06-10"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">6056</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI882-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Africa Regional Small Activities Scheme 2009-10</title>
+    <description type="1">The Africa Regional Small Activities Scheme (ARSAS) is a small grants program that provides support for community-based activities being implemented by non-government organisations to promote sustainable economic and social development. The objectives of ARSAS are to: help meet the basic humanitarian needs of disadvantaged communities in target countries; complement other activities running as part of the wider development assistance program to Africa; and promote Australia's role as a development partner in Africa. The total value of this multi-country initiative is $3.5 million expensed during the 2009-10 financial year.</description>
+    <sector code="16050"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-07-01"/>
+    <activity-date type="end-planned" iso-date="2010-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-07-01"/>
+    <activity-date type="end-actual" iso-date="2010-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">192936</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ540-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Scholarships Africa ADS - 2011 Intake</title>
+    <description type="1">The Australian Development Scholarships (ADS) in Africa for the 2011 supports the delivery of 250 long-term awards including: 239 masters-level ADS, 2 undergraduate ADS and 9 PhD level ADS (now known as Australia Awards) to selected candidates in 24 countries in Africa.  This funding covers all costs related to the ADS, including tuition fees and stipends for awardees while studying in Australia. The total value of this multi-country initiative is $31.1 million over 7 years, starting 2010-11.</description>
+    <sector code="43081"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-01"/>
+    <activity-date type="end-planned" iso-date="2017-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">573505</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">224217</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">54813</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">237451</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK058-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Direct Aid Program (DAP) 2011-12</title>
+    <description type="1">The Direct Aid Program (DAP) is a small grants scheme administered by the Department of Foreign Affairs and Trade (DFAT) through Australia's diplomatic posts in developing partner countries. The DAP's objective is to deliver targeted local level assistance. The total value of this multi-country initiative is $20.0 million to be expensed during the 2011-12 financial year.</description>
+    <sector code="43010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2012-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <activity-date type="end-actual" iso-date="2012-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">244221</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK373-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>International Seminar Support Scheme Phase III</title>
+    <description type="1">The International Seminar Support Scheme (ISSS) is a small grant scheme that funds developing country participants attendance at international development-oriented seminars/conferences in Australia and overseas. The scheme helps to develop knowledge and technical expertise in developing countries and builds linkages between the government, academic and community sectors in Australia and our partner developing countries. ISSS is a discretionary scheme. Funds are limited and competition for them is strong. Applications need to provide a convincing case for support, with clear objectives and details of how they will be achieved. Successful applications must demonstrate tangible outcomes and practical contributions to the economic development/social advancement of developing countries. The total value of this multi-country initiative is $6.0 million over 3 years, starting 2012-13.</description>
+    <sector code="43010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2012-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2012-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">5669</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ082-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Human Rights Small Grants Scheme 2009-10</title>
+    <description type="1">Human Rights Small Grants Scheme 2009-10 provides small grants to non-government organisations and human rights institutions in developing countries for activities aimed at promoting and protecting human rights. The total value of this initiative is $2.9 million, over 2 years, starting 2009-10.</description>
+    <sector code="15160"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-12-10"/>
+    <activity-date type="end-planned" iso-date="2011-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-12-10"/>
+    <activity-date type="end-actual" iso-date="2011-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">98180</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ748-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Human Rights Small Grants Scheme 2010-11 </title>
+    <description type="1">Human Rights Small Grants Scheme 2010-11 provides small grants to non-government organisations and human rights institutions in developing countries for activities aimed at promoting and protecting human rights. In 2010-11, a total of 37 projects were funded across a multitude of countries. The total value of this initiative is $3.3 million, over 2 years, starting 2010-11.</description>
+    <sector code="15160"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2011-02-15"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-02-15"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">50000</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">52628</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI384-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AusAID NGO Cooperation Program Development Plans</title>
+    <description type="1">The AusAID - Non-Government Organisations (NGO) Cooperation Program (ANCP) subsidises the poverty reduction activities of accredited Australian NGOs.  Australian NGOs supported through ANCP must demonstrate a strong level of Australian community support, and have been through a rigorous accreditation process.  The ANCP also includes support for a new Innovations Fund to support shared learning and good practice amongst small to medium NGOs. The total value of this multi-country program is $107.7 million over 6 years, starting 2009-10.</description>
+    <sector code="12220"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">394047</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">265339</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">276627</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">319669</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK048-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australian Development Awards - 2012 Intake</title>
+    <description type="1">Funding under this initiative supports the Australian Development Awards long-term scholarships and short-term fellowships and scholarships 2012 intake of awardees from across 36 developing countries. Development Awards provide opportunities for people to gain knowledge and skills to assist in the development of their home country and are linked directly to outcomes of bilateral partnerships and country strategies. This funding covers all costs, including tuition fees and stipends for awardees while studying in Australia. The total value of this multi-country initiative is $359.5 million over seven years, starting 2011-12.</description>
+    <sector code="43081"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2020-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">812982</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ318-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia Africa Community Engagement Scheme</title>
+    <description type="1">The Australia Africa Community Engagement Scheme (AACES) initiative provides funding for Australian Non- Government Organisations (NGOs) and their Africa-based partners to implement community development programs in Africa. It supports Australia's strategic objectives through a focus on the priority sectors of food security, water, sanitation and hygiene, and maternal and child health. The NGOs work with their African partner organisations to deliver activities in the priority sectors that contribute to policy engagement on African development issues and improve basic service delivery to poor and marginalised people in eleven African countries. The total value of this multi-country initiative is $84.4 million over 6 years, starting 2010-11.</description>
+    <sector code="43010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-05-10"/>
+    <activity-date type="end-planned" iso-date="2016-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-05-10"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">182455</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">533400</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">95924</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">809274</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK213-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AVID - Australian Youth Ambassadors </title>
+    <description type="1">The Australian Volunteers for International Development (AVID) program provides effective contribution to development through Australian volunteers working with people and organisations in developing countries. Individual Australians contribute by undertaking assignments in a range of developing countries, helping to build capacity in host organisations which are focused on meeting development needs across sectors such as health, education, rural development, and law and justice. Funding under this initiative assists Australian Youth Ambassadors ongoing costs for volunteers including allowances, recruitment, insurance, management and other associated administrative costs. The total value of this multi-country initiative is $41.3 million over 2 years, starting 2011-12.</description>
+    <sector code="15110"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">321061</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">247862</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK573-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia Awards - 2013 Intake </title>
+    <description type="1">Through the Australia Awards Scholarships Australia offers a range of study and professional development opportunities (including long-term awards) to promote sustainable development. The overarching goals of the Australia Awards Scholarships are to: achieve country and regional program development outcomes through strengthened individual and institutional skills and knowledge; support leadership; and support Australia's broader foreign policy agenda through long-term linkages and partnerships. They provide long and short term study and professional development opportunities to citizens from developing countries around the globe. The total value of this multi-country initiative is $347.6 million over 8 years, starting 2012-13.</description>
+    <sector code="43081"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2012-07-01"/>
+    <activity-date type="end-planned" iso-date="2020-06-30"/>
+    <activity-date type="start-actual" iso-date="2012-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">434652</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ476-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australian Volunteers</title>
+    <description type="1">The Australian volunteers initiative provides transitional funding to ensure ongoing implementation of the existing volunteer and Australian Youth Ambassadors for Development (AYAD) program. During 2010-11 there will be approximately 1200 volunteers on assignment that require management. Funding will cover allowances, deployment costs, insurance and management costs. The total value of this initiative is $8.0 million over 2 years, starting 2010-11.</description>
+    <sector code="43010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-01"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-07-01"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">46</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ018-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia-Africa Partnerships Facility</title>
+    <description type="1">The Australia-Africa Partnerships Facility provides a flexible and responsive way to meet the development assistance requests of up to 53 African countries. Under this facility Australia is providing modest capacity building assistance for mining, agriculture and public policy requests in the form of deployments of people, exchanges of people between Australian and African organisations, training, workshops, seminars and grant funding. The total value of this multi-country initiative is $125.0 million over 5 years, starting 2009-10.</description>
+    <sector code="43010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-12-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-12-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">2192927</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI941-GH</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>ANCP Partnership Agreements</title>
+    <description type="1">The AusAID-Non-Government Organisations (NGOs) Cooperation Program (ANCP) is a long-running program that subsidises the overseas development activities of accredited Australian NGOs. Through the ANCP, AusAID supports accredited Australian NGOs to implement their own international development programs.  This initiative specifically provides funding to 'Partnership' NGOs. Under the Partnership agreements, AusAID and the partnership NGOs are working more strategically on addressing issues such as child protection, gender, food security and climate change to accelerate the joint efforts of both government and non-government organisations to help reach the Millennium Development Goals. The ANCP also aims to enhance NGO effectiveness and accountability through a well-developed accreditation and reporting system, and to promote innovation in the sector through the ANCP Innovations Fund.  The total value of the program for all countries is $213.4 million over 6 years, starting 2009-10.</description>
+    <sector code="15150"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-09-07"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-09-07"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">57009</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">175134</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">181374</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

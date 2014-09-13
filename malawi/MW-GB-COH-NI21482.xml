@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-06-19T09:39:22+00:00">
+    <reporting-org ref="GB-COH-NI21482" type="21" xml:lang="en">Trocaire (Northern Ireland)</reporting-org>
+    <iati-identifier>GB-COH-NI21482-GPAF-IMP-101</iati-identifier>
+    <title>Increasing food security, income and resilience to climate change for 51,800 people in southern Malawi.</title>
+    <description type="1">Trócaire, in partnership with 7 Malawian civil society organisations, will implement a three year food security, income generation and climate change adaptation programme in Southern Malawi, to improve progress towards MDGs 1 and 7. 12,225 households (67,000 people), including 8,509 headed by women, elderly or children, or those infected/affected by HIV, will benefit from greater access to food and income, and improved ability to adapt to and recover from droughts and floods.</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2013-11-01"/>
+    <activity-date type="end-planned" iso-date="2016-03-31"/>
+    <contact-info>
+      <organisation>Trócaire (Northern Ireland)</organisation>
+      <person-name>Fearghal MacCarthaigh</person-name>
+      <job-title>Institutional Funding Advisor</job-title>
+      <email>fmccarthy@trocaire.ie</email>
+    </contact-info>
+    <participating-org xml:lang="en" type="21" role="Implementing" ref="GB-COH-NI21482">Trócaire (Northern Ireland)</participating-org>
+    <participating-org type="10" role="Funding" ref="GB-1">DFID</participating-org>
+    <recipient-country code="MW" percentage="100"/>
+    <sector code="52010" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <budget type="1">
+      <period-start iso-date="2013-11-01">The project started on the 1st November 2013</period-start>
+      <period-end iso-date="2014-10-31">The project ends on the 31st October 2016</period-end>
+      <value currency="GBP" value-date="2013-11-01">296862</value>
+    </budget>
+    <transaction ref="gpaf-imp-101">
+      <transaction-type code="E">Expenditure covering November to December 2013</transaction-type>
+      <provider-org ref="GB1_DFID" provider-activity-id="GB-1-202035">DFID GPAF</provider-org>
+      <receiver-org ref="GB-COH-NI21482">Trócaire (Northern Ireland)</receiver-org>
+      <value currency="GBP" value-date="2014-01-24">71336.01</value>
+      <description>Quarterly arrears claim November - December 2013</description>
+      <transaction-date iso-date="2014-01-24">This is the date the hard copy of the claim form was posted to DFID</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="gpaf-imp-101">
+      <transaction-type code="IF">DFID GPAF-IMP-101 grant receipt of funds after claim form submitted and approved</transaction-type>
+      <provider-org ref="GB1_DFID" provider-activity-id="GB-1-202035">DFID GPAF</provider-org>
+      <receiver-org ref="GB-COH-NI21482" receiver-activity-id=" GB-COH-NI21482-GPAF-IMP-101">Trócaire (Northern Ireland)</receiver-org>
+      <value currency="GBP" value-date="2014-02-11">71336.01</value>
+      <description>Quarterly claim form payment November - December 2013</description>
+      <transaction-date iso-date="2014-02-11">Date payment was received into the TNI account</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="gpaf-imp-101">
+      <transaction-type code="E">DFID GPAF-IMP-101 Expenditure covering period January to March 2014</transaction-type>
+      <provider-org ref="GB1_DFID " provider-activity-id="GB-1-202035 ">DFID GPAF &#13;
+ &#13;
+</provider-org>
+      <receiver-org ref="GB-COH-NI21482 " receiver-activity-id="GB-COH-NI21482-GPAF-IMP-101 ">Trócaire (Northern Ireland) &#13;
+ &#13;
+&#13;
+</receiver-org>
+      <value value-date="2014-04-29">159357</value>
+      <description>Quarterly arrears claim Jan-Mar 2014</description>
+      <transaction-date iso-date="2014-05-29">Date hard copy claim was posted to DFID</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GPAF-IMP-101">
+      <transaction-type code="IF">DFID GPAF-IMP-101 grant receipt of funds after claim form submitted and approved </transaction-type>
+      <provider-org ref="GB1_DFID " provider-activity-id="GB-1-202035 ">DFID GPAF</provider-org>
+      <receiver-org ref="GB-COH-NI21482 " receiver-activity-id="GB-COH-NI21482-GPAF-IMP-101 ">Trócaire (Northern Ireland) </receiver-org>
+      <value value-date="2014-06-18">159357</value>
+      <description>Quarterly claim form payment January - March 2014</description>
+      <transaction-date iso-date="2014-06-18">Date payment was received into the TNI account </transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <document-link url="http://www.trocaire.org/whatwedo/annual-report" format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>Trócaire Supporter's Update 2012/13</title>
+    </document-link>
+  </iati-activity>
+</iati-activities>

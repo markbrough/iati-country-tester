@@ -1,0 +1,3355 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201221084</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201221084</other-identifier>
+    <title xml:lang="de">Verbesserung der öffentlichen Finanzen</title>
+    <title xml:lang="en">Good Financial Governance</title>
+    <activity-website>http://www.giz.de/de/weltweit/19422.html</activity-website>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-11-07</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Finance and Economic Planning</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15111"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-11-07">8500000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">2214333</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>881051</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>92504</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1240778</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201215979</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201215979</other-identifier>
+    <title xml:lang="de">Inklusive Berufsausbildung für körperbehinderte und sozial benachteiligte Jugendliche in Südghana</title>
+    <title xml:lang="en">Inclusive Vocational Training for Physically Handicapped and Socially Disadvantaged Youth in South Ghana</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-09-14</activity-date>
+    <activity-date type="start-planned">2012-09-01</activity-date>
+    <activity-date type="end-planned">2015-08-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">africa action/Deutschland e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11120"/>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-09-14">368092</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">331685</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200930404</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200930404</other-identifier>
+    <title xml:lang="de">Ausbildungsförderprogramm für Straßenkinder im Ballungsraum Accra / Ghana</title>
+    <title xml:lang="en">Sponsorship Programme for Street Children in Accra / Ghana</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2009-01-02</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2009-01-02">150000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">144100</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>140669</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>3431</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201133438</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201133438</other-identifier>
+    <title xml:lang="de">Ausbildungsförderung für Straßenkinder in Accra</title>
+    <title xml:lang="en">Non-formal education and skills training for street children / Accra</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-10-13</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11230"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-10-13">160000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">105800</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>104302</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1498</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201375831</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201375831</other-identifier>
+    <title xml:lang="de">Förderung von Kinderrechten und lokaler Verantwortlichkeit</title>
+    <title xml:lang="en">Promoting childrens rights and local responsibility</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-12-10</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15160"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-12-10">208000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">48000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>45867</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2133</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200965301</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200965301</other-identifier>
+    <title xml:lang="de">MDBS Phase VII - IX</title>
+    <title xml:lang="en">Multi Donor Budget Support VII to IX</title>
+    <description type="1" xml:lang="en">Financial contribution shall strengthen institutional structures in core areas for poverty reduction in Ghana enabling Ghanaian government to implement GPRS II.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2008-09-11</activity-date>
+    <activity-date type="start-planned">2011-06-29</activity-date>
+    <activity-date type="end-planned">2014-06-28</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF FINANCE AND ECONOMIC PLANNINGREPUBLIC GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="51010"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="A01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="410"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-11-30">52183333</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">52183000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201174580</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201174580</other-identifier>
+    <title xml:lang="de">Gemeinwesenbasierte AIDS-Arbeit mit Berufsbildungskomponente in mehreren Regionen Ghanas (Fortf.)</title>
+    <title xml:lang="en">Community based AIDS work and vocational training component in different Ghanean regions</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-06-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="16064"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-06-30">290000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">270500</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>256552</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>13948</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200920488</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200920488</other-identifier>
+    <title xml:lang="de">Verbesserung der öffentlichen Finanzen</title>
+    <title xml:lang="en">Good Financial Governance</title>
+    <description type="1" xml:lang="en">Significant sub-systems of the public finance framework (tax, financial management, budget) correspond to the principles of good governance.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual">2010-03-15</activity-date>
+    <activity-date type="end-actual">2013-12-05</activity-date>
+    <activity-date type="start-planned">2010-03-15</activity-date>
+    <activity-date type="end-planned">2013-02-28</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Finance and Economic Planning</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15111"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-03-15">8500000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">8468770</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>3294639</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>570007</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>4604124</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201316579</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201316579</other-identifier>
+    <title xml:lang="de">Mikrofinanz-Selbsthilfefonds der Frauengemeinschaft Drobo, Ghana</title>
+    <title xml:lang="en">Drobo Women's Microfinance Selfhelp Fund</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-08-01</activity-date>
+    <activity-date type="start-planned">2013-09-01</activity-date>
+    <activity-date type="end-planned">2016-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">action five e.V. Bonn</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15170"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-08-01">210195</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">88920</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200965319</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200965319</other-identifier>
+    <title xml:lang="de">Distriktentwicklungsfonds Phase II</title>
+    <title xml:lang="en">District Development Funds II (VP)</title>
+    <description type="1" xml:lang="en">The purpose of the project is to build up a national financial transfer system as well as a performance oriented incentive system in order to improve municipial self administration.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual">2008-09-11</activity-date>
+    <activity-date type="end-actual">2013-12-10</activity-date>
+    <activity-date type="start-planned">2012-02-15</activity-date>
+    <activity-date type="end-planned">2015-02-14</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">GOVERNMENT OF GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="B04"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-01-04">21000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">21000000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201331164</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201331164</other-identifier>
+    <title xml:lang="de">Bau eines Heims für diskriminierte Kinder in Sang, Diözese Yendi</title>
+    <title xml:lang="en">Construction of an Orphanage for discriminated children in Sang, Yendi Diocese</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-03-14</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="16010"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-03-14">105000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">84000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>77840</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>6160</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201074210</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201074210</other-identifier>
+    <title xml:lang="de">Berufliche Bildung benachteiligter Mädchen im ländlichen und semi-urbanen Raum nördlich von Accra</title>
+    <title xml:lang="en">Vocational Training of disadvanteged Girls in Rural and semi urban Areas in the North of Accra/RWSDF</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-03-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11330"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-03-30">280000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">260844</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>253764</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>7080</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201374594</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201374594</other-identifier>
+    <title xml:lang="de">Non-formales Berufsbildungsprogramm in Mittelghana</title>
+    <title xml:lang="en">Non formal vocational programme for youth in central Ghana</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-09-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11330"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-09-30">440000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">110000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>108204</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1796</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201121680</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201121680</other-identifier>
+    <title xml:lang="de">Unterstützung von Dezentralisierungsreformen</title>
+    <title xml:lang="en">Support to decentralisation reform in Ghana</title>
+    <description type="1" xml:lang="en">Support of the important institutions for decentralization</description>
+    <activity-website>http://www.giz.de/de/weltweit/19434.html</activity-website>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-03-16</activity-date>
+    <activity-date type="start-planned">2011-06-21</activity-date>
+    <activity-date type="end-planned">2014-03-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Local Government and Rural Development</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-06-21">5234771</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">4675967</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>2110058</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>231350</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2334558</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201333061</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201333061</other-identifier>
+    <title xml:lang="de">Bau von Unterkünften in einer Berufsschule in Chinderi/Diözese Jasikan</title>
+    <title xml:lang="en">Construction of dormitories for a vocational school in Chinderi/diocese of Jasikan</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-10-10</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11330"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-10-10">150000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200565572</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200565572</other-identifier>
+    <title xml:lang="de">Outgrower Schemes (Förderung des Vertragsanbaus)</title>
+    <title xml:lang="en">Promotion of Outgrower Schemes</title>
+    <description type="1" xml:lang="en">Financial contribution shall increase rubber production by strengthening farmers positions as well as considering CO2 certificates.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2005-06-23</activity-date>
+    <activity-date type="start-planned">2008-01-11</activity-date>
+    <activity-date type="end-planned">2011-01-10</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF FOOD AND AGRICULTURE</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31120"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="410"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2006-08-15">6000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">5491453</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200124511</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200124511</other-identifier>
+    <title xml:lang="de">Verbesserung der Regierungsführung (Good Governance)</title>
+    <title xml:lang="en">Rule-of-Law and Accountability Programme</title>
+    <description type="1" xml:lang="en">Constitutional ones, transparent and citizen near procedures and processes are increasingly expression of the state action and strengthen the legal protection of all persons involved, especially in coping with rights- power- and resource conflicts.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual">2003-09-29</activity-date>
+    <activity-date type="end-actual">2013-05-21</activity-date>
+    <activity-date type="start-planned">2003-09-29</activity-date>
+    <activity-date type="end-planned">2008-03-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Justice</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2003-09-29">6224885</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">6224009</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>2647911</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>818911</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2757187</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-199535626</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">199535626</other-identifier>
+    <title xml:lang="de">STUDIEN- UND FACHKRAEFTEFONDS</title>
+    <title xml:lang="en">Studies and Expert Fund</title>
+    <description type="1" xml:lang="en">Fund for studies and preparation of technical cooperation projects</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">1995-04-05</activity-date>
+    <activity-date type="start-planned">1994-10-20</activity-date>
+    <activity-date type="end-planned">2014-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Finance and Economic Planning</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="43010"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="1994-10-20">6205584</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">5251584</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>2188579</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>1094497</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1968508</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201266360</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201266360</other-identifier>
+    <title xml:lang="de">Ergebnisorientierte Verbesserung der Finanzverwaltung</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2012-04-20</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Noch offen</participating-org>
+    <participating-org role="Implementing">GOVERNMENT OF GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15111"/>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-04-20">16500000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200365486</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200365486</other-identifier>
+    <title xml:lang="de">Armutsminderung durch ländliche Transportinfrastruktur (Landwirtschaftliche Brücken und Wege)</title>
+    <title xml:lang="en">Poverty Reduction through Rural Transport Programme</title>
+    <description type="1" xml:lang="en">Rehabilitation of rural transport infrastructure including consultant services.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2003-06-23</activity-date>
+    <activity-date type="start-planned">2009-10-28</activity-date>
+    <activity-date type="end-planned">2012-10-27</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">DFR-POVERTY FOCUSED RURAL TR.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="21020"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="410"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2008-04-04">7000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">5838887</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201233824</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201233824</other-identifier>
+    <title xml:lang="de">Bau und Einrichtung einer Gesundheitsstation in Saviefe Agorkpo</title>
+    <title xml:lang="en">Construction and Equipment of a Community Health Care Centre in Saviefe Agorkpo</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-12-19</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12230"/>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-12-19">188000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">24300</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>23571</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>729</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201066976</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201066976</other-identifier>
+    <title xml:lang="de">Förderung beruflicher Bildung</title>
+    <title xml:lang="en">Programm Vocational Education</title>
+    <description type="1" xml:lang="en">amelioration of access to employment through access to private vocational education sector</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-10-15</activity-date>
+    <activity-date type="start-planned">2012-12-14</activity-date>
+    <activity-date type="end-planned">2015-12-14</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">COUNCIL FOR TECHNICAL AND VOCATIONAL EDUCAT. A. TRAINING</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11330"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-12-14">10000000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200565556</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200565556</other-identifier>
+    <title xml:lang="de">Mikrofinanzierung II (KfW-Treuhandmittel)</title>
+    <title xml:lang="en">Microfinance Programme II</title>
+    <description type="1" xml:lang="en">Financial resources shall contribute to an efficient and sustainable provision of credits to disadvantaged persons such financial services are broadly accessible.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual">2005-06-23</activity-date>
+    <activity-date type="end-actual">2013-11-15</activity-date>
+    <activity-date type="start-planned">2012-08-15</activity-date>
+    <activity-date type="end-planned">2015-08-15</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">WHOLESALE MICROFINANCE FACILITY (GHANA) LTD.ADVANS GHANA SAVINGS AND LOANS LTD.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="24030"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-03-01">4420000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">4420000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201332253</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201332253</other-identifier>
+    <title xml:lang="de">Renovierung von zwei Bettentrakten des Margret-Marquart-Krankenhauses in Kpando/Diözese Ho</title>
+    <title xml:lang="en">Rehabilitation of Medical and Surgical Wards at the Margret Marquart Catholic Hospital, Kpando/Diocese of Ho</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-06-27</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12230"/>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-06-27">110000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">71900</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>64645</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>7255</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201132026</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201132026</other-identifier>
+    <title xml:lang="de">Bau eines Gesundheitszentrums mit Schwerpunkt Geburtshilfe in Tagadzi</title>
+    <title xml:lang="en">Construction of St. Anne's Clinic and Maternity Home at Tagadzi</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-06-06</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-06-06">155000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">86500</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>79803</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>6697</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201270339</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201270339</other-identifier>
+    <title xml:lang="de">Einlagensicherungssystem - Begleitmaßnahme</title>
+    <title xml:lang="en">Einlagensicherungssystem</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2012-10-09</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">BANK OF GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="24010"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-10-09">500000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201339282</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201339282</other-identifier>
+    <title xml:lang="de">Fachliche Befähigung von Entwicklungsstrukturen und der interdiözesanen Zusammenarbeit der katholischen Kirche in Ghana</title>
+    <title xml:lang="en">Capacity Development Support for New Department of Human Development and Diocesan Development Offices in Ghana</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-12-18</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="43010"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-12-18">155000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">2207</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>2118</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>88</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201221043</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201221043</other-identifier>
+    <title xml:lang="de">Unterstützung von Dezentralisierungsreformen</title>
+    <title xml:lang="en">Support of decentralisation reforms in Ghana</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-11-07</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Local Government and Rural Development</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15112"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-11-07">3850000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200124545</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200124545</other-identifier>
+    <title xml:lang="de">Unterstützung des PRSP-Prozesses</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2001-10-24</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Noch offen</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150"/>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2001-10-24">584</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200721746</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200721746</other-identifier>
+    <title xml:lang="de">Rechtsreformprogramm</title>
+    <title xml:lang="en">Rule-of-Law Reform Programme</title>
+    <description type="1" xml:lang="en">Transparent and citizen-friendly procedures and processes conforming to the rule of law are increasingly evident in government action and are increasing legal protection for all citizens in conflicts concerning the law, resources and distribution of power</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual">2008-06-10</activity-date>
+    <activity-date type="end-actual">2013-11-28</activity-date>
+    <activity-date type="start-planned">2008-06-10</activity-date>
+    <activity-date type="end-planned">2011-05-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Justice</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15130"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2008-06-10">2700000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">2727484</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>618916</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>139504</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1969063</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201265438</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201265438</other-identifier>
+    <title xml:lang="de">Förderung beruflicher Bildung II</title>
+    <title xml:lang="en">Programm Vocational Education II</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2012-01-20</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Noch offen</participating-org>
+    <participating-org role="Implementing">COUNCIL FOR TECHNICAL AND VOCATIONAL EDUCAT. A. TRAINING</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11330"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-01-20">10000000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201022722</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201022722</other-identifier>
+    <title xml:lang="de">Förderung Erneuerbarer Energien</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-12-15</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Energy</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="23030"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-12-15">1850000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">413206</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>304382</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>28214</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>80610</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201265453</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201265453</other-identifier>
+    <title xml:lang="de">Mikrofinanz III</title>
+    <title xml:lang="en">Microfinance/Support of a Deposit Guarantee System</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-01-20</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">PROCREDIT SAVINGS AND LOANS CO MPANY LTD.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="24030"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-01-20">4890000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">2890000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201174374</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201174374</other-identifier>
+    <title xml:lang="de">Integrierte Entwicklung von 10 Dörfern Nordghana Schwerpunkt sauberes Wasser, Bildung Frauen, Kinde</title>
+    <title xml:lang="en">Integrated community empowerment project, improved access to drinking water;education females, child</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-04-29</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31120"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="8" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-04-29">290000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">275500</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>275500</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201270354</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201270354</other-identifier>
+    <title xml:lang="de">Mikrofinanzierung - Begleitmaßnahme</title>
+    <title xml:lang="en">Mikrofinanz III</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-10-11</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">GOVERNMENT OF GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="24030"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-10-11">1500000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201255330</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201255330</other-identifier>
+    <title xml:lang="de">Bau eines Speisesaals mit Küche am Presec Staff Kindergarten in Legon- Accra</title>
+    <title xml:lang="en">Building a dining hall with kitchen for the Presec Staff Kindergarten in Legon- Accra</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-11-29</activity-date>
+    <activity-date type="start-planned">2012-11-01</activity-date>
+    <activity-date type="end-planned">2013-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">africa action/Deutschland e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11120"/>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-11-29">45984</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">45984</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201334291</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201334291</other-identifier>
+    <title xml:lang="de">Neubau einer Frauenklinik mit Erweiterung des bestehenden Operationssaales um einen gynäkoogischer Operationssaal, Schulungsmaßnahmen</title>
+    <title xml:lang="en">Construction of maternity and of Operating Theatre for Obstetric Medicine, Training of employees</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-11-18</activity-date>
+    <activity-date type="start-planned">2013-09-01</activity-date>
+    <activity-date type="end-planned">2015-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">ROTARY Deutschland Gemeindienst e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12191"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-11-18">335227</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">45000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200570218</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200570218</other-identifier>
+    <title xml:lang="de">Gemeinschaftliches Programm für makroökonomische Unterstützung (Begleitmaßnahme)</title>
+    <title xml:lang="en">Gemeinschaftliches Programm für makroökonomische Unterstützung, weitere Phase</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2005-06-23</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">GOVERNMENT OF GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="51010"/>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2005-06-23">500000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">381363</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201315639</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201315639</other-identifier>
+    <title xml:lang="de">Wasser Projekt Ghana 2013/14</title>
+    <title xml:lang="en">Water Project Ghana 2013/14</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-07-03</activity-date>
+    <activity-date type="start-planned">2013-07-01</activity-date>
+    <activity-date type="end-planned">2014-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Förderkreis Heil-Bronnen für Ghana e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="14031"/>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-07-03">79621</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">52590</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200621102</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200621102</other-identifier>
+    <title xml:lang="de">KV - Unterstützung von Dezentralisierungsreformen</title>
+    <title xml:lang="en">Support of decentralisation reforms in Ghana</title>
+    <description type="1" xml:lang="en">Support for institutions relevant to decentralisation</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual">2006-09-08</activity-date>
+    <activity-date type="end-actual">2013-12-10</activity-date>
+    <activity-date type="start-planned">2007-04-12</activity-date>
+    <activity-date type="end-planned">2013-02-21</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Local Government and Rural Development</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2007-04-12">5594876</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">5594876</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>2125509</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>478988</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2990379</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201122050</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201122050</other-identifier>
+    <title xml:lang="de">Förderung der marktorientierten Landwirtschaft (MOAP)</title>
+    <title xml:lang="en">Promotion of Market Orientied Agriculture</title>
+    <description type="1" xml:lang="en">Rural producers and other actors involved in agricultural economy improve their competitiveness in national, regional and national markets</description>
+    <activity-website>http://www.giz.de/de/weltweit/19450.html</activity-website>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-06-21</activity-date>
+    <activity-date type="start-planned">2011-11-28</activity-date>
+    <activity-date type="end-planned">2013-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Food and Agriculture</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-11-28">5087340</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">4650169</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>2790878</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>277953</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1581337</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201265412</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201265412</other-identifier>
+    <title xml:lang="de">Distriktentwicklungsfonds III</title>
+    <title xml:lang="en">District Development Funds III</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2012-01-20</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">GOVERNMENT OF GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-01-20">21000000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200124644</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200124644</other-identifier>
+    <title xml:lang="de">SERIOUS FRAUD OFFICE</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2001-10-29</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Noch offen</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15110"/>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2001-10-29">876</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201331552</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201331552</other-identifier>
+    <title xml:lang="de">Aufbau von bäuerlichen Genossenschaften und Marktzugang in der Diözese Wa</title>
+    <title xml:lang="en">Farmers' cooperative promotion and agricutural extension aiming to increase production and Market Access Development (FACOMAD)</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-05-21</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31120"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="4" vocabulary="DAC" significance="1">Trade Development</policy-marker>
+    <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-05-21">145000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">20100</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>19324</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>776</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201274943</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201274943</other-identifier>
+    <title xml:lang="de">Integrierte ländliche Entwicklung von 10 Dörfern in Nordwestghana/Schwerpunkt Ernährungssicherung</title>
+    <title xml:lang="en">Integrated rural development of 10 villages in Northwestghana with special emphasis on food sercurit</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-05-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="43040"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-05-31">340000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">217800</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>210488</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>7312</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200124529</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200124529</other-identifier>
+    <title xml:lang="de">Förderung von Frauen im pluralistischen Rechtssystem</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2001-10-24</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Noch offen</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15170"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2001-10-24">876</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201315944</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201315944</other-identifier>
+    <title xml:lang="de">Sicherung der Schulbildung von Kindern in drei Dörfern in der Upper West Region von Ghana</title>
+    <title xml:lang="en">We want to ensure that we build schools for three villages in the Upper West Region Ghana</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-08-05</activity-date>
+    <activity-date type="start-planned">2013-07-01</activity-date>
+    <activity-date type="end-planned">2013-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Ghana-Kreis St. Georg in Ottenstein e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11220"/>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-08-05">74837</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">74837</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200365536</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200365536</other-identifier>
+    <title xml:lang="de">KV - Aufbau einer nationalen Bodenverwaltung / Land Administration Project</title>
+    <title xml:lang="en">Land Administration Project</title>
+    <description type="1" xml:lang="en">The project aims at establishing a well functioning and efficient land management such that access to land is guaranteed especially to deprived population groups.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2003-06-23</activity-date>
+    <activity-date type="start-planned">2006-06-21</activity-date>
+    <activity-date type="end-planned">2009-06-20</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">GOVERNMENT OF GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="410"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2004-11-26">6000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">3117060</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200620070</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200620070</other-identifier>
+    <title xml:lang="de">Nachhaltige Wirtschaftsentwicklung</title>
+    <title xml:lang="en">TA-Pool for the Implementation of the Private Sector Development Strategy</title>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual">2006-09-28</activity-date>
+    <activity-date type="end-actual">2013-02-21</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry  of Trade and Industry</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="25010"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2006-09-28">9800000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">9793396</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>6189655</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>746204</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2857538</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200970459</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200970459</other-identifier>
+    <title xml:lang="de">Ländliche Finanzdienstleistungen - Begleitmaßnahme -</title>
+    <title xml:lang="en">Rural Financial Services (?Rural Branchless Banking?)</title>
+    <description type="1" xml:lang="en">Aim of the project is an improved access to financial services, i.e. to the national cashless payment system (e-zwich.), for the rural population in Ghana, including MSMEs.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2009-12-16</activity-date>
+    <activity-date type="start-planned">2012-12-06</activity-date>
+    <activity-date type="end-planned">2015-12-06</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">BANK OF GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31193"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-01-31">500000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">320145</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201232594</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201232594</other-identifier>
+    <title xml:lang="de">Friedensförderung in der Kirchenprovinz Tamale in Nordghana</title>
+    <title xml:lang="en">Promoting Sustainable Peace in Tamale Ecclesiastical Province (TEP) in Northern Ghana</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-08-06</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15220"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-08-06">285000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">152542</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>151260</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1282</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201265420</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201265420</other-identifier>
+    <title xml:lang="de">MDBS Phase X - XII</title>
+    <title xml:lang="en">Multi Donor Budget Support MDBS</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2012-01-20</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF FINANCE AND ECONOMIC PLANNINGREPUBLIC GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="43010"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-01-20">30000000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201074871</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201074871</other-identifier>
+    <title xml:lang="de">Non-formales Berufsausbildungsprogramm in Mittelghana (Fortsetzung)</title>
+    <title xml:lang="en">Non formal vocational programme for youth in central Ghana</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-09-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11330"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-09-30">290000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">275500</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>262580</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>12920</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201031343</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201031343</other-identifier>
+    <title xml:lang="de">Integrierte Förderung von Selbsthilfe, insbesondere Frauenförderung, Diözese Ho</title>
+    <title xml:lang="en">Enhancing human ressource for well-being and growth at community level in the Catholic Diocese of Ho</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-04-07</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-04-07">224000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">217892</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>210815</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>7077</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201332188</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201332188</other-identifier>
+    <title xml:lang="de">Fortsetzung der integrierten Förderung von Selbsthilfe, insbesondere Frauenförderung, Diözese Ho</title>
+    <title xml:lang="en">Continuation of Enhancing Human Resource for Growth and Development at Community level in the Catholic Diocese of Ho</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-06-27</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15170"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-06-27">247000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">41500</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>40223</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>1277</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201274729</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201274729</other-identifier>
+    <title xml:lang="de">Qualitätsteigerung beruflicher Bildungseinrichtungen und Existenzgründerhilfen für Mädchen, junge En</title>
+    <title xml:lang="en">Enhancing livelyhood of the youth through skills acquisition</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-04-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11330"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-04-30">670000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">452000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>437860</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>14140</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200721803</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200721803</other-identifier>
+    <title xml:lang="de">Programm zur Förderung marktorientierter Landwirtschaft</title>
+    <title xml:lang="en">Marked Oriented Agriculture Program</title>
+    <description type="1" xml:lang="en">Agricultural producers and other participants in agriculture improve their competitiveness in national, regional and international markets.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual">2008-03-20</activity-date>
+    <activity-date type="end-actual">2013-02-21</activity-date>
+    <activity-date type="start-planned">2008-03-20</activity-date>
+    <activity-date type="end-planned">2013-02-21</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Justice</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31191"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2008-03-20">12525633</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">12525633</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>5650867</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>1722617</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>5152149</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201233279</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201233279</other-identifier>
+    <title xml:lang="de">Bau von vier Personalunterkünften für zwei Gesundheitszentren in der Diözese Koforidua</title>
+    <title xml:lang="en">Construction of four accommodation units for two basich health centres in Koforidua Diocese</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-10-25</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12230"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-10-25">75000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">60000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>56000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>4000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201332311</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201332311</other-identifier>
+    <title xml:lang="de">Bau verschiedener Gesundheitseinrichtungen in der Diözese Wa</title>
+    <title xml:lang="en">Funding Support for Health Infrastructure in the Diocese of Wa</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-08-21</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12230"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-08-21">125000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">89000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>83346</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>5654</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201334010</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201334010</other-identifier>
+    <title xml:lang="de">Überwindung weiblicher Genitalverstümmelung in Ghana und im Süden Burkina Fasos</title>
+    <title xml:lang="en">Elimination of FGM in Ghana and south of Burkina Faso</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-11-15</activity-date>
+    <activity-date type="start-planned">2013-11-01</activity-date>
+    <activity-date type="end-planned">2015-10-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">INTACT e.V.
+</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15160"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-11-15">218070</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">36345</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201221050</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201221050</other-identifier>
+    <title xml:lang="de">Programm zur Förderung marktorientierter Landwirtschaft</title>
+    <title xml:lang="en">Marked oriented Agriculture Programm</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-11-07</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Food and Agriculture</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31110"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="5" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-11-07">8400000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200920470</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200920470</other-identifier>
+    <title xml:lang="de">Nachhaltige Wirtschaftsentwicklung</title>
+    <title xml:lang="en">Program for Sustainable Economic Development</title>
+    <description type="1" xml:lang="en">Access to innovative and demand oriented microfinance services and to employment in SME is improved</description>
+    <activity-website>http://www.giz.de/de/weltweit/19476.html</activity-website>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2008-08-29</activity-date>
+    <activity-date type="start-planned">2010-04-21</activity-date>
+    <activity-date type="end-planned">2014-06-30</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Finance and Economic Planning</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="24040"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-04-21">16380000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">14465915</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>8493257</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>1271981</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>4700677</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201265446</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201265446</other-identifier>
+    <title xml:lang="de">Programm Erneuerbare Energien: Photovoltaik Pilotanlage</title>
+    <title xml:lang="en">Renewable energy</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2012-01-20</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Noch offen</participating-org>
+    <participating-org role="Implementing">VOLTA RIVER AUTHORITY</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="23030"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="6" vocabulary="DAC" significance="2">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-01-20">20000000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201267244</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201267244</other-identifier>
+    <title xml:lang="de">WAPP - Übertragungsleitung Ghana - CIV (Teilstück Ghana)</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2012-11-23</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Noch offen</participating-org>
+    <participating-org role="Implementing">GOVERNMENT OF GHANA</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="23040"/>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="6" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</policy-marker>
+    <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-11-23">19700000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201315688</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201315688</other-identifier>
+    <title xml:lang="de">Bau des SKILL Jugend- und Lernzentrums</title>
+    <title xml:lang="en">Construction of the SKILL Youth and Study Centre</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-06-12</activity-date>
+    <activity-date type="start-planned">2013-07-01</activity-date>
+    <activity-date type="end-planned">2013-12-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">JugendPartnerschaft Ghana e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11120"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-06-12">37500</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">37500</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201231828</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201231828</other-identifier>
+    <title xml:lang="de">Weitere Förderung der Antikorruptionskampagne von Transparency International in Ghana</title>
+    <title xml:lang="en">Further support for the Anti-Corruption Programme of Ghana Integrity Initiative</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-05-23</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150"/>
+    <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-05-23">165000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">77600</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>74919</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2681</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200766063</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200766063</other-identifier>
+    <title xml:lang="de">Fonds zur Förderung der marktorientierten Landwirtschaft</title>
+    <title xml:lang="en">Outgrower and value chain fund</title>
+    <description type="1" xml:lang="en">Outgrower and value chain fund</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2007-10-23</activity-date>
+    <activity-date type="start-planned">2012-11-23</activity-date>
+    <activity-date type="end-planned">2015-11-23</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF FOOD AND AGRICULTURE</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31120"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="410"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-03-29">10000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">4502241</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201274935</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201274935</other-identifier>
+    <title xml:lang="de">Non-formales Berufsbildungsprogramm in der WesternRegion Ghanas</title>
+    <title xml:lang="en">Livelihood enhancement for youth non-forumlar vocational training in Takoradi Metropolis</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-05-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11330"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-05-31">320000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">190200</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>181171</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>9029</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201131465</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201131465</other-identifier>
+    <title xml:lang="de">Förderung nachhaltiger ländlicher Entwicklung in der Diözese Navrongo-Bolgatanga</title>
+    <title xml:lang="en">Integrated rural and sustainable development Diocese of Navrongo-Bolgatanga</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-03-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31120"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="5" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</policy-marker>
+    <policy-marker code="8" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-03-31">250000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">188930</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>188930</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200770255</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200770255</other-identifier>
+    <title xml:lang="de">Fonds zur Förderung der marktorientierten Landwirtschaft - Begleitmaßnahme</title>
+    <title xml:lang="en">Outgrower and Value Chain Fund</title>
+    <description type="1" xml:lang="en">Financing shall contribute to the Improvement of competitiveness of small farmers and owners of small to medium sized enterprises in national as well as international markets.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2007-10-23</activity-date>
+    <activity-date type="start-planned">2011-06-16</activity-date>
+    <activity-date type="end-planned">2014-06-15</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF FOOD AND AGRICULTURE</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31120"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-03-29">1000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">906353</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-200970467</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">200970467</other-identifier>
+    <title xml:lang="de">Fonds zur Förderung der marktorientierten Landwirtschaft - Begleitmaßnahme</title>
+    <title xml:lang="en">Fonds zur Förderung der marktorientierten Landwirtschaft</title>
+    <activity-status code="1">Pipeline/identification</activity-status>
+    <activity-date type="start-actual">2009-12-18</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Kreditanstalt für Wiederaufbau (KfW)</participating-org>
+    <participating-org role="Implementing">MINISTRY OF FOOD AND AGRICULTURE</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="31120"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2009-12-18">1000000</value>
+    </transaction>
+    <transaction>
+      <value currency="EUR" value-date="2013-12-31">0</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201175231</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201175231</other-identifier>
+    <title xml:lang="de">Fertigstellung,Vorbereitung des Ausbildungsbetriebs Zentrum Qualifizierung Berufschullehrer,Handwerk</title>
+    <title xml:lang="en">Finalisation of a center of training and start-up of training activities in the area of hospitality</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2011-09-29</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Evangelische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11120"/>
+    <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2011-09-29">600000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">542536</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>519749</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>22787</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201232982</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201232982</other-identifier>
+    <title xml:lang="de">Bau von Personalwohnräumen für eine Klinik in Jamasi/Diözese Konongo-Mampong</title>
+    <title xml:lang="en">Construction of Nurses/Staff Quarters at Hospital, Jamasi, Diocese of Konongo-Mampong</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2012-10-25</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="12191"/>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2012-10-25">55000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">51000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>48218</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2782</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201335199</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201335199</other-identifier>
+    <title xml:lang="de">Studien- und Fachkräftefonds</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-04-09</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL202@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+    <participating-org role="Implementing">Ministry of Finance and Economic Planning</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="43010"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="3"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-04-09">2000000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">65803</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Personnel costs</description>
+      <value>52616</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>1183</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>12005</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201030543</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201030543</other-identifier>
+    <title xml:lang="de">Bau von Personalwohnraum am Rehabilitierungszentrum für Körperbehinderte in Nsawam</title>
+    <title xml:lang="en">Construction of Staff Bungalows at the Orthopedic Training Centre in Nsawam</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-01-05</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="16010"/>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-01-05">195000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">195000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>180000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>15000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201315670</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201315670</other-identifier>
+    <title xml:lang="de">Waisenhaus mit Grundschule für AIDS-Waisen</title>
+    <title xml:lang="en">Orphanage with Primary School for AIDS-Orphans</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-09-05</activity-date>
+    <activity-date type="start-planned">2013-06-15</activity-date>
+    <activity-date type="end-planned">2015-05-31</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL110@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">ROTARY Deutschland Gemeindienst e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="16064"/>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2013-09-05">481161</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">79164</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="de" default-currency="EUR" last-updated-datetime="2014-07-03T12:40:00+01:00" hierarchy="1">
+    <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+    <iati-identifier>DE-1-201030568</iati-identifier>
+    <other-identifier owner-ref="DE-1" owner-name="BMZ">201030568</other-identifier>
+    <title xml:lang="de">Qualifizierungsmaßnahmen für das kirchliche Berufsausbildungswesen in Ghana</title>
+    <title xml:lang="en">Technical and Vocational Education and Training Programme for Catholic Institutions and Centres in Ghana</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2010-01-05</activity-date>
+    <contact-info>
+      <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+      <email>RL111@bmz.bund.de</email>
+      <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach 12 03 22, 53045 Bonn</mailing-address>
+    </contact-info>
+    <participating-org ref="DE" type="10" role="Funding">DE</participating-org>
+    <participating-org role="Extending">DE-1 BMZ</participating-org>
+    <participating-org role="Implementing">Katholische Zentralstelle für Entwicklungshilfe e.V.</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="11430"/>
+    <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+    <collaboration-type code="3"/>
+    <transaction>
+      <provider-org ref="DE-1">BMZ</provider-org>
+      <aid-type code="C01"/>
+      <flow-type code="10">ODA</flow-type>
+      <finance-type code="110"/>
+      <default-tied-status code="5"/>
+      <transaction-type code="C"/>
+      <value value-date="2010-01-05">238000</value>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Total amount</description>
+      <value currency="EUR" value-date="2013-12-31">200500</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Material costs</description>
+      <value>198455</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description type="1" xml:lang="en">Other costs</description>
+      <value>2045</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2013-06-18T12:40:06+00:00">
+    <reporting-org ref="GB-CHC-274467" type="21" xml:lang="en">ActionAid UK</reporting-org>
+    <iati-identifier>GB-CHC-274467-5GBR-PJ-00082</iati-identifier>
+    <title>Ready for Anything </title>
+    <description>The project is designed to ensure that 157,200 beneficiaries in 157 communities across 4 countries (Afghanistan / Malawi / Myanmar / Nepal) have the capacity and appropriate resources to reduce risks and recover from the impacts of disasters and climate change</description>
+    <activity-status code="1"/>
+    <activity-date iso-date="2013-07-01" type="start-actual"/>
+    <activity-date iso-date="2016-06-06" type="end-planned"/>
+    <participating-org role="Implementing">ActionAid Nepal</participating-org>
+    <participating-org role="Implementing">ActionAid Myanmar</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Afghanistan</participating-org>
+    <participating-org role="Accountable">ActionAid UK </participating-org>
+    <participating-org role="Funding" type="10">Department for International Development (DFID)</participating-org>
+    <recipient-country code="AF"/>
+    <recipient-country code="MW"/>
+    <recipient-country code="NP"/>
+    <recipient-country code="MM"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget>
+      <period-start iso-date="2013-07-01"/>
+      <period-end iso-date="2016-06-30"/>
+      <value value-date="2013-07-01">2738298</value>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-CS-REB031-R-2113-MW</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-CS-REB031-R-2113-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">36</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-MM00NS00-REB009-R-2113-MW</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-MM00NS00-REB009-R-2113-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">60</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-MW000008-REB009-R-2112-MW</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-MW000008-REB009-R-2112-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">395</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T11:57:45" xml:lang="en">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-XMA0D00000-REB007-R-2315-MW</iati-identifier>
+    <title>Regular Appeals</title>
+    <description>Individual donations</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned">2013-12-31</activity-date>
+    <activity-date iso-date="2013-01-01" type="start-planned">2013-01-01</activity-date>
+    <participating-org role="Funding" type="15">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-XMA0D00000-REB007-R-2315-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value value-date="2013-01-01">452</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Donations received from individuals</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-MM00NS00-REB002-R-2100-MW</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-MM00NS00-REB002-R-2100-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">321938</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2013-06-18T13:37:37+00:00">
+    <reporting-org ref="GB-CHC-274467" type="21" xml:lang="en">ActionAid UK</reporting-org>
+    <iati-identifier>GB-CHC-274467-5GBR-PM-00044</iati-identifier>
+    <title>Strengthening the international food security network (IFSN 2) for an increased Food and nutritional security </title>
+    <description>Strengthening the international food security network (IFSN) for an increased Food and nutritional security </description>
+    <activity-status code="3"/>
+    <activity-date iso-date="2009-10-06" type="start-actual"/>
+    <activity-date iso-date="2012-11-30" type="end-actual"/>
+    <participating-org role="Funding">EC (UK)</participating-org>
+    <participating-org role="Accountable">ActionAid UK</participating-org>
+    <recipient-country code="BD"/>
+    <recipient-country code="BF"/>
+    <recipient-country code="KH"/>
+    <recipient-country code="ET"/>
+    <recipient-country code="GH"/>
+    <recipient-country code="IN"/>
+    <recipient-country code="MW"/>
+    <recipient-country code="MZ"/>
+    <recipient-country code="PT"/>
+    <recipient-country code="NL"/>
+    <recipient-country code="PK"/>
+    <recipient-country code="FR"/>
+    <recipient-country code="SN"/>
+    <recipient-country code="GM"/>
+    <recipient-country code="UG"/>
+    <recipient-country code="VN"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget>
+      <period-start iso-date="2009-10-06"/>
+      <period-end iso-date="2012-11-30"/>
+      <value value-date="2009-10-06" currency="EUR">2796000</value>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-CS-DER000-R-2101-MW</iati-identifier>
+    <title>Child Sponsorship</title>
+    <description>Income from individuals to support children and their communities</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-CS-DER000-R-2101-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">305464</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through Child Sponsorhip </description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:48" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-XMA0Z11000-REB007-R-2560-MW</iati-identifier>
+    <title>Governments and EU</title>
+    <description>Government Grants/Funding</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2016-06-30" type="end-planned"/>
+    <activity-date iso-date="2011-09-01" type="start-planned"/>
+    <participating-org role="Funding" type="10">DFID</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-XMA0Z11000-REB007-R-2560-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2011-09-01">400325</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2011-09-01">2011-09-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received from DFID and European Union (EC Grants)</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:48" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-XMA0D13000-REB007-R-2560-MW</iati-identifier>
+    <title>Governments and EU</title>
+    <description>Government Grants/Funding</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2016-07-31" type="end-planned"/>
+    <activity-date iso-date="2013-08-01" type="start-planned"/>
+    <participating-org role="Funding" type="10">DFID</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-XMA0D13000-REB007-R-2560-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-08-01">2728</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-08-01">2013-08-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received from DFID and European Union (EC Grants)</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2013-06-14T16:39:37+00:00">
+    <reporting-org ref="GB-CHC-274467" type="21" xml:lang="en">ActionAid UK</reporting-org>
+    <iati-identifier>GB-CHC-274467-1MAL-PJ-00079</iati-identifier>
+    <title>DFID ECRP Programme</title>
+    <description>Enhancing resilience of communities in the face of hunger, climate change and disasters</description>
+    <activity-status code="2"/>
+    <activity-date iso-date="2011-09-01" type="start-actual"/>
+    <activity-date iso-date="2016-06-30" type="end-planned"/>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">CARE International </participating-org>
+    <participating-org role="Implementing">Christian Aid</participating-org>
+    <participating-org role="Accountable">ActionAid UK </participating-org>
+    <participating-org role="Funding">Department for International Development</participating-org>
+    <recipient-country code="MW"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget>
+      <period-start iso-date="2011-09-01"/>
+      <period-end iso-date="2016-06-30"/>
+      <value value-date="2011-09-01">1179906</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C"/>
+      <value value-date="2012-12-31">210270</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <value currency="GBP" value-date="2012-12-31">185466</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <value value-date="2012-12-31">125570</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T11:57:45" xml:lang="en">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-XUK0D11001-REB007-R-2333-MW</iati-identifier>
+    <title>Regular Appeals</title>
+    <description>Individual donations</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned">2013-12-31</activity-date>
+    <activity-date iso-date="2013-01-01" type="start-planned">2013-01-01</activity-date>
+    <participating-org role="Funding" type="15">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-XUK0D11001-REB007-R-2333-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value value-date="2013-01-01">-50</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Donations received from individuals</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-08-29T10:58:31" xml:lang="en">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>NL-KVK-27264198-PJ-00079</iati-identifier>
+    <title>Enhancing Community Resilience Programme</title>
+    <description>Enhancing Community Resilience Programme</description>
+    <activity-status code="2">Implementing</activity-status>
+    <activity-date iso-date="2016-06-30" type="end-planned">2016-06-30</activity-date>
+    <activity-date iso-date="2011-09-01" type="start-planned">2011-09-01</activity-date>
+    <participating-org role="Funding">DFID</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi; CARE International ; Christian Aid</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <transaction>
+      <description>Enhancing resilience of communities in the face of hunger, climate change and disasters</description>
+      <provider-org>DFID</provider-org>
+      <value currency="GBP" value-date="2013-12-31">486272</value>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Enhancing resilience of communities in the face of hunger, climate change and disasters</description>
+      <receiver-org>ActionAid UK</receiver-org>
+      <provider-org>DFID</provider-org>
+      <value currency="GBP" value-date="2013-12-31">395304</value>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Enhancing resilience of communities in the face of hunger, climate change and disasters</description>
+      <receiver-org>ActionAid Malawi; CARE International ; Christian Aid</receiver-org>
+      <provider-org>ActionAid UK</provider-org>
+      <value currency="GBP" value-date="2013-12-31">324521</value>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Enhancing resilience of communities in the face of hunger, climate change and disasters</description>
+      <provider-org>ActionAid UK</provider-org>
+      <value currency="GBP" value-date="2013-12-31">324521</value>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Enhancing resilience of communities in the face of hunger, climate change and disasters</description>
+      <provider-org>DFID</provider-org>
+      <value currency="GBP" value-date="2014-06-30">628895.93</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Enhancing resilience of communities in the face of hunger, climate change and disasters</description>
+      <receiver-org>ActionAid UK</receiver-org>
+      <provider-org>DFID</provider-org>
+      <value currency="GBP" value-date="2014-06-30">138776.57</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Enhancing resilience of communities in the face of hunger, climate change and disasters</description>
+      <receiver-org>ActionAid Malawi; CARE International ; Christian Aid</receiver-org>
+      <provider-org>ActionAid UK</provider-org>
+      <value currency="GBP" value-date="2014-06-30">78194.54</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>Enhancing resilience of communities in the face of hunger, climate change and disasters</description>
+      <provider-org>ActionAid UK</provider-org>
+      <value currency="GBP" value-date="2014-06-30">7417.57</value>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T12:00:15" xml:lang="EN">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-MW000015-REB009-R-2112-MW</iati-identifier>
+    <title>Other Committed Giving</title>
+    <description>Other forms of Regular Giving</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-planned"/>
+    <participating-org role="Funding">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-MW000015-REB009-R-2112-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value currency="GBP" value-date="2013-01-01">195</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Income received through other forms of Regular Giving</description>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-06-24T11:57:45" xml:lang="en">
+    <reporting-org ref="GB-CHC-274467" type="21">ActionAid United Kingdom</reporting-org>
+    <iati-identifier>GB-CHC-274467-XUK0D11001-REB007-R-2334-MW</iati-identifier>
+    <title>Regular Appeals</title>
+    <description>Individual donations</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="2013-12-31" type="end-planned">2013-12-31</activity-date>
+    <activity-date iso-date="2013-01-01" type="start-planned">2013-01-01</activity-date>
+    <participating-org role="Funding" type="15">Private Individuals</participating-org>
+    <participating-org role="Extending">ActionAid Malawi</participating-org>
+    <participating-org role="Implementing">ActionAid Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code="289">South of Sahara, regional</recipient-region>
+    <sector code="15150">Strengthening Civil Society</sector>
+    <transaction ref="GB-CHC-274467-XUK0D11001-REB007-R-2334-MW">
+      <provider-org>ActionAid United Kingdom</provider-org>
+      <receiver-org>ActionAid Malawi</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <value value-date="2013-01-01">27</value>
+      <finance-type code="110">Aid Grant</finance-type>
+      <tied-status code="4">Tied</tied-status>
+      <transaction-date iso-date="2013-01-01">2013-01-01</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <description>Donations received from individuals</description>
+    </transaction>
+  </iati-activity>
+</iati-activities>

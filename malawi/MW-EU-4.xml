@@ -1,0 +1,1008 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <participating-org type="15" role="Implementing">WORLD VISION - UK</participating-org>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <collaboration-type code="3">Bilateral, core contributions to NGOs and PPPs</collaboration-type>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="100">Grant</default-finance-type>
+    <iati-identifier>EU-4-ECHO/DIP/BUD/2012/92013</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-22891</other-identifier>
+    <title>Community based Disaster preparedness and risk reduction project</title>
+    <description type="1">Community based Disaster preparedness and risk reduction project</description>
+    <description type="2">DIPECHO / Community based Disaster preparedness and risk reduction project</description>
+    <sector percentage="100" code="DIPR" vocabulary="EDRIS">Disaster prepardness</sector>
+    <activity-date iso-date="2012-09-14" type="start-planned"/>
+    <activity-date iso-date="2012-07-01" type="start-actual"/>
+    <activity-date iso-date="2013-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2012-09-14"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2012-09-14" currency="EUR">214250</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <recipient-country xml:lang="en" code="AO">Angola</recipient-country>
+    <recipient-country xml:lang="en" code="LS">Lesotho</recipient-country>
+    <recipient-country xml:lang="en" code="ZW">Zimbabwe</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <iati-identifier>EU-4-ECHO/-SF/EDF/2012/02000</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-23052</other-identifier>
+    <title>Emergency humanitarian food, nutrition and livelihood assistance for populations affected by drought in Southern Africa</title>
+    <description type="1">Emergency humanitarian food, nutrition and livelihood assistance for populations affected by drought in Southern Africa</description>
+    <description type="2">Emergency humanitarian food, nutrition and livelihood assistance for populations affected by drought in Southern Africa</description>
+    <activity-date iso-date="2012-12-18" type="start-planned"/>
+    <activity-date iso-date="2012-10-01" type="start-actual"/>
+    <activity-date iso-date="2013-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2012-12-18"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Lesotho</receiver-org>
+      <value value-date="2012-12-18" currency="EUR">4000000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-12-18"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2012-12-18" currency="EUR">4000000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-12-18"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Angola</receiver-org>
+      <value value-date="2012-12-18" currency="EUR">4000000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-12-18"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Zimbabwe</receiver-org>
+      <value value-date="2012-12-18" currency="EUR">3000000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <recipient-country xml:lang="en" code="MZ">Mozambique</recipient-country>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <recipient-country xml:lang="en" code="MG">Madagascar</recipient-country>
+    <recipient-country xml:lang="en" code="NA">Namibia</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <iati-identifier>EU-4-ECHO/DIP/BUD/2012/92000</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-21771</other-identifier>
+    <title>HUMANITARIAN IMPLEMENTATION PLANDIPECHO Southern Africa</title>
+    <description type="1">HUMANITARIAN IMPLEMENTATION PLANDIPECHO Southern Africa</description>
+    <description type="2">HUMANITARIAN IMPLEMENTATION PLANDIPECHO Southern Africa</description>
+    <activity-date iso-date="2012-01-25" type="start-planned"/>
+    <activity-date iso-date="2012-01-01" type="start-actual"/>
+    <activity-date iso-date="2013-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2012-01-25"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2012-01-25" currency="EUR">1139226</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-25"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Namibia</receiver-org>
+      <value value-date="2012-01-25" currency="EUR">410000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-25"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Mozambique</receiver-org>
+      <value value-date="2012-01-25" currency="EUR">1549949</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-25"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Madagascar</receiver-org>
+      <value value-date="2012-01-25" currency="EUR">3516215</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:40:57Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <recipient-country xml:lang="en" code="LA">Lao People's Democratic Republic</recipient-country>
+    <recipient-country xml:lang="en" code="IN">India</recipient-country>
+    <recipient-country xml:lang="en" code="GH">Ghana</recipient-country>
+    <recipient-country xml:lang="en" code="NE">Niger</recipient-country>
+    <recipient-country xml:lang="en" code="TG">Togo</recipient-country>
+    <recipient-country xml:lang="en" code="BW">Botswana</recipient-country>
+    <recipient-country xml:lang="en" code="UG">Uganda</recipient-country>
+    <recipient-country xml:lang="en" code="ET">Ethiopia</recipient-country>
+    <recipient-country xml:lang="en" code="MG">Madagascar</recipient-country>
+    <recipient-country xml:lang="en" code="ZM">Zambia</recipient-country>
+    <recipient-country xml:lang="en" code="ID">Indonesia</recipient-country>
+    <recipient-country xml:lang="en" code="KP">Korea, Democratic People's Republic of</recipient-country>
+    <recipient-country xml:lang="en" code="SV">El Salvador</recipient-country>
+    <recipient-country xml:lang="en" code="AR">Argentina</recipient-country>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <recipient-country xml:lang="en" code="PS">Palestinian Territory, Occupied</recipient-country>
+    <recipient-country xml:lang="en" code="SC">Seychelles</recipient-country>
+    <recipient-country xml:lang="en" code="VC">Saint Vincent and the Grenadines</recipient-country>
+    <recipient-country xml:lang="en" code="KG">Kyrgyzstan</recipient-country>
+    <recipient-country xml:lang="en" code="AM">Armenia</recipient-country>
+    <recipient-country xml:lang="en" code="PE">Peru</recipient-country>
+    <recipient-country xml:lang="en" code="LC">Saint Lucia</recipient-country>
+    <recipient-country xml:lang="en" code="NA">Namibia</recipient-country>
+    <recipient-country xml:lang="en" code="GE">Georgia</recipient-country>
+    <recipient-country xml:lang="en" code="CN">China</recipient-country>
+    <recipient-country xml:lang="en" code="BJ">Benin</recipient-country>
+    <recipient-country xml:lang="en" code="PY">Paraguay</recipient-country>
+    <recipient-country xml:lang="en" code="EG">Egypt</recipient-country>
+    <recipient-country xml:lang="en" code="UA">Ukraine</recipient-country>
+    <recipient-country xml:lang="en" code="BO">Bolivia</recipient-country>
+    <recipient-country xml:lang="en" code="EC">Ecuador</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <iati-identifier>EU-4-ECHO/DRF/BUD/2013/91000</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-23296</other-identifier>
+    <title>Worldwide response to/preparedness for small- scale disasters via Sisaster Relief Emergency Fund (DREF)</title>
+    <description type="1">Worldwide response to/preparedness for small- scale disasters via Sisaster Relief Emergency Fund (DREF)</description>
+    <description type="2">Worldwide response to/preparedness for small- scale disasters via Sisaster Relief Emergency Fund (DREF)</description>
+    <activity-date iso-date="2012-11-13" type="start-planned"/>
+    <activity-date iso-date="2013-01-01" type="start-actual"/>
+    <activity-date iso-date="2014-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Togo</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">88162</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Saint Lucia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">56054</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Korea, Democratic People's Republic of</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">132520</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Egypt</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">97279</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">161603</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>El Salvador</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">60976</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Namibia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">138008</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Uganda</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">70732</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Benin</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">123557</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Peru</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">65041</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>China</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">92114</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Kyrgyzstan</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">16619</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ghana</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">109767</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Paraguay</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">102098</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ecuador</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">107447</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Seychelles</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">44177</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Bolivia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">146267</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Argentina</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">115000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Indonesia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">30488</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Saint Vincent and the Grenadines</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">48780</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Madagascar</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">85500</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Botswana</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">74913</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ukraine</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">124533</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Georgia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">122468</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Lao People's Democratic Republic</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">166275</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Zambia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">34484</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Armenia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">157724</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>India</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">226748</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Palestinian Territory, Occupied</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">73567</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Niger</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">63844</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-11-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ethiopia</receiver-org>
+      <value value-date="2012-11-13" currency="EUR">63255</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <participating-org type="15" role="Implementing">GOAL, (IRL)</participating-org>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <collaboration-type code="3">Bilateral, core contributions to NGOs and PPPs</collaboration-type>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="100">Grant</default-finance-type>
+    <iati-identifier>EU-4-ECHO/DIP/BUD/2012/92005</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-22463</other-identifier>
+    <title>Empowering Communities and Institutions for Innovative Disaster Risk Reduction in Nsanje District Malawi</title>
+    <description type="1">Empowering Communities and Institutions for Innovative Disaster Risk Reduction in Nsanje District Malawi</description>
+    <description type="2">DIPECHO / Empowering Communities and Institutions for Innovative Disaster Risk Reduction in Nsanje District Malawi</description>
+    <sector percentage="100" code="DIPR" vocabulary="EDRIS">Disaster prepardness</sector>
+    <activity-date iso-date="2013-11-05" type="start-planned"/>
+    <activity-date iso-date="2012-06-01" type="start-actual"/>
+    <activity-date iso-date="2013-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2013-11-05"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2013-11-05" currency="EUR">331541</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <participating-org type="15" role="Implementing">Christian Aid (UK)</participating-org>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <collaboration-type code="3">Bilateral, core contributions to NGOs and PPPs</collaboration-type>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="100">Grant</default-finance-type>
+    <iati-identifier>EU-4-ECHO/DIP/BUD/2012/92009</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-22627</other-identifier>
+    <title>Bridging Disaster Response with Preparedness and Resilience in Chikwawa District, Malawi</title>
+    <description type="1">Bridging Disaster Response with Preparedness and Resilience in Chikwawa District, Malawi</description>
+    <description type="2">DIPECHO / Bridging Disaster Response with Preparedness and Resilience in Chikwawa District, Malawi</description>
+    <sector percentage="100" code="DIPR" vocabulary="EDRIS">Disaster prepardness</sector>
+    <activity-date iso-date="2012-07-23" type="start-planned"/>
+    <activity-date iso-date="2012-07-01" type="start-actual"/>
+    <activity-date iso-date="2013-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2012-07-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2012-07-23" currency="EUR">255000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <recipient-country xml:lang="en" code="GT">Guatemala</recipient-country>
+    <recipient-country xml:lang="en" code="MM">Myanmar</recipient-country>
+    <recipient-country xml:lang="en" code="PK">Pakistan</recipient-country>
+    <recipient-country xml:lang="en" code="IN">India</recipient-country>
+    <recipient-country xml:lang="en" code="NE">Niger</recipient-country>
+    <recipient-country xml:lang="en" code="BR">Brazil</recipient-country>
+    <recipient-country xml:lang="en" code="LK">Sri Lanka</recipient-country>
+    <recipient-country xml:lang="en" code="SB">Solomon Islands</recipient-country>
+    <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+    <recipient-country xml:lang="en" code="MG">Madagascar</recipient-country>
+    <recipient-country xml:lang="en" code="KP">Korea, Democratic People's Republic of</recipient-country>
+    <recipient-country xml:lang="en" code="KH">Cambodia</recipient-country>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <recipient-country xml:lang="en" code="MZ">Mozambique</recipient-country>
+    <recipient-country xml:lang="en" code="MN">Mongolia</recipient-country>
+    <recipient-country xml:lang="en" code="FJ">Fiji</recipient-country>
+    <recipient-country xml:lang="en" code="KM">Comoros</recipient-country>
+    <recipient-country xml:lang="en" code="CM">Cameroon</recipient-country>
+    <recipient-country xml:lang="en" code="PE">Peru</recipient-country>
+    <recipient-country xml:lang="en" code="CO">Colombia</recipient-country>
+    <recipient-country xml:lang="en" code="BJ">Benin</recipient-country>
+    <recipient-country xml:lang="en" code="GW">Guinea-Bissau</recipient-country>
+    <recipient-country xml:lang="en" code="NG">Nigeria</recipient-country>
+    <recipient-country xml:lang="en" code="DO">Dominican Republic</recipient-country>
+    <recipient-country xml:lang="en" code="BO">Bolivia</recipient-country>
+    <recipient-country xml:lang="en" code="EC">Ecuador</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <iati-identifier>EU-4-ECHO/DRF/BUD/2012/92000</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-21401</other-identifier>
+    <title>Humanitarian Implementation Plan (HIP) - Small Scale Humanitarian Response to disasters</title>
+    <description type="1">Humanitarian Implementation Plan (HIP) - Small Scale Humanitarian Response to disasters</description>
+    <description type="2">Humanitarian Implementation Plan (HIP) - Small Scale Humanitarian Response to disasters</description>
+    <activity-date iso-date="2012-01-23" type="start-planned"/>
+    <activity-date iso-date="2012-01-01" type="start-actual"/>
+    <activity-date iso-date="2013-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Benin</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>India</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">399499</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Fiji</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Myanmar</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">150000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Mongolia</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Cambodia</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">100000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Nigeria</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Comoros</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Dominican Republic</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">396890</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Korea, Democratic People's Republic of</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">125277</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Bolivia</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Bangladesh</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">800000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Sri Lanka</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Niger</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">145000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Colombia</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">393315</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Peru</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">121100</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Ecuador</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">184390</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">196800</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Pakistan</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Brazil</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Cameroon</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Guatemala</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Guinea-Bissau</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Solomon Islands</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">178899</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Madagascar</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">300000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2012-01-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Mozambique</receiver-org>
+      <value value-date="2012-01-23" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <participating-org type="15" role="Implementing">FOLKEKIRKENS NODHJAELP, (FKN)</participating-org>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <collaboration-type code="3">Bilateral, core contributions to NGOs and PPPs</collaboration-type>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="100">Grant</default-finance-type>
+    <iati-identifier>EU-4-ECHO/DRF/BUD/2012/92002</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-21641</other-identifier>
+    <title>Response to floods in Nsanje, Southern Malawi</title>
+    <description type="1">Response to floods in Nsanje, Southern Malawi</description>
+    <description type="2">Small-scale/epid. / Response to floods in Nsanje, Southern Malawi</description>
+    <sector percentage="100" code="WASA" vocabulary="EDRIS">Water/Sanitation</sector>
+    <activity-date iso-date="2012-07-23" type="start-planned"/>
+    <activity-date iso-date="2012-02-24" type="start-actual"/>
+    <activity-date iso-date="2012-09-23" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2012-07-23"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2012-07-23" currency="EUR">196800</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:40:55Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <participating-org type="15" role="Implementing">Christian Aid (UK)</participating-org>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <collaboration-type code="3">Bilateral, core contributions to NGOs and PPPs</collaboration-type>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="100">Grant</default-finance-type>
+    <iati-identifier>EU-4-ECHO/DIP/BUD/2014/94001</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-26389</other-identifier>
+    <title>Bridging Disaster Risk Management with Resilience in Malawi?s Disaster Prone Districts.</title>
+    <description type="1">Bridging Disaster Risk Management with Resilience in Malawi?s Disaster Prone Districts.</description>
+    <description type="2">DIPECHO / Bridging Disaster Risk Management with Resilience in Malawi?s Disaster Prone Districts.</description>
+    <sector percentage="100" code="DIPR" vocabulary="EDRIS">Disaster prepardness</sector>
+    <activity-date iso-date="2014-04-04" type="start-planned"/>
+    <activity-date iso-date="2014-03-01" type="start-actual"/>
+    <activity-date iso-date="2015-06-30" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2014-04-04"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2014-04-04" currency="EUR">238834</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <participating-org type="15" role="Implementing">World Food Program</participating-org>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <collaboration-type code="2">Multilateral</collaboration-type>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="100">Grant</default-finance-type>
+    <iati-identifier>EU-4-ECHO/-SF/EDF/2012/02005</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-23340</other-identifier>
+    <title>Assistance to Food Insecure People Suffering from the Effects of Natural Disasters</title>
+    <description type="1">Assistance to Food Insecure People Suffering from the Effects of Natural Disasters</description>
+    <description type="2">Assistance to Food Insecure People Suffering from the Effects of Natural Disasters</description>
+    <sector percentage="100" code="FOOD" vocabulary="EDRIS">Food</sector>
+    <activity-date iso-date="2013-03-21" type="start-planned"/>
+    <activity-date iso-date="2012-10-01" type="start-actual"/>
+    <activity-date iso-date="2013-06-30" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2013-03-21"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2013-03-21" currency="EUR">3665000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <participating-org type="15" role="Implementing">Cooperazione Internazionale (IT)</participating-org>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <collaboration-type code="3">Bilateral, core contributions to NGOs and PPPs</collaboration-type>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="100">Grant</default-finance-type>
+    <iati-identifier>EU-4-ECHO/DIP/BUD/2012/92010</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-22721</other-identifier>
+    <title>Empowering Civil Protection Structures in Piloting the Use of Innovative Approaches for Disaster Risk Reduction Activities in - Malawi.</title>
+    <description type="1">Empowering Civil Protection Structures in Piloting the Use of Innovative Approaches for Disaster Risk Reduction Activities in - Malawi.</description>
+    <description type="2">DIPECHO / Empowering Civil Protection Structures in Piloting the Use of Innovative Approaches for Disaster Risk Reduction Activities in - Malawi.</description>
+    <sector percentage="100" code="DIPR" vocabulary="EDRIS">Disaster prepardness</sector>
+    <activity-date iso-date="2012-08-09" type="start-planned"/>
+    <activity-date iso-date="2012-07-01" type="start-actual"/>
+    <activity-date iso-date="2013-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2012-08-09"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2012-08-09" currency="EUR">338435</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <participating-org type="15" role="Implementing">FOLKEKIRKENS NODHJAELP, (FKN)</participating-org>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <collaboration-type code="3">Bilateral, core contributions to NGOs and PPPs</collaboration-type>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="100">Grant</default-finance-type>
+    <iati-identifier>EU-4-ECHO/-SF/EDF/2012/02002</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-23287</other-identifier>
+    <title>A Complimentary Emergency Response to Acute Food/ Nutritional Insecurity in Nsanje and Chikhwawa districts</title>
+    <description type="1">A Complimentary Emergency Response to Acute Food/ Nutritional Insecurity in Nsanje and Chikhwawa districts</description>
+    <description type="2">A Complimentary Emergency Response to Acute Food/ Nutritional Insecurity in Nsanje and Chikhwawa districts</description>
+    <sector percentage="100" code="FOOD" vocabulary="EDRIS">Food</sector>
+    <activity-date iso-date="2013-01-22" type="start-planned"/>
+    <activity-date iso-date="2012-12-01" type="start-actual"/>
+    <activity-date iso-date="2013-08-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2013-01-22"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2013-01-22" currency="EUR">335000</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:40:55Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <recipient-country xml:lang="en" code="MZ">Mozambique</recipient-country>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <recipient-country xml:lang="en" code="MG">Madagascar</recipient-country>
+    <recipient-country xml:lang="en" code="LS">Lesotho</recipient-country>
+    <recipient-country xml:lang="en" code="ZW">Zimbabwe</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <iati-identifier>EU-4-ECHO/DIP/BUD/2014/94000</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-25767</other-identifier>
+    <title>Regional DIPECHO HIP for Southern Africa and Indian Ocean</title>
+    <description type="1">Regional DIPECHO HIP for Southern Africa and Indian Ocean</description>
+    <description type="2">Regional DIPECHO HIP for Southern Africa and Indian Ocean</description>
+    <activity-date iso-date="2013-11-04" type="start-planned"/>
+    <activity-date iso-date="2015-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2013-11-04"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Zimbabwe</receiver-org>
+      <value value-date="2013-11-04" currency="EUR">0</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2013-11-04"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2013-11-04" currency="EUR">0</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2013-11-04"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Madagascar</receiver-org>
+      <value value-date="2013-11-04" currency="EUR">7000000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2013-11-04"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Mozambique</receiver-org>
+      <value value-date="2013-11-04" currency="EUR">0</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2013-11-04"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Lesotho</receiver-org>
+      <value value-date="2013-11-04" currency="EUR">0</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <participating-org type="15" role="Implementing">GOAL, (IRL)</participating-org>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <collaboration-type code="3">Bilateral, core contributions to NGOs and PPPs</collaboration-type>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="100">Grant</default-finance-type>
+    <iati-identifier>EU-4-ECHO/DRF/BUD/2012/93001</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-22527</other-identifier>
+    <title>To support vulnerable communities in Nsanje District for preventing Cholera and strengthening effective Cholera response</title>
+    <description type="1">To support vulnerable communities in Nsanje District for preventing Cholera and strengthening effective Cholera response</description>
+    <description type="2">Small-scale/epid. / To support vulnerable communities in Nsanje District for preventing Cholera and strengthening effective Cholera response</description>
+    <sector percentage="100" code="WASA" vocabulary="EDRIS">Water/Sanitation</sector>
+    <activity-date iso-date="2012-12-20" type="start-planned"/>
+    <activity-date iso-date="2012-06-01" type="start-actual"/>
+    <activity-date iso-date="2013-04-30" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2012-12-20"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2012-12-20" currency="EUR">176902</value>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-05-12T13:41:00Z">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <participating-org ref="EU-4" type="40" role="Funding">Humanitarian Aid Office of the European Commission</participating-org>
+    <recipient-country xml:lang="en" code="CD">Congo, the Democratic Republic of the</recipient-country>
+    <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+    <recipient-country xml:lang="en" code="LA">Lao People's Democratic Republic</recipient-country>
+    <recipient-country xml:lang="en" code="TD">Chad</recipient-country>
+    <recipient-country xml:lang="en" code="PE">Peru</recipient-country>
+    <recipient-country xml:lang="en" code="PK">Pakistan</recipient-country>
+    <recipient-country xml:lang="en" code="NE">Niger</recipient-country>
+    <recipient-country xml:lang="en" code="ML">Mali</recipient-country>
+    <recipient-country xml:lang="en" code="ZW">Zimbabwe</recipient-country>
+    <recipient-country xml:lang="en" code="SL">Sierra Leone</recipient-country>
+    <recipient-country xml:lang="en" code="GW">Guinea-Bissau</recipient-country>
+    <recipient-country xml:lang="en" code="GN">Guinea</recipient-country>
+    <recipient-country xml:lang="en" code="UG">Uganda</recipient-country>
+    <recipient-country xml:lang="en" code="DO">Dominican Republic</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <iati-identifier>EU-4-ECHO/DRF/BUD/2012/93000</iati-identifier>
+    <other-identifier owner-ref="EU-4" owner-name="EDRIS">-21321</other-identifier>
+    <title>Epidemics</title>
+    <description type="1">Epidemics</description>
+    <description type="2">Epidemics</description>
+    <activity-date iso-date="2011-12-13" type="start-planned"/>
+    <activity-date iso-date="2012-01-01" type="start-actual"/>
+    <activity-date iso-date="2013-12-31" type="end-actual"/>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Chad</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Lao People's Democratic Republic</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">299996</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Zimbabwe</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">185790</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Guinea</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">215000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Mali</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">749044</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Dominican Republic</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">430140</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Peru</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">227135</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Malawi</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">176902</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Uganda</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">129812</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Niger</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">600000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>NOT SPECIFIED</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">500000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Guinea-Bissau</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">200000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Congo, the Democratic Republic of the</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">1029346</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Pakistan</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">1000000</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="2011-12-13"/>
+      <provider-org>Humanitarian Aid Office of the European Commission</provider-org>
+      <receiver-org>Sierra Leone</receiver-org>
+      <value value-date="2011-12-13" currency="EUR">1702869</value>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

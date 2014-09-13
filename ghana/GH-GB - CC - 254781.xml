@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="GBP" last-updated-datetime="2014-05-20T12:34:07+00:00">
+    <reporting-org ref="GB - CC - 254781" type="21" xml:lang="en">The International Children's Trust</reporting-org>
+    <iati-identifier>GB - CC - 254781-GPAF-INN-046</iati-identifier>
+    <title>Reducing violence in schools and at home and improving educational performance and attainment for vulnerable children in Upper West and Upper East Region (Ghana)			&#13;
+</title>
+    <description>Reducing violence in schools and at home and improving educational performance and attainment for vulnerable children in Upper West and Upper East Region (Ghana)			&#13;
+</description>
+    <activity-status code="2">The project officially started on Jan. 2014 and is therefore in its initial stages of implementation</activity-status>
+    <activity-date type="start-actual" iso-date="2014-01-01"/>
+    <activity-date type="end-planned" iso-date="2016-12-31"/>
+    <participating-org type="23" role="Implementing">Youth Alive</participating-org>
+    <participating-org type="21" role="Accountable" ref="GB - CC - 254781">International Children's Trust</participating-org>
+    <recipient-country code="GH" percentage="100"/>
+    <recipient-region code="289"/>
+    <budget type="1">
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2014-03-31"/>
+      <value value-date="2014-03-31">20271</value>
+    </budget>
+    <budget>
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2015-03-31"/>
+      <value value-date="2014-04-01">78550</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-04-01"/>
+      <period-end iso-date="2016-03-31"/>
+      <value value-date="2014-04-01">62936</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2016-04-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2014-04-01">69079</value>
+    </budget>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1" provider-activity-id="GB -1-201242">DFID</provider-org>
+      <receiver-org ref="GB-CC-254781">The International Children's Trust</receiver-org>
+      <value value-date="2014-02-12">20271</value>
+      <transaction-date iso-date="2014-02-12"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1" provider-activity-id="GB -1-201242">DFID</provider-org>
+      <receiver-org ref="GB-CC-254781">International Children's Trust</receiver-org>
+      <value value-date="2014-05-12">18806</value>
+      <transaction-date iso-date="2014-05-12"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org>Youth Alive</receiver-org>
+      <value value-date="2014-02-17">17033</value>
+      <description>Quarter 4 Year 1 (Jan. - March 2014)</description>
+      <transaction-date iso-date="2014-02-17"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org>Youth Alive</receiver-org>
+      <value value-date="2014-05-12">16702</value>
+      <description>Year 2 Quarter 1  (April - June)</description>
+      <transaction-date iso-date="2014-05-12"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org ref="GB-CC-254781">International Children's Trust</receiver-org>
+      <value value-date="2014-05-15">6</value>
+      <transaction-date iso-date="2014-01-15"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org ref="GB-CC-254781">International Children's Trust</receiver-org>
+      <value value-date="2014-01-21">45</value>
+      <transaction-date iso-date="2014-01-21"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org ref="GB-CC-254781">International Children's Trust</receiver-org>
+      <value value-date="2014-01-29">538</value>
+      <transaction-date iso-date="2014-01-29"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org ref="GB-CC-254781">International Children's Trust</receiver-org>
+      <value value-date="2014-02-12">6</value>
+      <transaction-date iso-date="2014-02-12"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org ref="GB-CC-254781">International Children's Trust</receiver-org>
+      <value value-date="2014-03-14">6</value>
+      <transaction-date iso-date="2014-03-14"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org ref="GB-CC-254781">International Children's Trust</receiver-org>
+      <value value-date="2014-03-17">641</value>
+      <transaction-date iso-date="2014-03-17"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org ref="GB-CC-254781">International Children's Trust</receiver-org>
+      <value value-date="2014-03-25">350</value>
+      <transaction-date iso-date="2014-03-25"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org ref="GB-CC-254781">International Children's Trust</receiver-org>
+      <value value-date="2014-03-26">538</value>
+      <transaction-date iso-date="2014-03-26"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-CC-254781">International Children's Trust</provider-org>
+      <receiver-org ref="GB-CC-254781">International Children's Trust</receiver-org>
+      <value value-date="2014-03-31">570</value>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

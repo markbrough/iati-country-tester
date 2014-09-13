@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="USD" last-updated-datetime="2014-06-03T16:45:36">
+		<iati-identifier>47135-XFIPGH017A</iati-identifier><reporting-org ref="47135" type="Multilateral" xml:lang="en">Climate Investment Funds-Strategic Climate Fund</reporting-org><activity-status code="2">Implementation</activity-status><participating-org role="Implementing" ref="46002" type="40" xml:lang="en">African Development Bank</participating-org><recipient-country code="GH" percentage="100" xml:lang="en">GHANA</recipient-country><title xml:lang="en">Engaging Local Communities in REDD+/Enhancing Carbon Stocks</title><description type="General" xml:lang="en">Pilot a jurisdictional 2 approach to REDD+ in the Western and Brong Ahafo regions, providing capacity building, seeds, equipment, and financial incentives to develop agroforestry and alternate livelihoods activities</description><activity-website/>
+		<activity-date type="start-planned" iso-date="2013-09-01" xml:lang="en">2013-09-01</activity-date>		
+	<contact-info><organisation>Climate Investment Funds-Strategic Climate Fund</organisation><telephone>+1-202-458-1801</telephone><email>cifadminunit@worldbank.org</email><mailing-address>The World Bank, 1818 H Street, NW, Washington, DC 20433 USA</mailing-address>
+</contact-info><collaboration-type code="2" xml:lang="en">Multilateral</collaboration-type>
+		 <default-flow-type code="10" xml:lang="en">ODA</default-flow-type><transaction><transaction-type code="C">Commitment</transaction-type><value>10000000</value><description xml:lang="en">Commitment in Third Quarter of 2013</description><transaction-date iso-date="2013-09-01">2013-09-01</transaction-date><flow-type code="10" xml:lang="en">ODA</flow-type>	
+		 <aid-type code="B03" xml:lang="en">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type><finance-type code="110" xml:lang="en">Aid grant excluding debt organization</finance-type><tied-status code="5" xml:lang="en">Untied</tied-status>		
+				</transaction></iati-activity>
+</iati-activities>

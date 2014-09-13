@@ -1,0 +1,978 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2012122064</iati-identifier>
+    <title>Business linkage programme (Finnpartnership)</title>
+    <description>Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2012-01-01" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="11000" role="Implementing">Finnfund</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="14050"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="0">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="0">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="2">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <disbursement-channel code="11000">Finnfund</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">17762</value>
+      <finance-type code="110"/>
+      <tied-status code="4"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="4"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="4"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2011112128</iati-identifier>
+    <title>Business linkage programme (Finnpartnership)</title>
+    <description>Long term establishment in the target country (e.g. subsidiary, representative office, maintenance company)</description>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2011-01-01" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="11000" role="Implementing">Finnfund</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="23070"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="0">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="0">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="2">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <disbursement-channel code="11000">Finnfund</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">26061</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2011112084</iati-identifier>
+    <title>Business linkage programme (Finnpartnership)</title>
+    <description>Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-date iso-date="2012-12-31" type="end-planned"/>
+    <activity-date iso-date="2010-01-01" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="11000" role="Implementing">Finnfund</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="23070"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="0">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="0">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="2">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <disbursement-channel code="11000">Finnfund</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2009-5005-24100501</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2009095005</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">24100501</other-identifier>
+    <title xml:lang="en">Rural Electrification Project in Ashanti and Eastern regions</title>
+    <description xml:lang="en">Rural Electrification Project in Ashanti and Eastern Regions, Ghana. The proposed Rural Electrification Project was initiated by the Ministry of Energy of Ghana and ELTEL. The objective of the project is to contribute to the rural electrification in three districts of Ashanti Region and one district in the Eastern Region. In order to promote the socio-economic development of rural areas, the Government of Ghana supports rural electrification. The cost estimate includes all costs for planning, design, survey, bush clearance, material, freight, erection, tests and commissioning of the project.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-05-06"/>
+    <activity-date type="end-planned" iso-date="2025-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="50000">OTHER</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector code="23040">Electrical transmission/ distribution</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="1" code="8">Desertification</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="210"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">11199884</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">142409</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">182798</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2011110016</iati-identifier>
+    <title>Coastal surveillance project in Ghana</title>
+    <description>Ghana is rapidly becoming a maritime trading hub for the sub-region. There are increasing regulations concerning international shipping and Ghana as a member of IMO to abide by the regulations. The project involves an integrated Vessel Traffic Management Information System (VTMIS) for the Ghanaian coastline and inland navigation (Lake Volta and rivers).</description>
+    <activity-date iso-date="2017-12-31" type="end-planned"/>
+    <activity-date iso-date="2011-03-03" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="50000" role="Implementing">Other, Eltel and Navielektro</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="15210"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="0">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="1">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="0">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="50000">Other, Eltel and Navielektro</receiver-org>
+      <disbursement-channel code="50000">Other, Eltel and Navielektro</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="210"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="50000">Other, Eltel and Navielektro</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">394571.57</value>
+      <finance-type code="210"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="50000">Other, Eltel and Navielektro</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="210"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2011112157</iati-identifier>
+    <title>Business linkage programme (Finnpartnership)</title>
+    <description>Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2011-01-01" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="11000" role="Implementing">Finnfund</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="31281"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="0">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="0">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="0">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="2">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <disbursement-channel code="11000">Finnfund</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2008081005</iati-identifier>
+    <title>Frame agreement with NGO (SASK)</title>
+    <description>The objective is to improve the Ghanaian trade union movement’s ability to effectively influence national economic, social and labour policy at the level of commerce, industry and legislation, and to expand and systematise the training available to members around the country, particularly emphasising increasingly active participation by women in the training.</description>
+    <activity-date iso-date="2011-12-31" type="end-planned"/>
+    <activity-date iso-date="2009-01-01" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="22000" role="Implementing">Finnish NGO, SASK</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="16020"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="2">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="0">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="0">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, SASK</receiver-org>
+      <disbursement-channel code="22000">Finnish NGO, SASK</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, SASK</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, SASK</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-964-051-10-xxx</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100964</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">051-10-xxx</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <location>
+      <name>Ho and Takorad areas</name>
+    </location>
+    <sector code="23070">Biomass</sector>
+    <policy-marker significance="1" code="2">Aid to Environment</policy-marker>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <policy-marker significance="1" code="6">Climate Change</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">63857</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2012122040</iati-identifier>
+    <title>Business linkage programme (Finnpartnership)</title>
+    <description>Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2012-01-01" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="11000" role="Implementing">Finnfund</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="14050"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="0">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="0">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="2">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <disbursement-channel code="11000">Finnfund</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">10244</value>
+      <finance-type code="110"/>
+      <tied-status code="4"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="4"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="4"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2008-1005-2002</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2008081005</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">2002</other-identifier>
+    <title xml:lang="en">Frame agreement with NGO (SASK)</title>
+    <description xml:lang="en">The objective is to improve the Ghanaian trade union movementâs ability to effectively influence national economic, social and labour policy at the level of commerce, industry and legislation, and to expand and systematise the training available to members around the country, particularly emphasising increasingly active participation by women in the training.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-01-01"/>
+    <activity-date type="end-planned" iso-date="2011-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">NATIONAL NGOs</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector code="16020">Employment policy and administrative management</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="2" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2008-01-01">303017</value>
+      <transaction-date iso-date="2008-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">99287</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">110068</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-04-07T07:11:01" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2014000247</iati-identifier>
+    <title>Youth Resource Centre</title>
+    <description>In Sota Southern Ghana the small godvillage of Joensuu-Ghana Registered Association 16 girls have dropped out from school during the past five years 13 of them due to a teenage pragnancy according to the statistics kept by the teachers. Teenage pregnancies occur already in primary school because kids often start school late and therefore girls may already be14-17yrs old in primary school.Teenage pregnancies are due to gender inequality the attitudes of parents towards teenage pregnancies the attitudes of men and boys towards females and poverty and the high illiteracy level of women which prevents them to know their rights.Early unprotected sex increases the incidences of Hiv/Aids and other STDs.The main objectives of the project are to reduce teenage pregnancies by 30% to halve the number of girl child drop outs to achieve better health which means less incidences of Hiv/Aids STDs malaria and diarrhea the attitude changes among males towards females and poverty reduction through education.Together with the main objectives of our project we are putting into practice also the development political cross cutting objectives; gender equality reducing inequality and through better education climate sustainability too.The main beneficiaries in the project are teenage grils disabled girls included and teenage mothers. The situation of girls cannot however become better without the attitude changes of men boys and mothers so the entire Sota community will be the final beneficiary.The key project activity is the after school club (2-3hrs) five times a week in Sota Basic School.In the club the youth are helped with their assignments basic life skills and hand skills are taught to them they are also given health and ethical education. Small girls will alsohave one club day a week because the earlier you start the better the results.The teachers have already this year started an after school club for girls once a week by the support of Joensuu-Ghana Registered Association.Once a month there is a family day on Saturday with counselling of parents and programme for the families.  The school is encouraged to continue their culture group as part of the project to strengthen the roots. Twice a year there will be an excursion.In addition to these a local doctor will lecture to the entire community five times a year and once a year screening will be arranged to find the Hiv-positives and other diseases.</description>
+    <activity-date iso-date="2016-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-12-03" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="22000" role="Implementing">Dentro Foundation Ghana</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="11230"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="2">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="1">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="0">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="0">Trade Development</policy-marker>
+    <policy-marker code="7" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Dentro Foundation Ghana</receiver-org>
+      <disbursement-channel code="22000">Dentro Foundation Ghana</disbursement-channel>
+      <value currency="EUR" value-date="2013-01-01">68649</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Dentro Foundation Ghana</receiver-org>
+      <value currency="EUR" value-date="2013-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Dentro Foundation Ghana</receiver-org>
+      <value currency="EUR" value-date="2013-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2012120092</iati-identifier>
+    <title>Frame Agreement with NGO (Finnish Red Cross)</title>
+    <description>Support for Organizational Development. To support the local Red Cross Society to raise its own capacity to be able to respond the local vulnerability in the sustainable manner.</description>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2010-01-01" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="22000" role="Implementing">Finnish NGO, Finnish Red Cross</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="15150"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="1">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="0">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="1">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, Finnish Red Cross</receiver-org>
+      <disbursement-channel code="22000">Finnish NGO, Finnish Red Cross</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">123250</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, Finnish Red Cross</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, Finnish Red Cross</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2011112214</iati-identifier>
+    <title>Business linkage programme (Finnpartnership)</title>
+    <description>Long term establishment / partnership in the target country (e.g. subsidiary, maintenance company, joint venture, subcontractor agreement)</description>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2011-01-01" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="11000" role="Implementing">Finnfund</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="23070"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="0">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="0">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="2">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <disbursement-channel code="11000">Finnfund</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">20727</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="11000">Finnfund</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2006060132</iati-identifier>
+    <title>NGO Support / Protecting soil and preventing desertification in Lawra</title>
+    <description>Aim: prevent soil degradation and enhance food security. Activities: improvement of cultivation methods (erosion control, tree planting, planting of legume crops); community based control/prevention of wildland fires; general empowerment of communities.</description>
+    <activity-date iso-date="2012-12-31" type="end-planned"/>
+    <activity-date iso-date="2007-01-01" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="22000" role="Implementing">Finnish NGO, Maatalous-metsהylioppilaiden liitto</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="31166"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="1">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="0">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="0">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, Maatalous-metsהylioppilaiden liitto</receiver-org>
+      <disbursement-channel code="22000">Finnish NGO, Maatalous-metsהylioppilaiden liitto</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, Maatalous-metsהylioppilaiden liitto</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">9945</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, Maatalous-metsהylioppilaiden liitto</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2006-132-24114601</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">60132</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">24114601</other-identifier>
+    <title xml:lang="en">NGO SUPPORT / PROTECTING SOIL AND PREVENTING DESERTIFICATION IN LAWRA</title>
+    <description xml:lang="en">AIM: PREVENT SOIL DEGRADATION AND ENHANCE FOOD SECURITY. ACTIVITIES: IMPROVEMENT OF CULTIVATION METHODS (EROSION CONTROL, TREE PLANTING, PLANTING OF LEGUME CROPS); COMMUNITY BASED CONTROL/PREVENTION OF BUSHFIRES; GENERAL EMPOWERMENT OF COMMUNITIES.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2007-01-01"/>
+    <activity-date type="end-planned" iso-date="2009-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="20000">NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <location>
+      <name>Upper West Region, Lawra district</name>
+    </location>
+    <sector code="31166">Agricultural extension</sector>
+    <policy-marker significance="1" code="1">Gender Equality</policy-marker>
+    <policy-marker significance="1" code="3">Participatory Development</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2006-01-01">36921</value>
+      <transaction-date iso-date="2006-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2007-12-31">14600</value>
+      <transaction-date iso-date="2007-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2008-12-31">14698</value>
+      <transaction-date iso-date="2008-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2009-01-01">41547</value>
+      <transaction-date iso-date="2009-01-01"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2009-12-31">11920</value>
+      <transaction-date iso-date="2009-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2010-12-31">13172</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-74-24114801</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100074</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">24114801</other-identifier>
+    <title xml:lang="en">Women's participation and representation in Parliament</title>
+    <description xml:lang="en">Increasing the participation of women in the parliament of Ghana.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-09-13"/>
+    <activity-date type="end-planned" iso-date="2010-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-3">Ministry of Foreign Affairs</participating-org>
+    <participating-org role="implementing" ref="22000">Finnish NGO, DEMO Finland ry</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <location>
+      <name>Ghana</name>
+    </location>
+    <sector code="15170">Womenâs equality organisations and institutions</sector>
+    <policy-marker significance="2" code="1">Gender Equality</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">993</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2012000048</iati-identifier>
+    <title>Fruit tree cropping in villages of the Lawra-region</title>
+    <description>The goal in the project is to create local potential for sustainable fruit tree management. Planted trees will provide harvest in the end of the dry season when food is scarce. The effect of malnutrition is worst in the most vulnerable groups: amongst children elderly and sick. Vitamins and nutritients from fruits are important addition to dry season nutrition intake. Fruit trees will be planted in depleted farm lands which are otherwise out of use. This will lead to reforestation in areas where the tree cover is now very low. Productive fruit tree is such a valuable asset for a farmer that it won't be cut but in an emergency so the project will sustainably increase carbon sequestration in the trees of the area. The main method of action is planting cashew and mango trees in villages that are capable of protecting the trees from fire and wandering animals. In our previous projects in the area we have reinforced fire control in 10 villages. From these 10 villages we will choose 500 beneficiary families or individuals through applications. We will also construct a tree nursery for seedling production which we expect to cover it's operational costs in second or third year. The first batch of seedlings for planting in three first villages in the first year will be bought from nearby Burkina Faso as there is no tree nursery in the nearby area. Second year will see the project implementation in three to four other villages for which the seedlings will be supplied by tree nursery production. In the third year we expect the biggest trees will start to produce fruit. Also we will start the project in the remaining villages re-plant in places where dead trees have occurred and if tree seedling production allows also plant in new communities which are ready to take necessary care of the trees.Main actions:1. Selecting beneficiaries that fulfill the requirements.2. Organizing trainings about nutritional benefits of fruit fruit tree care and fire control.3. Establishing a tree nursery.4. Organizing tree plantings.5. Providing supportive actions: securing planting of seedlings acquiring seedlings tools and necessities organizing monitoring of the project.The crosscutting objective of improving position of marginalized groups is one main goal of the project. Marginalized groups are most vulnerable to malnutrition so these groups also benefit most of the nutritional improvement.</description>
+    <activity-date iso-date="2015-12-31" type="end-planned"/>
+    <activity-date iso-date="2012-12-14" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="22000" role="Implementing">Tisong-Taa Foundation</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="31120"/>
+    <policy-marker code="8" significance="1">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="0">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="0">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="2">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="0">Trade Development</policy-marker>
+    <policy-marker code="7" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Tisong-Taa Foundation</receiver-org>
+      <disbursement-channel code="22000">Tisong-Taa Foundation</disbursement-channel>
+      <value currency="EUR" value-date="2012-12-14">29187</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Tisong-Taa Foundation</receiver-org>
+      <value currency="EUR" value-date="2012-12-14">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Tisong-Taa Foundation</receiver-org>
+      <value currency="EUR" value-date="2012-12-14">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2009095005</iati-identifier>
+    <title>Rural Electrification Project in Ashanti and Eastern regions</title>
+    <description>Rural Electrification Project in Ashanti and Eastern Regions, Ghana. The proposed Rural Electrification Project was initiated by the Ministry of Energy of Ghana and ELTEL. The objective of the project is to contribute to the rural electrification in three districts of Ashanti Region and one district in the Eastern Region. In order to promote the socio-economic development of rural areas, the Government of Ghana supports rural electrification. The cost estimate includes all costs for planning, design, survey, bush clearance, material, freight, erection, tests and commissioning of the project.</description>
+    <activity-date iso-date="2025-12-31" type="end-planned"/>
+    <activity-date iso-date="2009-05-06" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="50000" role="Implementing">Other, ELTEL</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="23040"/>
+    <policy-marker code="8" significance="1">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="0">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="0">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="1">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="0">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="50000">Other, ELTEL</receiver-org>
+      <disbursement-channel code="50000">Other, ELTEL</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="210"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="50000">Other, ELTEL</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">500778.45</value>
+      <finance-type code="210"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="50000">Other, ELTEL</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="210"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-08-17T00:00:00">
+    <reporting-org type="10" ref="FI-3">Ministry of Foreign Affairs, Finland</reporting-org>
+    <iati-identifier>FI-3-2010-957-063-08-GHA-0902</iati-identifier>
+    <other-identifier owner-ref="CRS" owner-name="OECD DAC CRS">2010100957</other-identifier>
+    <other-identifier owner-ref="FI-3" owner-name="Ministry of Foreign Affairs, Finland">063-08-GHA-0902</other-identifier>
+    <title xml:lang="en">Business linkage programme (Finnpartnership)</title>
+    <description xml:lang="en">Long term partnership with a local company / organisation (e.g. joint venture; subcontractor, import or other contract agreement )</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <participating-org role="funding" type="10" ref="FI">Finland</participating-org>
+    <participating-org role="extending" type="10" ref="FI-2">FinnFund</participating-org>
+    <participating-org role="implementing" ref="11000">Finnfund</participating-org>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector code="23070">Biomass</sector>
+    <policy-marker significance="2" code="4">Trade Development</policy-marker>
+    <policy-marker significance="1" code="6">Climate Change</policy-marker>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <transaction>
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2010-01-01">191123</value>
+      <transaction-date iso-date="2010-01-01"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2014-01-09T12:45:53" xml:lang="en">
+    <reporting-org ref="FI-3" type="10">Ministry for Foreign Affairs of Finland</reporting-org>
+    <iati-identifier>2012120117</iati-identifier>
+    <title>Frame Agreement with NGO (Finnish Red Cross)</title>
+    <description>Community Based Health Programme. To improve the general health, to reduce morbidity and to develop the disaster preparedness and response through increase knowledge sharing.</description>
+    <activity-date iso-date="2012-12-31" type="end-planned"/>
+    <activity-date iso-date="2010-01-01" type="start-planned"/>
+    <participating-org ref="FI-3" role="Extending">Ministry for Foreign Affairs of Finland</participating-org>
+    <participating-org ref="FI" role="Funding">Finland</participating-org>
+    <participating-org ref="22000" role="Implementing">Finnish NGO, Finnish Red Cross</participating-org>
+    <recipient-country code="GH"/>
+    <recipient-region code=" "/>
+    <sector code="12261"/>
+    <policy-marker code="8" significance="0">Aid Targeting the Objectives of the Convention to Combat Desertification</policy-marker>
+    <policy-marker code="1" significance="1">Gender Equality</policy-marker>
+    <policy-marker code="3" significance="1">Participatory Development/Good Governance</policy-marker>
+    <policy-marker code="2" significance="0">Aid to Environment</policy-marker>
+    <policy-marker code="5" significance="0">Aid Targeting the Objectives of the Convention on Biological Diversity</policy-marker>
+    <policy-marker code="4" significance="1">Trade Development</policy-marker>
+    <policy-marker code="7" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Adaptation</policy-marker>
+    <policy-marker code="6" significance="0">Aid Targeting the Objectives of the Framework Convention on Climate Change – Mitigation</policy-marker>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, Finnish Red Cross</receiver-org>
+      <disbursement-channel code="22000">Finnish NGO, Finnish Red Cross</disbursement-channel>
+      <value currency="EUR" value-date="2012-01-01">467500</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, Finnish Red Cross</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org>MFA Finland</provider-org>
+      <receiver-org ref="22000">Finnish NGO, Finnish Red Cross</receiver-org>
+      <value currency="EUR" value-date="2012-01-01">0</value>
+      <finance-type code="110"/>
+      <tied-status code="5"/>
+      <transaction-type code="QS">Sale of Equity</transaction-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity last-updated-datetime="2011-12-02T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND113</iati-identifier>
+    <title>Technical Support for Radio Stations</title>
+    <description>At present, the FrontlineSMS:Radio team are developing a new platform that ‘will assist community radio stations to interact dynamically with audiences by harnessing the power of SMS text messaging’. As part of this, the team are conducting a pilot with ten radio stations or shows in Kenya, Zambia, Malawi and Sierra Leone. Indigo are pleased to announce that we have made a grant of £10,000 to FrontlineSMS to help with some of the costs incurred during the pilot phase.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual" iso-date="2011-08-15">
+      2011-08-15
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2012-08-14">
+      2012-08-14
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://radio.frontlinesms.com/</activity-website>
+    <sector vocabulary="DAC" code="92020">
+              Support to international NGOs
+            </sector>
+    <sector vocabulary="DAC" code="22030">
+              Radio/television/print media
+            </sector>
+    <sector vocabulary="DAC" code="15163">
+              Free flow of information
+            </sector>
+    <budget>
+      <value currency="GBP" value-date="2011-08-15">10000</value>
+    </budget>
+    <recipient-country code="KE">
+          Kenya
+        </recipient-country>
+    <recipient-country code="MW">
+          Malawi
+        </recipient-country>
+    <recipient-country code="SL">
+          Sierra Leone
+        </recipient-country>
+    <recipient-country code="ZM">
+          Zambia
+        </recipient-country>
+    <contact-info>
+      <person-name>Amy O'Donnell</person-name>
+      <email>amy@frontlinesms.com</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2011-08-23">
+          10000
+        </value>
+      <transaction-date iso-date="2011-08-23"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND113">
+              Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              Kiwanja UK Community Company
+            </receiver-org>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="D02">
+        Other technical assistance
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2011-12-02T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND92</iati-identifier>
+    <title>Part-Time Project Manager</title>
+    <description>A grant to FrontlineSMS Radio of £10, 200 to fund a part-time Project Manager to coordinate between the developer team, researchers, partners and users on the ground. It is hoped that this project will contribute to stimulating civil activism and have implications for bottom-up governance.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual" iso-date="2010-12-06">
+      2010-12-06
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2011-12-05">
+      2011-12-05
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://radio.frontlinesms.com/</activity-website>
+    <sector vocabulary="DAC" code="22030">
+              Radio/television/print media
+            </sector>
+    <sector vocabulary="DAC" code="92020">
+              Support to international NGOs
+            </sector>
+    <sector vocabulary="DAC" code="15150">
+              Strengthening civil society
+            </sector>
+    <budget>
+      <value currency="GBP" value-date="2010-12-06">10200</value>
+    </budget>
+    <recipient-country code="KE">
+          Kenya
+        </recipient-country>
+    <recipient-country code="MW">
+          Malawi
+        </recipient-country>
+    <recipient-country code="SL">
+          Sierra Leone
+        </recipient-country>
+    <recipient-country code="ZM">
+          Zambia
+        </recipient-country>
+    <contact-info>
+      <person-name>Amy O'Donnell</person-name>
+      <email>amy@frontlinesms.com</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2011-04-01">
+          10200
+        </value>
+      <transaction-date iso-date="2011-04-01"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND92">
+              Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              FrontlineSMS:Radio
+            </receiver-org>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="B01">
+        Core support to NGOs, other private bodies, PPPs and research institutes
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+</iati-activities>

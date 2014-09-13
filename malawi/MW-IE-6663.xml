@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663ME1</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>ME1 - Review of the Seed Regulations Framework and the Seed Act Malawi</title>
+                <activity-status code="3" xml:lang="EN">3</activity-status>
+                <activity-date iso-date="2012-7-17" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2013-3-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2012-7-17">14000.0</value>
+                   <period-start iso-date="2012-7-17"/>
+                   <period-end iso-date="2013-3-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">1777.02</value></transaction>
+                <description type="1" xml:lang="en">
+                     
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31110">Agricultural policy and administrative management</sector>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MC1</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MC1 - (TOF) Masumbankhunda School Gardening Project</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2011-8-9" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2012-8-7" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2011-8-9">9000.0</value>
+                   <period-start iso-date="2011-8-9"/>
+                   <period-end iso-date="2012-8-7"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">7889.89</value></transaction>
+                <description type="1" xml:lang="en">
+                    School gardening project focussing on water irrigation, agriculture skills and nutrition 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31161">Food crop production</sector>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">TOF - GLOBAL ETHICS LTD ( One Foundation )</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MB8</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MB8 - (TOF) Mgoloka School Sanitation and Hygiene Facilities</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2011-6-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2011-10-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2011-6-1">8800.0</value>
+                   <period-start iso-date="2011-6-1"/>
+                   <period-end iso-date="2011-10-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">5894.67</value></transaction>
+                <description type="1" xml:lang="en">
+                    To provide Mgoloka Primary School with improved hygiene and sanitation facilities so that pupils and teachers have more privacy and dignity. 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MC9</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MC9 - MAEF Malawi</title>
+                <activity-status code="2" xml:lang="EN">2</activity-status>
+                <activity-date iso-date="2011-11-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2013-12-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="EUR" value-date="2011-11-1">64788.0</value>
+                   <period-start iso-date="2011-11-1"/>
+                   <period-end iso-date="2013-12-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="EUR" value-date="2013-09-30">41272.22156327838</value></transaction>
+                <description type="1" xml:lang="en">
+                    Generate, deepen and sustain socio-economic impacts by investing in innovative agricultural technologies that maximise the potential to improve agricultural productivity and agri-business opportunities that can be scaled-out and replicated successfully by smallholder farmers 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31120">Agricultural development</sector>
+                <participating-org ref="" role="Funding" type="" xml:lang="EN">PPA - FARM AFRICA</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>
+                <document-link format="application/pdf" url="">
+                <language>en</language>
+                <category code="A05 Budget" xml:lang="en"/>
+                <title xml:lang="en"/>
+                </document-link>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MB7</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MB7 - Community Seed Improvement and Value Addition Project</title>
+                <activity-status code="3" xml:lang="EN">3</activity-status>
+                <activity-date iso-date="2011-1-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2012-12-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="EUR" value-date="2011-1-1">150000.0</value>
+                   <period-start iso-date="2011-1-1"/>
+                   <period-end iso-date="2012-12-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="EUR" value-date="2013-09-30">52843.11</value></transaction>
+                <description type="1" xml:lang="en">
+                    Community Seed Improvement and Value Addition Project which Promotes rural enterprise development 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31161">Food crop production</sector>
+                <participating-org ref="" role="Funding" type="70" xml:lang="EN">Vitol Services Ltd</participating-org>
+                <participating-org ref="IE-1" role="Funding" type="10" xml:lang="EN">MAP - Irish Aid</participating-org>
+                <participating-org ref="IE-1" role="Funding" type="10" xml:lang="EN">IA - Irish Aid</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MD1</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MD1 - (TOF) Community Based Chicken Production - Phase II</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2012-1-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2012-12-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2012-1-1">9255.0</value>
+                   <period-start iso-date="2012-1-1"/>
+                   <period-end iso-date="2012-12-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">5738.7</value></transaction>
+                <description type="1" xml:lang="en">
+                    Community Based Chicken Production: promotion of improved poultry production in order to improve livelihoods 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31163">Livestock</sector>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">TOF - GLOBAL ETHICS LTD ( One Foundation )</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>
+                <document-link format="application/pdf" url="">
+                <language>en</language>
+                <category code="A02 Objectives / Purpose of activity" xml:lang="en"/>
+                <title xml:lang="en"/>
+                </document-link>
+                <document-link format="application/pdf" url="">
+                <language>en</language>
+                <category code="A02 Objectives / Purpose of activity" xml:lang="en"/>
+                <title xml:lang="en"/>
+                </document-link>
+                <document-link format="application/pdf" url="">
+                <language>en</language>
+                <category code="A02 Objectives / Purpose of activity" xml:lang="en"/>
+                <title xml:lang="en"/>
+                </document-link>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MC0</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MC0 - (TOF) Yiula School Sanitation and Hygiene Facilities</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2011-6-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2011-10-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2011-6-1">6600.0</value>
+                   <period-start iso-date="2011-6-1"/>
+                   <period-end iso-date="2011-10-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">4624.46</value></transaction>
+                <description type="1" xml:lang="en">
+                    To provide Yiula Primary School with improved hygiene and sanitation facilities so that pupils and teachers have more privacy and dignity. 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MD0</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MD0 - (TOF) Balaka School Gardening Project</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2012-1-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2012-7-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2012-1-1">6383.0</value>
+                   <period-start iso-date="2012-1-1"/>
+                   <period-end iso-date="2012-7-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">4571.6</value></transaction>
+                <description type="1" xml:lang="en">
+                    Balaka School Gardening Project: capacity building for sustainable agriculture skills of pupils and guardians/parents in 12 targeted schools through cultivation of horticulture crops and fruits. 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31161">Food crop production</sector>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">TOF - GLOBAL ETHICS LTD ( One Foundation )</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MC4</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MC4 - Farm Enterprise Development for Food and Economic Security Project Lilongwe</title>
+                <activity-status code="2" xml:lang="EN">2</activity-status>
+                <activity-date iso-date="2012-5-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2015-12-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="MWK" value-date="2012-5-1">3.6E+8</value>
+                   <period-start iso-date="2012-5-1"/>
+                   <period-end iso-date="2015-12-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="MWK" value-date="2013-09-30">66560653.692456</value></transaction>
+                <description type="1" xml:lang="en">
+                    Smallholder Farm Enterprise Development for Food and Economic Security Project Lilongwe 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31161">Food crop production</sector>
+                <participating-org ref="IE-1" role="Funding" type="10" xml:lang="EN">IA - Irish Aid</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>
+                <document-link format="application/pdf" url="">
+                <language>en</language>
+                <category code="A02 Objectives / Purpose of activity" xml:lang="en"/>
+                <title xml:lang="en"/>
+                </document-link>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MB5</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MB5 - Developing Innovative Solutions with Communities to Overcome Vulnerability through Enhanced Resilien</title>
+                <activity-status code="2" xml:lang="EN">2</activity-status>
+                <activity-date iso-date="2011-8-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2015-5-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2011-8-1">1631092.0</value>
+                   <period-start iso-date="2011-8-1"/>
+                   <period-end iso-date="2015-5-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">632393.7</value></transaction>
+                <description type="1" xml:lang="en">
+                    Developing Innovative Solutions with Communities to Overcome Vulnerability through Enhanced Resilience 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="43040">Rural development</sector>
+                <participating-org ref="" role="Funding" type="" xml:lang="EN">PPA - FARM AFRICA</participating-org>
+                <participating-org ref="" role="Funding" type="21" xml:lang="EN">CU - Concern Universal</participating-org>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">TFO - GLOBAL ETHICS LTD ( One Foundation )</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MD5</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MD5 - Mango Production and Marketing</title>
+                <activity-status code="2" xml:lang="EN">2</activity-status>
+                <activity-date iso-date="2012-5-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2014-4-30" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="EUR" value-date="2012-5-1">92203.0</value>
+                   <period-start iso-date="2012-5-1"/>
+                   <period-end iso-date="2014-4-30"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="EUR" value-date="2013-09-30">71338.95148855414</value></transaction>
+                <description type="1" xml:lang="en">
+                    Mango Production and Marketing: Increased smallholder production and return from enterprises. 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31120">Agricultural development</sector>
+                <participating-org ref="IE-1" role="Funding" type="10" xml:lang="EN">IA - Irish Aid</participating-org>
+                <participating-org ref="" role="Funding" type="" xml:lang="EN">PPA - FARM AFRICA</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MB1</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MB1 - (TOF) Kalembo Food Security and HIV Support Project</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2010-9-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2012-8-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2010-9-1">65800.0</value>
+                   <period-start iso-date="2010-9-1"/>
+                   <period-end iso-date="2012-8-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">34448.2</value></transaction>
+                <description type="1" xml:lang="en">
+                    Food and Livelihood security project focussing on access to affordable seeds and HIV/AIDS services 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31181">Agricultural education/training</sector>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663ME0</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>ME0 - Integrated Seed Sector Development:Practices, Programmes &amp; Policies for Seed Entrepreneurship Malawi</title>
+                <activity-status code="3" xml:lang="EN">3</activity-status>
+                <activity-date iso-date="--" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2013-6-30" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="EUR" value-date="--">17258.0</value>
+                   <period-start iso-date="--"/>
+                   <period-end iso-date="2013-6-30"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="EUR" value-date="2013-09-30">11282.01</value></transaction>
+                <description type="1" xml:lang="en">
+                     
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31161">Food crop production</sector>
+                <participating-org ref="IE-1" role="Funding" type="10" xml:lang="EN">IA - Irish Aid</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MD6</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MD6 - Chicken and Vegetable Value Chain Development</title>
+                <activity-status code="2" xml:lang="EN">2</activity-status>
+                <activity-date iso-date="2012-4-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2014-3-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="EUR" value-date="2012-4-1">84531.0</value>
+                   <period-start iso-date="2012-4-1"/>
+                   <period-end iso-date="2014-3-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="EUR" value-date="2013-09-30">71081.99501838454</value></transaction>
+                <description type="1" xml:lang="en">
+                    Chicken and Vegetable Value Chain Development: Increased income and livelihood security of rural women 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31120">Agricultural development</sector>
+                <participating-org ref="IE-1" role="Funding" type="10" xml:lang="EN">IA - Irish Aid</participating-org>
+                <participating-org ref="" role="Funding" type="" xml:lang="EN">PPA - FARM AFRICA</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MA8</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MA8 - Mbavi Latrines</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2010-6-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2010-12-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="EUR" value-date="2010-6-1">9600.0</value>
+                   <period-start iso-date="2010-6-1"/>
+                   <period-end iso-date="2010-12-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="EUR" value-date="2013-09-30">522.65</value></transaction>
+                <description type="1" xml:lang="en">
+                    Increased hygienic environment at school in Mbavi, Kalembo. 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MA4</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MA4 - Farm Enterprise Development for Food and Economic Security Project Chitipa</title>
+                <activity-status code="2" xml:lang="EN">2</activity-status>
+                <activity-date iso-date="2012-7-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2011-12-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="MWK" value-date="2012-7-1">3.6E+8</value>
+                   <period-start iso-date="2012-7-1"/>
+                   <period-end iso-date="2011-12-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="MWK" value-date="2013-09-30">61834830.478278</value></transaction>
+                <description type="1" xml:lang="en">
+                    Smallholder farmers enterprise development programme 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31120">Agricultural development</sector>
+                <participating-org ref="IE-1" role="Funding" type="10" xml:lang="EN">MAP - Irish Aid</participating-org>
+                <participating-org ref="IE-1" role="Funding" type="10" xml:lang="EN">IA - Irish Aid</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MB9</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MB9 - (TOF) Ulongwe School Sanitation and Hygiene Facilities</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2011-6-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2011-10-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2011-6-1">8800.0</value>
+                   <period-start iso-date="2011-6-1"/>
+                   <period-end iso-date="2011-10-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">5044.23</value></transaction>
+                <description type="1" xml:lang="en">
+                    To provide Ulongwe Primary School with improved hygiene and sanitation facilities so that pupils and teachers have more privacy and dignity. 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MB6</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MB6 - Improving Access to Clean and Safe Drinking Water</title>
+                <activity-status code="3" xml:lang="EN">3</activity-status>
+                <activity-date iso-date="2012-6-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2012-5-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2012-6-1">20000.0</value>
+                   <period-start iso-date="2012-6-1"/>
+                   <period-end iso-date="2012-5-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">15936.116011</value></transaction>
+                <description type="1" xml:lang="en">
+                    Improving Access to Clean and Safe Drinking Water 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">AUSTIN &amp; HOPE PILKINGTON TRUST</participating-org>
+                <participating-org ref="" role="Funding" type="70" xml:lang="EN">Rabo</participating-org>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">TFO - GLOBAL ETHICS LTD ( One Foundation )</participating-org>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">ELECTRIC AID</participating-org>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">WESTCROFT TRUST THE</participating-org>
+                <participating-org ref="" role="Funding" type="" xml:lang="EN">PPA - FARM AFRICA</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>
+                <document-link format="application/pdf" url="">
+                <language>en</language>
+                <category code="A02 Objectives / Purpose of activity" xml:lang="en"/>
+                <title xml:lang="en"/>
+                </document-link>
+                <document-link format="application/pdf" url="">
+                <language>en</language>
+                <category code="A05 Budget" xml:lang="en"/>
+                <title xml:lang="en"/>
+                </document-link>
+                <document-link format="application/pdf" url="">
+                <language>en</language>
+                <category code="A02 Objectives / Purpose of activity" xml:lang="en"/>
+                <title xml:lang="en"/>
+                </document-link>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MC3</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MC3 - Improving crop production through greater access to small-scale irrigation</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2012-4-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2012-11-30" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="EUR" value-date="2012-4-1">25452.0</value>
+                   <period-start iso-date="2012-4-1"/>
+                   <period-end iso-date="2012-11-30"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="EUR" value-date="2013-09-30">21403.72</value></transaction>
+                <description type="1" xml:lang="en">
+                    Improving resilience and crop production through greater access to small-scale irrigation 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="31140">Agricultural water resources</sector>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">ELECTRIC AID</participating-org>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">COTTON TRUST THE</participating-org>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">CHF - CHARLES HAYWARD FOUNDATION THE</participating-org>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">SCT - The Shanley Charitable Trust</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>
+                <document-link format="application/pdf" url="">
+                <language>en</language>
+                <category code="A05 Budget" xml:lang="en"/>
+                <title xml:lang="en"/>
+                </document-link>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MA7</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MA7 - Khwikhwi Latrines</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2010-6-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2010-12-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="EUR" value-date="2010-6-1">3700.0</value>
+                   <period-start iso-date="2010-6-1"/>
+                   <period-end iso-date="2010-12-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="EUR" value-date="2013-09-30">4000.87</value></transaction>
+                <description type="1" xml:lang="en">
+                    Increased hygienic environment at school in Khiwikhwi, Kalembo. 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MA0</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MA0 - (TOF) Chikoleka</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2010-9-11" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2012-5-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2010-9-11">15526.0</value>
+                   <period-start iso-date="2010-9-11"/>
+                   <period-end iso-date="2012-5-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">10301.63</value></transaction>
+                <description type="1" xml:lang="en">
+                    Increased hygienic environment for Chikoleka Primary School in Kalembo 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">TOF - GLOBAL ETHICS LTD ( One Foundation )</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+  <iati-activity default-currency="EUR" last-updated-datetime="2013-09-18T18:00:00" xml:lang="EN">
+                <iati-identifier>IE6663MB3</iati-identifier>
+                <reporting-org ref="IE-6663" type="21" xml:lang="EN">Self Help Africa</reporting-org>
+                <recipient-country code="MW" percentage="100" xml:lang="EN">MW</recipient-country>
+                <title>MB3 - (TOF) Machinga Primary School Gardening and Sanitary Facility Improvement Project</title>
+                <activity-status code="4" xml:lang="EN">4</activity-status>
+                <activity-date iso-date="2011-3-1" type="start-actual" xml:lang="EN">Start Actual  </activity-date>
+                <activity-date iso-date="2011-12-31" type="end-planned" xml:lang="EN">End Planned  </activity-date>
+                
+                <budget type="1">
+                   <value currency="GBP" value-date="2011-3-1">37800.0</value>
+                   <period-start iso-date="2011-3-1"/>
+                   <period-end iso-date="2011-12-31"/>
+                </budget>
+               <transaction><transaction-type code="E">Aggregated as of quarter end</transaction-type><value currency="GBP" value-date="2013-09-30">27794.69</value></transaction>
+                <description type="1" xml:lang="en">
+                    School gardening and water, sanitation and hygiene project 
+                </description>
+                <organisation>SHA Malawi&lt;br&gt;PO Box B-495&lt;br&gt;Lilongwe&lt;br&gt;Malawi</organisation>
+                <sector code="14030">Basic drinking water supply and basic sanitation</sector>
+                <participating-org ref="" role="Funding" type="60" xml:lang="EN">TOF - GLOBAL ETHICS LTD ( One Foundation )</participating-org>
+                <participating-org ref="IE-6663" role="Accountable" type="21" xml:lang="EN">Self Help Africa</participating-org>         
+            </iati-activity>
+</iati-activities>

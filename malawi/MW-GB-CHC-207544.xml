@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31015</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Lilongwe &amp; Districts CEC</title>
+    <description>The project aims at developing an efficient and sustainable system for delivery of eye care services through the Primary Eye Care Strategy (PEC), focusing on two major objectives:
+
+1. To Promote and demonstrate Primary Eye Care as a means of cost effective delivery of eye health services.
+2. To strengthen systems for effective integration of eye health into district health plans;
+
+With the following key activities:
+? Capacity building of health workers  equipping them with knowledge and skills in Primary Eye Care. 
+? Strengthening referral protocols for eye health services.
+? Provision of vital supplies and support for surgeries.
+? Provision of eye surgical equipment for district hospital theatres. 
+? Advocacy for District Health Offices to fully integrate eye health services into district health plans.  
+
+The following outcomes are expected:
+? Integration of eye health into the district  health systems  
+? Increased uptake of eye care services by community members
+? Strengthened role of communities and their  institutions in delivery of and demand for  eye health services</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2013" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2011" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ministry of Health</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">60103</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">31015</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">60103</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31024</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Disability and Social Inclusion Advocacy</title>
+    <description>Federation of Disability Organisations in Malawi (FEDOMA) is implementing the programme which is aimed at providing a unified voice for all persons with disabilities through lobbying and advocacy activities towards an inclusive Malawi. 
+The objectives of the programme are:
+? To equip DPOs/BPOs with skills and knowledge that will facilitate achievement of their rights
+? To ensure existence of a legally enabling policy environment that promotes equality for all persons.
+? To increase community awareness on their role in disability issues.
+
+Key activities include:
+? Advocate and influence implementation of disability policy.
+? Coordinate and strengthen the capacity of the affiliated DPOs.
+? Advocate for and monitor the equalisation of opportunities for people with disabilities as stipulated in the United Nations Standard Rules and in Malawis Disability Act.
+
+The programme is expected to improve public attitudes and practices towards persons with disabilities</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2015" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/10/2011" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Federation of Disability Organisation in Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="160"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">9257</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">19799</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">0</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-05-13T13:26:04" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-89005</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>QEDJT Malawi Coordinating partner</title>
+    <description>Project to tackle trachoma in selected countries/states.</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/01/2019" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/06/2014" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ministry of Health,   Blantyre Institute of Community  Ophthalmology (BICO),  Water Aid, 4. African Medical Research and Education Foundation (AMREF), CBM</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2014"/>
+      <value currency="GBP">19705</value>
+      <period-end iso-date="2014-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/03/2014"/>
+      <value currency="GBP">23897</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2014"/>
+      <value currency="GBP">19705</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/03/2014"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="0">Trust Trachoma Initiative</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31002</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Malawi Integrated Education Programme - MIEP C&amp;M</title>
+    <description>The overall purpose of the project was to ensure that all blind and low vision children of school-going age in the programme districts have increased access to quality education and have the same opportunities as their sighted peers. 
+
+Key activities include:
+? Developing human resources in the pilot districts of Chikwawa and Blantyre.
+? Strengthening coordination capacity for the delivery of Special Needs Education. 
+? Advocating for Special Needs Education to be adequately resourced.
+? Monitoring implementation of Special Needs Education policy guidelines in Chikwawa and Blantyre districts.
+? Clinical re-assessment of children in the programme
+? Facilitate procurement and provision of teaching and learning materials
+
+Currently MCO is initiating development of a concept note which will be informed by the findings of a Situational Analysis which was conducted in Aug 2012. Stakeholder feedback and mobilisation is planned for July which will also inform the design of the follow-on programme.</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="30/12/2013" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2013" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ministry of Education, Science and Technology</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="111"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">20518</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">6527</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">42091</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31023</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Elimination of Blinding Trachoma in Malawi</title>
+    <description>The programme is aimed at eliminating blinding trachoma in Malawi through support to the Ministry of Health to develop and roll out an effective Trachoma elimination programme.
+
+Key activities include:
+? Conduct Trachoma prevalence surveys in endemic districts
+? Facilitate implementation of the SAFE strategy in districts that have been surveyed and proved to be Trachoma endemic following WHO guidelines
+
+The programme is expected to contribute to a Malawi free of blinding Trachoma.</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2015" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/04/2011" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ministry of Health</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">159865</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">252304</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">0</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">93187</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="0">JERSEY Overseas Aid Commission</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31003</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Malawi College of Health Sciences</title>
+    <description>The Malawi College of Health Sciences Ophthalmic Training Programme aims at increasing quality and quantity of ophthalmic personnel in the country through the training of mid-level eye care professionals. 
+
+Among other activities the programme provides scholarships for mid-level cadres, i.e. Ophthalmic Clinical Officers and Cataract Surgeons. It also supports ophthalmic faculty development through technical assistance and continuous professional development for faculty members.
+
+The ultimate aim of the programme is to reduce the level of blindness and visual impairment in Malawi.</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2014" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2011" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Malawi College of Health Sciences and Ministry of Health</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">22849</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">16199</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">44893</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31025</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Strengthening ECDE for Disabled Children in Malawi</title>
+    <description>The goal of the project is to contribute to the development of best practices in the provision of quality early childhood development services for children with disabilities in the mainstream institutions.
+
+Objectives:
+? To build capacity of stakeholders at all levels to strengthen their roles in delivery and implementation of Early Childhood Development and Education for children with disabilities
+? To provide services to develop best practices around implementation of inclusive practices in Early Childhood Development and Education.
+? To advocate for promotion of inclusive ECDE practices by ECDE stakeholders using experiences and lessons from the project.
+
+The large scale changes it is seeking to achieve include:
+? Enhanced national capacity to implementation and deliver ECDE for children with disabilities at community level
+? Encouraging the development and sharing of best practices around implementation of inclusive approaches to Early Childhood Development and Education</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2013" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/12/2011" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Parents of Disabled Children Association of Malawi</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="111"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">22085</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">16726</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">43392</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">16093</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="0">Open Society Initiative </provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31017</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Support to National Eyecare Coordination</title>
+    <description>The National Eye Care Coordination Programme is aimed at establishing an effective and efficient national eye care coordination system in the Ministry of Health in order to improve delivery of eye care services in Malawi in line with the V2020.
+
+Specific objectives include:
+? To raise the profile of eye health internally (Health sector) and externally
+? To initiate a Trachoma elimination  programme
+? To promote integration of eye health with other health initiatives
+
+Key activities include:
+? Advocacy initiatives to leverage support to eye health issues in the country
+? Promote networking with other civil society organisations  on eye health
+? Conduct Trachoma prevalence surveys in endemic districts
+? Support NPBC Meetings
+
+The programme is expected to build capacity of national eye care coordination structures and improve collaboration in delivery of eye health.</description>
+    <activity-status code="completion">3</activity-status>
+    <activity-date iso-date="31/12/2012" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2013" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ministry of Health</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">14243</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">13984</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">14243</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31009</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>SWZ CES-Chikwawa</title>
+    <description>The aim of the project is to ensure that everyone who is blind and visually impaired or at risk of blindness has access to eye health services.
+
+Key activities include:
+? Facilitate development of eye health plans using district health structures
+? Facilitate provision of eye health services in health facilities
+? Support District Health Officers to sensitize health centre committees on eye health issues and services 
+? Support district hospitals to carry out cataract surgeries and treat minor eye conditions
+? Provide district hospitals with support to procure equipment, drugs and supplies
+The following outcomes are expected:
+? Integration of eye health into the district health systems  
+? Increased uptake of eye care services by community members - demand stimulation through strengthened role of communities and their institutions in the planning and delivery of eye health services
+
+The programme is under review and will be governed by a Letter of Understanding with the Ministry of Health in 2013.</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2016" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2013" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Ministry of Health; Malawi Health Equity Network and Eye for Development</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">94860</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">71716</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">187653</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31016</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Malawi Ophthalmology Training Programme (Human Res</title>
+    <description>This programme aims at developing human resources (Ophthalmologists) for the delivery of eye care services in Malawi, specifically through scaling-up local training of Ophthalmologists in Malawi. Among other activities the programme:
+? Provides scholarships for specialist doctors in eye health
+? Facilitates capacity building for delivery of ophthalmology at College of Medicine
+
+The programme is expected to contribute towards establishment of a well-supported and sustainable training programme for ophthalmologists in the country. </description>
+    <activity-status code="completion">3</activity-status>
+    <activity-date iso-date="31/12/2012" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/01/2012" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">College of Medicine and Ministry of Health</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">27621</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">18135</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">51846</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31014</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Malawi School of Optometry</title>
+    <description>To provide a sustainable solution to the problem of avoidable blindness in Southern Africa by addressing the significant shortage of local human resources through training optometry personnel.
+
+Among other activities the programme provides scholarships for mid-level cadres namely Optometrists and Optometry Technicians. It also provides trainers.
+
+The programme is contributing to the elimination of avoidable blindness caused by uncorrected refractive errors and impaired vision in Southern Africa.</description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/03/2013" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/04/2009" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Brien Holden Vision Institute, Malawi College of Health Sciences and Mzuzu University</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="122"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">50299</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">37992</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">98252</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-14T11:43:00" xml:lang="en">
+    <reporting-org ref="GB-CHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-31018</iati-identifier>
+    <activity-website>0</activity-website>
+    <title>Malawi Union of the Blind</title>
+    <description>The programme is aimed at strengthening organisational capacity of Malawi Union of the Blind focussing on structures at different levels and their ability to advocate for specific issues affecting visually impaired people. 
+
+Objectives of the programme are:
+? To strengthen MUB organizational capacity to effectively and efficiently implement its programmes.
+? To increase the participation of blind persons in decentralized public decision-making service provision processes
+? To enhance the participation of MUB in national and international advocacy activities
+
+Key activities include:
+? Conduct leadership training
+? Support MUB members to attend international forums
+? Conduct a business skills development training for women
+? Conduct World Sight Day commemorations
+
+The programme is expected to:
+? Facilitate creation of space and voice for BPOs to engage in national development processes such as the Malawi Growth and Development Strategy and other relevant sectoral processes.
+? Strengthen organizational capacity of BPOs and empowerment of their membership, e.g. strengthening of MUB branches.  </description>
+    <activity-status code="implementation">2</activity-status>
+    <activity-date iso-date="31/12/2013" type="end-planned">end-planned</activity-date>
+    <activity-date iso-date="01/03/2011" type="start-planned">start-planned</activity-date>
+    <contact-info>
+      <organisation>Malawi Country Office - Sightsavers, Manobec Complex, Area 4, Plot 4/356, Off Chilambula Road, Old Town, P/Bag A197, Lilongwe, Malawi.  Tel: +265 1 750453 </organisation>
+    </contact-info>
+    <participating-org role="Implementing">Malawi Union of the Blind</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region>East, Central &amp; Southern Africa</recipient-region>
+    <sector code="160"/>
+    <default-flow-type code="30">Private giving</default-flow-type>
+    <default-aid-type code="C01">Project type aid</default-aid-type>
+    <budget type="1">
+      <period-start iso-date="01/01/2013"/>
+      <value currency="GBP">32389</value>
+      <period-end iso-date="2013-12-31"/>
+    </budget>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">21288</value>
+      <transaction-type code="E">Expenditure</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="01/01/2013"/>
+      <value currency="GBP">32389</value>
+      <description>Current Year + 4 years</description>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <transaction-date iso-date="31/12/2013"/>
+      <value currency="GBP">0</value>
+      <description>Institutional funds only</description>
+      <provider-org provider-activity-id="GB-1">DFID</provider-org>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

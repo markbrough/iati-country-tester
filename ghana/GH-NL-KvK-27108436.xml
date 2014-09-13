@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="" hierarchy="0" last-updated-datetime="2013-04-04T00:00:00" xml:lang="en">
+    <iati-identifier>NL-KvK-27108436:A-02369-06:GH</iati-identifier>
+    <reporting-org ref="NL-KvK-27108436" type="" xml:lang="en"/>
+    <participating-org ref="0000506331" role="Implementing" type="60" xml:lang="en">Institute for Democratic Governance </participating-org>
+    <recipient-country code="GH" xml:lang="en">Ghana</recipient-country>
+    <recipient-region code="HECA" xml:lang="en"/>
+    <title xml:lang="en">Counterpart 506331 Institute for Democra</title>
+    <description type="" xml:lang="en">The project is framed within an active citizenship, effective states logic. By establishing and evolving a democratic culture, effective public institutions and meaningful citizens# participation in public affairs, African people will demand the deliveryof key political, social and economic rights standards. By informing and empowering citizens to demand implementation, politicians and civil servants will see that continental standards have national and local political relevance. These processes will provoke policy dialogues with national authorities on the resources, mechanisms and prioritization required.  Over the past one year this theory has beendeepened and it will be tested further in the next three years based on the experience of the projecttodate.</description>
+    <activity-date type="start-planned">2012-07-01</activity-date>
+    <activity-date type="start-actual">2012-07-01</activity-date>
+    <activity-date type="end-planned">2015-12-31</activity-date>
+    <activity-date type="end-actual">2015-12-31</activity-date>
+    <activity-status code="1" xml:lang="en">Pipeline/identification</activity-status>
+    <budget type="1">
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value currency="EUR" value-date="2014-05-08">456055 </value>
+    </budget>
+    <result type="output">
+      <indicator measure="unit">
+        <title>NO. OF WOMEN AND MEN (WOMEN IN PARTICULAR) IN MARGINALISED GROUPS HAVING ACCESS TO INFORMATION AND DECISION-MAKING BY USING ICT AND NEW MEDIA</title>
+        <description xml:lang="en">NO. OF WOMEN AND MEN (WOMEN IN PARTICULAR) IN MARGINALISED GROUPS HAVING ACCESS TO INFORMATION AND DECISION-MAKING BY USING ICT AND NEW MEDIA</description>
+        <baseline value="182422 " year="2012">
+          <comment>DPA</comment>
+        </baseline>
+        <period>
+          <period-start iso-date="2012-01-01"/>
+          <period-end iso-date="2013-12-31"/>
+        </period>
+      </indicator>
+      <indicator measure="unit">
+        <title>NO. OF PARTNER ORGANISATIONS WITH STRONGER CAPACITY FOR MONITORING GOVERNMENTS AND PRIVATE SECTOR ON OBLIGATIONS AND DUTIES IN THEIR BUDGET (INCOME AND EXPENDITURE) WITH SPECIFIC ATTENTION TO IMPACT ON WOMEN</title>
+        <description xml:lang="en">NO. OF PARTNER ORGANISATIONS WITH STRONGER CAPACITY FOR MONITORING GOVERNMENTS AND PRIVATE SECTOR ON OBLIGATIONS AND DUTIES IN THEIR BUDGET (INCOME AND EXPENDITURE) WITH SPECIFIC ATTENTION TO IMPACT ON WOMEN</description>
+        <baseline value="91211 " year="2012">
+          <comment>BCS</comment>
+        </baseline>
+        <period>
+          <period-start iso-date="2012-01-01"/>
+          <period-end iso-date="2013-12-31"/>
+        </period>
+      </indicator>
+      <indicator measure="unit">
+        <title>NO. OF CASES REVEALING THAT GLOBALLY LINKED CITIZENS AND GLOBALLY OPERATING PARTNER ORGANISATIONS HAVE STRENGTHENED THEIR CAPACITY TO HOLD GOVERNMENTS, BUSINESSES, INTERNATIONAL INSTITUTIONS AND CIVIL SOCIETY ORGANISATION ACCOUNTABLE FOR POWER ABUSE, CORR</title>
+        <description xml:lang="en">NO. OF CASES REVEALING THAT GLOBALLY LINKED CITIZENS AND GLOBALLY OPERATING PARTNER ORGANISATIONS HAVE STRENGTHENED THEIR CAPACITY TO HOLD GOVERNMENTS, BUSINESSES, INTERNATIONAL INSTITUTIONS AND CIVIL SOCIETY ORGANISATION ACCOUNTABLE FOR POWER ABUSE, CORR</description>
+        <baseline value="182422 " year="2012">
+          <comment>BCS</comment>
+        </baseline>
+        <period>
+          <period-start iso-date="2012-01-01"/>
+          <period-end iso-date="2013-12-31"/>
+        </period>
+      </indicator>
+    </result>
+    <legacy-data name="profit-centre" value="0000007105"/>
+    <legacy-data name="profit-centre-name" value="HECA -PAF"/>
+    <legacy-data name="project" value="A-02369"/>
+    <legacy-data name="project-name" value="Strength African Citizens Participation"/>
+    <sector code="4" percentage="100 "/>
+    <legacy-data name="Theme" value="[]"/>
+    <legacy-data name="" value=""/>
+  </iati-activity>
+  <iati-activity default-currency="" hierarchy="0" last-updated-datetime="2013-04-04T00:00:00" xml:lang="en">
+    <iati-identifier>NL-KvK-27108436:A-01693-18:GH</iati-identifier>
+    <reporting-org ref="NL-KvK-27108436" type="" xml:lang="en"/>
+    <participating-org ref="0000506568" role="Implementing" type="60" xml:lang="en">Oxfam America West Africa </participating-org>
+    <recipient-country code="GH" xml:lang="en">Ghana</recipient-country>
+    <recipient-region code="Special Progammes (SPEF)" xml:lang="en"/>
+    <title xml:lang="en">Oxfam America West Africa</title>
+    <description type="" xml:lang="en">"Promote the social contract between citizens and government through the act of citizens paying taxes and government on the other hand being transparent and accountable. It is the aim of the campaign that the relationship between citizens are paying fair taxes and demanding accountability and transparency is a positive one that must be promoted to enhance the citizen-state relationship.&#13;
+&#13;
+Specific objectives for this project are:&#13;
+	To educate and sensitize Ghanaians on the need to mobilize revenues for developmentand poverty reduction;&#13;
+	To educate Ghanaians on Ghanas tax system and how to comply with the countrys tax laws;&#13;
+	To sensitizelaw and policy makers as well as tax administrators on tax justice;&#13;
+	To create awareness and sensitize Ghanaians on the need for tax justice and empower citizens to demand tax justice."&#13;
+</description>
+    <activity-date type="start-planned">2009-11-01</activity-date>
+    <activity-date type="start-actual">2009-11-01</activity-date>
+    <activity-date type="end-planned">2013-12-31</activity-date>
+    <activity-date type="end-actual">2013-12-31</activity-date>
+    <activity-status code="1" xml:lang="en">Pipeline/identification</activity-status>
+    <budget type="1">
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value currency="EUR" value-date="2014-05-08">63808 </value>
+    </budget>
+    <result type="output">
+      <indicator measure="unit">
+        <title>NO. OF PARTNER ORGANISATIONS WITH STRONGER CAPACITY FOR MONITORING GOVERNMENTS AND PRIVATE SECTOR ON OBLIGATIONS AND DUTIES IN THEIR BUDGET (INCOME AND EXPENDITURE) WITH SPECIFIC ATTENTION TO IMPACT ON WOMEN</title>
+        <description xml:lang="en">NO. OF PARTNER ORGANISATIONS WITH STRONGER CAPACITY FOR MONITORING GOVERNMENTS AND PRIVATE SECTOR ON OBLIGATIONS AND DUTIES IN THEIR BUDGET (INCOME AND EXPENDITURE) WITH SPECIFIC ATTENTION TO IMPACT ON WOMEN</description>
+        <baseline value="31904 " year="2013">
+          <comment>BCS</comment>
+        </baseline>
+        <period>
+          <period-start iso-date="2013-01-01"/>
+          <period-end iso-date="2013-12-31"/>
+        </period>
+      </indicator>
+      <indicator measure="unit">
+        <title>NO. OF CASES REVEALING THAT COUNTRIES AND INTERNATIONAL INSTITUTIONS HAVE IMPROVED PUBLIC ACCESS TO (BUDGET) INFORMATION OF GOVERNMENTS, BUSINESSES AND  INSTITUTIONS, UNDER PRESSURE FROM LOBBY BY THE IMPACT ALLIANCE AND PARTNER ORGANISATIONS. DUE TO THIS</title>
+        <description xml:lang="en">NO. OF CASES REVEALING THAT COUNTRIES AND INTERNATIONAL INSTITUTIONS HAVE IMPROVED PUBLIC ACCESS TO (BUDGET) INFORMATION OF GOVERNMENTS, BUSINESSES AND  INSTITUTIONS, UNDER PRESSURE FROM LOBBY BY THE IMPACT ALLIANCE AND PARTNER ORGANISATIONS. DUE TO THIS</description>
+        <baseline value="31904 " year="2013">
+          <comment>LA</comment>
+        </baseline>
+        <period>
+          <period-start iso-date="2013-01-01"/>
+          <period-end iso-date="2013-12-31"/>
+        </period>
+      </indicator>
+    </result>
+    <legacy-data name="profit-centre" value="0000007401"/>
+    <legacy-data name="profit-centre-name" value="Special Programs"/>
+    <legacy-data name="project" value="A-01693"/>
+    <legacy-data name="project-name" value="CRAFT"/>
+    <sector code="4" percentage="100 "/>
+    <legacy-data name="Theme" value="[]"/>
+    <legacy-data name="" value=""/>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" last-updated-datetime="2014-07-18T08:59:53+00:00">
+    <reporting-org ref="GB-CHC-291824" type="21" xml:lang="en">Twin</reporting-org>
+    <iati-identifier>GB-CHC-291824-GPAF-MALAWI-2012-15</iati-identifier>
+    <title xml:lang="en">Safe Peanuts: Improved smallholder livelihoods in Malawi</title>
+    <description type="2">The project aims to increase household income for smallholder farmers and reduced aflatoxin prevalence in Malawian groundnuts </description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2012-04-01"/>
+    <activity-date type="end-planned" iso-date="2015-03-31"/>
+    <participating-org type="21" role="Implementing" ref="GB-CHC-291824">Twin</participating-org>
+    <participating-org type="10" role="Funding" ref="GB-1">DFID</participating-org>
+    <participating-org role="Implementing">NASFAM</participating-org>
+    <recipient-country code="MW" percentage="100"/>
+    <sector code="12261" percentage="33" vocabulary="DAC"/>
+    <sector code="15164" percentage="33" vocabulary="DAC"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget type="1">
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2015-03-31"/>
+      <value currency="GBP" value-date="2012-04-01">426098</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C"/>
+      <provider-org ref="DFID" provider-activity-id="GB-1"/>
+      <receiver-org ref="Twin" receiver-activity-id="GB-CHC-291824"/>
+      <value value-date="2012-04-01">426098</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="DFID" provider-activity-id="GB-1"/>
+      <receiver-org ref="Twin" receiver-activity-id="GB-CHC-291824"/>
+      <value value-date="2012-04-01">40866</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <provider-org ref="Twin" provider-activity-id="GB-CHC-291824"/>
+      <receiver-org ref="NASFAM"/>
+      <value value-date="2012-10-24">11952</value>
+      <description>From quarter 1 and 2 year 1</description>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="Twin" provider-activity-id="GB-CHC-291824"/>
+      <value value-date="2012-10-25">28914</value>
+      <description>Expenditure quarter 1 and 2 year 1</description>
+    </transaction>
+    <transaction ref="year 1 quarter 3">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-291824">Twin</receiver-org>
+      <value value-date="2013-03-18">25246.85</value>
+      <transaction-date iso-date="2013-02-18"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">quarter 3 year 1</transaction-type>
+      <receiver-org ref="GB-CHC-291824">Twin</receiver-org>
+      <value value-date="2013-01-24">16871.59</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="D"/>
+      <receiver-org>NASFAM</receiver-org>
+      <value value-date="2013-01-24">8375.26</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Year 1, quarter 4</transaction-type>
+      <provider-org ref="GB-1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-291824">Twin</receiver-org>
+      <value currency="GBP" value-date="2013-05-10">53846.76</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">year 1 quarter 4</transaction-type>
+      <provider-org ref="GB-1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-291824">Twin</receiver-org>
+      <value currency="GBP" value-date="2013-05-10">25161.76</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">year 1 quarter 4</transaction-type>
+      <provider-org ref="GB-CHC-291824">TWIN</provider-org>
+      <receiver-org>NASFAM</receiver-org>
+      <value currency="GBP" value-date="2013-05-10">28685</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-291824">Twin</receiver-org>
+      <value currency="GBP" value-date="2013-08-08">32115.24</value>
+      <description>GPAF Yr 2 Qrt 1</description>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Yr 2 Qrt 1</transaction-type>
+      <provider-org ref="GB-CHC-291824">Twin</provider-org>
+      <receiver-org>NASFAM</receiver-org>
+      <value value-date="2013-08-08">9730</value>
+      <description>Yr2 Qrt 1</description>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-291824">Twin </receiver-org>
+      <value currency="GBP" value-date="2013-08-08">22385.24</value>
+    </transaction>
+    <transaction ref="Yr2 Qr 2">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB1">DFID</provider-org>
+      <receiver-org ref="GB CHC 291824">Twin</receiver-org>
+      <value currency="GBP" value-date="2013-11-11">30389.1</value>
+    </transaction>
+    <transaction ref="Yr2 Qr2">
+      <transaction-type code="D"/>
+      <provider-org ref="GB CHC 291824">Twin</provider-org>
+      <receiver-org>NASFAM</receiver-org>
+      <value currency="GBP" value-date="2013-11-11">19704</value>
+    </transaction>
+    <transaction ref="Yr 2 Qr2">
+      <transaction-type code="E"/>
+      <provider-org ref="GB1">DFID</provider-org>
+      <receiver-org ref="GB CHC 291824">Twin</receiver-org>
+      <value currency="GBP" value-date="2013-11-11">10685.1</value>
+    </transaction>
+    <transaction ref="Yr 2 Qrt 3">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-291824">Twin</receiver-org>
+      <value value-date="2013-12-31">28920.47</value>
+    </transaction>
+    <transaction ref="Yr 2 Qrt3">
+      <transaction-type code="D"/>
+      <provider-org ref="GB-CHC-291824">Twin</provider-org>
+      <receiver-org>NASFAM</receiver-org>
+      <value value-date="2013-12-31">8359</value>
+    </transaction>
+    <transaction ref="Yr 2 Qrt3">
+      <transaction-type code="E"/>
+      <receiver-org ref="GB-CHC-291824">Twin</receiver-org>
+      <value value-date="2013-12-31">20561.47</value>
+    </transaction>
+    <transaction ref="Yr2 Qrt4">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-291824">Twin</receiver-org>
+      <value value-date="2014-03-31">67815.81</value>
+    </transaction>
+    <transaction ref="Yr2 Qrt4">
+      <transaction-type code="E"/>
+      <receiver-org ref="GB-CHC-291824">Twin</receiver-org>
+      <value value-date="2014-03-31">45388.81</value>
+    </transaction>
+    <transaction ref="Yr2 Qrt4">
+      <transaction-type code="D"/>
+      <provider-org ref="GB-CHC-291824">Twin</provider-org>
+      <receiver-org>NASFAM</receiver-org>
+      <value value-date="2014-03-31">22427</value>
+    </transaction>
+    <document-link url="https://docs.google.com/file/d/0B5pdVDcQKS-NOC1NZWhrN3hwMDQ/edit" format="application/msword">
+      <category code="A02"/>
+      <title>GPAF IMpact Window Proposal Form</title>
+    </document-link>
+    <document-link url="https://docs.google.com/file/d/0B5pdVDcQKS-NTHhmeklBZTM4VDA/edit" format="application/vnd.ms-excel">
+      <category code="A05"/>
+      <title>GPAG IMP025 Budget</title>
+    </document-link>
+    <document-link url="https://docs.google.com/file/d/0B5pdVDcQKS-NR0JWV2FqSEFROEE/edit" format="application/vnd.ms-excel">
+      <category code="A08"/>
+      <category code="A08"/>
+      <title>GPAF IMP025 Log Frame</title>
+    </document-link>
+  </iati-activity>
+</iati-activities>

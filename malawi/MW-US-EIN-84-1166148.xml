@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2014-06-26T15:43:42+00:00">
+    <reporting-org ref="US-EIN-84-1166148" type="21" xml:lang="en">Water for People</reporting-org>
+    <iati-identifier>US-EIN-84-1166148-Malawi-Chikhwawa-FY2013</iati-identifier>
+    <title>RIR Malawi-Chikhwawa FY2013</title>
+    <description>Reimagining Reporting Malawi-Chikhwawa FY2013</description>
+    <description>This information is not representative of actual programing. </description>
+    <activity-status code="3"/>
+    <activity-date type="end-actual" iso-date="2013-09-30"/>
+    <contact-info type="Financials for Malawi-Chikhwawa FY2013">
+      <organisation>Water for People</organisation>
+      <email>IATIpublisher@waterforpeople.org</email>
+    </contact-info>
+    <participating-org role="Funding">Water for People</participating-org>
+    <activity-scope code="6"/>
+    <recipient-country code="MW"/>
+    <recipient-region code="289" percentage="50" vocabulary="1">Chikhwawa</recipient-region>
+    <location>
+      <location-type code="ADM2"/>
+      <name>Chikhwawa</name>
+      <administrative country="MW">Chikwawa, Republic of Malawi</administrative>
+      <coordinates latitude="-16.02706332087901" longitude="34.79125499725342"/>
+      <gazetteer-entry gazetteer-ref="GEO">Chikwawa District</gazetteer-entry>
+    </location>
+    <sector code="16062" percentage="4" vocabulary="DAC">Capacity Building</sector>
+    <sector code="99810" percentage="7" vocabulary="DAC">Monitoring &amp; Evaluation</sector>
+    <sector code="99820" percentage="3" vocabulary="DAC">Research &amp; Advocacy</sector>
+    <sector code="91010" percentage="2" vocabulary="DAC">Operations</sector>
+    <sector code="12261" percentage="1" vocabulary="DAC">Health &amp; Hygiene Education</sector>
+    <sector code="14030" percentage="60" vocabulary="DAC">Water and Sanitation</sector>
+    <sector code="11430" percentage="8" vocabulary="DAC">Travel and Training</sector>
+    <sector code="99810" vocabulary="DAC">Other</sector>
+    <sector code="91010" percentage="15" vocabulary="DAC">Staff &amp; Consultants</sector>
+    <collaboration-type code="3"/>
+    <budget type="1">
+      <period-start iso-date="2012-10-01"/>
+      <period-end iso-date="2013-09-30"/>
+      <value value-date="2013-09-30">427925</value>
+    </budget>
+    <capital-spend percentage="3"/>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2014-06-26T15:41:05+00:00">
+    <reporting-org ref="US-EIN-84-1166148" type="21" xml:lang="en">Water for People</reporting-org>
+    <iati-identifier>US-EIN-84-1166148-Malawi-Blantyre-FY2013</iati-identifier>
+    <title>RIR Malawi-Blantyre FY2013</title>
+    <description type="1">Reimagining Reporting Malawi-Blantyre FY2013</description>
+    <description>This information is not representative of actual programing. </description>
+    <activity-status code="3"/>
+    <activity-date type="end-actual" iso-date="2013-09-30"/>
+    <contact-info type="Financials for Malawi FY2013"/>
+    <participating-org role="Funding">Water for People</participating-org>
+    <activity-scope code="4"/>
+    <recipient-country code="MW"/>
+    <recipient-region code="289" percentage="50" vocabulary="1"/>
+    <location/>
+    <collaboration-type code="3"/>
+    <budget type="1"/>
+    <capital-spend percentage="3"/>
+  </iati-activity>
+</iati-activities>

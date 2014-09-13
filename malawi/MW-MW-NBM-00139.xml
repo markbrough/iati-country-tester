@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="MWK" hierarchy="1" last-updated-datetime="2014-06-17T13:26:18+00:00">
+    <reporting-org ref="MW-NBM-00139" type="22" xml:lang="en">Theatre for a Change Malawi</reporting-org>
+    <iati-identifier>MW-NBM-00139-Tfac Malawi GEC</iati-identifier>
+    <title>Girls' Education Challenge Project - Tiphunzire!</title>
+    <description type="1">Improving the life chances of marginalised girls.This project supports at risk girls, aged 11- 14, in rural Malawian schools, stay in school and improve their literacy, numeracy, and sexual and reproductive health.</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2013-06-27">Beginning and inception phase</activity-date>
+    <activity-date type="end-planned" iso-date="2016-05-31"/>
+    <participating-org type="22" role="Implementing" ref="MW-NBM-00139">Theatre for a Change Malawi</participating-org>
+    <participating-org type="21" role="Funding" ref="GB-CHC-1104458">Theatre for a Change UK</participating-org>
+    <recipient-country code="MW" percentage="100">Malawi</recipient-country>
+    <location percentage="100">
+      <location-type code="ADM1">10 districts, central and southern regions</location-type>
+      <name>Lilongwe Rural West, Lilongwe Rural East, Dedza, Mchinji, Nkhotakhota, Ntcheu, Salima, Balaka, Blantyre Rural and Chikwawa</name>
+      <description>Central and Southern Malawi are two of Malawi's three regions. The project is located in rural areas in these regions. The head office is based in the capital city, Lilongwe, in the central region.</description>
+      <administrative country="MW" adm1="Central" adm2="Lilongwe">Lilongwe, Central, Republic of Malawi</administrative>
+      <coordinates latitude="-14.604847155053898" longitude="33.75" precision="1"/>
+      <gazetteer-entry gazetteer-ref="GEO">Lilongwe</gazetteer-entry>
+    </location>
+    <sector code="13040" vocabulary="DAC">The project helps children in primary school to protect themselves from HIV/AIDS</sector>
+    <sector code="11220" vocabulary="DAC">The project empowers girls in primary schools to improve their literacy and numeracy.</sector>
+    <budget type="1">
+      <period-start iso-date="2013-06-27">Total budget for GEC project from TfaC UK.This is the money from DFID UK only - no match funding included.</period-start>
+      <period-end iso-date="2016-05-31">Project End</period-end>
+      <value value-date="2013-06-27">1964323.19</value>
+    </budget>
+    <transaction ref="GEC Commitment">
+      <transaction-type code="C">Total amount committed to the project</transaction-type>
+      <provider-org ref="GB-CHC-1104458" provider-activity-id="GB-CHC-1104458-GEC">Theatre for a Change UK</provider-org>
+      <receiver-org ref="MW-NBM-00139" receiver-activity-id="MW-NBM-00139-GEC">Theatre for a Change Malawi</receiver-org>
+      <value value-date="2013-06-27">1964323.19</value>
+      <description>Total commitment made by TfaC UK</description>
+      <transaction-date iso-date="2013-06-27"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Inception">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-CHC-1104458" provider-activity-id="GB-CHC-1104458-GEC">Theatre for a Change UK</provider-org>
+      <receiver-org ref="MW-NBM-00139" receiver-activity-id="MW-NBM-00139-GEC">Theatre for a Change Malawi</receiver-org>
+      <value value-date="2013-06-27">142127.95</value>
+      <description>Money received from TfaC UK</description>
+      <transaction-date iso-date="2013-06-27"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Inception">
+      <transaction-type code="E"/>
+      <provider-org ref="MW-NBM-00139" provider-activity-id="MW-NBM-00139-GEC">Theatre for a Change Malawi</provider-org>
+      <receiver-org>Expenditure on project</receiver-org>
+      <value value-date="2013-06-27">142127.95</value>
+      <description>Expenditure on Project</description>
+      <transaction-date iso-date="2013-06-27"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC implementation Q4">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-CHC-1104458" provider-activity-id="GB-CHC-1104458-GEC">Theatre for a Change UK</provider-org>
+      <receiver-org ref="MW-NBM-00139" receiver-activity-id="MW-NBM-00139-GEC">Theatre for  a Change Malawi</receiver-org>
+      <value value-date="2014-02-16">18558</value>
+      <description>Money received from TfaC UK</description>
+      <transaction-date iso-date="2014-02-02"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC implementation Q4">
+      <transaction-type code="E"/>
+      <provider-org ref="MW-NBM-00139" provider-activity-id="MW-NBM-00139-GEC">Q4 Expenditure</provider-org>
+      <receiver-org>Project spend</receiver-org>
+      <value value-date="2014-02-02">18558</value>
+      <transaction-date iso-date="2014-02-02"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Implemenation Q5">
+      <transaction-type code="IF">Money received from TfaC UK</transaction-type>
+      <provider-org ref="GB-CHC-1104458" provider-activity-id="GB-CHC-1104458-GEC">Theatre for a Change UK</provider-org>
+      <receiver-org ref="MW-NBW-00139" receiver-activity-id="MW-NBW-00139-GEC">Theatre for a Change Malawi</receiver-org>
+      <value value-date="2014-03-01">269585</value>
+      <description>Money from Theatre for a Change UK</description>
+      <transaction-date iso-date="2014-03-01"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <document-link url="http://www.aidstream.org/files/documents/Annex%201%20-%20TfaC%20Theory%20of%20Change%2006.11.2013.pptx" format="application/vnd.ms-powerpoint">
+      <language>en</language>
+      <category code="A02">Theory of Change for the project</category>
+      <title>GEC Project Theory of Change</title>
+    </document-link>
+    <activity-website>http://www.tfacafrica.com</activity-website>
+  </iati-activity>
+</iati-activities>

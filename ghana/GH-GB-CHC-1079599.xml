@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-06-19T11:51:31+00:00">
+    <reporting-org ref="GB-CHC-1079599" type="21" xml:lang="en">BasicNeeds</reporting-org>
+    <iati-identifier>GB-CHC-1079599-BN-2011-GH-DFID-541</iati-identifier>
+    <title xml:lang="en">Mental Health Advocacy to improve human rights and reduce poverty of poor people with mental illness and epilepsy in Ashanti and Brong-Ahafo Regions of Ghana </title>
+    <description xml:lang="en" type="1">People with mental illness in Ashanti and Brong-Ahafo Regions of Ghana will satisfy their basic needs and their basic rights will be recognised and respected.  The user movement will be strengthened through the formation of 130 self help groups thus enabling people with mental illness and epilepsy to gain confidence, participate in livelihoods and lead advocacy. </description>
+    <activity-status xml:lang="en" code="2">This project is starting year 2 in April 2012 implementation of a 4 year project ending 30th March 2015.  </activity-status>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2011-07-01"/>
+    <participating-org xml:lang="en" type="22" role="Implementing">BasicNeeds Ghana </participating-org>
+    <participating-org xml:lang="es" type="22" role="Implementing">Mission of Hope Society Foundation (MIHOSO)</participating-org>
+    <participating-org xml:lang="en" type="23" role="Implementing">Centre for the Development of People (CEDEP)</participating-org>
+    <recipient-country xml:lang="en" code="GH" percentage="100"/>
+    <sector xml:lang="en" code="99810" percentage="100">Mental health and development</sector>
+    <default-aid-type code="C01"/>
+    <budget type="2">
+      <period-start iso-date="2011-07-01"/>
+      <period-end iso-date="2015-03-30"/>
+      <value currency="GBP" value-date="2012-03-26">469427</value>
+    </budget>
+    <transaction ref="35A">
+      <transaction-type code="E"/>
+      <provider-org ref="GB-1">Department for International Development</provider-org>
+      <receiver-org ref="GB-CHC-1079599" receiver-activity-id="BN-2011-GH-DFID-35A">BasicNeeds</receiver-org>
+      <value currency="GBP" value-date="2011-12-30">83433</value>
+      <description xml:lang="en">Actual expenditure incurred between 1st July and 30th December 2011</description>
+      <transaction-date iso-date="2011-12-30"/>
+      <flow-type code="10" xml:lang="en"/>
+      <finance-type code="110" xml:lang="en"/>
+      <aid-type code="B03" xml:lang="en"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4" xml:lang="en"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure from 1st January 2012 to 31st March 2012</transaction-type>
+      <value currency="GBP" value-date="2012-03-31">30170</value>
+      <transaction-date iso-date="2012-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure from 1st April 2012 to 30th June 2012</transaction-type>
+      <value currency="GBP" value-date="2012-06-30">21474</value>
+      <transaction-date iso-date="2012-06-30"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure from 1st July 2012 to 30th September 2012</transaction-type>
+      <value currency="GBP" value-date="2012-09-30">29277</value>
+      <transaction-date iso-date="2012-09-30"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure from 1st October 2012 to 31st December 2012</transaction-type>
+      <value currency="GBP" value-date="2012-12-31">29225</value>
+      <transaction-date iso-date="2012-12-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure from 1st January 2013 to 31st March 2013</transaction-type>
+      <value currency="GBP" value-date="2013-03-31">42963</value>
+      <transaction-date iso-date="2013-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure from 1st April 2013 to 30th June 2013</transaction-type>
+      <value currency="GBP" value-date="2013-06-30">21306</value>
+      <transaction-date iso-date="2013-06-30"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure from 1st July 2013 to 30th September 2013</transaction-type>
+      <value currency="GBP" value-date="2013-09-30">30603</value>
+      <transaction-date iso-date="2013-09-30"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure from 1st October 2013 to 31st December 2013</transaction-type>
+      <value value-date="2013-12-31">34792</value>
+      <transaction-date iso-date="2013-12-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure from 1st January 2014 to 31st March 2014</transaction-type>
+      <value value-date="2014-03-31">34011</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="4"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

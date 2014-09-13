@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="" hierarchy="0" last-updated-datetime="2013-04-04T00:00:00" xml:lang="en">
+    <iati-identifier>NL-KvK-27108436:A-02369-11:MW</iati-identifier>
+    <reporting-org ref="NL-KvK-27108436" type="" xml:lang="en"/>
+    <participating-org ref="0000506740" role="Implementing" type="60" xml:lang="en">Malawi Economic Justice Network (ME </participating-org>
+    <recipient-country code="MW" xml:lang="en">Malawi</recipient-country>
+    <recipient-region code="HECA" xml:lang="en"/>
+    <title xml:lang="en">Counterpart 506740 Malawi Economic Justi</title>
+    <description type="" xml:lang="en">The project is framed within an active citizenship, effective states logic. By establishing and evolving a democratic culture, effective public institutions and meaningful citizens# participation in public affairs, African people will demand the deliveryof key political, social and economic rights standards. By informing and empowering citizens to demand implementation, politicians and civil servants will see that continental standards have national and local political relevance. These processes will provoke policy dialogues with national authorities on the resources, mechanisms and prioritization required.  Over the past one year this theory has beendeepened and it will be tested further in the next three years based on the experience of the projecttodate.</description>
+    <activity-date type="start-planned">2013-07-01</activity-date>
+    <activity-date type="start-actual">2013-07-01</activity-date>
+    <activity-date type="end-planned">2016-03-31</activity-date>
+    <activity-date type="end-actual">2016-03-31</activity-date>
+    <activity-status code="1" xml:lang="en">Pipeline/identification</activity-status>
+    <budget type="1">
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value currency="EUR" value-date="2014-05-08">374663 </value>
+    </budget>
+    <result type="output">
+      <indicator measure="unit">
+        <title>NO. OF WOMEN AND MEN (WOMEN IN PARTICULAR) IN MARGINALISED GROUPS HAVING ACCESS TO INFORMATION AND DECISION-MAKING BY USING ICT AND NEW MEDIA</title>
+        <description xml:lang="en">NO. OF WOMEN AND MEN (WOMEN IN PARTICULAR) IN MARGINALISED GROUPS HAVING ACCESS TO INFORMATION AND DECISION-MAKING BY USING ICT AND NEW MEDIA</description>
+        <baseline value="149865 " year="2013">
+          <comment>DPA</comment>
+        </baseline>
+        <period>
+          <period-start iso-date="2013-01-01"/>
+          <period-end iso-date="2013-12-31"/>
+        </period>
+      </indicator>
+      <indicator measure="unit">
+        <title>NO. OF PARTNER ORGANISATIONS WITH STRONGER CAPACITY FOR MONITORING GOVERNMENTS AND PRIVATE SECTOR ON OBLIGATIONS AND DUTIES IN THEIR BUDGET (INCOME AND EXPENDITURE) WITH SPECIFIC ATTENTION TO IMPACT ON WOMEN</title>
+        <description xml:lang="en">NO. OF PARTNER ORGANISATIONS WITH STRONGER CAPACITY FOR MONITORING GOVERNMENTS AND PRIVATE SECTOR ON OBLIGATIONS AND DUTIES IN THEIR BUDGET (INCOME AND EXPENDITURE) WITH SPECIFIC ATTENTION TO IMPACT ON WOMEN</description>
+        <baseline value="74933 " year="2013">
+          <comment>BCS</comment>
+        </baseline>
+        <period>
+          <period-start iso-date="2013-01-01"/>
+          <period-end iso-date="2013-12-31"/>
+        </period>
+      </indicator>
+      <indicator measure="unit">
+        <title>NO. OF CASES REVEALING THAT GLOBALLY LINKED CITIZENS AND GLOBALLY OPERATING PARTNER ORGANISATIONS HAVE STRENGTHENED THEIR CAPACITY TO HOLD GOVERNMENTS, BUSINESSES, INTERNATIONAL INSTITUTIONS AND CIVIL SOCIETY ORGANISATION ACCOUNTABLE FOR POWER ABUSE, CORR</title>
+        <description xml:lang="en">NO. OF CASES REVEALING THAT GLOBALLY LINKED CITIZENS AND GLOBALLY OPERATING PARTNER ORGANISATIONS HAVE STRENGTHENED THEIR CAPACITY TO HOLD GOVERNMENTS, BUSINESSES, INTERNATIONAL INSTITUTIONS AND CIVIL SOCIETY ORGANISATION ACCOUNTABLE FOR POWER ABUSE, CORR</description>
+        <baseline value="149865 " year="2013">
+          <comment>BCS</comment>
+        </baseline>
+        <period>
+          <period-start iso-date="2013-01-01"/>
+          <period-end iso-date="2013-12-31"/>
+        </period>
+      </indicator>
+    </result>
+    <legacy-data name="profit-centre" value="0000007105"/>
+    <legacy-data name="profit-centre-name" value="HECA -PAF"/>
+    <legacy-data name="project" value="A-02369"/>
+    <legacy-data name="project-name" value="Strength African Citizens Participation"/>
+    <sector code="4" percentage="100 "/>
+    <legacy-data name="Theme" value="[]"/>
+    <legacy-data name="" value=""/>
+  </iati-activity>
+</iati-activities>

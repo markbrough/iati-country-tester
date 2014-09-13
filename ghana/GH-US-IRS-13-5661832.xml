@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2013-10-21T21:00:18+00:00">
+    <reporting-org ref="US-IRS-13-5661832" type="21" xml:lang="en">Plan International USA</reporting-org>
+    <iati-identifier>US-IRS-13-5661832-641-A-00-10-00026-00</iati-identifier>
+    <other-identifier owner-ref="US-IRS-13-5661832" owner-name="Plan International">GHA0156</other-identifier>
+    <title xml:lang="en">Ghana Transition and Persistence Program (TAP)</title>
+    <description xml:lang="en" type="1">The TAP program aims to help Ghana as it strives to meet “Education for All” goals on universal primary completion and address key transition point between primary and junior high schools (JHS). Plan has collaborated with GES to finalize and incorporate the School Improvement Plan (SIP) approach pioneered by Plan in Ghana into the country-wide school improvement process to ensure an effective scale up of this approach. Under the Ghana TAP program, Plan implements the SIP approach in 156 schools in 4 regions in Ghana. The SIP approach strengthens community ownership of the teaching and learning process and increases the accountability of schools to communities and District Assemblies (DAs). Through our comprehensive approach, communities will lead the school improvement process including improvements of the school physical space and eliminating barriers to school attendance. TAP aims to increase the number of students enrolled in TAP schools, increase the number of students completing JHS in TAP schools, and provide over 18,000 improved spaces in TAP schools.</description>
+    <activity-status xml:lang="en" code="2"/>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2010-07-31"/>
+    <activity-date xml:lang="en" type="end-planned" iso-date="2013-11-30"/>
+    <activity-date xml:lang="en" type="end-planned" iso-date="2013-11-30"/>
+    <contact-info>
+      <organisation>Plan International USA</organisation>
+      <email>IATIUSOffice@planusa.org</email>
+      <mailing-address>1255 23rd Street NW&#13;
+Suite 300&#13;
+Washington, DC  20037&#13;
+Tel: 202-617-2300&#13;
+Fax: 202-223-8828&#13;
+</mailing-address>
+    </contact-info>
+    <participating-org xml:lang="en" type="10" role="Funding" ref="US-1">USAID</participating-org>
+    <participating-org xml:lang="en" type="10" role="Accountable" ref="US-1">AID</participating-org>
+    <participating-org xml:lang="en" type="21" role="Implementing" ref="US-IRS-13-5661832">Plan International USA</participating-org>
+    <recipient-country xml:lang="en" code="GH" percentage="100">GHANA</recipient-country>
+    <sector code="11220" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="B03"/>
+    <default-tied-status code="3"/>
+    <budget type="2">
+      <period-start iso-date="2010-07-31"/>
+      <period-end iso-date="2013-11-30"/>
+      <value currency="USD" value-date="2012-03-10">9494240</value>
+    </budget>
+    <transaction ref="GHA0156">
+      <transaction-type code="IF"/>
+      <provider-org ref="US-1" provider-activity-id="641-A-00-10-00026-00">AID</provider-org>
+      <receiver-org ref="US-IRS-13-5661832" receiver-activity-id="641-A-00-10-00026-00">Plan International USA</receiver-org>
+      <value currency="USD" value-date="2010-07-31">9494240</value>
+      <description>Award Amount</description>
+      <transaction-date iso-date="2010-07-31"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="1" xml:lang="en"/>
+      <tied-status code="3"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

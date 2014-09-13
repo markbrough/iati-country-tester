@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="EUR" hierarchy="1" last-updated-datetime="2013-08-16T14:30:20+00:00">
+    <reporting-org ref="NL-KVK-27327087" type="21" xml:lang="en">Akvo Foundation</reporting-org>
+    <iati-identifier>NL-KVK-27327087-6534</iati-identifier>
+    <title>Akvo part in PPP Sustainable Water Fund Program: Smarter WASH - Ghana 2013-2016</title>
+    <description type="1">Further development of Akvo FLOW so it can be used as a national monitoring system at scale, supporting the role out of FLOW in various districts in Ghana. And capacity building of all partners involved. </description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2013-04-01"/>
+    <activity-date type="start-planned" iso-date="2016-03-31"/>
+    <participating-org role="Funding">Gates Foundation</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-41151952">Stichting IRC, International Water and Sanitation Centre</participating-org>
+    <participating-org role="Funding" ref="NL-1">Ministry of Foreign Affairs, The Netherlands</participating-org>
+    <participating-org role="Implementing">Community Water and Sanitation Agency (CWSA)</participating-org>
+    <participating-org role="Implementing">Skyfox Ghana</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-27327087">Akvo Foundation</participating-org>
+    <recipient-country code="GH"/>
+    <sector code="22040" vocabulary="DAC"/>
+    <sector code="11430" vocabulary="DAC"/>
+    <default-aid-type code="D02"/>
+    <budget type="1">
+      <period-start iso-date="2013-04-01"/>
+      <period-end iso-date="2016-03-31"/>
+      <value value-date="2013-08-01">970000</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="EUR" hierarchy="1" last-updated-datetime="2013-10-03T13:07:02+00:00">
+    <reporting-org ref="NL-KVK-27327087" type="21" xml:lang="en">Akvo Foundation</reporting-org>
+    <iati-identifier>NL-KVK-27327087-7400</iati-identifier>
+    <title>Part Akvo in Dutch WASH Alliance Program 2011-2015</title>
+    <description type="1">Akvo is part of the Dutch WASH Alliance together with Simavi, AMREF Flying Doctors, ICCO, RAIN and WASTE. Working together towards a society in which everybody makes hygienic use of sustainable water and sanitation.&#13;
+The Akvo tools RSR &amp; FLOW are being used by the consortium. </description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2011-01-01"/>
+    <activity-date type="start-planned" iso-date="2015-12-31"/>
+    <participating-org role="Funding" ref="NL-KVK-40594571">Stichting Simavi</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-40594571">Stichting Simavi</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-27327087">Akvo Foundation</participating-org>
+    <participating-org role="Implementing" ref="Nl-KVK-41150298">Stichting African Medical Research Foundation Nederland (AMREF)</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-56484038">Stichting Interkerkelijke Organisatie voor Ontwikkelingssamenwerking (ICCO)</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-34200988">Stichting Rainwater Harvesting Implementation Network Foundation (RAIN)</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-41172933">Stichting Waste</participating-org>
+    <recipient-country code="KE"/>
+    <recipient-country code="GH"/>
+    <recipient-country code="ET"/>
+    <recipient-country code="BJ"/>
+    <recipient-country code="BD"/>
+    <recipient-country code="ML"/>
+    <recipient-country code="NP"/>
+    <recipient-country code="UG"/>
+    <sector code="22040" vocabulary="DAC"/>
+    <sector code="11430" vocabulary="DAC"/>
+    <default-aid-type code="D02"/>
+    <budget type="1">
+      <period-start iso-date="2011-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value value-date="2011-01-01">1580000</value>
+    </budget>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-40594571">Stichting Simavi</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2013-02-11">251878</value>
+      <transaction-date iso-date="2013-02-11"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-40594571">Stichting Simavi</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2011-02-25">179705</value>
+      <transaction-date iso-date="2011-02-25"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-40594571">Stichting Simavi</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2011-07-15">213523</value>
+      <transaction-date iso-date="2011-07-15"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-40594571">Stichting Simavi</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2012-03-31">168293</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-40594571">Stichting Simavi</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2012-08-07">150183</value>
+      <transaction-date iso-date="2012-08-07"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="EUR" hierarchy="1" last-updated-datetime="2013-09-23T10:11:52+00:00">
+    <reporting-org ref="NL-KVK-27327087" type="21" xml:lang="en">Akvo Foundation</reporting-org>
+    <iati-identifier>NL-KVK-27327087-7300</iati-identifier>
+    <title>Part Akvo in Connect4Change Program 2011-2015</title>
+    <description type="1">Connect4Change (C4C) is a consortium of five Dutch development organisations (Akvo, Cordaid, Edukans, ICCO, IICD and preferred partner Text to Change). Akvo’s role in C4C is to assist the partners in sharing knowledge, bringing projects online&#13;
+and simplifying reporting - to speed up development. With the use of Akvo Really Simple Reporting (RSR) and Akvo FLOW.</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2011-01-01"/>
+    <activity-date type="end-planned" iso-date="2015-12-31"/>
+    <participating-org role="Implementing" ref="NL-KVK-27327087">Akvo Foundation</participating-org>
+    <participating-org role="Funding" ref="NL-KVK-41159933">Stichting International Institute for Communication and Development (IICD)</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-41159933">Stichting International Institute for Communication and Development (IICD)</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-41160054">Stichting Cordaid</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-32092131">Stichting Edukans</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-56484038">Stichting Interkerkelijke Organisatie voor Ontwikkelingssamenwerking (ICCO)</participating-org>
+    <participating-org role="Implementing" ref="Nl-KVK-34267493">Stichting Text to Change</participating-org>
+    <recipient-country code="ZM"/>
+    <recipient-country code="BF"/>
+    <recipient-country code="ET"/>
+    <recipient-country code="GH"/>
+    <recipient-country code="KE"/>
+    <recipient-country code="MW"/>
+    <recipient-country code="ML"/>
+    <recipient-country code="PE"/>
+    <recipient-country code="TZ"/>
+    <recipient-country code="UG"/>
+    <sector code="22040" vocabulary="DAC"/>
+    <sector code="11430" vocabulary="DAC"/>
+    <default-aid-type code="D02"/>
+    <budget type="1">
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="EUR" value-date="2011-01-01">2000000</value>
+    </budget>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-41159933">Stichting International Institute for Communication and Development (IICD)</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2011-04-21">200000</value>
+      <transaction-date iso-date="2011-04-21"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-41159933">Stichting International Institute for Communication and Development (IICD)</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2012-08-07">200000</value>
+      <transaction-date iso-date="2012-08-07"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-41159933">Stichting International Institute for Communication and Development (IICD)</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2012-02-24">200000</value>
+      <transaction-date iso-date="2012-02-24"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-41159933">Stichting International Institute for Communication and Development (IICD)</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2011-07-15">200000</value>
+      <transaction-date iso-date="2011-07-15"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-41159933">Stichting International Institute for Communication and Development (IICD)</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2013-03-31">200000</value>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-41159933">Stichting International Institute for Communication and Development (IICD)</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2013-07-31">20000</value>
+      <transaction-date iso-date="2013-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK-41159933">Stichting International Institute for Communication and Development (IICD)</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2013-08-14">200000</value>
+      <transaction-date iso-date="2013-08-14"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="EUR" hierarchy="1" last-updated-datetime="2013-10-03T12:06:46+00:00">
+    <reporting-org ref="NL-KVK-27327087" type="21" xml:lang="en">Akvo Foundation</reporting-org>
+    <iati-identifier>NL-KVK-27327087-6507</iati-identifier>
+    <title>Akvo part in Football4Water Program 2012-2016</title>
+    <description>Bring project of Football4Water online with the use of Akvo Really Simple Reporting (RSR) and use and training of Akvo FLOW </description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2012-07-01"/>
+    <activity-date type="end-planned" iso-date="2016-12-31"/>
+    <participating-org type="21" role="Implementing" ref="NL-KVK-27327087">Akvo foundation</participating-org>
+    <participating-org type="70" role="Implementing" ref="NL-KVK-40478591">Vereniging Koninklijke Nederlandse Voetbalbond (KNVB)</participating-org>
+    <participating-org type="21" role="Implementing" ref="NL-KVK-40594571">Stichting Simavi </participating-org>
+    <participating-org type="70" role="Implementing" ref="NL-KVK- 08134161">Vitens Evides International B.V</participating-org>
+    <participating-org type="40" role="Implementing" ref="NL-KVK-27102631">Nationaal Committee Unicef Nederland</participating-org>
+    <participating-org role="Implementing" ref="Nl-KVK-27248417">Stichting Aqua for All</participating-org>
+    <participating-org role="Funding" ref="Nl-KVK-27248417">Stichting Aqua for All</participating-org>
+    <recipient-country code="MZ"/>
+    <recipient-country code="KE"/>
+    <recipient-country code="GH"/>
+    <sector code="22040" vocabulary="DAC"/>
+    <sector code="11430" vocabulary="DAC"/>
+    <default-aid-type code="D02"/>
+    <budget type="1">
+      <period-start iso-date="2012-07-01"/>
+      <period-end iso-date="2016-08-31"/>
+      <value value-date="2012-07-01">374000</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="EUR" hierarchy="1" last-updated-datetime="2013-10-03T12:05:16+00:00">
+    <reporting-org ref="NL-KVK-27327087" type="21" xml:lang="en">Akvo Foundation</reporting-org>
+    <iati-identifier>NL-KVK-27327087-6533</iati-identifier>
+    <title>Agreement Ecorys, Akvo FLOW Ghana 2013</title>
+    <description type="1">Akvo FLOW instance and training for Ecorys to do a baseline survey in Ghana for the GNWP program </description>
+    <activity-status code="3"/>
+    <activity-date type="start-actual" iso-date="2013-04-25"/>
+    <activity-date type="end-planned" iso-date="2013-09-30"/>
+    <participating-org role="Funding" ref="NL-KVK-24316726">ECORYS Nederland bv. </participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-27327087">Akvo Foundation</participating-org>
+    <participating-org role="Implementing" ref="NL-KVK-24316726">ECORYS Nederland bv. </participating-org>
+    <recipient-country code="GH"/>
+    <sector code="22040" vocabulary="DAC"/>
+    <sector code="11430" vocabulary="DAC"/>
+    <default-aid-type code="D02"/>
+    <budget type="1">
+      <period-start iso-date="2013-04-25">Excluding reimbursable travel costs</period-start>
+      <period-end iso-date="2013-09-30"/>
+      <value value-date="2013-04-25">11900</value>
+    </budget>
+    <transaction ref="13-0025">
+      <transaction-type code="IF"/>
+      <provider-org ref="NL-KVK- 24316726">ECORYS Nederland BV</provider-org>
+      <receiver-org ref="NL-KVK-27327087">Akvo Foundation</receiver-org>
+      <value value-date="2013-05-06">13378</value>
+      <transaction-date iso-date="2013-05-06"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

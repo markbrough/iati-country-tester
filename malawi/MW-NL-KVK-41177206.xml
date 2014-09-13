@@ -1,0 +1,845 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-000826</iati-identifier>
+    <other-identifier>C-000826</other-identifier>
+    <participating-org role="Implementing">CCAP Synod of Blantyre Health Commission</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Uchembere - Implementation year 2</title>
+    <description> Uchembere Network was formed in 2008 with the aim of contributing to government efforts of reducing the maternal and child mortality in Malawi and is composed of the three Synods of the Church of Central Africa Presbyterian (CCAP) of Malawi, Ministry of health and other NGOs that work in the Sexual and Reproductive Health sector in Malawi. The network is guided by the Road Map for Accelerating Reduction of Maternal and Newborn Mortality and Morbidity in Malawi (Road Map). As a Road Map partner at the national level, Uchembere Network cooperates closely with MOH Reproductive Health Unit (MOH/RHU) to improve the access of women to quality sexual and reproductive health services in Malawi. As a consortium of organizations, Uchembere operates on the following objectives:
+
+1.	Improve health seeking behaviour to sexual and reproductive health services
+2.	Improve availability and quality of sexual and reproductive health services
+3.	Improve referral systems between the community and the health services
+4.	To build partnerships and advocate for sexual and reproductive health issues to other stakeholders.
+
+These objectives have been selected taking into consideration the environment within which the network will operate. The objectives fit within the broad themes of the initiating partner ICCO, namely:
+o	Strengthening of quality basic services
+o	Community empowerment
+o	Policy influencing (e.g. lobby, advocacy)
+
+The objectives will address the outcome of the baseline study and also the objectives are in line with the National Road Map for Accelerating the Reduction of Maternal and Neonatal Mortality and Morbidity in Malawi, as developed by the government of Malawi.
+
+Following a successful ICCO funded pilot phase, the network is embarking on a second phase of the project. Activities include: 
+
+1.1.	Strengthening community structures to act on sexual and reproductive health issues
+1.2.	Empowerment of women 
+1.3.	Male involvement
+1.4.	Youth mobilization
+
+2.1. Improving the skills and attitude of health providers
+2.2. Ensure adequate resources to conduct sexual and reproductive health services
+2.3. Improve or establish quality assurance mechanisms
+
+3.1. To empower the community to organize transport for referrals
+3.2. Strengthening communication systems
+
+4.1.	To advocate to church leaders on Sexual and Reproductive Health issues
+4.2.	To lobby for Sexual and Reproductive Health issues (e.g. patient rights, human resources and infrastructure)
+4.3.	To develop networks with local and national government and NGOs.
+4.4.	To establish a Network national secretariat for i) grant facilitation, ii) capacity building, iii) information management, and iv) M&amp;E
+</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2012-01-01"/>
+    <activity-date type="start-actual" iso-date="2012-01-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>CCAP Synod of Blantyre Health Commission</organisation>
+      <mailing-address>BLANTYRE</mailing-address>
+    </contact-info>
+    <sector code="130" percentage="100" vocabulary="DAC-3">Reproductive health including HIV/Aids</sector>
+    <policy-marker vocabulary="RO" significance="2">BH&amp;H</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2012-02-24" currency="EUR">200000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206003407">CCAP Synod of Blantyre Health Commission</receiver-org>
+      <transaction-date iso-date="2012-06-30">2012-06-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-06-30" currency="EUR">120000</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>KK General</provider-org>
+      <receiver-org ref="NL-KVK-41177206003407">CCAP Synod of Blantyre Health Commission</receiver-org>
+      <transaction-date iso-date="2012-06-30">2012-06-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-06-30" currency="EUR">30000</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>WD General</provider-org>
+      <receiver-org ref="NL-KVK-41177206003407">CCAP Synod of Blantyre Health Commission</receiver-org>
+      <transaction-date iso-date="2012-06-30">2012-06-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-06-30" currency="EUR">50000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-002677</iati-identifier>
+    <other-identifier>C-002677</other-identifier>
+    <participating-org role="Implementing">Churches Action in Relief and Development</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Oil Seed Scale-Up Project</title>
+    <description>The oil seed project started in 2012. It focused on the promotion of oil seed production and establishment of oil extraction facilities in Mchinji. There is tremendous progress achieved so far under the project. However there are still gaps that need urgent attention. The major gap observed is unstructured oil seed market and value addition. This project aims to support Machichi Cooperative to start crude oil extraction and supply the ready markets like Unilever, Afrinut and Moni.  To build the managerial capacity of Machichi Cooperative, this scale-up project will thus support the recruitment of the Cooperative Manager to instil business principles in the cooperative. This will enable the cooperative to have competitive markets for its crude oil. It will also ensure smallholder farmers are concentrating on oil seed production and qualified staff are focusing on processing, marketing and relations development for sustainability of the cooperative. The project will also inject a working capital to enable the cooperative to buy as much oil seeds from farmers at a competitive price for a year round processing to supply their customers. At the end of the year, the working capital will be paid back to CARD, which will be used in turn to support other cooperatives with human resource and working capital. The profit from this intervention will be ploughed back to farmers as dividends to increase their income level from oil seeds. Implementing the project will contribute to ICCO’s Fair Economic Development goals for the region by increasing the income levels of smallholder farmers since farmers will be able to get premium prices for their oil seeds sold through the cooperative.
+</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2013-06-15"/>
+    <activity-date type="start-actual" iso-date="2013-06-15"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Churches Action in Relief and Development</organisation>
+      <mailing-address>BLANTYRE</mailing-address>
+    </contact-info>
+    <sector code="311" percentage="100" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-06-07" currency="EUR">47000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206002337">Churches Action in Relief and Development</receiver-org>
+      <transaction-date iso-date="2013-06-30">2013-06-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-06-30" currency="EUR">47000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-001821</iati-identifier>
+    <other-identifier>C-001821</other-identifier>
+    <participating-org role="Implementing">Churches Action in Relief and Development</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Oil Seed Project</title>
+    <description>ICCO initiated oil seed project as part of the Value Chain Project. Oil Seed Project is (sunflower, groundnut and soya bean) was chosen to replace jathropha which was proved to be more controversial. It is against this background that ICCO partnerd with CARD to implement Oil Seed project in Mchinji. CARD was chosen because ICCP had partnered with CARD for a livelihood project some years ago. This then justified why ICCO partnerd with CARD in Mchinji to implement this oil seed project as it was geared to build on the work that was developed earier.
+
+The main objective of the project is to improve economic status of 120 oil seed  farmers in 3 cooperatives. The project will aim at increasing poduction of oil seed namely sunflower, soya bean and groundnut. Besides that, the project will also promote value addition by encouraging oil extraction. the project will further link oil seed farmers to formal markets.
+
+The project will be implemented in Mchinji through 3 cooperatives. Mchinji is one of the higest producing areas of oil seeds in Malawi. The following ar ethe 3 major expected outputs of the project.
+(i) Oil seed production incraesed to 1.5mt per hectare for over 80% of the targeted farmers,
+(ii) 80mt of oil seed crop produced by Cooperative is processed into oil and other products
+(iii) 100 mt of oil seed crop produced by Cooperative is sold through formal and competative markets.
+
+The project will benefit 600 people as direct beneficaries in the first year.
+
+The main activities includes training of farmers in oil seed production, support of farmers with high quality seed, train cooperative leaders with business skills, construct oil seed factory, procure oil expellers, link the cooperative with oil refinaries.
+
+The projects expected results are:
+-Increased oil seed productivity to 1.5mt
+-3 Cooperatives supplying crude oil to refenaries
+-farners accessing hgih quality seed
+</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2012-11-01"/>
+    <activity-date type="start-actual" iso-date="2012-11-01"/>
+    <activity-date type="end-planned" iso-date="2013-11-30"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Churches Action in Relief and Development</organisation>
+      <mailing-address>BLANTYRE</mailing-address>
+    </contact-info>
+    <sector code="311" percentage="100" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2012-10-04" currency="EUR">60000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206002337">Churches Action in Relief and Development</receiver-org>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-12-31" currency="EUR">60000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:14" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-002599</iati-identifier>
+    <other-identifier>C-002599</other-identifier>
+    <participating-org role="Implementing">Stop AIDS Now!</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Quality HIV and MNH services:SAN!/ICCO</title>
+    <description>
+With the deadline on the Millennium Development Goals (MDGs) coming upon us, there are strong efforts at global and national levels to maximise efficiencies, increase outreach and impact, and make good on universal access to treatment, prevention, care and support. One such key effort is integration of HIV and reproductive, maternal and neonatal health (RMNH) services, as evidenced in the global plan to eliminate vertical transmission by 2015. This project seeks to contribute to HIV responses in generalised epidemics by improving our “know-how” for addressing stigma and rights violations in the context of HIV and RMNH integration and health systems strengthening. The idea is to develop an innovative way of reducing stigma and rights violations in HIV and RMNH settings and thus improve the quality of HIV and RMNH services, and improved services translates into improved uptake of services. Together, these improvements can contribute significantly to HIV responses and reaching Universal Access and the MDGs.
+
+The project aim is to contribute to the increased uptake of women and young women of reproductive age of quality HIV and RMNH services through improved clinical governance and community-driven accountability. The Project serves the overall aim through two main objectives:
+•	To increase the capacity of health care stewards (decision makers, policy makers and overseers) and providers to improve HIV and RMNH service governance. This objective supports the overall aim, because it provides a practical means to improve clinical governance and therefore increase uptake of services. 
+•	To increase the capacity of women living with HIV to take leadership in accountability for quality HIV and RMNH services. This objective feeds into the process of realising specific objective 1 as community-driven accountability improves clinical governance. But it is an objective in its own right as it ensures the outcome by which community-driven accountability emerges
+
+The strategic activities will be:
+•	Provision of knowledge and tools for improving clinical governance in HIV and RMNH services 
+•	Empowering women living with HIV to take the lead in evaluating and improving clinical governance of HIV and RMNH services 
+•	Supporting community-driven accountability for improved clinical governance. 
+The two objectives are interconnected since community-driven accountability is a means of improving clinical governance.
+
+</description>
+    <activity-website>http://www.stopaidsnow.nl</activity-website>
+    <activity-date type="start-planned" iso-date="2013-06-01"/>
+    <activity-date type="start-actual" iso-date="2013-06-01"/>
+    <activity-date type="end-planned" iso-date="2015-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Stop AIDS Now!</organisation>
+      <mailing-address>AMSTERDAM</mailing-address>
+    </contact-info>
+    <sector code="130" percentage="100" vocabulary="DAC-3">Reproductive health including HIV/Aids</sector>
+    <policy-marker vocabulary="RO" significance="2">BH&amp;H</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-05-20" currency="EUR">45000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>SAN</provider-org>
+      <receiver-org ref="NL-KVK-41177206000155">Stop AIDS Now!</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">15000</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>SAN</provider-org>
+      <receiver-org ref="NL-KVK-41177206000155">Stop AIDS Now!</receiver-org>
+      <transaction-date iso-date="2014-06-30">2014-06-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2014-06-30" currency="EUR">15000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-001872</iati-identifier>
+    <other-identifier>C-001872</other-identifier>
+    <participating-org role="Implementing">Development Communications Trust (DCT)</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Umoyo Wabwino Phase 2</title>
+    <description>Development Communications Trust (DCT) is a local communications NGO that is committed to empowering marginalized communities to realize their rights. DCT was registered in May 2008 and it envisions “a society in which people are able to demand their rights and hold service providers accountable”.  DCT is founded on the values of transparency, accountability, professionalism and respect for Human Rights. The organization specialises in development communications and it uses three major approaches in project implementation, namely : use of Radio Listening Clubs in problem identification through community mapping and dialogue; fast tracking approach mainly used for advocacy campaigns; and the use of Radio Listening Club in civic education campaign. 
+During the 12 months of the implementation of the first phase, the project has achieved the following: increased access to health facilities by the poor and the marginalized; economic empowerment for vulnerable people; increase in number of people living with HIV and AIDS accessing ARVs; increased number of health personnel in rural health facilities; and reduction in verbal abuse of expectant mothers in labour wards.
+ Based on some of the gaps and lessons learnt during the first phase of the project implementation, the second phase of the project will address, amongst others, the further strengthening of the governance structures to enhance the claim making power, as well as to strengthen the supply side to be better and more responsive. Some of the gaps noticed in the previous phase of the project implementation suggest a need to: empower marginalized communities  especially women youth  and people living  with  HIV and AIDS to  demand accessible and acceptable quality health service delivery; provide a forum through which marginalized communities especially women and girls living  with  HIV and AIDS  can dialogue with power holders like men to demand  their sexual reproductive health rights; build capacity of community based structures so that they can raise awareness and demand information that can enhance the enjoyment of rights to health among the marginalized groups especially women, youth and   women living with HIV and AIDS; to contribute to increasing capacity of service providers’ ability to be responsive to the demands of the marginalized groups in the attainment of quality sexual health service delivery. 
+With these, the following are the expected outcomes of the project: marginalized groups especially women, youth and people living with HIV and AIDS  actively demand for  accessible and acceptable  quality health services Marginalized groups especially women, youth and people living with HIV and AIDS are actively participating in dialogues with power holders like men to demand their sexual reproductive health rights; community based structures are raise awareness among the marginalized groups especially women, youth and people living with HIV and Aids on their health rights; and service providers are responsive to the demands of the marginalized groups in the attainment of quality health service delivery in HIV and AIDS treatment. This program is in line with ICCO’s program for the region on Basic Health and HIV/AIDS.</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2012-10-01"/>
+    <activity-date type="start-actual" iso-date="2012-10-01"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Development Communications Trust (DCT)</organisation>
+      <mailing-address>Blantyre 3</mailing-address>
+    </contact-info>
+    <sector code="130" percentage="100" vocabulary="DAC-3">Reproductive health including HIV/Aids</sector>
+    <policy-marker vocabulary="RO" significance="2">BH&amp;H</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2012-10-22" currency="EUR">50000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>SAN</provider-org>
+      <receiver-org ref="NL-KVK-41177206016743">Development Communications Trust (DCT)</receiver-org>
+      <transaction-date iso-date="2013-03-31">2013-03-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-03-31" currency="EUR">50000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-003258</iati-identifier>
+    <other-identifier>C-003258</other-identifier>
+    <participating-org role="Implementing">Development Aid fro People to People</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Zuwe Cooperative Development</title>
+    <description>The Developement Aid from People to People (DAPP) will facilitate the development of Zuwe Oil Seed Cooperative. DAPP has been working in Malawi since 1995 and is well experienced in oil seed value chain development. Zuwe cooperative on the other hand was established in 2012 having over 2,000 members. The cooperative has not only been lacking technical support to boost its crude oil production and marketing, but also financial support for infrastructural development and leadership (capacity) development. In this regard, ICCO will fund DAPP  to support Zuwe Cooperative with funds to complete the construction of its warehouse, procurement of oil expeller, leadership training and a working capital to facilitate the cooperative to buy oil seeds (groundnut, soya and sunflower) for processing. ICCO will facilitate the market linkage with Capital Oil Refinary (CORI) to be one of their main customers for the cooperative to be selling crude oil and seed cake. According to the business analysis conducted by the cooperative, farmers will be realizing a gross profit of between MK70 to MK162 through oil extraction as opposed to selling raw oil seed. For sustainability of the project, Zuwe Cooperative will pay back to DAPP the working capital within 12 months after investment, and the cost of oil expeller and cost of warehouse construction within 5 years after procurement and or construction. DAPP will then use the recovered funds to support other oil seed cooperatives within its working area of Dowa or Lilongwe district.</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2013-11-01"/>
+    <activity-date type="start-actual" iso-date="2013-11-01"/>
+    <activity-date type="end-planned" iso-date="2014-08-30"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Development Aid fro People to People</organisation>
+      <mailing-address>Blantyre</mailing-address>
+    </contact-info>
+    <sector code="311" percentage="100" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-10-09" currency="EUR">38000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206019334">Development Aid fro People to People</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">38000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-002520</iati-identifier>
+    <other-identifier>C-002520</other-identifier>
+    <participating-org role="Implementing">Bwanje Rice Cooperative</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Bwanje Rice Marketing Promotion</title>
+    <description>
+Rice Value Chain project is aimed at strengtthern the producer organziations in Malawi so that the producer organiztion can serve its members well. Its against this background that ICCO partnered with BWanje Rice Cooperative to strengthen its managerial capacity to enable the cooperative to serve its members. ICCO being the only organziation that has taken the courage to partner and finance producer organizations even when they are not profitable so that it can build these cooperatives to become profitable.
+
+The project has the following objectives:
+1.	To improve marketing of Cooperative rice 
+2.	To improve working  capital levels for Cooperative
+3.	Capacity Building of Cooperative
+
+
+ Bwanje smallholder rice farmers produce the rice which Bwanje Cooperative buys at competitive price, processes and then sells to local markets. Under this project, the Cooperative will in the first month use a big portion of the funds from ICCO  to buy 20mt paddy rice from farmers which  after processing will give 12mt polished (Processed) rice at 60% extraction rate. The processed rice will be sold to the cooperative customers at a profit. The capital and profit will then be ploughed back into the business to buy more rice from farmers and repeat the cycle thereby increasing the profits for the cooperative. By the end of the trading period the Cooperative plans to purchase a total of 263 mt paddy rice at a total cost of MK42, 050,000 (Euro76,454) This will, at the end of the trading period, give a total of 158 mt processed rice which will be sold at an average price of MK360- MK400 per Kg  (Eur 0,65-Euro 0,72) resulting into MK93, 100,000 (eur 169 272) revenue. Therefore a gross profit of MK50, 338,995 (eur 91 525) will be made from the loan of MK19, 250,400  (eur 35 000) from ICCO. 
+
+The cooperative will receive a total of Euro 40,000 divided into a grant worthy Euro 5,000 and a recoverable loan worthy  Euro 35,000. The grant will be used to conduct leadership training and audit for 2011 and 2012. The recoverable loan  will be used as working capital to buy rice from farmers for processing and selling as detailed above. The Cooperative will pay the recoverable loan upon acheiving the following milestones:
+i) 70% gross profit (Eur23.636),
+ii)Collect outstanding and new cooperative membership fees and water usage fee amounting to Euro11.274.</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2013-07-01"/>
+    <activity-date type="start-actual" iso-date="2013-07-01"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Bwanje Rice Cooperative</organisation>
+      <mailing-address>Mtakataka Dedza</mailing-address>
+    </contact-info>
+    <sector code="311" percentage="100" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-06-15" currency="EUR">52000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206018243">Bwanje Rice Cooperative</receiver-org>
+      <transaction-date iso-date="2013-09-30">2013-09-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-09-30" currency="EUR">40000</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206018243">Bwanje Rice Cooperative</receiver-org>
+      <transaction-date iso-date="2013-09-30">2013-09-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-09-30" currency="EUR">12000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-000597</iati-identifier>
+    <other-identifier>C-000597</other-identifier>
+    <participating-org role="Implementing">Comitato Internazionale dello Sviluppo dei Popoli</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Focus 2 - Rice Value Chain Development, Karonga District</title>
+    <description>ICCO working together with Christian Aid commissioned a study on Private Sector engagement strategy as a footprint to initiate value chain development. Rice was selected as key commodity to uplift smallholder farmers out of poverty. Its against this background that ICCO has supported the project to kick start the rice value chain project working concurrently with Christian Aid.
+
+Founded in Rome in 1983, CISP (Comitato Internazionale per lo Sviluppo dei Popoli) is active in over 30 countries worldwide in Africa, South America, the Caribbean, Asia, the Middle East and Europe. The head office is located in Rome, with regional offices throughout Italy and worldwide. In the last 24 years CISP has carried out over 600 projects in 38 different countries. 
+CISP’s core objectives are poverty eradication, improving the necessary conditions for development, building paths towards rehabilitation, and providing help in emergency situations. 
+CISP's priorities in the field of cooperation are the fight against poverty, rural development, food security (agriculture, fishery, aquaculture and small scale breeding), rural and urban health, education and training, management of natural resources, environmental protection, sustaining peace initiatives, and micro-credit and support of commercial enterprise. 
+
+Together with CISP we are starting our program on the rice value chain in Karonga, Northern Malawi. 
+
+The overall aim of the intervention is: 
+Smallholder farmers to generate greater income within the rice value chain
+
+Three main results will be targeted to achieve this aim, these are:
+1.	Increased smallholder organisation
+2.	Improved smallholder financial access and management
+3.	Improve smallholder technical knowledge and skills for rice production
+
+The project expected results includes:
+1. Increased savings from VSLA groups
+2. Increased rice production from 2mt/Ha to 4mt/Ha
+
+The main activities includes
+-Training of farmers on system of rice intesification (SRI) production
+-Training farmers on VSLA
+-Mounting of demonstration plots for SRI
+-Linking VSLA with micro-finance
+</description>
+    <activity-website>http://www.cisp-ngo.org</activity-website>
+    <activity-date type="start-planned" iso-date="2012-03-01"/>
+    <activity-date type="start-actual" iso-date="2012-03-01"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Comitato Internazionale dello Sviluppo dei Popoli</organisation>
+      <mailing-address>Lilongwe</mailing-address>
+    </contact-info>
+    <sector code="240" percentage="20" vocabulary="DAC-3">Banking and Financial Services</sector>
+    <sector code="250" percentage="20" vocabulary="DAC-3">Business, Trade and other related services</sector>
+    <sector code="311" percentage="60" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2012-03-14" currency="EUR">293500</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>Christian Aid  (Donor)</provider-org>
+      <receiver-org ref="NL-KVK-41177206017370">Comitato Internazionale dello Sviluppo dei Popoli</receiver-org>
+      <transaction-date iso-date="2012-03-31">2012-03-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-03-31" currency="EUR">150000</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>Christian Aid  (Donor)</provider-org>
+      <receiver-org ref="NL-KVK-41177206017370">Comitato Internazionale dello Sviluppo dei Popoli</receiver-org>
+      <transaction-date iso-date="2012-03-31">2012-03-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-03-31" currency="EUR">-9782</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>Christian Aid  (Donor)</provider-org>
+      <receiver-org ref="NL-KVK-41177206017370">Comitato Internazionale dello Sviluppo dei Popoli</receiver-org>
+      <transaction-date iso-date="2012-03-31">2012-03-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-03-31" currency="EUR">9782</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>Christian Aid  (Donor)</provider-org>
+      <receiver-org ref="NL-KVK-41177206017370">Comitato Internazionale dello Sviluppo dei Popoli</receiver-org>
+      <transaction-date iso-date="2012-03-31">2012-03-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-03-31" currency="EUR">3282</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206017370">Comitato Internazionale dello Sviluppo dei Popoli</receiver-org>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-12-31" currency="EUR">60000</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206017370">Comitato Internazionale dello Sviluppo dei Popoli</receiver-org>
+      <transaction-date iso-date="2013-03-31">2013-03-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-03-31" currency="EUR">83500</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206017370">Comitato Internazionale dello Sviluppo dei Popoli</receiver-org>
+      <transaction-date iso-date="2012-03-31">2012-03-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-03-31" currency="EUR">-3282</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-002600</iati-identifier>
+    <other-identifier>C-002600</other-identifier>
+    <participating-org role="Implementing">Comitato Internazionale dello Sviluppo dei Popoli</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Rice Value Chain Development II</title>
+    <description>The Fair Economic program focuses on producer organizations (cooperatives) development as one of its strategies to achieve its goal of increased income levels to smallholder farmers. The Rice Value Chain Development project started in 2012 as a pilot phase focusing on technology adoption to increase rice yields and Village Savings and Loan group formation to increase the farmers’ income. During the monitoring visits, it became clear that the model has successfully worked to increase rice yields and New Village Savings and Loans (VSLA) to increase the farmers’ income but the access to rice market continues to be very weak. As such this Rice Value chain Development II focuses more on market access through cooperative development to ensure farmers are getting high prices from their rice. This project will continue to support farmers with System of Rice Intensification (SRI) technology to increase rice yield. VSLA groups will be extended to areas that have yet to be reached such as 22 new groups will be formed in the year. To boost market linkages, the project will work with Wovwe Cooperative by hiring a Cooperative Business Manager who will be tasked to run the rice mill, develop of business and strategic plans, motivate more farmers to join the cooperative and establish new competitive rice markets. These activities will enable the cooperative to make profit for farmers.  The profits   will then be shared amongst the farmers at the end of the rice marketing season as dividends. The project will inject a start-up working capital as loan to be paid back to CISP, which is the implementing partner. It is expected that implementing this project will ensure the increase in the farmers’ income levels.</description>
+    <activity-website>http://www.cisp-ngo.org</activity-website>
+    <activity-date type="start-planned" iso-date="2013-06-10"/>
+    <activity-date type="start-actual" iso-date="2013-06-10"/>
+    <activity-date type="end-planned" iso-date="2014-02-28"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Comitato Internazionale dello Sviluppo dei Popoli</organisation>
+      <mailing-address>Lilongwe</mailing-address>
+    </contact-info>
+    <sector code="311" percentage="100" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-07-03" currency="EUR">83000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>Christian Aid  (Donor)</provider-org>
+      <receiver-org ref="NL-KVK-41177206017370">Comitato Internazionale dello Sviluppo dei Popoli</receiver-org>
+      <transaction-date iso-date="2013-09-30">2013-09-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-09-30" currency="EUR">83000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:14" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-003375</iati-identifier>
+    <other-identifier>C-003375</other-identifier>
+    <participating-org role="Implementing">Palliative Care Support Trust</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Continuum of care for Vulnerable Children 2013/2014</title>
+    <description>Children mortality rate in Malawi is estimated at 59 deaths per 1000 live births according to the 2008 census report. The prevalence rate of HIV/AIDS has stabilized with estimated 11% of the population living with HIV. 120,000 Children 0-14 years are living with HIV ( PMTCT fact sheet 2010). The epidemic has heavily affected children. In 2009 an estimated 120,000 children in Malawi were living with HIV, and more than half a million children had been orphaned by AIDS. Among the common palliative care related conditions, HIV related problems heads the list (50%). This is followed by general cancers (30%) and congenital conditions (20 %). These children are cared for by a team of well-trained Palliative (Holistic) care providers as in patients. A recent study on continuation of care at home however has revealed that, much as these children are discharged home, there is little or no support and follow-up strategies to see to it that they continue to be taken cared of at home. The Palliative Care Support Trust through its Umodzi Childrens Palliative Care Clinic has played a significant role in supporting and facilitating to meet the needs of children suffering from HIV and AIDS related diseases on the hospital wards of the Department of Paediatrics and Child Health at Queen Elizabeth Central Hospital (Q.E.C.H) in Blantyre, Malawi and those discharged for home based care thus sharing the burden of providing care and support. In 2012- 2013 Umodzi enrolled 214 children needing Palliative Care services and only managed to reach 70 children; meaning t 143 children were missed. The overall aim of the proposed project is to strengthen quality paediatric palliative care service in all the 13 district hospitals in southern region of Malawi. This project is in line ICCO’s Basic Health and HIV/AIDS program for the country.</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2013-11-01"/>
+    <activity-date type="start-actual" iso-date="2013-11-01"/>
+    <activity-date type="end-planned" iso-date="2014-10-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Palliative Care Support Trust</organisation>
+      <mailing-address>Blantyre</mailing-address>
+    </contact-info>
+    <sector code="120" percentage="100" vocabulary="DAC-3">Health</sector>
+    <policy-marker vocabulary="RO" significance="2">BH&amp;H</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-10-31" currency="EUR">43000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>KK EO</provider-org>
+      <receiver-org ref="NL-KVK-41177206019440">Palliative Care Support Trust</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">21500</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>WD EO</provider-org>
+      <receiver-org ref="NL-KVK-41177206019440">Palliative Care Support Trust</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">21500</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:14" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-002597</iati-identifier>
+    <other-identifier>C-002597</other-identifier>
+    <participating-org role="Implementing">CCAP Blantyre Synod</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Uchembere Implementation Year 3</title>
+    <description>Uchembere Network was formed in 2008 with the aim of contributing to government efforts of reducing the maternal and child mortality in Malawi and is composed of the three Synods of the Church of Central Africa Presbyterian (CCAP) of Malawi, Ministry of health and other NGOs that work in the Sexual and Reproductive Health sector in Malawi. The network is guided by the Road Map for Accelerating Reduction of Maternal and Newborn Mortality and Morbidity in Malawi (Road Map). As a Road Map partner at the national level, Uchembere Network cooperates closely with MOH Reproductive Health Unit (MOH/RHU) to improve the access of women to quality sexual and reproductive health services in Malawi. As a consortium of organizations, Uchembere operates on the following objectives:
+
+1.	Improve health seeking behaviour to sexual and reproductive health services
+2.	Improve availability and quality of sexual and reproductive health services
+3.	Improve referral systems between the community and the health services
+4.	To build partnerships and advocate for sexual and reproductive health issues to other stakeholders.
+
+Uchembere Network is seeking further support with the aspiration of consolidating the gains realised so far in addressing factors that compromised in the past to lower maternal and neonatal deaths in the selected project sites. 
+
+Uchembere network has behind it 2 years of implementation after the pilot year. The reflection exercise recently conducted provides a basis for clarifying their niche. This project therefore is to facilitate the network re-focus their work on increasing access to RH for women as well as enhance the supply of the required health services through building the capacity of the health care providers. The network has evolved to assume a strategic place in supporting the Ministry of Health’s aspirations of reducing maternal and neonatal mortality.
+
+The project anticipates to realize the following:
+•	3 strategies developed and implemented by ADC to reduce martenal and neonatal problems
+•	Increased couple testing and counseling at ANC
+•	153 SMG and women groups identify maternal problems in their communities
+•	146 SMG  and women groups develop strategies to reduce maternal problems
+•	12 maternal death audits undertaken and provide monthly trend reports
+•	2 advocacy meetings and press conferences conducted to lobby for SRH issues (patient rights, human resources and infrastructure).
+•	2 stakeholder review meetings to maintain and develop networks with local/national government and NGOs
+
+</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2013-11-01"/>
+    <activity-date type="start-actual" iso-date="2013-11-01"/>
+    <activity-date type="end-planned" iso-date="2014-10-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>CCAP Blantyre Synod</organisation>
+      <mailing-address>Blantyre</mailing-address>
+    </contact-info>
+    <sector code="130" percentage="100" vocabulary="DAC-3">Reproductive health including HIV/Aids</sector>
+    <policy-marker vocabulary="RO" significance="2">BH&amp;H</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-10-22" currency="EUR">150000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206004939">CCAP Blantyre Synod</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">150000</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-001344</iati-identifier>
+    <other-identifier>C-001344</other-identifier>
+    <participating-org role="Implementing">ICCO</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Programme Development Malawi Health 2012</title>
+    <description>
+ICCO Malawi country office has 2 programmes one of which is the Basic Health program. In 2012, the Malawi office aspires to roll out some strategic activities for the development of the health program in line with the higher goals of the ICCO Regional strategic plan for sustaining the programmes beyond 2015. The objectives and related activities of the self managed project will include the following:
+
+1. Expanding the resource base so as to expand the programme reach and partner base. This will be done through, amongst others, supporting partners through consultants to develop and submit concepts/proposals for funding as well as facilitating that partners profile their work for visibility necessary to boost fundraising opportunities.
+
+2. Organise and run a partners' meeting for both the Health and FED Malawi programmes as a means of enhancing the partnershipin realising the ICCO Malawi country programme goals. This partners' meeting wil also involve other actors in the sector especially the government line ministires for sharing to facilitate a process of pitching the programme and partner interventions in line with the priorities of the government of Malawi's Malawi Development Goal strategy.  
+
+3. Developing a Position Paper on HIV, on a quest to define the programme as country specific or regional. This will make a cross reference on ICCO ROSA's other countries where we are implementing a Health programme i.e. South Africa, Angola and Zimbabwe.
+The anticipated results are:
+•	Resource base of the ICCO Malawi Health programme expanded to broaden its programme reach and partner base. 
+•	A process of pitching the ICCO Malawi Health programme and partner interventions in line with the priorities of the government of Malawi's Malawi Development Goal strategy facilitated through cross sharing at a partners’ meeting and other forum.   
+•	ICCO HIV/AIDS programme re-defined based on a Position Paper on HIV in Malawi, Angola, Zimbabwe and South Africa. 
+</description>
+    <activity-website>http://www.icco.nl</activity-website>
+    <activity-date type="start-planned" iso-date="2012-05-01"/>
+    <activity-date type="start-actual" iso-date="2012-05-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-31"/>
+    <activity-date type="end-actual" iso-date="2013-09-13"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="4">Post-completion</activity-status>
+    <contact-info>
+      <organisation>ICCO</organisation>
+      <mailing-address>UTRECHT</mailing-address>
+    </contact-info>
+    <sector code="120" percentage="100" vocabulary="DAC-3">Health</sector>
+    <policy-marker vocabulary="RO" significance="2">BH&amp;H</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2012-05-01" currency="EUR">25000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206000402">ICCO</receiver-org>
+      <transaction-date iso-date="2012-09-30">2012-09-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-09-30" currency="EUR">7107</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206000402">ICCO</receiver-org>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-12-31" currency="EUR">9800</value>
+    </transaction>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206000402">ICCO</receiver-org>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2012-12-31" currency="EUR">7318</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-003289</iati-identifier>
+    <other-identifier>C-003289</other-identifier>
+    <participating-org role="Implementing">Wovwe Rice Cooperative Society Ltd</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Wovwe Cooperative Development</title>
+    <description>This project is built on the rice value chain development (Pilot and Phase I) implemented by CISP with funding from ICCO and Christian Aid. The prior projects concentrated much on increased production with little emphasis on market linkages. This project will therefore strengthen the marketing aspect of value chain through cooperative development. The project will support Wovwe Cooperative to kick start its operations at a large scale. It will facilitate the development of a 3 year strategic plan to guide the development of the cooperative. It will also train the leadership in corporate governance; and facilitate audits and annual general meetings. For successful rice processing and marketing in order to meet national and international standards, the project will facilitate the certification through the Malawi Bureau of Standards (MBS). The mill house (factory) will be renovated, water system will likewise be rehabilitated and a de-stoner for the rice mill will be bought. A working capital (Euro 27.500) will be provided to the cooperative as a reimbursable grant which will be paid back to ICCO, with no interest after 12 months. The cooperative will pay back ICCO upon achieving the 3 milestones set namely, through the: increase membership from 80 to 500; out which, at least 40% will be women, sign 2 market contracts and achieve Malawi Bureau of Standards (MBS) certification. The repayment will be reinvested by ICCO in rice value chain (Lufriya Rice Cooperartive).
+</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2013-11-01"/>
+    <activity-date type="start-actual" iso-date="2013-11-01"/>
+    <activity-date type="end-planned" iso-date="2014-05-30"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Wovwe Rice Cooperative Society Ltd</organisation>
+      <mailing-address>Nyungwe</mailing-address>
+    </contact-info>
+    <sector code="311" percentage="100" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="1">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-10-24" currency="EUR">60040</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>Christian Aid  (Donor)</provider-org>
+      <receiver-org ref="NL-KVK-41177206019356">Wovwe Rice Cooperative Society Ltd</receiver-org>
+      <transaction-date iso-date="2013-12-31">2013-12-31</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-12-31" currency="EUR">60040</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-07-24T12:59:15" xml:lang="en" default-currency="EUR" hierarchy="1">
+    <reporting-org type="22" ref="NL-KVK-41177206">ICCO</reporting-org>
+    <iati-identifier>NL-KVK-41177206-C-002510</iati-identifier>
+    <other-identifier>C-002510</other-identifier>
+    <participating-org role="Implementing">Civil Society Agriculture Network</participating-org>
+    <recipient-country code="MW">MALAWI</recipient-country>
+    <title>Rice Platform Development</title>
+    <description>ICCO through its Rice Value Chain Project intends to promote enabling environment for rice production and marketing as a componet in its rice value chain development. ICCO is supporting smallholder farmers in rice production and marketing in Karonga and Dedza through support to rice cooperatives. It is against this background that ICCO has partnered with CISANET to establish the National Rice Platform to create an advocacy space for all rice players including farmer cooperatives. This project will therefore will be aimed at supporting the implementation of the rice national platform created in 2012. To strengthen the Platform, several activities will be carried out namely establishing of discrtict rice unions, awareness of unions, development of the rice platform strategic plans and holding of quartely platform meetings amongest other activities.
+
+The project targets 10,000 smallholder rice farmers, processors, wholeseller and rice retailers, government extension staff and Ministry of Trade staff and fellow NGOs involved in rice sub-sector.
+
+Expected results:
+•	1 country (all 11 rice growing districts of Malawi) is targeted to improve the enabling environment for inclusive rice value chain development
+•	9,973 irrigated rice farmers and 15,000 rain-fed rice farmers reached and benefitted form the project
+
+•	1 rice multi-stakeholder initiative and network targeted.
+
+The project has the folowing target groups: Smallholder farmers in cooperative, Rice millers, Rice processors, Dept of irrigation personnel and the dept of trade.</description>
+    <activity-website/>
+    <activity-date type="start-planned" iso-date="2013-04-04"/>
+    <activity-date type="start-actual" iso-date="2013-04-04"/>
+    <activity-date type="end-planned" iso-date="2013-12-31"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="B01"/>
+    <default-finance-type code="110"/>
+    <default-tied-status code="5"/>
+    <activity-status code="2">Implementation</activity-status>
+    <contact-info>
+      <organisation>Civil Society Agriculture Network</organisation>
+      <mailing-address>Lilongwe</mailing-address>
+    </contact-info>
+    <sector code="311" percentage="100" vocabulary="DAC-3">Agriculture</sector>
+    <policy-marker vocabulary="RO" significance="2">FED</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Direct poverty alleviation</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Policy influencing</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Civil society development</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Gender</policy-marker>
+    <policy-marker vocabulary="RO" significance="2">Human rights</policy-marker>
+    <policy-marker vocabulary="RO" significance="0">Capacity building</policy-marker>
+    <budget>
+      <value value-date="2013-04-04" currency="EUR">30000</value>
+    </budget>
+    <transaction>
+      <disbursement-channel code="2"/>
+      <provider-org>MFS 2011-2015</provider-org>
+      <receiver-org ref="NL-KVK-41177206018087">Civil Society Agriculture Network</receiver-org>
+      <transaction-date iso-date="2013-06-30">2013-06-30</transaction-date>
+      <transaction-type code=""/>
+      <value value-date="2013-06-30" currency="EUR">30000</value>
+    </transaction>
+  </iati-activity>
+</iati-activities>

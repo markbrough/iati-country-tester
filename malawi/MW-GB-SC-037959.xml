@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2013-09-20T22:26:08+00:00">
+    <reporting-org ref="GB-SC-037959" type="21" xml:lang="en">Link Community Development Scotland</reporting-org>
+    <iati-identifier>GB-SC-037959-MSSN</iati-identifier>
+    <title xml:lang="en">Malawi School Solar Network</title>
+    <description xml:lang="en" type="1">MSSN is an innovative solar-powered, self-sustaining ICT package for rural primary schools, which will: enable schools to enhance school governance and management ability to focus resources on school improvement; and allow for better reporting and communication between schools and district education offices who can then support schools more effectively.</description>
+    <activity-status code="2">Year 1 </activity-status>
+    <activity-date type="start-actual" iso-date="2013-04-01"/>
+    <activity-date type="end-planned" iso-date="2014-03-31"/>
+    <participating-org xml:lang="en" type="21" role="Accountable" ref="GB-SC-037959">Link Community Development Scotland</participating-org>
+    <participating-org xml:lang="en" type="22" role="Implementing">Link Community Development Malawi</participating-org>
+    <participating-org xml:lang="en" role="Funding">DFID</participating-org>
+    <recipient-country code="MW"/>
+    <sector code="11110">School improvement planning</sector>
+    <default-aid-type code="C01"/>
+    <budget type="2">
+      <period-start iso-date="2013-04-01"/>
+      <period-end iso-date="2014-03-31"/>
+      <value currency="GBP" value-date="2013-09-20">190375</value>
+    </budget>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org>DFID</provider-org>
+      <receiver-org>Link Community Development Scotland</receiver-org>
+      <value currency="GBP" value-date="2013-09-20">13248</value>
+      <description>Funds Received from DFID</description>
+      <transaction-date iso-date="2013-04-18"/>
+      <aid-type code="C01"/>
+      <tied-status code="4"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <value currency="GBP" value-date="2013-06-30">10275</value>
+      <description>Project Expenditure from April 2013 to June 2013</description>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

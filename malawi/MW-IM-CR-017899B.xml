@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="IM-CR-017899B" type="23">Manx Times</reporting-org>
+    <transaction>
+      <description>Small Grant</description>
+      <receiver-org ref="IE-CHA-5883">Trocaire</receiver-org>
+      <provider-org ref="IM-IDC">International Development Committee, Isle of Man Government</provider-org>
+      <value value-date="2012-04-01">30000</value>
+      <transaction-date iso-date="2012-04-01">2012-04-01</transaction-date>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <description>Food security and income generation project in Chikwaw Diocese, Malawi</description>
+    <iati-identifier>IM-CR-017899B-201213-015</iati-identifier>
+    <title>Small Grant</title>
+    <activity-date iso-date="2013-03-31" type="end-planned">2013-03-31</activity-date>
+    <recipient-country code="MW" percentage="100">Malawi</recipient-country>
+    <participating-org ref="IM-IDC" role="Funding" type="10">International Development Committee, Isle of Man Government</participating-org>
+    <activity-date iso-date="2012-04-01" type="start-planned">2012-04-01</activity-date>
+    <transaction>
+      <description>Small Grant</description>
+      <receiver-org ref="IE-CHA-5883">Trocaire</receiver-org>
+      <provider-org ref="IM-IDC">International Development Committee, Isle of Man Government</provider-org>
+      <value value-date="2012-04-01">30000</value>
+      <transaction-date iso-date="2012-04-01">2012-04-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <activity-status code="1">Implementation</activity-status>
+    <participating-org ref="IE-CHA-5883" role="Implementing" type="21">Trocaire</participating-org>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="IM-CR-017899B" type="23">Manx Times</reporting-org>
+    <transaction>
+      <description>Small Grant</description>
+      <receiver-org ref="GB-CHC-240531">Mothers Union</receiver-org>
+      <provider-org ref="IM-IDC">International Development Committee, Isle of Man Government</provider-org>
+      <value value-date="2012-04-01">28010</value>
+      <transaction-date iso-date="2012-04-01">2012-04-01</transaction-date>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <description>Literacy and financial education programme</description>
+    <iati-identifier>IM-CR-017899B-201213-014</iati-identifier>
+    <title>Small Grant</title>
+    <activity-date iso-date="2013-03-31" type="end-planned">2013-03-31</activity-date>
+    <recipient-country code="MW" percentage="100">Malawi</recipient-country>
+    <participating-org ref="IM-IDC" role="Funding" type="10">International Development Committee, Isle of Man Government</participating-org>
+    <activity-date iso-date="2012-04-01" type="start-planned">2012-04-01</activity-date>
+    <transaction>
+      <description>Small Grant</description>
+      <receiver-org ref="GB-CHC-240531">Mothers Union</receiver-org>
+      <provider-org ref="IM-IDC">International Development Committee, Isle of Man Government</provider-org>
+      <value value-date="2012-04-01">28010</value>
+      <transaction-date iso-date="2012-04-01">2012-04-01</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <activity-status code="1">Implementation</activity-status>
+    <participating-org ref="GB-CHC-240531" role="Implementing" type="21">Mothers Union</participating-org>
+  </iati-activity>
+</iati-activities>

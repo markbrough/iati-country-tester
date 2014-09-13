@@ -1,0 +1,1489 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity hierarchy="4" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-06-29T12:00:00Z">
+<iati-identifier>GB-CHC-288701-GHJ50</iati-identifier>
+<title>Gates 2013 Sanitation Advocacy  14-04</title>
+<description type="1">Campaigning for sanitation in Ghana, India, West Africa and the US</description>
+<reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+<activity-status code="2">Implementation</activity-status>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector vocabulary="DAC" code="140" percentage="100">Water and sanitation</sector>
+<activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+<default-flow-type code="30">Private Grants</default-flow-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="3">Partially tied</default-tied-status>
+<contact-info type="1">
+<organisation>WaterAid</organisation>
+<mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+<email>opendata@wateraid.org</email>
+<website>http://www.wateraid.org/uk/open</website>
+</contact-info>
+<activity-date type="start-actual" iso-date="2013-10-23Z">Date that project started to the nearest quarter</activity-date>
+<activity-date type="end-planned" iso-date="2016-09-30Z">Date that project is due to end</activity-date>
+<participating-org role="Funding" ref="" type="21">WaterAid Member - America</participating-org>
+<transaction ref="GB-CHC-288701-GHJ50-2013-Q4-IF-MMMM1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">136177.28</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">WaterAid Member - America</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GHJ50">WaterAid</receiver-org>
+</transaction>
+<related-activity type="1" ref="GB-CHC-288701-GH">WaterAid Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH999">WaterAid Ghana Unrestricted Project</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH103">HSBC Water Programme  - Investing in Lives and Livelihoods.</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH104">Promoting Improved Water, Sanitation and Hygiene in Afram Plains</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA28">Developing Southern Civil Society Advocacy in Water and Sanitation in Sub-Saharan Africa, South Asia and Central America</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA35">Water Sanitation and Hygiene Technologies</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA50">Empowering CSOs to improve the delivery of WASH</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ10">WASH project in West Africa</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHK37">WASH for all in Tanzania, Malawi and Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHR50">Akpropong School for the Blind</related-activity>
+</iati-activity>
+  <iati-activity hierarchy="4" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-06-29T12:00:00Z">
+<iati-identifier>GB-CHC-288701-GH999</iati-identifier>
+<title>WaterAid Ghana Unrestricted Project</title>
+<description type="1">Our aim is to ensure universal and lasting access to water and sanitation and hygiene as fundamental human rights. Unrestricted funding is essential to the way we work; It provides us with the flexibility to carry out work that is not covered by grants restricted to specific projects. This enables us to be more innovative,  and work on activities that are crucial  in  maximising our impact but may produce results that are hard to measure.  For example, it can help us to empower communities, support inclusion, and influence decision makers such as local and national government. It can be used to build the capacity of our staff and partner organisations, to monitor, research and learn from our work and share learning with others.  Finally, it provides our programmes with financial sustainability to ensure critical work can continue where there are funding gaps and unexpected costs.</description>
+<reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+<activity-status code="2">Implementation</activity-status>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector vocabulary="DAC" code="140" percentage="100">Water and sanitation</sector>
+<activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+<default-flow-type code="30">Private Grants</default-flow-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<contact-info type="1">
+<organisation>WaterAid</organisation>
+<mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+<email>opendata@wateraid.org</email>
+<website>http://www.wateraid.org/uk/open</website>
+</contact-info>
+<activity-date type="start-actual" iso-date="1985-04-01Z">Date that project started to the nearest quarter</activity-date>
+<participating-org role="Funding" ref="" type="70">CCS other</participating-org>
+<participating-org role="Funding" ref="GB-CHC-288701" type="21">WaterAid</participating-org>
+<participating-org role="Implementing" ref="" type="22">BEWDA GHANA</participating-org>
+<participating-org role="Implementing" ref="" type="22">New Energy</participating-org>
+<participating-org role="Implementing" ref="" type="22">Oboomma Rural Action Project</participating-org>
+<participating-org role="Implementing" ref="" type="22">Professional Network Association (North)</participating-org>
+<participating-org role="Implementing" ref="" type="22">Rural Aid</participating-org>
+<participating-org role="Implementing" ref="GB-CHC-288701" type="21">WaterAid</participating-org>
+<transaction ref="GB-CHC-288701-GH999-2013-Q2-D-OBOO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">522.09</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Oboomma Rural Action Project</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2013-Q3-D-NEWE1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">742.19</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">New Energy</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2014-Q1-D-BEWD1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">51518.24</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">BEWDA GHANA</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2014-Q1-D-NEWE1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">39035.79</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">New Energy</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2014-Q1-D-OBOO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">2687.01</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Oboomma Rural Action Project</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2014-Q1-D-PROF1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">40132.15</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Professional Network Association (North)</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2014-Q1-D-RURA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">40005.55</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Rural Aid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2013-Q2-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">89171.61</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2013-Q3-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">171877.49</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2013-Q4-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">177815.81</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2014-Q1-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">76617.17</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH999">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH999-2014-Q1-IF-CCSO1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">3000</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">CCS other</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GH999">WaterAid</receiver-org>
+</transaction>
+<related-activity type="1" ref="GB-CHC-288701-GH">WaterAid Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH103">HSBC Water Programme  - Investing in Lives and Livelihoods.</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH104">Promoting Improved Water, Sanitation and Hygiene in Afram Plains</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA28">Developing Southern Civil Society Advocacy in Water and Sanitation in Sub-Saharan Africa, South Asia and Central America</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA35">Water Sanitation and Hygiene Technologies</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA50">Empowering CSOs to improve the delivery of WASH</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ10">WASH project in West Africa</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ50">Gates 2013 Sanitation Advocacy  14-04</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHK37">WASH for all in Tanzania, Malawi and Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHR50">Akpropong School for the Blind</related-activity>
+</iati-activity>
+  <iati-activity hierarchy="3" xml:lang="en" default-currency="GBP" last-updated-datetime="2013-09-29T12:00:00Z">
+    <title>WaterAid Ghana</title>
+    <description type="1">WaterAid Ghana works to help some of the poorest communities gain access to safe water, sanitation and hygiene education. In Ghana we help over 50,000 people a year and also seek to influence national water and sanitation policies so that more people gain access to these basic needs.  In Ghana, WaterAid works in six out of the ten administrative regions. These regions are where our local partners are located. The partners work in 31 out of the 110 districts nationwide. Over the years our focus has been on rural communities but we are expanding our work in urban areas, starting with a pilot urban project in Tamale, with the hope to extend it to other urban areas.</description>
+    <iati-identifier>GB-CHC-288701-GH</iati-identifier>
+    <reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="1985-04-01Z" type="start-actual">Financial year that WaterAid (re)started activities within the country</activity-date>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <sector vocabulary="DAC" code="140" percentage="100">Water and Sanitation</sector>
+    <activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+    <default-flow-type code="30">private grant</default-flow-type>
+    <default-finance-type code="110">Aid Grant excluding debt reorganisation</default-finance-type>
+    <related-activity type="1" ref="GB-CHC-288701-GB">WaterAid Core</related-activity>
+    <contact-info type="1">
+      <organisation>WaterAid</organisation>
+      <mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+      <email>opendata@wateraid.org</email>
+      <website>http://www.wateraid.org/open</website>
+    </contact-info>
+    <participating-org role="Funding" ref="GB-CHC-288701" type="21">WaterAid</participating-org>
+    <participating-org role="Implementing" type="22">Afram Plain Development Organisation</participating-org>
+    <participating-org role="Implementing" type="22">Akuapem Community Development Programme</participating-org>
+    <participating-org role="Implementing" type="22">New Energy</participating-org>
+    <participating-org role="Implementing" type="22">Professional Network Association - WA</participating-org>
+    <participating-org role="Implementing" type="22">Rural Aid</participating-org>
+    <budget type="1">
+      <period-start iso-date="2012-04-01Z">Forward looking data for WaterAid's 2012-2013 financial year (1st April to 31st March) are drawn from WaterAid's approved aspirational budgets and are estimates as at March 2013.  The actual figures achieved will vary depending on a range of factors including the securing of the funding needed, challenges faced in the countries, etc.</period-start>
+      <period-end iso-date="2013-03-31Z">End of WaterAid 2012-13 financial year (1st April to 31st March)</period-end>
+      <value value-date="2012-04-01Z">1706663</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-04-01Z">Forward looking data for WaterAid's 2013-2014 financial year (1st April to 31st March) are drawn from WaterAid's approved aspirational budgets and are estimates as at March 2013.  The actual figures achieved will vary depending on a range of factors including the securing of the funding needed, challenges faced in the countries, etc.</period-start>
+      <period-end iso-date="2014-03-31Z">End of WaterAid 2013-14 financial year (1st April to 31st March)</period-end>
+      <value value-date="2013-04-01Z">1622051</value>
+    </budget>
+    <document-link format="application/pdf" url="http://www.wateraid.org/uk/~/media/Publications/annual-reports-and-strategies/WaterAid-ghana-country-strategy-2010-2015.pdf">
+      <title xml:lang="en">WaterAid in Ghana Country Strategy 2010-15</title>
+      <category code="B03">Country strategy paper</category>
+      <language code="en">English</language>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.wateraid.org/~/media/Publications/ghana-country-programme-evaluation.pdf">
+      <title xml:lang="en">WaterAid in Ghana Country Programme Evaluation 2010: Briefing Note</title>
+      <category code="A07">Review of project performance and evaluation</category>
+      <language code="en">English</language>
+    </document-link>
+    <transaction>
+      <value value-date="2011-03-31Z">489000</value>
+      <description>Restricted spending (including expenditure and disbursements) of WaterAid Country Programme</description>
+      <transaction-date iso-date="2010-04-01Z">WaterAid 2010-11 financial year (1st April to 31st March)</transaction-date>
+    </transaction>
+    <transaction>
+      <value value-date="2012-03-31Z">703000</value>
+      <description>Restricted spending (including expenditure and disbursements) of WaterAid Country Programme</description>
+      <transaction-date iso-date="2011-04-01Z">WaterAid 2011-12 financial year (1st April to 31st March)</transaction-date>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31Z">1187000</value>
+      <description>Restricted spending (including expenditure and disbursements) of WaterAid Country Programme</description>
+      <transaction-date iso-date="2012-04-01Z">WaterAid 2012-13 financial year (1st April to 31st March)</transaction-date>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31Z">874000</value>
+      <description>Unrestricted spending (including expenditure and disbursements) of WaterAid Country Programme</description>
+      <transaction-date iso-date="2010-04-01Z">WaterAid 2010-11 financial year (1st April to 31st March)</transaction-date>
+    </transaction>
+    <transaction>
+      <value value-date="2012-03-31Z">656000</value>
+      <description>Unrestricted spending (including expenditure and disbursements) of WaterAid Country Programme</description>
+      <transaction-date iso-date="2011-04-01Z">WaterAid 2011-12 financial year (1st April to 31st March)</transaction-date>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31Z">254000</value>
+      <description>Unrestricted spending (including expenditure and disbursements) of WaterAid Country Programme</description>
+      <transaction-date iso-date="2012-04-01Z">WaterAid 2012-13 financial year (1st April to 31st March)</transaction-date>
+    </transaction>
+  </iati-activity>
+  <iati-activity hierarchy="4" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-06-29T12:00:00Z">
+<iati-identifier>GB-CHC-288701-GHK37</iati-identifier>
+<title>WASH for all in Tanzania, Malawi and Ghana</title>
+<description type="1">The primary objective of WaterAid's AACES project is to improve access to water, sanitation and hygiene in underserved communities and schools in rural and urban areas of Tanzania, Malawi and Ghana. This will be undertaken through a combination of service delivery, capacity building and policy and influencing activities.</description>
+<reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+<activity-status code="2">Implementation</activity-status>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector vocabulary="DAC" code="140" percentage="100">Water and sanitation</sector>
+<activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+<default-flow-type code="30">Private Grants</default-flow-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<contact-info type="1">
+<organisation>WaterAid</organisation>
+<mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+<email>opendata@wateraid.org</email>
+<website>http://www.wateraid.org/uk/open</website>
+</contact-info>
+<activity-date type="start-actual" iso-date="2013-07-01Z">Date that project started to the nearest quarter</activity-date>
+<activity-date type="end-planned" iso-date="2016-06-30Z">Date that project is due to end</activity-date>
+<participating-org role="Funding" ref="" type="21">WaterAid Member - Australia</participating-org>
+<participating-org role="Implementing" ref="" type="22">Akuapem Community Development Programme</participating-org>
+<participating-org role="Implementing" ref="" type="22">BEWDA GHANA</participating-org>
+<participating-org role="Implementing" ref="" type="22">Center for Ingeneous Knowledge for Organizatio Dvt</participating-org>
+<participating-org role="Implementing" ref="" type="22">Ghana Coalition NGOs in Water &amp; Sanitation Sector</participating-org>
+<participating-org role="Implementing" ref="" type="22">Professional Network Association (Accra)</participating-org>
+<participating-org role="Implementing" ref="GB-CHC-288701" type="21">WaterAid</participating-org>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q2-D-AKUA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">6402.19</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Akuapem Community Development Programme</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q2-D-CIKO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">6320.09</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Center for Ingeneous Knowledge for Organizatio Dvt</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q2-D-GHAN1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">1981.25</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Ghana Coalition NGOs in Water &amp; Sanitation Sector</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q2-D-PROF2">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">9826.66</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Professional Network Association (Accra)</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q3-D-AKUA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">3746.62</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Akuapem Community Development Programme</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q3-D-CIKO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">4225.56</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Center for Ingeneous Knowledge for Organizatio Dvt</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q3-D-GHAN1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">2319.31</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Ghana Coalition NGOs in Water &amp; Sanitation Sector</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q3-D-PROF2">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">12973.89</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Professional Network Association (Accra)</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q4-D-AKUA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">9480.18</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Akuapem Community Development Programme</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q4-D-CIKO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">2883.69</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Center for Ingeneous Knowledge for Organizatio Dvt</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q4-D-GHAN1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">805.02</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Ghana Coalition NGOs in Water &amp; Sanitation Sector</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q4-D-PROF2">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">15840.65</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Professional Network Association (Accra)</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2014-Q1-D-AKUA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">9746.69</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Akuapem Community Development Programme</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2014-Q1-D-BEWD1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">2091.6</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">BEWDA GHANA</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2014-Q1-D-CIKO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">2284.01</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Center for Ingeneous Knowledge for Organizatio Dvt</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2014-Q1-D-GHAN1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">1369.59</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Ghana Coalition NGOs in Water &amp; Sanitation Sector</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2014-Q1-D-PROF2">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">8475.05</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Professional Network Association (Accra)</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q2-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">33598.92</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q3-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">37798.89</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q4-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">45108.38</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2014-Q1-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">48123.99</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHK37">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2013-Q4-IF-MMMM2">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">-117488.16</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">WaterAid Member - Australia</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GHK37">WaterAid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHK37-2014-Q1-IF-MMMM2">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">-15456.12</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">WaterAid Member - Australia</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GHK37">WaterAid</receiver-org>
+</transaction>
+<related-activity type="1" ref="GB-CHC-288701-GH">WaterAid Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH999">WaterAid Ghana Unrestricted Project</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH103">HSBC Water Programme  - Investing in Lives and Livelihoods.</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH104">Promoting Improved Water, Sanitation and Hygiene in Afram Plains</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA28">Developing Southern Civil Society Advocacy in Water and Sanitation in Sub-Saharan Africa, South Asia and Central America</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA35">Water Sanitation and Hygiene Technologies</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA50">Empowering CSOs to improve the delivery of WASH</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ10">WASH project in West Africa</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ50">Gates 2013 Sanitation Advocacy  14-04</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHR50">Akpropong School for the Blind</related-activity>
+</iati-activity>
+  <iati-activity hierarchy="4" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-06-29T12:00:00Z">
+<iati-identifier>GB-CHC-288701-GHA50</iati-identifier>
+<title>Empowering CSOs to improve the delivery of WASH</title>
+<description type="1">Increase the capacity of local communities and civil society organizations to effectively demand and monitor the provision of equitable WASH services through evidence-based dialogue with local duty-bearers.</description>
+<reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+<activity-status code="2">Implementation</activity-status>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector vocabulary="DAC" code="140" percentage="100">Water and sanitation</sector>
+<activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+<default-flow-type code="30">Private Grants</default-flow-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="3">Partially tied</default-tied-status>
+<contact-info type="1">
+<organisation>WaterAid</organisation>
+<mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+<email>opendata@wateraid.org</email>
+<website>http://www.wateraid.org/uk/open</website>
+</contact-info>
+<activity-date type="start-actual" iso-date="2014-04-01Z">Date that project started to the nearest quarter</activity-date>
+<activity-date type="end-planned" iso-date="2015-01-31Z">Date that project is due to end</activity-date>
+<participating-org role="Funding" ref="" type="40">European Commission</participating-org>
+<transaction ref="GB-CHC-288701-GHA50-2014-Q1-IF-EURO1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">152844.29</value>
+<flow-type code="10">ODA</flow-type>
+<provider-org ref="" provider-activity-id="">European Commission</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GHA50">WaterAid</receiver-org>
+</transaction>
+<related-activity type="1" ref="GB-CHC-288701-GH">WaterAid Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH999">WaterAid Ghana Unrestricted Project</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH103">HSBC Water Programme  - Investing in Lives and Livelihoods.</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH104">Promoting Improved Water, Sanitation and Hygiene in Afram Plains</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA28">Developing Southern Civil Society Advocacy in Water and Sanitation in Sub-Saharan Africa, South Asia and Central America</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA35">Water Sanitation and Hygiene Technologies</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ10">WASH project in West Africa</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ50">Gates 2013 Sanitation Advocacy  14-04</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHK37">WASH for all in Tanzania, Malawi and Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHR50">Akpropong School for the Blind</related-activity>
+</iati-activity>
+  <iati-activity hierarchy="4" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-06-29T12:00:00Z">
+<iati-identifier>GB-CHC-288701-GHJ10</iati-identifier>
+<title>WASH project in West Africa</title>
+<description type="1">Objective 1. (Water Supply; Sanitation and Hygiene Promotion) – Provide access to safe water in conjunction with improved hygiene and sanitation. Objective 2.  (Capacity Building) – Support governments and service providers at the local level to equitably and sustainably deliver safe water. Objective 3. (Sector Monitoring and Evaluation) – Improve sector performance through sector monitoring and influencing at the local, regional, and national levels. Objective 4. (Learning and Knowledge-Sharing) – Strengthen regional knowledge management and sharing of lessons learned.</description>
+<reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+<activity-status code="2">Implementation</activity-status>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector vocabulary="DAC" code="140" percentage="100">Water and sanitation</sector>
+<activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+<default-flow-type code="30">Private Grants</default-flow-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<contact-info type="1">
+<organisation>WaterAid</organisation>
+<mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+<email>opendata@wateraid.org</email>
+<website>http://www.wateraid.org/uk/open</website>
+</contact-info>
+<activity-date type="start-actual" iso-date="2011-04-01Z">Date that project started to the nearest quarter</activity-date>
+<activity-date type="end-planned" iso-date="2014-03-31Z">Date that project is due to end</activity-date>
+<participating-org role="Funding" ref="" type="21">WaterAid Member - America</participating-org>
+<participating-org role="Implementing" ref="" type="22">BEWDA GHANA</participating-org>
+<participating-org role="Implementing" ref="" type="22">Binaba Area Community Health Project</participating-org>
+<participating-org role="Implementing" ref="" type="22">Ghana Coalition NGOs in Water &amp; Sanitation Sector</participating-org>
+<participating-org role="Implementing" ref="" type="22">New Energy</participating-org>
+<participating-org role="Implementing" ref="" type="22">Professional Network Association (North)</participating-org>
+<participating-org role="Implementing" ref="" type="22">Rural Aid</participating-org>
+<participating-org role="Implementing" ref="GB-CHC-288701" type="21">WaterAid</participating-org>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q2-D-BEWD1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">2363.95</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">BEWDA GHANA</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q2-D-BINA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">10.2</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Binaba Area Community Health Project</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q2-D-NEWE1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">7965.12</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">New Energy</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q2-D-PROF1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">8185.41</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Professional Network Association (North)</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q2-D-RURA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">8934.7</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Rural Aid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q3-D-BEWD1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">9702.37</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">BEWDA GHANA</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q3-D-BINA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">13529.52</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Binaba Area Community Health Project</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q3-D-GHAN1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">3637.5</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Ghana Coalition NGOs in Water &amp; Sanitation Sector</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q3-D-NEWE1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">18519.82</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">New Energy</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q3-D-PROF1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">30712.93</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Professional Network Association (North)</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q3-D-RURA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">28688.51</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Rural Aid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q4-D-BEWD1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">7935.81</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">BEWDA GHANA</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q4-D-BINA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">3299.97</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Binaba Area Community Health Project</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q4-D-GHAN1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">757.24</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Ghana Coalition NGOs in Water &amp; Sanitation Sector</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q4-D-NEWE1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">32419.11</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">New Energy</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q4-D-PROF1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">30514.14</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Professional Network Association (North)</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q4-D-RURA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">19346.21</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Rural Aid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2014-Q1-D-BEWD1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">-27376.65</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">BEWDA GHANA</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2014-Q1-D-GHAN1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">521.17</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Ghana Coalition NGOs in Water &amp; Sanitation Sector</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2014-Q1-D-NEWE1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">-26581.81</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">New Energy</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2014-Q1-D-PROF1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">-23817.93</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Professional Network Association (North)</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2014-Q1-D-RURA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">-20646.06</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Rural Aid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q2-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">1397.72</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q3-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">-37940.88</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2013-Q4-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">-27789.45</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHJ10-2014-Q1-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">129437.83</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHJ10">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<related-activity type="1" ref="GB-CHC-288701-GH">WaterAid Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH999">WaterAid Ghana Unrestricted Project</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH103">HSBC Water Programme  - Investing in Lives and Livelihoods.</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH104">Promoting Improved Water, Sanitation and Hygiene in Afram Plains</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA28">Developing Southern Civil Society Advocacy in Water and Sanitation in Sub-Saharan Africa, South Asia and Central America</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA35">Water Sanitation and Hygiene Technologies</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA50">Empowering CSOs to improve the delivery of WASH</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ50">Gates 2013 Sanitation Advocacy  14-04</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHK37">WASH for all in Tanzania, Malawi and Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHR50">Akpropong School for the Blind</related-activity>
+</iati-activity>
+  <iati-activity hierarchy="4" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-06-29T12:00:00Z">
+<iati-identifier>GB-CHC-288701-GHA28</iati-identifier>
+<title>Developing Southern Civil Society Advocacy in Water and Sanitation in Sub-Saharan Africa, South Asia and Central America</title>
+<description type="1">The GTF programme is a £5 million  DFID funded programme over 5  years across 16 countries in Africa, Asia and Central America aiming to improve Accountability and Responsiveness of the duty bearers for an effective WASH delivery</description>
+<reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+<activity-status code="2">Implementation</activity-status>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector vocabulary="DAC" code="140" percentage="100">Water and sanitation</sector>
+<activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+<default-flow-type code="30">Private Grants</default-flow-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<contact-info type="1">
+<organisation>WaterAid</organisation>
+<mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+<email>opendata@wateraid.org</email>
+<website>http://www.wateraid.org/uk/open</website>
+</contact-info>
+<activity-date type="start-actual" iso-date="2008-10-01Z">Date that project started to the nearest quarter</activity-date>
+<activity-date type="end-planned" iso-date="2013-09-30Z">Date that project is due to end</activity-date>
+<participating-org role="Funding" ref="" type="10">DFID - GTF</participating-org>
+<participating-org role="Implementing" ref="" type="22">Association of Water &amp; Sanitation Developmnt Board</participating-org>
+<participating-org role="Implementing" ref="" type="22">Ghana Coalition NGOs in Water &amp; Sanitation Sector</participating-org>
+<participating-org role="Implementing" ref="GB-CHC-288701" type="21">WaterAid</participating-org>
+<transaction ref="GB-CHC-288701-GHA28-2013-Q2-D-ASSO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">2660.38</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHA28">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Association of Water &amp; Sanitation Developmnt Board</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHA28-2013-Q2-D-GHAN1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">2719.4</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHA28">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Ghana Coalition NGOs in Water &amp; Sanitation Sector</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHA28-2013-Q3-D-ASSO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">3751.17</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHA28">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Association of Water &amp; Sanitation Developmnt Board</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHA28-2013-Q3-D-GHAN1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">4095.51</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHA28">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Ghana Coalition NGOs in Water &amp; Sanitation Sector</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHA28-2013-Q2-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">6130.34</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHA28">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHA28-2013-Q3-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">2252.37</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHA28">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<related-activity type="1" ref="GB-CHC-288701-GH">WaterAid Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH999">WaterAid Ghana Unrestricted Project</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH103">HSBC Water Programme  - Investing in Lives and Livelihoods.</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH104">Promoting Improved Water, Sanitation and Hygiene in Afram Plains</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA35">Water Sanitation and Hygiene Technologies</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA50">Empowering CSOs to improve the delivery of WASH</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ10">WASH project in West Africa</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ50">Gates 2013 Sanitation Advocacy  14-04</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHK37">WASH for all in Tanzania, Malawi and Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHR50">Akpropong School for the Blind</related-activity>
+</iati-activity>
+  <iati-activity hierarchy="4" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-06-29T12:00:00Z">
+<iati-identifier>GB-CHC-288701-GHR50</iati-identifier>
+<title>Akpropong School for the Blind</title>
+<description type="1">To improve Water and Sanitation for 4856 students</description>
+<reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+<activity-status code="2">Implementation</activity-status>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector vocabulary="DAC" code="140" percentage="100">Water and sanitation</sector>
+<activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+<default-flow-type code="30">Private Grants</default-flow-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<contact-info type="1">
+<organisation>WaterAid</organisation>
+<mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+<email>opendata@wateraid.org</email>
+<website>http://www.wateraid.org/uk/open</website>
+</contact-info>
+<activity-date type="start-actual" iso-date="2013-11-01Z">Date that project started to the nearest quarter</activity-date>
+<activity-date type="end-planned" iso-date="2015-01-31Z">Date that project is due to end</activity-date>
+<participating-org role="Funding" ref="" type="70">Diageo</participating-org>
+<participating-org role="Implementing" ref="" type="22">Akuapem Community Development Programme</participating-org>
+<transaction ref="GB-CHC-288701-GHR50-2014-Q1-D-AKUA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">2396.09</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHR50">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Akuapem Community Development Programme</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHR50-2013-Q4-IF-DIAG1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">15097.81</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">Diageo</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GHR50">WaterAid</receiver-org>
+</transaction>
+<related-activity type="1" ref="GB-CHC-288701-GH">WaterAid Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH999">WaterAid Ghana Unrestricted Project</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH103">HSBC Water Programme  - Investing in Lives and Livelihoods.</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH104">Promoting Improved Water, Sanitation and Hygiene in Afram Plains</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA28">Developing Southern Civil Society Advocacy in Water and Sanitation in Sub-Saharan Africa, South Asia and Central America</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA35">Water Sanitation and Hygiene Technologies</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA50">Empowering CSOs to improve the delivery of WASH</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ10">WASH project in West Africa</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ50">Gates 2013 Sanitation Advocacy  14-04</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHK37">WASH for all in Tanzania, Malawi and Ghana</related-activity>
+</iati-activity>
+  <iati-activity hierarchy="4" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-06-29T12:00:00Z">
+<iati-identifier>GB-CHC-288701-GH104</iati-identifier>
+<title>Promoting Improved Water, Sanitation and Hygiene in Afram Plains</title>
+<description type="1">Project will provide access to clean water, sanitation and hygiene to a marginalized community in Krachi East, a poor, deprived district in southern Ghana. In 2013-14 there will be a total of 3,900 people gaining access to WASH services.</description>
+<reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+<activity-status code="2">Implementation</activity-status>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector vocabulary="DAC" code="140" percentage="100">Water and sanitation</sector>
+<activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+<default-flow-type code="30">Private Grants</default-flow-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<contact-info type="1">
+<organisation>WaterAid</organisation>
+<mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+<email>opendata@wateraid.org</email>
+<website>http://www.wateraid.org/uk/open</website>
+</contact-info>
+<activity-date type="start-actual" iso-date="2008-10-01Z">Date that project started to the nearest quarter</activity-date>
+<activity-date type="end-planned" iso-date="2013-09-30Z">Date that project is due to end</activity-date>
+<participating-org role="Funding" ref="" type="52">Choir Groups</participating-org>
+<participating-org role="Funding" ref="" type="52">High Value Supporter</participating-org>
+<participating-org role="Implementing" ref="" type="22">Afram Plain Development Organization</participating-org>
+<participating-org role="Implementing" ref="" type="22">Professional Network Association (North)</participating-org>
+<participating-org role="Implementing" ref="GB-CHC-288701" type="21">WaterAid</participating-org>
+<transaction ref="GB-CHC-288701-GH104-2013-Q2-D-AFRA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">12155.84</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH104">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Afram Plain Development Organization</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2013-Q3-D-AFRA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">15422.57</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH104">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Afram Plain Development Organization</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2013-Q4-D-AFRA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">22672.03</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH104">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Afram Plain Development Organization</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2014-Q1-D-AFRA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">23695.12</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH104">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Afram Plain Development Organization</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2014-Q1-D-PROF1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">715.36</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH104">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Professional Network Association (North)</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2013-Q2-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">10082.4</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH104">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2013-Q3-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">4637.09</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH104">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2013-Q4-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">16188.45</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH104">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2014-Q1-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">9875.47</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH104">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2013-Q4-IF-CHOR1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">16550.06</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">Choir Groups</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GH104">WaterAid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2013-Q4-IF-HVSP1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">-15</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">High Value Supporter</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GH104">WaterAid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH104-2014-Q1-IF-CHOR1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">5037.02</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">Choir Groups</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GH104">WaterAid</receiver-org>
+</transaction>
+<related-activity type="1" ref="GB-CHC-288701-GH">WaterAid Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH999">WaterAid Ghana Unrestricted Project</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH103">HSBC Water Programme  - Investing in Lives and Livelihoods.</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA28">Developing Southern Civil Society Advocacy in Water and Sanitation in Sub-Saharan Africa, South Asia and Central America</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA35">Water Sanitation and Hygiene Technologies</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA50">Empowering CSOs to improve the delivery of WASH</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ10">WASH project in West Africa</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ50">Gates 2013 Sanitation Advocacy  14-04</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHK37">WASH for all in Tanzania, Malawi and Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHR50">Akpropong School for the Blind</related-activity>
+</iati-activity>
+  <iati-activity hierarchy="4" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-06-29T12:00:00Z">
+<iati-identifier>GB-CHC-288701-GH103</iati-identifier>
+<title>HSBC Water Programme  - Investing in Lives and Livelihoods.</title>
+<description type="1">Five WASH projects under the HSBC Water Programme (rural and peri urban)</description>
+<reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+<activity-status code="2">Implementation</activity-status>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector vocabulary="DAC" code="140" percentage="100">Water and sanitation</sector>
+<activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+<default-flow-type code="30">Private Grants</default-flow-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<contact-info type="1">
+<organisation>WaterAid</organisation>
+<mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+<email>opendata@wateraid.org</email>
+<website>http://www.wateraid.org/uk/open</website>
+</contact-info>
+<activity-date type="start-actual" iso-date="2012-09-01Z">Date that project started to the nearest quarter</activity-date>
+<activity-date type="end-planned" iso-date="2016-12-31Z">Date that project is due to end</activity-date>
+<participating-org role="Funding" ref="" type="70">Corporate - Partners - Other Established</participating-org>
+<participating-org role="Funding" ref="" type="70">HSBC</participating-org>
+<participating-org role="Implementing" ref="" type="22">Afram Plain Development Organization</participating-org>
+<participating-org role="Implementing" ref="" type="22">BIDO</participating-org>
+<participating-org role="Implementing" ref="" type="22">INTRAGRAD</participating-org>
+<participating-org role="Implementing" ref="" type="22">LINKS</participating-org>
+<participating-org role="Implementing" ref="" type="22">Oboomma Rural Action Project</participating-org>
+<participating-org role="Implementing" ref="" type="22">Rural Aid</participating-org>
+<participating-org role="Implementing" ref="GB-CHC-288701" type="21">WaterAid</participating-org>
+<transaction ref="GB-CHC-288701-GH103-2013-Q2-D-BIDO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">10075.38</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">BIDO</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q2-D-INTA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">23118.2</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">INTRAGRAD</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q2-D-LINK1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">13444.55</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">LINKS</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q2-D-OBOO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">3691.69</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Oboomma Rural Action Project</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q2-D-RURA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">8654.49</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Rural Aid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q3-D-BIDO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">3579.11</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">BIDO</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q3-D-INTA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">18584.5</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">INTRAGRAD</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q3-D-LINK1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">10602.13</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">LINKS</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q3-D-OBOO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">12302.49</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Oboomma Rural Action Project</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q3-D-RURA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">16682.88</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Rural Aid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q4-D-AFRA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">830.52</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Afram Plain Development Organization</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q4-D-BIDO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">12831.28</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">BIDO</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q4-D-INTA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">31108.74</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">INTRAGRAD</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q4-D-LINK1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">35432.29</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">LINKS</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q4-D-OBOO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">13727.29</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Oboomma Rural Action Project</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q4-D-RURA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">14758.7</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Rural Aid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2014-Q1-D-BIDO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">7459.74</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">BIDO</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2014-Q1-D-INTA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">22216.37</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">INTRAGRAD</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2014-Q1-D-LINK1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">8507.35</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">LINKS</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2014-Q1-D-OBOO1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">3419.57</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Oboomma Rural Action Project</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2014-Q1-D-RURA1">
+<transaction-type code="D">Disbursement</transaction-type>
+<description>Disbursement to partner for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">17857.1</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id="">Rural Aid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q2-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">29082.96</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q3-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">24733.98</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q4-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">34414.63</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2014-Q1-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">22539.87</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GH103">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2013-Q4-IF-COLD1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">227052.1</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">Corporate - Partners - Other Established</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GH103">WaterAid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2014-Q1-IF-COLD1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">-227052.1</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">Corporate - Partners - Other Established</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GH103">WaterAid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GH103-2014-Q1-IF-HSBC1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">439278.8</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="" provider-activity-id="">HSBC</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GH103">WaterAid</receiver-org>
+</transaction>
+<related-activity type="1" ref="GB-CHC-288701-GH">WaterAid Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH999">WaterAid Ghana Unrestricted Project</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH104">Promoting Improved Water, Sanitation and Hygiene in Afram Plains</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA28">Developing Southern Civil Society Advocacy in Water and Sanitation in Sub-Saharan Africa, South Asia and Central America</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA35">Water Sanitation and Hygiene Technologies</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA50">Empowering CSOs to improve the delivery of WASH</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ10">WASH project in West Africa</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ50">Gates 2013 Sanitation Advocacy  14-04</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHK37">WASH for all in Tanzania, Malawi and Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHR50">Akpropong School for the Blind</related-activity>
+</iati-activity>
+  <iati-activity hierarchy="4" xml:lang="en" default-currency="GBP" last-updated-datetime="2014-06-29T12:00:00Z">
+<iati-identifier>GB-CHC-288701-GHA35</iati-identifier>
+<title>Water Sanitation and Hygiene Technologies</title>
+<description type="1">To improve management and functionality of WASH systems,  the WASHTECH project  is developing the Technology Assessment Framework (TAF) that allows for an in-depth analysis of technologies before introduction and scale up to ensure that a number of dimensions for sustainability have been considered and challenges addressed. The tool will be finalised and guidelines developed for its use by different sector stakeholders at different levels.</description>
+<reporting-org ref="GB-CHC-288701" type="21">WaterAid</reporting-org>
+<activity-status code="2">Implementation</activity-status>
+<recipient-country code="GH">Ghana</recipient-country>
+<sector vocabulary="DAC" code="140" percentage="100">Water and sanitation</sector>
+<activity-website>http://www.wateraid.org/uk/where-we-work/page/ghana</activity-website>
+<default-flow-type code="30">Private Grants</default-flow-type>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<contact-info type="1">
+<organisation>WaterAid</organisation>
+<mailing-address>Open data at WaterAid, 47-49 Durham Street, London, SE11 5JD, UK</mailing-address>
+<email>opendata@wateraid.org</email>
+<website>http://www.wateraid.org/uk/open</website>
+</contact-info>
+<activity-date type="start-actual" iso-date="2011-04-01Z">Date that project started to the nearest quarter</activity-date>
+<activity-date type="end-planned" iso-date="2014-03-31Z">Date that project is due to end</activity-date>
+<participating-org role="Funding" ref="" type="40">EC FP7</participating-org>
+<participating-org role="Implementing" ref="GB-CHC-288701" type="21">WaterAid</participating-org>
+<transaction ref="GB-CHC-288701-GHA35-2013-Q2-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-04-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-06-30Z">3147.8</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHA35">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHA35-2013-Q3-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-07-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-09-30Z">7760.55</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHA35">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHA35-2013-Q4-E-ZZZZZ">
+<transaction-type code="E">Expenditure</transaction-type>
+<description>Expenditure by WaterAid for current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">2769.17</value>
+<flow-type code="30">Private Grants</flow-type>
+<provider-org ref="GB-CHC-288701" provider-activity-id="GB-CHC-288701-GHA35">WaterAid</provider-org>
+<receiver-org ref="" receiver-activity-id=""/>
+</transaction>
+<transaction ref="GB-CHC-288701-GHA35-2013-Q4-IF-ECFP1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2013-10-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2013-12-31Z">8985.95</value>
+<flow-type code="10">ODA</flow-type>
+<provider-org ref="" provider-activity-id="">EC FP7</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GHA35">WaterAid</receiver-org>
+</transaction>
+<transaction ref="GB-CHC-288701-GHA35-2014-Q1-IF-ECFP1">
+<transaction-type code="IF">Incoming Funds</transaction-type>
+<description>Incoming Funds from the donor for the current quarter of the project</description>
+<transaction-date iso-date="2014-01-01Z">Calendar quarter for the project</transaction-date>
+<value currency="GBP" value-date="2014-03-31Z">-8985.95</value>
+<flow-type code="10">ODA</flow-type>
+<provider-org ref="" provider-activity-id="">EC FP7</provider-org>
+<receiver-org ref="GB-CHC-288701" receiver-activity-id="GB-CHC-288701-GHA35">WaterAid</receiver-org>
+</transaction>
+<related-activity type="1" ref="GB-CHC-288701-GH">WaterAid Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH999">WaterAid Ghana Unrestricted Project</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH103">HSBC Water Programme  - Investing in Lives and Livelihoods.</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GH104">Promoting Improved Water, Sanitation and Hygiene in Afram Plains</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA28">Developing Southern Civil Society Advocacy in Water and Sanitation in Sub-Saharan Africa, South Asia and Central America</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHA50">Empowering CSOs to improve the delivery of WASH</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ10">WASH project in West Africa</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHJ50">Gates 2013 Sanitation Advocacy  14-04</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHK37">WASH for all in Tanzania, Malawi and Ghana</related-activity>
+<related-activity type="3" ref="GB-CHC-288701-GHR50">Akpropong School for the Blind</related-activity>
+</iati-activity>
+</iati-activities>

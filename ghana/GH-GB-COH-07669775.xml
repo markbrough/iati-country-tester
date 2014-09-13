@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-06-04T15:16:30+00:00">
+    <reporting-org ref="GB-COH-07669775" type="70" xml:lang="en">GEMS Education Solutions</reporting-org>
+    <iati-identifier>GB-COH-07669775-mgcubed</iati-identifier>
+    <title>MGCubed - Making Ghanaian Girls Great!</title>
+    <description type="1">MGCubed is a two and a half year project which delivers lessons. It is being delivered by GEMS Education Solutions in Ghana alongside key partners Aleutia, Everonn, Gem Technologies, and our independent evaluator, Innovations for Poverty Action. It will target 6,000 marginalised elementary school girls in the Volta Region (Nkwanta and Kadjebi districts) and in the Greater Accra Region (Ada West, Ada East, Shai Osudoku and Ningo Prampram districts). The pioneering first-of-its-kind project focuses on ‘interactive distance learning’ providing classrooms in seventy schools with solar-powered computers and projectors to broadcast live sessions from teaching studios in Accra.</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2013-06-30"/>
+    <activity-date type="end-planned" iso-date="2016-02-29"/>
+    <participating-org type="70" role="Funding" ref="GB-COH-03580586-GEC">Girls' Education Challenge - Fund Manager PWC</participating-org>
+    <participating-org type="70" role="Implementing" ref="GB-COH-97669775">GEMS Education Solutions</participating-org>
+    <recipient-country code="GH" percentage="100"/>
+    <sector code="11220"/>
+    <sector code="11120"/>
+    <collaboration-type code="1"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <budget type="1">
+      <period-start iso-date="2013-06-30"/>
+      <period-end iso-date="2014-06-30"/>
+      <value value-date="2013-06-30">990076.46</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-07-01"/>
+      <period-end iso-date="2015-07-01"/>
+      <value value-date="2014-07-01">1230811.2</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-07-02"/>
+      <period-end iso-date="2016-02-29"/>
+      <value value-date="2015-07-02">931358.99</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C"/>
+      <provider-org ref="GB-COH-03580586-GEC" provider-activity-id="GB-COH-03580586-GEC-Recipient-7045">Girls' Education Challenge - Fund Manager PWC</provider-org>
+      <receiver-org ref="GB-COH-07669775" receiver-activity-id="GB-COH-07669775-mgcubed">GEMS Education Solutions</receiver-org>
+      <value value-date="2013-06-30">3152246.66</value>
+      <description>Total grant from DfID over project lifetime</description>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-COH-03580586-GEC" provider-activity-id="GB-COH-03580586-GEC-Recipient-7045">Girls' Education Challenge - Fund Manager PWC</provider-org>
+      <receiver-org ref="GB-COH-07669775" receiver-activity-id="GB-COH-07669775-mgcubed">GEMS Education Solutions</receiver-org>
+      <value value-date="2014-03-30">363171</value>
+      <transaction-date iso-date="2014-03-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-COH-03580586-GEC" provider-activity-id="GB-COH-03580586-GEC-Recipient-7045">Girls' Education Challenge - Fund Manager PWC</provider-org>
+      <receiver-org ref="GB-COH-07669775" receiver-activity-id="GB-COH-07669775-mgcubed">GEMS Education Solutions</receiver-org>
+      <value value-date="2013-09-30">0</value>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-COH-03580586-GEC" provider-activity-id="GB-COH-03580586-GEC-Recipient-7045">Girls' Education Challenge - Fund Manager PWC</provider-org>
+      <receiver-org ref="GB-COH-07669775" receiver-activity-id="GB-COH-07669775-mgcubed">GEMS Education Solutions</receiver-org>
+      <value value-date="2013-12-30">222008</value>
+      <transaction-date iso-date="2013-12-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org ref="GB-COH-03580586-GEC" provider-activity-id="GB-COH-03580586-GEC-Recipient-7045">Girls' Education Challenge - Fund Manager PWC</provider-org>
+      <receiver-org ref="GB-COH-07669775" receiver-activity-id="GB-COH-07669775-mgcubed">GEMS Education Solutions</receiver-org>
+      <value value-date="2014-06-30">404897.46</value>
+      <transaction-date iso-date="2014-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-COH-03580586-GEC" provider-activity-id="GB-COH-03580586-GEC-Recipient-7045">Girls' Education Challenge - Fund Manager PWC</provider-org>
+      <receiver-org ref="GB-COH-07669775" receiver-activity-id="GB-COH-07669775-mgcubed">GEMS Education Solutions</receiver-org>
+      <value value-date="2013-08-30">222008</value>
+      <transaction-date iso-date="2013-08-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-COH-03580586-GEC" provider-activity-id="GB-COH-03580586-GEC-Recipient-7045">Girls' Education Challenge - Fund Manager PWC</provider-org>
+      <receiver-org ref="GB-COH-07669775" receiver-activity-id="GB-COH-07669775-mgcubed">GEMS Education Solutions</receiver-org>
+      <value value-date="2013-11-30">363171</value>
+      <transaction-date iso-date="2013-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-COH-03580586-GEC" provider-activity-id="GB-COH-03580586-GEC-Recipient-7045">Girls' Education Challenge - Fund Manager PWC</provider-org>
+      <receiver-org ref="GB-COH-07669775" receiver-activity-id="GB-COH-07669775-mgcubed">GEMS Education Solutions</receiver-org>
+      <value value-date="2014-02-28">404897.46</value>
+      <transaction-date iso-date="2014-02-28"/>
+    </transaction>
+    <document-link url="http://www.aidstream.org/files/documents/MGCubed Log Frame GEMS Education Solutions GEC DfID.xls" format="application/vnd.ms-excel">
+      <language>en</language>
+      <category code="A08"/>
+      <title>MGCubed Logistical Framework</title>
+    </document-link>
+    <activity-website>http://www.gemseducation.com/solutions/about-us/dfid-funds-mgcubed/?submenuid=6845&amp;parentid=1109</activity-website>
+  </iati-activity>
+</iati-activities>

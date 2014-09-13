@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-06-17T06:29:12+00:00">
+    <reporting-org ref="GB-CHC-1104458" type="21" xml:lang="en">Theatre for a Change UK</reporting-org>
+    <iati-identifier>GB-CHC-1104458-GEC</iati-identifier>
+    <title xml:lang="en">Girls' Education Challenge Project</title>
+    <description xml:lang="en" type="1">Improving Girl's enrolment, retention and learning in school - empowering marginalised and at risk girls, aged 11 - 14 to stay in school, return to school, and improve their literacy, numeracy and sexual and reproductive health.</description>
+    <activity-status xml:lang="en" code="2">The implementation phase of the project began on the 1st March 2014, following 8 months of inception.</activity-status>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2013-06-27">Beginning of inception phase</activity-date>
+    <activity-date type="end-planned" iso-date="2016-05-31"/>
+    <contact-info xml:lang="en">
+      <organisation>Theatre for a Change UK</organisation>
+      <person-name>Fiona Morrell</person-name>
+      <job-title xml:lang="en">Fundraising and Grants Manager</job-title>
+      <telephone>0044 7916 168352</telephone>
+      <email>fiona.morrell@tfacafrica.com</email>
+      <mailing-address>31 Clerkenwell Close, London, EC1R 0AT</mailing-address>
+      <website>www.tfacafrica.com</website>
+    </contact-info>
+    <participating-org xml:lang="en" type="22" role="Implementing" ref="MW-NBM-00139">Theatre for a Change Malawi</participating-org>
+    <participating-org xml:lang="en" type="21" role="Accountable" ref="GB-CHC-1104458">Theatre for a Change UK</participating-org>
+    <participating-org xml:lang="en" type="70" role="Funding" ref="GB-COH-03580586-GEC-fund-A1">Girls Education Challenge-Fund Manager PwC</participating-org>
+    <recipient-country xml:lang="en" code="MW" percentage="100"/>
+    <location percentage="100">
+      <location-type code="ADM1"/>
+      <name>Central and Southern Malawi</name>
+      <description>Central and Southern Malawi are two of Malawi's three regions. The project is located in rural areas in these regions. The head coordinator office for the project is based in Lilongwe.</description>
+      <administrative country="MW" adm1="Central" adm2="Lilongwe">Lilongwe, Central, Republic of Malawi</administrative>
+      <coordinates latitude="-14.136575651477932" longitude="34.002685546875" precision="1"/>
+      <gazetteer-entry gazetteer-ref="GEO">Lilongwe</gazetteer-entry>
+    </location>
+    <sector xml:lang="en" vocabulary="DAC" code="13040">The project helps children in primary school to protect themselves from HIV/AIDS</sector>
+    <sector xml:lang="en" vocabulary="DAC" code="11220">The project empowers girls in primary schools to improve their literacy and numeracy, and their participation in class. It also builds the capacity and skills of selected female teachers.</sector>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <budget type="1">
+      <period-start iso-date="2013-06-27">Total budget for whole GEC project from DfiD. PwC is the Fund Manager for the GEC project.</period-start>
+      <period-end iso-date="2016-05-31"/>
+      <value currency="GBP" value-date="2013-06-27">2138028.19</value>
+    </budget>
+    <planned-disbursement updated="2013-06-27">
+      <period-start iso-date="2013-06-27">Whole amount of money planned for TfaC MW</period-start>
+      <period-end iso-date="2016-05-31">Whole amount of money planned for TfaC MW</period-end>
+      <value currency="GBP" value-date="2013-06-27">1964323.19</value>
+    </planned-disbursement>
+    <transaction ref="GEC Commitment 2">
+      <transaction-type code="C">Total amount committed to the project </transaction-type>
+      <provider-org ref="GB-COH-03580586-GEC-fund-A1" provider-activity-id="GB-COH-03580586-GEC-recipient-8329">PwC</provider-org>
+      <receiver-org ref="GB-CHC-1104458" receiver-activity-id="GB-CHC-1104458-GEC">Theatre for a Change UK</receiver-org>
+      <value currency="GBP" value-date="2014-05-09">659128</value>
+      <description xml:lang="en">Total commitment addition made by PwC</description>
+      <transaction-date iso-date="2014-05-09">Date of second AGA (revised)</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Implementation Q4">
+      <transaction-type code="IF">Funding for Q4 not already included in inception (Feb 2014)</transaction-type>
+      <provider-org ref="GB-COH-03580586-GEC-fund-A1" provider-activity-id="GB-COH-03580586-GEC-recipient-8329">PwC</provider-org>
+      <receiver-org ref="GB-CHC-1104458" receiver-activity-id="GB-CHC-1104458-GEC">Theatre for a Change</receiver-org>
+      <value currency="GBP" value-date="2014-02-16">38770</value>
+      <description>Funding for 2 weeks of Q4 (inception period)</description>
+      <transaction-date iso-date="2014-02-16">Funding for 2 weeks of Q4 (inception period)</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Inception">
+      <transaction-type code="IF">Funds from PwC for inception</transaction-type>
+      <provider-org ref="GB-COH-03580586-GEC-fund-A1" provider-activity-id="GB-COH-03580586-GEC-recipient-8329">PwC</provider-org>
+      <receiver-org ref="GB-CHC-1104458" receiver-activity-id="GB-CHC-1104458-GEC">Theatre for a Change UK</receiver-org>
+      <value value-date="2013-06-27">173366.97</value>
+      <description>Funding for inception period</description>
+      <transaction-date iso-date="2013-06-27"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Implementation Q5">
+      <transaction-type code="IF">Funds from PwC for Q5 - 01.03.2014 - 31.05.2014</transaction-type>
+      <provider-org ref="GB-COH-03580586-GEC-fund-A1" provider-activity-id="GB-COH-03580586-GEC-recipient-8329">PwC</provider-org>
+      <receiver-org ref="GB-CHC-1104458" receiver-activity-id="GB-CHC-1104458-GEC">Theatre for a Change </receiver-org>
+      <value value-date="2014-03-01">305001</value>
+      <description>Incoming funds for Q5</description>
+      <transaction-date iso-date="2014-03-01">Incoming funds for Q5</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Inception">
+      <transaction-type code="D">Disbursement of money to TfaC Malawi</transaction-type>
+      <provider-org ref="GB-CHC-1104458" provider-activity-id="GB-CHC-1104458-GEC">Theatre for a Change</provider-org>
+      <receiver-org ref="MW-NBM-00139" receiver-activity-id="MW-NBM-00139-GEC">Theatre for a Change Malawi</receiver-org>
+      <value value-date="2014-06-27">142127.95</value>
+      <description>Disbursement of money to TfaC Malawi</description>
+      <transaction-date iso-date="2013-06-27"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Inception">
+      <transaction-type code="E">Expenditure in the UK</transaction-type>
+      <provider-org ref="GB-CHC-1104458" provider-activity-id="GB-CHC-1104458-GEC">Theatre for a Change</provider-org>
+      <value value-date="2013-06-27">31239.02</value>
+      <description>Expenditure on UK staff costs during the inception phase</description>
+      <transaction-date iso-date="2013-06-27">Expenditure on UK staff costs during the inception phase</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="D01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Implementation Q4">
+      <transaction-type code="D">Disbursement to Theatre for a Change for Q4 (Feb 204)</transaction-type>
+      <provider-org ref="GB-CHC-1104458" provider-activity-id="GB-CHC-1104458-GEC">Theatre for a Change</provider-org>
+      <receiver-org ref="MW-NBM-00139" receiver-activity-id="MW-NBM-00139-GEC">Theatre for a Change Malawi</receiver-org>
+      <value value-date="2014-02-16">18558</value>
+      <description>Disbursement to TfaC Malawi for Q4 (Feb)</description>
+      <transaction-date iso-date="2014-02-16">Disbursement to TfaC Malawi for Q4 (Feb)</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Implementation Q4">
+      <transaction-type code="E">Expenditure in the UK for Q4 (Feb 2014)</transaction-type>
+      <provider-org ref="GB-CHC-1104458" provider-activity-id="GB-CHC-1104458-GEC">Theatre for a Change</provider-org>
+      <value value-date="2014-02-16">20212</value>
+      <description>Expenditure on TfaC UK staff costs in Feb 2014</description>
+      <transaction-date iso-date="2014-02-16">Expenditure on TfaC UK staff costs in Feb 2014</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="D01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Implementation Q5">
+      <transaction-type code="D">Money disbursed to TfaC Malawi in Q5 01.03.2014 - 31.05.2014</transaction-type>
+      <provider-org ref="GB-CHC-1104458" provider-activity-id="GB-CHC-1104458-GEC">Theatre for a Change</provider-org>
+      <receiver-org ref="MW-NBM-00139" receiver-activity-id="MW-NBM-00139-GEC">Theatre for a Change Malawi</receiver-org>
+      <value value-date="2014-03-01">269585</value>
+      <description>Disbursement of funds to TfaC Malawi during Q5</description>
+      <transaction-date iso-date="2014-03-01">Disbursement of funds to TfaC Malawi during Q5</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Implementation Q5">
+      <transaction-type code="E">Expenditure spent in the UK in Q5 on staff costs</transaction-type>
+      <provider-org ref="GB-CHC-1104458" provider-activity-id="GB-CHC-1104458-GEC">Theatre for a Change</provider-org>
+      <value value-date="2014-03-01">35416</value>
+      <description>Money spent in the UK on Theatre for a Change staff costs during Q5</description>
+      <transaction-date iso-date="2014-03-01">Money spent in the UK on Theatre for a Change staff costs during Q5</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="D01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="GEC Commitment 1">
+      <transaction-type code="C">Commitment made by PwC in June 2013 to Theatre for a Change</transaction-type>
+      <provider-org ref="GB-COH-03580586-GEC-fund-A1" provider-activity-id="GB-COH-03580586-GEC-recipient-8329">PwC</provider-org>
+      <receiver-org ref="GB-CHC-1104458" receiver-activity-id="GB-CHC-1104458-GEC">Theatre for a Change</receiver-org>
+      <value value-date="2013-06-27">1478900</value>
+      <description>Original commitment made by PwC to Theatre for a Change for the GEC grant</description>
+      <transaction-date iso-date="2013-06-27">Beginning of inception phase</transaction-date>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <document-link url="http://www.aidstream.org/files/documents/Annex 1 - TfaC Theory of Change.pptx" format="application/vnd.ms-powerpoint">
+      <language>en</language>
+      <category code="A02">Theory of Change for the project</category>
+      <title>GEC Project Theory of Change</title>
+    </document-link>
+    <activity-website>http://www.tfacafrica.com/What-we-do/Monitoring-Evaluation-Learning/Our-reports/GEC-Baseline-Report</activity-website>
+  </iati-activity>
+</iati-activities>

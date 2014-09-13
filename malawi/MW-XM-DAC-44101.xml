@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="USD" last-updated-datetime="2014-06-03T14:38:59" xml:lang="en">
+    <reporting-org ref="XM-DAC-44101" type="">Global Education Project</reporting-org>
+    <iati-identifier>XM-DAC-44101-MW</iati-identifier>
+    <title>Malawi</title>
+    <activity-status code="2">Active</activity-status>
+    <activity-date iso-date="2014-12-30" type="end-planned"/>
+    <activity-date iso-date="2010-11-22" type="start-planned"/>
+    <participating-org ref="XM-DAC-44101" role="Funding" type="40">Global Partnership for Education</participating-org>
+    <participating-org ref="44000" role="Implementing">World Bank</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <transaction>
+      <provider-org provider-activity-id="XM-DAC-44101-MW" ref="XM-DAC-44101">Global Partnership for Education</provider-org>
+      <receiver-org ref="44000">World Bank</receiver-org>
+      <value value-date="2010-05-06">90000000</value>
+      <transaction-date iso-date="2010-05-06">5/6/2010</transaction-date>
+      <transaction-type code="C">Commitment</transaction-type>
+      <description>Grant Amount</description>
+    </transaction>
+    <transaction>
+      <description>aggregate total of transactions for 2011</description>
+      <receiver-org ref="44000">World Bank</receiver-org>
+      <provider-org provider-activity-id="XM-DAC-44101-MW" ref="XM-DAC-44101">Global Partnership for Education</provider-org>
+      <value value-date="2011-12-31">15000000</value>
+      <transaction-date iso-date="2011-12-31">12/31/2011</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>aggregate total of transactions for 2012</description>
+      <receiver-org ref="44000">World Bank</receiver-org>
+      <provider-org provider-activity-id="XM-DAC-44101-MW" ref="XM-DAC-44101">Global Partnership for Education</provider-org>
+      <value value-date="2012-12-31">23208000</value>
+      <transaction-date iso-date="2012-12-31">12/31/2012</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <description>aggregate total of transactions for 2013</description>
+      <receiver-org ref="44000">World Bank</receiver-org>
+      <provider-org provider-activity-id="XM-DAC-44101-MW" ref="XM-DAC-44101">Global Partnership for Education</provider-org>
+      <value value-date="2013-12-31">37072425</value>
+      <transaction-date iso-date="2013-12-31">12/31/2013</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

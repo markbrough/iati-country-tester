@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="GBP" last-updated-datetime="2014-08-20T15:45:53+00:00">
+    <reporting-org ref="GB-CHC-1093624" type="21" xml:lang="en">AfriKids</reporting-org>
+    <iati-identifier>GB-CHC-1093624-eb2011-15</iati-identifier>
+    <title xml:lang="en">The Education Bridge</title>
+    <description xml:lang="en" type="1">The Education Bridge will bridge the gap between educational policy and the reality as experienced by vulnerable children in three districts of Ghana’s UER.</description>
+    <description xml:lang="en" type="2">The objectives of The Education Bridge are to:&#13;
+&#13;
+(1) Progress towards universal provision and attainment of primary education in the 3 operational areas&#13;
+&#13;
+(2) Empower the schools, communities and children in the three areas,  to contribute to bringing about the achievement of universal education&#13;
+&#13;
+(3) Ensure parents and care givers show an understanding of the education services available, and a demonstrable commitment to their children's education&#13;
+&#13;
+(4) Ensure the GES School Management Committee (SMC) model becomes practically applied in the three operational areas&#13;
+&#13;
+(5) Ensure community education committees are proactive in encouraging provision and uptake of education&#13;
+&#13;
+(6) Ensure schools adopt and replicate the AfriKids child rights club model to help motivate enrolment and retention of pupils&#13;
+&#13;
+(7) Ensure communities adopt the AfriKids community education promotion and advocacy model to help ensure enrolment and retention of pupils in school</description>
+    <activity-status xml:lang="en" code="2">Implementation is taking place between July 2011 and March 2015</activity-status>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2011-07-01">The project was launched in 2011 and is being delivered through AfriKids' local area programmes in the Upper East Region of Ghana.&#13;
+&#13;
+The Ghana Education Service provides universal primary education but the schooling system is at best with challenges including poor infrastructure, an inadequate number of trained teachers and a limited community engagement. The role of the Education Bridge is to build up the capacity of the community, children and school governance systems to improve attendance and standards in school.</activity-date>
+    <activity-date xml:lang="en" type="end-planned" iso-date="2015-03-31"/>
+    <participating-org xml:lang="en" type="21" role="Implementing" ref="GB-CHC-1093624">AfriKids</participating-org>
+    <participating-org xml:lang="en" type="22" role="Implementing" ref="GH-DSW-3024">AfriKids Ghana</participating-org>
+    <participating-org xml:lang="en" type="10" role="Funding" ref="GB-1">DFID CSCF</participating-org>
+    <recipient-country xml:lang="en" code="GH" percentage="100">Ghana, Upper East Region</recipient-country>
+    <sector xml:lang="en" vocabulary="DAC" code="11220" percentage="100">The Education Bridge’s ultimate purpose is to ensure that children are in school and receiving a quality education whilst there. </sector>
+    <default-flow-type code="30"/>
+    <default-aid-type xml:lang="en" code="C01"/>
+    <budget type="1">
+      <period-start iso-date="2011-07-01"/>
+      <period-end iso-date="2012-03-31"/>
+      <value value-date="2011-07-01">152367.63</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2013-03-31"/>
+      <value value-date="2012-04-01">93749.44</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-04-01"/>
+      <period-end iso-date="2014-03-31"/>
+      <value value-date="2013-04-01">100995.63</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2015-03-31"/>
+      <value value-date="2014-04-01">113396.21</value>
+    </budget>
+    <transaction ref="education bridge total bu">
+      <transaction-type code="C"/>
+      <provider-org ref="GB-1">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1093624">AfriKids</receiver-org>
+      <value currency="GBP" value-date="2012-05-01">460509</value>
+      <description>Funding is applied to achieving the outcome that "Civil society in the three areas is empowered to adopt and enhance the policies and associated resources available to ensure universal primary education is both provided and attained", over 4 outputs: (1) Parents and care givers show an understanding of the education services available, and a demonstrable commitment to their children's education, (2) Schools adopt and replicate the AfriKids child rights club model to help motivate enrolment and retention of pupils, (3)  The Ghana Education Service are enabled to practically apply their own good governance model to help improve the facilities for and services delivered to pupils at school, (4) Communities adopt the AfriKids community education promotion and advocacy model to help ensure enrolment and retention of pupils in school.</description>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2011-07-31">85557.63</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2011-07-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2011-10-31">40223.98</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2011-10-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2012-01-31">26585.32</value>
+      <transaction-date iso-date="2012-01-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2012-04-30">20256.97</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2012-04-30"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2012-07-31">23015.01</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2012-07-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2012-10-31">31184.57</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2012-10-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2013-01-31">19292.89</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2013-01-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2013-04-30">24551.92</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2013-04-30"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2013-07-31">22832.83</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2013-07-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2013-10-31">27018.63</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2014-01-31">26591.87</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2014-01-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="IF"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2014-04-30">51824</value>
+      <description>Quarterly transfer from DFID</description>
+      <transaction-date iso-date="2014-04-30"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2011-07-31">2334.44</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2011-07-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2011-10-31">2334.44</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2011-10-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2012-01-31">2334.44</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2012-01-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2012-04-30">1619.4</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2012-04-30"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2012-07-31">1619.4</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2012-07-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2012-10-31">1619.4</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2012-10-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2013-01-31">1619.4</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2013-01-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2013-04-30">3268.46</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2013-04-30"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2013-07-31">1797.66</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2013-07-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2013-10-31">1470.8</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2014-01-31">27.87</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2014-01-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="E"/>
+      <provider-org>DFID CSCF</provider-org>
+      <receiver-org>AfriKids</receiver-org>
+      <value value-date="2014-04-30">5598</value>
+      <description>UK expenditure of DFID grant</description>
+      <transaction-date iso-date="2014-04-30"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2011-07-31">83223.18</value>
+      <description>Transfer to AKGH for project activities</description>
+      <transaction-date iso-date="2011-07-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2011-10-31">37889.54</value>
+      <description>Transfer to AKGH for project activities</description>
+      <transaction-date iso-date="2011-10-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2012-01-31">24250.87</value>
+      <description>Transfer to AKGh for project activities</description>
+      <transaction-date iso-date="2012-01-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2012-04-30">18637.57</value>
+      <description>Transfer to AfriKids Ghana for project activities</description>
+      <transaction-date iso-date="2012-04-30"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2012-07-31">21395.61</value>
+      <description>Transfer to AKGh for project activities</description>
+      <transaction-date iso-date="2012-07-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2012-10-31">29565.17</value>
+      <description>Transfer to AKGh for project activities</description>
+      <transaction-date iso-date="2012-10-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids GHana</receiver-org>
+      <value value-date="2013-01-31">17673.49</value>
+      <description>Transfer to AKGh for project activities</description>
+      <transaction-date iso-date="2013-01-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2013-04-30">21283.46</value>
+      <description>Transfer to AKGh for project activities</description>
+      <transaction-date iso-date="2013-04-30"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2013-07-31">21035.18</value>
+      <description>Transfer to AKGh for project activities</description>
+      <transaction-date iso-date="2013-07-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2013-10-31">25547.82</value>
+      <description>Transfer to AKGh for project activities</description>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2014-01-31">26564</value>
+      <description>Transfer to AKGh for project activities</description>
+      <transaction-date iso-date="2014-01-31"/>
+    </transaction>
+    <transaction ref="from quarterly claims for">
+      <transaction-type code="D"/>
+      <provider-org>AfriKids</provider-org>
+      <receiver-org>AfriKids Ghana</receiver-org>
+      <value value-date="2014-04-30">46226</value>
+      <description>Transfer to AKGh for project activities</description>
+      <transaction-date iso-date="2014-04-30"/>
+    </transaction>
+    <document-link url="http://www.aidstream.org/files/documents/CSCF 532 MOST RECENT LOGFRAME- 2014.xls" format="application/vnd.ms-excel">
+      <language>en</language>
+      <category code="A08"/>
+      <title>Education Bridge Logframe</title>
+    </document-link>
+  </iati-activity>
+</iati-activities>

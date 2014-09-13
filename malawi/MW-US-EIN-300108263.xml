@@ -1,0 +1,1777 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-01-02T15:07:03.000" version="1.03">
+        <iati-identifier>GGProj:12488</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Save elephants in Malawi</title>
+        <description xml:lang="en">While elephant populations dwindle as the demand for ivory grows again, the Wildlife Action Group's anti-poaching team is working tirelessly to tackle illegal poaching and save elephants lives. 
+This project supports elephant conservation activities in Thuma Forest Reserve, Malawi, to provide a save future for its remaining elephant population and habitat.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2012-11-26" type="start-planned"/>
+        <activity-date iso-date="2013-01-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Wildlife Action Group International e.V.</organisation>
+            <person-name>Susanne Kneissl</person-name>
+            <telephone>004917639566300</telephone>
+            <mailing-address>Susanne Kneissl, Pfaelzer Strasse 22, D - 83109 Grosskarolinenfeld, Grosskarolinenfeld, Germany</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:9834">Wildlife Action Group International e.V.</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/save-elephants-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:12488">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:9834">Wildlife Action Group International e.V.</receiver-org>
+            <value value-date="2013-01-02">830</value>
+            <transaction-date iso-date="2013-01-02"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2012-05-01T15:57:58.000" version="1.03">
+        <iati-identifier>GGProj:10272</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Help Animal Welfare Orgs in Less Developed Regions</title>
+        <description xml:lang="en">Animal welfare organizations in Africa, Latin America/Caribbean, and E. Europe often lack the basic supplies they need to get their jobs done.  Staff and volunteers may be ready, willing, and well trained, but if they don't have the necessary equipment, the job won't get done or it won't get done right. To begin to move these AW organizations to a more sustainable level, they need to have the equipment that many of us in the US and other "wealthier" countries often take for granted.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2012-04-01" type="start-planned"/>
+        <activity-date iso-date="2012-05-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Animal-Kind International</organisation>
+            <person-name>Karen Menczer</person-name>
+            <telephone>575-834-0908</telephone>
+            <mailing-address>Karen Menczer, POB 300, Jemez Springs, New Mexico 87025, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:4507">Animal-Kind International</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/help-animal-welfare-orgs-in-less-developed-regions/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:10272">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:4507">Animal-Kind International</receiver-org>
+            <value value-date="2012-04-07">150</value>
+            <transaction-date iso-date="2012-04-07"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2012-07-18T14:58:33.000" version="1.03">
+        <iati-identifier>GGProj:6133</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Provide long-term livings for 300 women in Malawi</title>
+        <description xml:lang="en">Your donation will allow us to buy a motorbike to extend our reach to rural women who would otherwise have no access to microfinance. Our loan officers' ride up to 70 kilometres on dirt tracks to deliver training, mentoring and loan capital to some of the poorest women in the world.  MicroLoan Foundation fosters entrepreneurial spirit and independence, offering a hand up not a hand out.&#13;
+</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-09-14" type="start-planned"/>
+        <activity-date iso-date="2012-07-18" type="end-planned"/>
+        <contact-info>
+            <organisation>MicroLoan Foundation</organisation>
+            <person-name>Alice Leslie</person-name>
+            <telephone>02088271693</telephone>
+            <mailing-address>Alice Leslie, 10 Barley Mow Passage, London, London W4 4PH, United Kingdom</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:4491">MicroLoan Foundation</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/provide-sustainable-livings-for-women-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:6133">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:4491">MicroLoan Foundation</receiver-org>
+            <value value-date="2012-06-22">1868</value>
+            <transaction-date iso-date="2012-06-22"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2011-01-31T17:45:28.000" version="1.03">
+        <iati-identifier>GGProj:5294</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Improving Access to Clean Water in Malawi</title>
+        <description xml:lang="en">Engineers Without Borders is improving the capacity of district government offices throughout Malawi to provide the services necessary for sustainable clean water access.&#13;
+</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-04-05" type="start-planned"/>
+        <activity-date iso-date="2011-01-31" type="end-planned"/>
+        <contact-info>
+            <organisation>Engineers Without Borders Canada</organisation>
+            <person-name>Beth Beth</person-name>
+            <telephone>1-416-481-3696</telephone>
+            <mailing-address>Beth Beth, 366 Adelaide Street West, Toronto, Ontario M5V 1R9 , Canada</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:3619">Engineers Without Borders Canada</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/ewb-clean-water-for-malawi-inactive/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:5294">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:3619">Engineers Without Borders Canada</receiver-org>
+            <value value-date="2010-12-31">1510</value>
+            <transaction-date iso-date="2010-12-31"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2012-12-31T23:27:30.000" version="1.03">
+        <iati-identifier>GGProj:12422</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Partner w/AKI to Help Animals in up to10 Countries</title>
+        <description xml:lang="en">Animal-Kind International supports existing animal welfare orgs run by local people in Ghana, Malawi, Namibia, So. Sudan, Tanzania, Uganda, Honduras, Jamaica, Armenia &amp; Bosnia. There are few opportunities to raise funds &amp; supplies for animal welfare in these countries so they need to look to outside supporters for assistance. AKI does the due diligence on the orgs, ensures they track use of AKI funds &amp; always sends 100% of donations to our partner orgs to be used only for animal welfare.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2012-11-26" type="start-planned"/>
+        <activity-date iso-date="2013-01-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Animal-Kind International</organisation>
+            <person-name>Karen Menczer</person-name>
+            <telephone>575-834-0908</telephone>
+            <mailing-address>Karen Menczer, PO Box 300, Jemez Springs, New Mexico 87025, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:4507">Animal-Kind International</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/partner-w-animal-welfare-orgs-in-10-countries/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:12422">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:4507">Animal-Kind International</receiver-org>
+            <value value-date="2012-12-31">305</value>
+            <transaction-date iso-date="2012-12-31"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2010-07-23T19:15:38.000" version="1.03">
+        <iati-identifier>GGProj:4158</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Long-term Care of 260 Vulnerable Malawian Children</title>
+        <description xml:lang="en">This project will feed, clothe, educate &amp; shelter 260 Orphans and other Vulnerable Children (OVCs) and complete the construction of their daycare centers in bush villages of Malawi, Central Africa.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2009-11-23" type="start-planned"/>
+        <activity-date iso-date="2009-12-31" type="end-planned"/>
+        <contact-info>
+            <organisation>SACCODE-Trust</organisation>
+            <person-name>Joseph Patemba</person-name>
+            <telephone>+265999553133</telephone>
+            <mailing-address>Joseph Patemba, C/o Box 952, Mzuzu, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:3341">SACCODE-Trust</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/orphaned-children-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:4158">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:3341">SACCODE-Trust</receiver-org>
+            <value value-date="2009-12-29">2450</value>
+            <transaction-date iso-date="2009-12-29"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-06-11T14:40:40.000" version="1.03">
+        <iati-identifier>GGProj:6215</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Train new health workers in Malawi: Save Lives!</title>
+        <description xml:lang="en">This project will provide scholarships to train students at the Malamulo College of Health Sciences to become clinical officers who can deliver basic health care services to men, women, and children. </description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-08-31" type="start-planned"/>
+        <activity-date iso-date="2011-08-11" type="end-planned"/>
+        <contact-info>
+            <organisation>IntraHealth International</organisation>
+            <person-name>Kate Tulenko</person-name>
+            <telephone>+1 919 313 9100</telephone>
+            <mailing-address>Kate Tulenko, 6340 Quadrangle Dr  Suite 200, Chapel Hill, NC 27517, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:5239">IntraHealth International</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/train-new-health-workers-in-malawi-save-lives/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:6215">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:5239">IntraHealth International</receiver-org>
+            <value value-date="2011-08-11">4875</value>
+            <transaction-date iso-date="2011-08-11"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-03-12T13:48:22.000" version="1.03">
+        <iati-identifier>GGProj:9561</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Solar power to illuminate 350 villagers in Malawi</title>
+        <description xml:lang="en">Most impoverished MicroLoan Foundation clients live in remote rural regions of Malawi and have no electricity. Your gift will allow us to purchase 500 solar lights, providing 50 women with the opportunity to start their own self-sustainable business. These cost effective lights will reduce the use of kerosene lamps in the home, so improving the health of the family, and allow students to complete homework. MLF USA fosters the entrepreneurial spirit by providing a hand-up not a hand-out.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2011-12-01" type="start-planned"/>
+        <activity-date iso-date="2013-03-12" type="end-planned"/>
+        <contact-info>
+            <organisation>MicroLoan Foundation USA</organisation>
+            <person-name>Linda Thomson-Clem</person-name>
+            <telephone>7814365360</telephone>
+            <mailing-address>Linda Thomson-Clem, 1764 West Street, Stoughton, MA 02072, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:9243">MicroLoan Foundation USA</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/solar-power-for-350-villagers-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:9561">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:9243">MicroLoan Foundation USA</receiver-org>
+            <value value-date="2013-02-22">1835</value>
+            <transaction-date iso-date="2013-02-22"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-04-28T12:44:45.000" version="1.03">
+        <iati-identifier>GGProj:13579</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Help save elephants in Malawi</title>
+        <description xml:lang="en">While elephant populations dwindle as the demand for ivory grows again, the Wildlife Action Group's anti-poaching team is working tirelessly to tackle illegal poaching and save elephants lives. This project supports elephant conservation activities in Thuma Forest Reserve, Malawi, to provide a safe future for its remaining elephant population and habitat.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2013-04-01" type="start-planned"/>
+        <activity-date iso-date="2013-05-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Wildlife Action Group International e.V.</organisation>
+            <person-name>Susanne Kneissl</person-name>
+            <telephone>0049(0)17639566300</telephone>
+            <mailing-address>Susanne Kneissl, Pfaelzer Strasse 22, Grosskarolinenfeld, Bavaria, 83109, Germany</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:9834">Wildlife Action Group International e.V.</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/help-save-elephants/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:13579">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:9834">Wildlife Action Group International e.V.</receiver-org>
+            <value value-date="2013-04-28">704</value>
+            <transaction-date iso-date="2013-04-28"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-05-02T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:13571</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Mwambo Child Protection</title>
+        <description xml:lang="en">Every day Malawian children are being orphaned by the death of their parents.  The MCP Project is a urgent collaborative effort to protect innocent children who are lost in the aftermath of the HIV/AIDS crisis.  Formed in 2003 in a small village of Southern Malawi, the Childcare Organization is leading this partnership of rural relief organizations.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2013-04-01" type="start-planned"/>
+        <activity-date iso-date="2013-05-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Childcare Organization</organisation>
+            <person-name>victor julius</person-name>
+            <telephone>0881998120</telephone>
+            <mailing-address>victor julius, P/bag 61, P/Bag 61, Zomba, Mwambo 265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:14225">Childcare Organization</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/mwambo-child-protection-case-management/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:13571">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:14225">Childcare Organization</receiver-org>
+            <value value-date="2013-05-02">2380</value>
+            <transaction-date iso-date="2013-05-02"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2011-12-31T05:00:00.000" version="1.03">
+        <iati-identifier>GGProj:8624</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Ending Malnutrition for 500 children in Malawi.</title>
+        <description xml:lang="en">Through community empowerment and education KASO is empowering women to treat malnutrition and diseases for children living with HIV/AIDS. Help us to improve the health of 500 children in a sustainable way.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2011-08-02" type="start-planned"/>
+        <activity-date iso-date="2011-09-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Kanengo AIDS Support Organization-KASO</organisation>
+            <person-name>Richard Yohane</person-name>
+            <telephone>265 0999307398</telephone>
+            <mailing-address>Richard Yohane, KASO P.O Box 31381, Lilongwe 3, Malawi., Lilongwe, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:7232">Kanengo AIDS Support Organization-KASO</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/ending-malnutrition-for-500-children-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:8624">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:7232">Kanengo AIDS Support Organization-KASO</receiver-org>
+            <value value-date="2011-12-31">2135</value>
+            <transaction-date iso-date="2011-12-31"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-04-30T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:12572</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Sukasanje Labour  Ward Project</title>
+        <description xml:lang="en">Sukasanje hospital located in eastern part of Mulanje district, carters for 25,400 people. It  is very remote  and hard  to reach. Communication and referral  system  is  very  poor  and there are high incedednces of maternal deaths.The hospital has no electricty and  the labour beds are warn out.The nearest referral center is 80km away,making it difficult for very complicated obstetric cases.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2012-11-26" type="start-planned"/>
+        <activity-date iso-date="2013-01-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Christian Health Association of Malawi</organisation>
+            <person-name>Rose Kumwenda-Ng'oma</person-name>
+            <telephone>+265 1 775 184</telephone>
+            <mailing-address>Rose Kumwenda-Ng'oma, Box 30378 Capital City, Lilongwe 3,, Central Region 000000, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:13588">Christian Health Association of Malawi</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/sukasanje-labour-ward-project/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:12572">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:13588">Christian Health Association of Malawi</receiver-org>
+            <value value-date="2013-04-30">60</value>
+            <transaction-date iso-date="2013-04-30"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-06-19T01:01:10.000" version="1.03">
+        <iati-identifier>GGProj:17004</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Care for Orphans and other Vulnerable Children</title>
+        <description xml:lang="en">Children in Malawi experience many challenges requiring psychosocial support.Factors like HIV/ AIDS, poverty, social conflicts and family breakdown have psychosocial consequences for children. Promoting psychosocial support helps to instill hope in children. The project is committed to creating a safe environment to protect children from abuse, neglect and exploitation while mitigating the effect of the death of loved ones to ensure that children  grow and develop to their full potential.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2014-06-01" type="start-planned"/>
+        <activity-date iso-date="2014-07-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Childcare Organization</organisation>
+            <person-name>victor julius</person-name>
+            <telephone>0881998120</telephone>
+            <mailing-address>victor julius, P/Bag 61, P/Bag 61, Zomba, Africa 265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:14225">Childcare Organization</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/care-for-orphans-and-other-vulnerable-children/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:17004">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:14225">Childcare Organization</receiver-org>
+            <value value-date="2014-06-19">1000</value>
+            <transaction-date iso-date="2014-06-19"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-07-22T15:13:00.000" version="1.03">
+        <iati-identifier>GGProj:3538</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Empower 170 Malawian Girls to FINISH School</title>
+        <description xml:lang="en">AGE Africa's experiences shows that Career Guidance and Sexual and Reproductive Health Education are critical for ensuring poor girls can finish their high school educations.  In Malawi less than 7% of girls nationwide will finish high school, BUT 91% of AGE Africa's scholars finish all 4 years.  The difference?  AGE Africa's mentoring program gives young women the courage they need to act, achieve and self-advocate for their life choices, and the skills required to access opportunity.</description>
+        <activity-status code="2">Implementation</activity-status>
+        <activity-date iso-date="2011-07-01" type="start-planned"/>
+        <contact-info>
+            <organisation>Advancement of Girls' Education (AGE Africa)</organisation>
+            <person-name>Aubryn Sidle</person-name>
+            <telephone>607-592-9366</telephone>
+            <mailing-address>Aubryn Sidle, PO Box 15298, 921 Pennsylvania Ave, Washington, DC 20003, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:1058">Advancement of Girls' Education (AGE Africa)</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/malawi-girls-comprehensive-mentoring-program/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:3538">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:1058">Advancement of Girls' Education (AGE Africa)</receiver-org>
+            <value value-date="2014-07-22">2050</value>
+            <transaction-date iso-date="2014-07-22"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-05-01T21:41:53.000" version="1.03">
+        <iati-identifier>GGProj:13600</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Nursery  school building  for 250 children - Zomba</title>
+        <description xml:lang="en">Community members of  Nd'umu  village in Zomba  district lacks  an  early  childhood development  building  for the  children to be cared  in along  with pre-educational playing  items  for the  promotion of  adult  education.
+The area is  far  to the  education centers  for  children  to  be sent  for  school  and being the case  more  children  are illiterate  and  when it is there, it is poorly structured  and resource less to  the  early childhood development  conditions.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2013-04-01" type="start-planned"/>
+        <activity-date iso-date="2013-05-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Chilimba Women and Children Support Org.</organisation>
+            <person-name>Esther Mtima</person-name>
+            <telephone>265 9 99 24 33 28 / 2 65 1 95 12 54</telephone>
+            <mailing-address>Esther Mtima, Chilimba Women and Children  Support  Organisation , P.O. Box 179, Zomba, Malawi., Chilimba Women and Children Support Organisation, Chilimba Village,  Chief Malemia,  Domasi,Zomba MLW, Zomba, Southern Region 265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:3666">Chilimba Women and Children Support Org.</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/nursery-school-building-for-250-children-zomba/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:13600">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:3666">Chilimba Women and Children Support Org.</receiver-org>
+            <value value-date="2013-05-01">450</value>
+            <transaction-date iso-date="2013-05-01"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2011-09-30T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:5467</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Malawian Adolescent Girls' Empowerment Program</title>
+        <description xml:lang="en">Our mentorship program will improve literacy and numeracy skills, knowledge of health and human rights, social confidence, and financial/entrepreneurial skills among adolescent girls in rural Malawi. </description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-04-26" type="start-planned"/>
+        <activity-date iso-date="2010-10-19" type="end-planned"/>
+        <contact-info>
+            <organisation>Partners Facilitating African Development (PFAD)</organisation>
+            <person-name>Hemali Batra</person-name>
+            <telephone>(319) 471-2572</telephone>
+            <mailing-address>Hemali Batra, 2060 NW 135th Street, Clive, IA 50325, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:4729">Partners Facilitating African Development (PFAD)</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/malawian-adolescent-girls-empowerment-program/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:5467">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:4729">Partners Facilitating African Development (PFAD)</receiver-org>
+            <value value-date="2011-09-30">1330</value>
+            <transaction-date iso-date="2011-09-30"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2011-06-06T17:19:52.000" version="1.03">
+        <iati-identifier>GGProj:5624</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Help 60 Families Feed Their Children in Malawi</title>
+        <description xml:lang="en">Family survival depends on crop harvest for many in drought prone Southern Malawi. A treadle pump for irrigation will help 4 families survive even when rains are scarce. </description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-05-25" type="start-planned"/>
+        <activity-date iso-date="2011-06-06" type="end-planned"/>
+        <contact-info>
+            <organisation>A Self-Help Assistance Program (ASAP)</organisation>
+            <person-name>Elizabeth Bara</person-name>
+            <telephone>770-632-7451</telephone>
+            <mailing-address>Elizabeth Bara, P.O. Box 2275 , Peachtree City, Georgia 30269, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:573">A Self-Help Assistance Program (ASAP)</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/food-security-for-60-malawi-farmers/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:5624">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:573">A Self-Help Assistance Program (ASAP)</receiver-org>
+            <value value-date="2011-02-11">316</value>
+            <transaction-date iso-date="2011-02-11"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-04-17T20:34:28.000" version="1.03">
+        <iati-identifier>GGProj:12683</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Alleviate human/wildlife conflicts in Malawi</title>
+        <description xml:lang="en">This project will alleviate human/wildlife conflicts and provide alternative income streams for villagers with projects such as fish farming, bee keeping, chili pepper cultivation, making bricks, maintaining equipment, and building and repairing fences; and
+ensure the protection of elephants and other species in the long-term by encouraging tourism, which provides essential income for the park and the surrounding communities, while generating increased community support for conservation.</description>
+        <activity-status code="2">Implementation</activity-status>
+        <activity-date iso-date="2012-12-27" type="start-planned"/>
+        <contact-info>
+            <organisation>MicroLoan Foundation USA</organisation>
+            <person-name>Linda Thomson-Clem</person-name>
+            <telephone>781 3436 5360</telephone>
+            <mailing-address>Linda Thomson-Clem, 1764 West Street, Stoughton, MA 02072, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:9243">MicroLoan Foundation USA</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/the-liwonde-project/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:12683">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:9243">MicroLoan Foundation USA</receiver-org>
+            <value value-date="2014-04-17">555</value>
+            <transaction-date iso-date="2014-04-17"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-07-25T06:04:13.000" version="1.03">
+        <iati-identifier>GGProj:11257</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Chinseu CBO O.V.C. feeding and Education Support</title>
+        <description xml:lang="en">The project shall be run by Chinseu CBO management and the community shall be helping in day to day activities hence the other part of the project need the community to: cook, provide firewood etc.  The Executive Director shall be the main supervisor of all these activities done. The poverty in Malawi is high and is third in the SADIC region hence the Orphans are suffering when trying to get food and school fees. Chinseu CBO is solving these problems by introducing Orphancare.</description>
+        <activity-status code="2">Implementation</activity-status>
+        <activity-date iso-date="2012-08-30" type="start-planned"/>
+        <contact-info>
+            <organisation>Chinseu Community Based Organisation</organisation>
+            <person-name>Noel Banda</person-name>
+            <telephone>265 884383815/ +265997072722, bandanoel@yahoo.com</telephone>
+            <mailing-address>Noel Banda, PO Box 165, Lunzu. Blantyre. Malawi, GVH Mdala,GVH Siyamdima, Chinseudzimbiri vg, TA Kuntaja. Blantyre west, Blantyre, Malawi 265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:6355">Chinseu Community Based Organisation</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/chinseu-cbo-o-v-c-feeding-and-education-support/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:11257">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:6355">Chinseu Community Based Organisation</receiver-org>
+            <value value-date="2014-07-25">1666</value>
+            <transaction-date iso-date="2014-07-25"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-06-05T14:19:49.000" version="1.03">
+        <iati-identifier>GGProj:4898</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>BeeHive School nurturing future Malawian leaders</title>
+        <description xml:lang="en">BeeHive's mission is to provide top-quality, ultra-affordable primary education for children in Malawi - it is the only internationally certified school in northern Malawi and is providing their roughly 300 co-ed students with a well-rounded and forward-thinking education. BeeHive is providing a strong educational foundation, such that someday these children may be equipped with the skill, confidence, and passion to one day tackle Malawi's gravest problems. Help build a bathroom for them.</description>
+        <activity-status code="2">Implementation</activity-status>
+        <activity-date iso-date="2010-03-12" type="start-planned"/>
+        <contact-info>
+            <organisation>A Self-Help Assistance Program (ASAP)</organisation>
+            <person-name>Eva Markiewicz</person-name>
+            <telephone>510.508.6804</telephone>
+            <mailing-address>Eva Markiewicz, 570 Pinecone Dr, Scotts Valley, California 95066, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:573">A Self-Help Assistance Program (ASAP)</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/beehiveschool/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:4898">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:573">A Self-Help Assistance Program (ASAP)</receiver-org>
+            <value value-date="2014-06-05">3849</value>
+            <transaction-date iso-date="2014-06-05"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2010-07-23T20:13:06.000" version="1.03">
+        <iati-identifier>GGProj:5171</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Help Vulnerable Malawi Women Start Sewing Business</title>
+        <description xml:lang="en">This project will allow widows and other vulnerable women in Malawi (Africa) to care for their own young children by providing them with materials to start a sewing/tailoring business. </description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-03-24" type="start-planned"/>
+        <activity-date iso-date="2010-04-27" type="end-planned"/>
+        <contact-info>
+            <organisation>SACCODE-Trust</organisation>
+            <person-name>Joseph Patemba</person-name>
+            <telephone>+265999553133</telephone>
+            <mailing-address>Joseph Patemba, c/o Box 952, Mzuzu, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:3341">SACCODE-Trust</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/help-vulnerable-malawi-women-start-sewing-business/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:5171">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:3341">SACCODE-Trust</receiver-org>
+            <value value-date="2010-04-25">10</value>
+            <transaction-date iso-date="2010-04-25"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2011-09-01T22:41:29.000" version="1.03">
+        <iati-identifier>GGProj:8598</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Let's spay/neuter dogs &amp; cats in poor countries</title>
+        <description xml:lang="en">Based on availability of funds, Animal-Kind International's partner organizations-in Uganda, Malawi, Namibia, Tanzania, Honduras, Jamaica, &amp; Bosnia-spay/neuter dogs and cats. These may be pets of poor people, unable to afford the surgery, or street dogs and cats.  As part of the s/n campaigns, the organizations also provide humane education. Over-population of dogs &amp; cats is a serious problem in poor countries, &amp; with your support, our partner organizations can help solve it! </description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2011-08-02" type="start-planned"/>
+        <activity-date iso-date="2011-09-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Animal-Kind International</organisation>
+            <person-name>Karen Menczer</person-name>
+            <telephone>575-834-0908</telephone>
+            <mailing-address>Karen Menczer, POB 300 , Jemez Springs, New Mexico 87025, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:4507">Animal-Kind International</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/spay-neuter-dogs-and-cats/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:8598">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:4507">Animal-Kind International</receiver-org>
+            <value value-date="2011-08-10">100</value>
+            <transaction-date iso-date="2011-08-10"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2012-01-03T18:59:47.000" version="1.03">
+        <iati-identifier>GGProj:9414</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Help protecting Malawi's elephants</title>
+        <description xml:lang="en">WAG's anti-poaching team is working tirelessly to tackle illegal poaching and save animals' lives. 
+This project supports the anti-poaching activities in Thuma Forest Reserve, Malawi, to provide a save future for the remaining endangered elephant population.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2011-11-23" type="start-planned"/>
+        <activity-date iso-date="2012-01-03" type="end-planned"/>
+        <contact-info>
+            <organisation>Wildlife Action Group International e.V.</organisation>
+            <person-name>Susanne Kneissl</person-name>
+            <telephone>0049080315819030</telephone>
+            <mailing-address>Susanne Kneissl, Pfaelzer Strasse 22, Grosskarolinenfeld, 83109, Germany</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:9834">Wildlife Action Group International e.V.</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/protect-malawi-elephants/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:9414">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:9834">Wildlife Action Group International e.V.</receiver-org>
+            <value value-date="2012-01-02">145</value>
+            <transaction-date iso-date="2012-01-02"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2012-05-01T15:44:23.000" version="1.03">
+        <iati-identifier>GGProj:10057</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Stopping HIV for 3000 children in rural Malawi</title>
+        <description xml:lang="en">KASO is working to eliminate new HIV infections among children and keep their mothers healthy and alive in rural villages in Malawi: Through building individual and community capacities to promote and deliver Prevention of Mother- to- Child transmission of HIV-PMTCT services, encourage health seeking behavior, improve women's and girls' knowledge of and access to Sexual Reproductive Health- SRH services, combat gender based stigma and discrimination and reduce unintended pregnancies.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2012-04-01" type="start-planned"/>
+        <activity-date iso-date="2012-05-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Kanengo AIDS Support Organization-KASO</organisation>
+            <person-name>Richard Yohane</person-name>
+            <telephone>265 0999307398</telephone>
+            <mailing-address>Richard Yohane, P.O Box 31381, Lilongwe., Malawi, Central region 265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:7232">Kanengo AIDS Support Organization-KASO</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/stopping-hiv-for-3000-children-in-rural-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:10057">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:7232">Kanengo AIDS Support Organization-KASO</receiver-org>
+            <value value-date="2012-04-30">320</value>
+            <transaction-date iso-date="2012-04-30"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-03-19T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:9277</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Chinseu CBO Orphan and Vulnerable Children Feeding</title>
+        <description xml:lang="en">Many Malawians live in poverty. This poverty has been exacerbaed by HIV/AIDS and other illnesses, which have left many orphans in the communities in southern Malawi. The orphans and vulnerable children served by Chinseu need food so they can concentrate in class, do physical exercise, and develop normally. Chinseu realizes that this group of children OVC are not doing well, and not attending school due to lack of food.  Hence Chinseu CBO introduces a free OVC Day Care Centre, and OVC Pre-School.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2011-11-23" type="start-planned"/>
+        <activity-date iso-date="2012-07-25" type="end-planned"/>
+        <contact-info>
+            <organisation>Chinseu Community Based Organisation</organisation>
+            <person-name>Noel Banda</person-name>
+            <telephone>+265 888852523</telephone>
+            <mailing-address>Noel Banda, CHINSEU CBO Project, PO Box 165, Lunzu, Blantyre Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:6355">Chinseu Community Based Organisation</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/chinseu-ovc-feeding-2011/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:9277">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:6355">Chinseu Community Based Organisation</receiver-org>
+            <value value-date="2013-03-19">5810</value>
+            <transaction-date iso-date="2013-03-19"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-10-02T19:45:13.000" version="1.03">
+        <iati-identifier>GGProj:14570</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Help rescue over 100 elephants in Malawi</title>
+        <description xml:lang="en">This project helps to ensure that over 100 elephants in Malawi will be saved from a stressful and highly risky strategy of relocation, by financing the extension of our protection fence to help provide personal safety and food security for the local communities living along the reserves boundaries for both to live again in peaceful harmony.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2013-09-01" type="start-planned"/>
+        <activity-date iso-date="2013-10-02" type="end-planned"/>
+        <contact-info>
+            <organisation>Wildlife Action Group International e.V.</organisation>
+            <person-name>Susanne Kneissl</person-name>
+            <telephone>08031221224</telephone>
+            <mailing-address>Susanne Kneissl, Pfalzer Strasse 22, Grosskarolinenfeld, Bavaria 83109, Germany</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:9834">Wildlife Action Group International e.V.</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/thuma-elephants-emergency-appeal/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:14570">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:9834">Wildlife Action Group International e.V.</receiver-org>
+            <value value-date="2013-09-28">100</value>
+            <transaction-date iso-date="2013-09-28"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2011-07-01T17:42:21.000" version="1.03">
+        <iati-identifier>GGProj:2575</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Help 20 Malawian Girls Get an Education</title>
+        <description xml:lang="en">Provide funding to empower 21 underprivileged and academically talented girls in sub-Saharan Africa to attend and succeed in secondary school. </description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2009-03-10" type="start-planned"/>
+        <activity-date iso-date="2011-01-08" type="end-planned"/>
+        <contact-info>
+            <organisation>Advancement of Girls' Education (AGE Africa)</organisation>
+            <person-name>Kristina Lederer</person-name>
+            <telephone>240-696-6050</telephone>
+            <mailing-address>Kristina Lederer, The Advancement of Girls' Education, 3643 Davis St. NW, Washington, DC 20007, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:1058">Advancement of Girls' Education (AGE Africa)</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/help-20-malawian-girls-get-an-education/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:2575">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:1058">Advancement of Girls' Education (AGE Africa)</receiver-org>
+            <value value-date="2010-12-25">1085</value>
+            <transaction-date iso-date="2010-12-25"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2012-03-05T05:00:00.000" version="1.03">
+        <iati-identifier>GGProj:7392</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Improving access to clean water in Malawi</title>
+        <description xml:lang="en">Engineers Without Borders is improving the capacity of district government offices throughout Malawi to provide the services necessary for sustainable clean water access.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2011-01-31" type="start-planned"/>
+        <activity-date iso-date="2012-01-08" type="end-planned"/>
+        <contact-info>
+            <organisation>Engineers Without Borders Canada</organisation>
+            <person-name>Beth Beth</person-name>
+            <telephone>1-416-481-3696</telephone>
+            <mailing-address>Beth Beth, 366 Adelaide Street West - Suite 601, Toronto, Ontario M5V 1R9 , Canada</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:3619">Engineers Without Borders Canada</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/ewb-clean-water-for-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:7392">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:3619">Engineers Without Borders Canada</receiver-org>
+            <value value-date="2012-03-05">2665</value>
+            <transaction-date iso-date="2012-03-05"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-07-31T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:1517</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Fish to Feed HIV affected families in Malawi</title>
+        <description xml:lang="en">1000 poor farmers, including women and HIV affected householders in Chingale, Malawi will be taught fish farming methods to help improve their income and nutritional status for the long term.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2006-08-21" type="start-planned"/>
+        <activity-date iso-date="2013-04-11" type="end-planned"/>
+        <contact-info>
+            <organisation>The WorldFish Center</organisation>
+            <person-name>Daniel Jamu</person-name>
+            <telephone>+265 1 536 298</telephone>
+            <mailing-address>Daniel Jamu, P.O. Box 229, Zomba, Malawi Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:615">The WorldFish Center</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/fish-for-hunger-in-africa/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:1517">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:615">The WorldFish Center</receiver-org>
+            <value value-date="2013-07-31">11161</value>
+            <transaction-date iso-date="2013-07-31"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-09-17T19:57:08.000" version="1.03">
+        <iati-identifier>GGProj:14024</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Mwambo Child Protection Case Management</title>
+        <description xml:lang="en">The project promotes the survival, growth, well being, development and protection of 100 children made vulnerable by HIV/AIDS,Poverty and other social economic factors and disasters in Zomba.The trust of the project is to develop and implement an integrated safety net system that will deliver multifaceted care and support packages at household level.The quality and effectiveness of the response will be guided by periodic monitoring and evaluation exercises.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2013-09-01" type="start-planned"/>
+        <activity-date iso-date="2013-10-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Childcare Organization</organisation>
+            <person-name>victor julius</person-name>
+            <telephone>0889198120</telephone>
+            <mailing-address>victor julius, P/bag 61, P/bag 61, Zomba, Mwambo 265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:14225">Childcare Organization</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/mwambo-child-prote/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:14024">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:14225">Childcare Organization</receiver-org>
+            <value value-date="2013-09-17">1000</value>
+            <transaction-date iso-date="2013-09-17"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-04-30T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:12066</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Children's Sanitation and Hygiene Promotion</title>
+        <description xml:lang="en">Children, who are generally not targeted for sanitation and hygiene, become catalysts of change in the household and broader community. This project provide a model for children's household toilet program that will reduce incidences of diarrhea by eliminating open defecation by toddlers, increasing hand washing and facilitating household upgrades of latrines. The project will lead to 100% sanitation coverage and measurably reduce diarrhea in 2 Traditional Authorities in 1 District in Malawi.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2012-11-26" type="start-planned"/>
+        <activity-date iso-date="2013-01-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Action for Environmental Sustainability (AFES)</organisation>
+            <person-name>Daniel Mwakameka</person-name>
+            <telephone>+ 265 888 377 823</telephone>
+            <mailing-address>Daniel Mwakameka, P/Bag 134, Blantyre, Malawi., Blantyre, +265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:13105">Action for Environmental Sustainability (AFES)</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/childrens-sanitation-and-hygiene-promotion/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:12066">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:13105">Action for Environmental Sustainability (AFES)</receiver-org>
+            <value value-date="2013-04-30">50</value>
+            <transaction-date iso-date="2013-04-30"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-03-21T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:15341</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Mwambo Child Protection Case Management Project</title>
+        <description xml:lang="en">Every day Malawian children are being orphaned by the death of their parents. The MCP Project is a urgent collaborative effort to protect innocent children who are lost in the aftermath of the HIV/AIDS crisis. Formed in 2003 in a small village of Southern Malawi, the Childcare Organization is leading this partnership of rural relief organizations</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2013-11-25" type="start-planned"/>
+        <activity-date iso-date="2014-01-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Childcare Organization</organisation>
+            <person-name>victor julius</person-name>
+            <telephone>0881998120</telephone>
+            <mailing-address>victor julius, P/Bag 61, P/Bag 61, Zomba, Africa 265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:14225">Childcare Organization</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/mwambo-child-protection-case-management-project/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:15341">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:14225">Childcare Organization</receiver-org>
+            <value value-date="2014-03-21">2250</value>
+            <transaction-date iso-date="2014-03-21"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2012-05-01T15:03:03.000" version="1.03">
+        <iati-identifier>GGProj:9998</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Peanut Butter for the Hungry Farmer Education/Trng</title>
+        <description xml:lang="en">Peanut Butter for the Hungry is seeking funds to develop a "grower training" program for local farmers in poor areas that suffer from malnutrition, (i.e. Africa) by teaching better peanut farming and post harvest handling methods, so that these local farmers can offer a higher quality product and receive better prices for their peanuts.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2012-04-01" type="start-planned"/>
+        <activity-date iso-date="2012-05-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Peanut Butter for the Hungry</organisation>
+            <person-name>Carolina Olivieri</person-name>
+            <telephone>7038389500</telephone>
+            <mailing-address>Carolina Olivieri, 1500 KING ST STE 301, ALEXANDRIA, Virginia 223142730, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:10500">Peanut Butter for the Hungry</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/peanut-butter-for-the-hungry/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:9998">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:10500">Peanut Butter for the Hungry</receiver-org>
+            <value value-date="2012-04-30">2250</value>
+            <transaction-date iso-date="2012-04-30"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-05-31T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:8811</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Million Moms Fund</title>
+        <description xml:lang="en">The Million Moms Challenge is a call to action to engage a million Americans with millions of moms in the developing world around issues that impact pregnancy, childbirth and children's health. The goal is to create a global community, building on the common dream that every mother shares for her child:  a healthy pregnancy, a safe birth and a baby who will survive and thrive.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2011-09-16" type="start-planned"/>
+        <activity-date iso-date="2014-02-28" type="end-planned"/>
+        <contact-info>
+            <organisation>GlobalGiving</organisation>
+            <person-name>Angela Wu</person-name>
+            <telephone>(202) 330-4041</telephone>
+            <mailing-address>Angela Wu, 1023 15th Street NW, 12th Floor, Washington, DC 20005, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:189">GlobalGiving</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/million-moms-fund/</activity-website>
+        <recipient-country code="AF">Afghanistan</recipient-country>
+        <recipient-country code="GT">Guatemala</recipient-country>
+        <recipient-country code="IN">India</recipient-country>
+        <recipient-country code="KE">Kenya</recipient-country>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <recipient-country code="NP">Nepal</recipient-country>
+        <recipient-country code="SL">Sierra Leone</recipient-country>
+        <recipient-country code="ZM">Zambia</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:8811">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:189">GlobalGiving</receiver-org>
+            <value value-date="2014-05-31">140120</value>
+            <transaction-date iso-date="2014-05-31"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-06-28T10:56:00.000" version="1.03">
+        <iati-identifier>GGProj:10572</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Solar power for a remote hospital in Malawi</title>
+        <description xml:lang="en">African Steps will install solar power at St Peter's Hospital Likoma Island, to prevent the suffering and deaths which are occurring every single day as a result of the current lack of electricity. Solar power will transform the health care at the hospital for the 10,000 people who live on Likoma and for approximately 70,000 people from neighbouring Mozambique and Tanzania, for whom St Peter's is the nearest medical facility.</description>
+        <activity-status code="2">Implementation</activity-status>
+        <activity-date iso-date="2012-09-10" type="start-planned"/>
+        <contact-info>
+            <organisation>African Steps</organisation>
+            <person-name>Kathryn Garnett</person-name>
+            <telephone>01509 890067</telephone>
+            <mailing-address>Kathryn Garnett, 4 Charnia Grove, Swithland, Loughborough, LE12 8XZ, United Kingdom</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:7369">African Steps</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/solar-power-for-a-remote-hospital-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:10572">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:7369">African Steps</receiver-org>
+            <value value-date="2014-06-28">13622</value>
+            <transaction-date iso-date="2014-06-28"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2011-08-07T20:11:43.000" version="1.03">
+        <iati-identifier>GGProj:6988</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Power Health in Rural Malawi - Support &gt; 30,000</title>
+        <description xml:lang="en">Save Lives and Educate Communities. Provide security and energy for the Mauwa Health Centre. You will help it grow from an unpowered building, with 10 beds for &gt;30,000, to a 60 bed health resource.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-11-28" type="start-planned"/>
+        <activity-date iso-date="2011-08-07" type="end-planned"/>
+        <contact-info>
+            <organisation>Light Up Malawi</organisation>
+            <person-name>Ryan  Renner</person-name>
+            <telephone>3093977413</telephone>
+            <mailing-address>Ryan  Renner, 135 High Point Rd, Peoria, IL 61614, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:6335">Light Up Malawi</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/power-for-health-in-rural-malawi-maternity-and-hiv-care/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:6988">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:6335">Light Up Malawi</receiver-org>
+            <value value-date="2011-07-29">4330</value>
+            <transaction-date iso-date="2011-07-29"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-04-23T21:59:50.000" version="1.03">
+        <iati-identifier>GGProj:11400</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Help Orphaned Girls in Malawi Receive an Education</title>
+        <description xml:lang="en">Education is a birthright for all children. Yet for girls in many developing countries, it's a promise seldom kept. Considered unworthy of education, girls are often denied schooling and other opportunities, leaving them stuck in a cycle of poverty. 
+
+Investing in a girl's education pays major dividends: educated women are healthier, earn more, have fewer children, and contribute to the prosperity of the whole community. CARE Malawi supports programs that offer girls more educational options.</description>
+        <activity-status code="2">Implementation</activity-status>
+        <activity-date iso-date="2012-09-06" type="start-planned"/>
+        <contact-info>
+            <organisation>CARE</organisation>
+            <person-name>Paul Towne</person-name>
+            <telephone>4158744501</telephone>
+            <mailing-address>Paul Towne, 465 California St. Suite 1210, San Francisco, CA 94104, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:335">CARE</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/help-orphaned-girls-in-malawi-receive-an-education/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:11400">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:335">CARE</receiver-org>
+            <value value-date="2014-01-23">302</value>
+            <transaction-date iso-date="2014-01-23"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2011-07-31T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:6641</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Saving lives from Tuberculosis in Malawi</title>
+        <description xml:lang="en">With over 48,000 new cases of TB in Malawi each year, we fund Support Workers to educate 400,000 people to recognize the symptoms of TB and help people access free and life-saving treatment.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-11-03" type="start-planned"/>
+        <activity-date iso-date="2011-06-06" type="end-planned"/>
+        <contact-info>
+            <organisation>TB Alert</organisation>
+            <person-name>Briggy Smale</person-name>
+            <telephone>+ 44 (0) 1273 234784</telephone>
+            <mailing-address>Briggy Smale, Community Base, 113 Queens Road, Brighton, East Sussex BN1 3XG, United Kingdom</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:5634">TB Alert</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/tbalert-malawi-tuberculosis-tb-blantye-thyolo-hiv-aids/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:6641">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:5634">TB Alert</receiver-org>
+            <value value-date="2011-07-31">52</value>
+            <transaction-date iso-date="2011-07-31"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2012-08-15T21:06:46.000" version="1.03">
+        <iati-identifier>GGProj:8241</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Stop deaths from TB on Likoma Island, Malawi</title>
+        <description xml:lang="en">African Steps will build, equip and run an isolation ward for TB patients in St Peter's Hospital on Likoma Island. People are dying constantly of TB, which is a totally preventable disease and the isolation ward and facilities will prevent these unacceptable deaths and the spread of the disease throughout the Island.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2011-06-08" type="start-planned"/>
+        <activity-date iso-date="2012-08-15" type="end-planned"/>
+        <contact-info>
+            <organisation>African Steps</organisation>
+            <person-name>Kathryn Garnett</person-name>
+            <telephone>01509890067</telephone>
+            <mailing-address>Kathryn Garnett, 4 Charnia Grove, Swithland, Leicester, Leicestershire LE12 8XZ, United Kingdom</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:7369">African Steps</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/stop-deaths-from-tb-on-likoma-island-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:8241">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:7369">African Steps</receiver-org>
+            <value value-date="2012-08-15">25362</value>
+            <transaction-date iso-date="2012-08-15"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-04-30T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:13235</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Send an poor Malawian Child to school for 3 years</title>
+        <description xml:lang="en">Most rural Malawian children are forced to enter into work that is detrimental to their education and growth. Parents and guardians are either not aware of the terms and or agree after being offered incentives, contributing to high drop out rates from school. Education is the key to every nations development. COIDA is working to eliminate child labourers and mainstream them into basic education by providing scholastic materials, school fees as well as economic support to their families.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2013-04-01" type="start-planned"/>
+        <activity-date iso-date="2013-05-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Communities in Development Activities</organisation>
+            <person-name>Patrick Jonathan Mwale</person-name>
+            <telephone>00265999583265, 00265888583265, 002651342219</telephone>
+            <mailing-address>Patrick Jonathan Mwale, Behind Mzimba Police Station, Mzimba Boma, P.O Box 58, Luwerezi,, Mzimba, Malawi 00265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:14162">Communities in Development Activities</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/send-a-poor-malawian-child-to-school-for-3-years/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:13235">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:14162">Communities in Development Activities</receiver-org>
+            <value value-date="2014-04-30">50</value>
+            <transaction-date iso-date="2014-04-30"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2013-04-28T12:44:45.000" version="1.03">
+        <iati-identifier>GGProj:13723</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Partner w/AKI to Help Animals in 10 Countries</title>
+        <description xml:lang="en">Animal-Kind International supports existing animal welfare orgs run by local people in Ghana, Malawi, Namibia, South Sudan, Tanzania, Uganda, Honduras, Jamaica, Armenia &amp; Bosnia. There are few opportunities to raise funds &amp; supplies for animal welfare in these countries so they need to look to outside supporters for assistance. AKI does the due diligence on the orgs, ensures they track use of AKI funds &amp; always sends 100% of donations to our partner orgs to be used only for animal welfare.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2013-04-01" type="start-planned"/>
+        <activity-date iso-date="2013-05-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Animal-Kind International</organisation>
+            <person-name>Karen Menczer</person-name>
+            <telephone>575-834-0908</telephone>
+            <mailing-address>Karen Menczer, PO Box 300, Jemez Springs, New Mexico 87025, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:4507">Animal-Kind International</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/partner-w-aki-to-help-animals-in-10-countries/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:13723">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:4507">Animal-Kind International</receiver-org>
+            <value value-date="2013-04-28">660</value>
+            <transaction-date iso-date="2013-04-28"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2012-01-03T19:23:07.000" version="1.03">
+        <iati-identifier>GGProj:9282</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>CHIDIDI AND LULWE SAVINGS AND LIVELIHOOD PROJECT</title>
+        <description xml:lang="en">Chididi and Lulwe are areas where poverty is very common amongst women, as the result Sustainable Rural Community Development Organization is engaged in a savings and capital building project which is targeting 5000 women with an aim of building their capacity in financial literacy as well as building their capacity in saving. The main aim is poverty reduction using participatory approaches of encouraging the community to save using the available resources they have.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2011-11-23" type="start-planned"/>
+        <activity-date iso-date="2012-01-03" type="end-planned"/>
+        <contact-info>
+            <organisation>SUSTAINABLE RURAL COMMUNITY DEVELOPMENT ORGANISATION (SURCOD) MALAWI</organisation>
+            <person-name>JANUARY MVULA</person-name>
+            <telephone>+265888745742</telephone>
+            <mailing-address>JANUARY MVULA, P.O. BOX 45, CHIDIDI, NSANJE, MALAWI., NSANJE, MALAWI 0265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:9114">SUSTAINABLE RURAL COMMUNITY DEVELOPMENT ORGANISATION (SURCOD) MALAWI</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/chididi-and-lulwe-savings-and-livelihood-project/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:9282">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:9114">SUSTAINABLE RURAL COMMUNITY DEVELOPMENT ORGANISATION (SURCOD) MALAWI</receiver-org>
+            <value value-date="2012-01-03">50</value>
+            <transaction-date iso-date="2012-01-03"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-02-28T21:51:13.000" version="1.03">
+        <iati-identifier>GGProj:6647</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Inspire Malawians Out of Poverty</title>
+        <description xml:lang="en">Become an agent of change.  
+
+Your generous donation will assist individuals and families in Malawi inch their way out of poverty though Opportunity's microfinance network.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-11-08" type="start-planned"/>
+        <activity-date iso-date="2014-02-28" type="end-planned"/>
+        <contact-info>
+            <organisation>Opportunity International</organisation>
+            <person-name>Ally Lynch</person-name>
+            <telephone>6302424100</telephone>
+            <mailing-address>Ally Lynch, 2122 York Rd. Suite 150, Oak Brook, Illinois 60523, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:3560">Opportunity International</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/inspire-malawians-out-of-poverty/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:6647">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:3560">Opportunity International</receiver-org>
+            <value value-date="2014-02-21">1000</value>
+            <transaction-date iso-date="2014-02-21"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2011-07-01T17:39:42.000" version="1.03">
+        <iati-identifier>GGProj:2583</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Support Special Programming for Scholars in Malawi</title>
+        <description xml:lang="en">Help girls in Malawi who are attending secondary school with the support of the Advancement of Girls' Education (AGE) to take advantage of unbudgeted, complementary educational opportunities.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2009-04-22" type="start-planned"/>
+        <activity-date iso-date="2011-06-06" type="end-planned"/>
+        <contact-info>
+            <organisation>Advancement of Girls' Education (AGE Africa)</organisation>
+            <person-name>Aubryn Sidle</person-name>
+            <telephone>207-317-6241</telephone>
+            <mailing-address>Aubryn Sidle, The Advancement of Girls' Education, PO Box 53085, Medford, MA 02153, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:1058">Advancement of Girls' Education (AGE Africa)</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/support-special-programming-for-scholars-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:2583">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:1058">Advancement of Girls' Education (AGE Africa)</receiver-org>
+            <value value-date="2011-01-09">115</value>
+            <transaction-date iso-date="2011-01-09"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-04-30T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:13393</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Enroll 400 adolescent girls into schools in Malawi</title>
+        <description xml:lang="en">The proposed project in Malawi is aimed at reducing early child marriages and retain adolescent girls back to school. The country has got a high HIV prevalence of 12.6% based on the 2010 Malawi Demographic Health Survey, while most teenage girls fall into early marriages leads to HIV infection as young girls get married to older men who have a high HIV risk. More importantly adolescent girls are at risk of missing out on quality basic education, while obstetric fistula and maternal deaths rise</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2013-04-01" type="start-planned"/>
+        <activity-date iso-date="2013-05-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Meaningful Action on HIV/AIDS Support Association (MASUNA)</organisation>
+            <person-name>James Kapanila</person-name>
+            <telephone>+265 991884995</telephone>
+            <mailing-address>James Kapanila, C/O MANET PLUS, Private Bag B 377, Lilongwe 3. Malawi., Lilongwe, Southern Africa +265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:14383">Meaningful Action on HIV/AIDS Support Association (MASUNA)</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/girls-educated-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:13393">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:14383">Meaningful Action on HIV/AIDS Support Association (MASUNA)</receiver-org>
+            <value value-date="2014-04-30">10</value>
+            <transaction-date iso-date="2014-04-30"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2010-07-23T16:18:24.000" version="1.03">
+        <iati-identifier>GGProj:11</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Promoting soy to help alleviate hunger in Malawi</title>
+        <description xml:lang="en">Youth learn about the benefits of soy and receive a meal with soy. Each meal costs only 75 cents.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2003-05-20" type="start-planned"/>
+        <activity-date iso-date="2005-03-17" type="end-planned"/>
+        <contact-info>
+            <organisation>World Camp</organisation>
+            <telephone>919-914-1513</telephone>
+            <mailing-address>312 Lindsay Street, Chapel Hill, North Carolina 27516, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:8">World Camp</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/famine-in-africa/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:11">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:8">World Camp</receiver-org>
+            <value value-date="2007-02-15">490</value>
+            <transaction-date iso-date="2007-02-15"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2012-10-01T09:04:00.000" version="1.03">
+        <iati-identifier>GGProj:11013</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Help protect Malawi's elephants</title>
+        <description xml:lang="en">While elephant population dwindles as the demand for ivory grows, the Wildlife Action Group's anti-poaching team is working tirelessly to tackle illegal poaching and save animals lives. This project supports conservation activities in Thuma Forest Reserve, Malawi, to provide a save future for its remaining endangered elephant population and habitat.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2012-09-01" type="start-planned"/>
+        <activity-date iso-date="2012-10-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Wildlife Action Group International e.V.</organisation>
+            <person-name>Susanne Kneissl</person-name>
+            <telephone>017639566300</telephone>
+            <mailing-address>Susanne Kneissl, Pfaelzer Strasse 22, Grosskarolinenfeld, Germany</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:9834">Wildlife Action Group International e.V.</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/protecting-african-elephants/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:11013">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:9834">Wildlife Action Group International e.V.</receiver-org>
+            <value value-date="2012-10-01">575</value>
+            <transaction-date iso-date="2012-10-01"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2010-09-13T18:48:41.000" version="1.03">
+        <iati-identifier>GGProj:5281</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Create a sustainable living for families in Malawi</title>
+        <description xml:lang="en">Your donation will go directly to the 13 women to enable MicroLoan Foundation to provide business training and loan capital required to help their community work sustainably out of poverty.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-04-06" type="start-planned"/>
+        <activity-date iso-date="2010-09-13" type="end-planned"/>
+        <contact-info>
+            <organisation>MicroLoan Foundation</organisation>
+            <person-name>Deniz Hassan</person-name>
+            <telephone>02088271693</telephone>
+            <mailing-address>Deniz Hassan, 10 Barley Mow Passage, London, London W4 4PH, United Kingdom</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:4491">MicroLoan Foundation</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/tikolelaneko-credit-group-13-women-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:5281">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:4491">MicroLoan Foundation</receiver-org>
+            <value value-date="2010-09-02">3907</value>
+            <transaction-date iso-date="2010-09-02"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-06-05T17:21:49.000" version="1.03">
+        <iati-identifier>GGProj:12441</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Support school costs for children in rural Malawi</title>
+        <description xml:lang="en">Through its Program on Social and Economic Rights, Partners In Health supports patients and their families to get through a particularly vulnerable time, and works to break the cycle of poverty and disease by making sure that all school-aged children in these families are able to go to school. Partners In Health will support 2,000 children in Neno District in 2012-2013.</description>
+        <activity-status code="2">Implementation</activity-status>
+        <activity-date iso-date="2013-02-01" type="start-planned"/>
+        <contact-info>
+            <organisation>Partners In Health (PIH)</organisation>
+            <person-name>Laura Soucy</person-name>
+            <telephone>617-998-8922</telephone>
+            <mailing-address>Laura Soucy, 888 Commonwealth Ave, 3rd Floor, Boston, MA 02215, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:651">Partners In Health (PIH)</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/support-school-costs-for-children-in-rural-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:12441">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:651">Partners In Health (PIH)</receiver-org>
+            <value value-date="2014-06-05">1618</value>
+            <transaction-date iso-date="2014-06-05"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-06-04T15:22:17.000" version="1.03">
+        <iati-identifier>GGProj:16712</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Malaria treatment for 10,000 children in Malawi</title>
+        <description xml:lang="en">For the children who live in the remote villages of Malawi prompt access to essential medicines is often the difference between life and death. Our mobile health clinic takes medical care to where it is most needed: to the children in the hard to reach areas. We also deliver public health education to the communities served by the mobile clinic as we believe prevention is better than cure. Our appeal to you is to help us raise $33,500 to treat 10,000 cases of malaria.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2014-03-28" type="start-planned"/>
+        <activity-date iso-date="2014-07-01" type="end-planned"/>
+        <contact-info>
+            <organisation>World Medical Fund for Children</organisation>
+            <person-name>Nazlie Chan Wing Yen</person-name>
+            <telephone>00 44 1553 617166</telephone>
+            <mailing-address>Nazlie Chan Wing Yen, St Helen's, Low Road, Saddlebow, Norfolk PE34 3FN, United Kingdom</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:2789">World Medical Fund for Children</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/mobile-clinic-for-children-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:16712">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:2789">World Medical Fund for Children</receiver-org>
+            <value value-date="2014-06-04">25</value>
+            <transaction-date iso-date="2014-06-04"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-07-02T06:03:29.000" version="1.03">
+        <iati-identifier>GGProj:14711</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Send a vulnerable child to school in Malawi</title>
+        <description xml:lang="en">The purpose of the project is to provide education care and support to 1500 vulnerable children in rural areas of Malawi to give them an opportunity to learn and grow into productive citizens. The project shall provide scholastic materials including writing materials, school uniform, tuition and examination fees and education counseling. Monitoring will be done in schools/homes. This will increase school ennoblement, attendance, performance and completion for the vulnerable and disadvantaged</description>
+        <activity-status code="2">Implementation</activity-status>
+        <activity-date iso-date="2013-09-01" type="start-planned"/>
+        <contact-info>
+            <organisation>NACC</organisation>
+            <person-name>Saeed Wame</person-name>
+            <telephone>+265 888 362 319</telephone>
+            <mailing-address>Saeed Wame, Private Bag 52, Along the M3 Road, Mangochi, Southern 265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:16363">NACC</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/send-a-vulnerable-child-to-school-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:14711">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:16363">NACC</receiver-org>
+            <value value-date="2014-07-02">1845</value>
+            <transaction-date iso-date="2014-07-02"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-03-31T04:00:00.000" version="1.03">
+        <iati-identifier>GGProj:16118</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Mwambo Child Protection Case Management Project</title>
+        <description xml:lang="en">Every day Malawian children are being orphaned by the death of their parents. The Mwambo Child Protection Case Management Project is a urgent collaborative effort to protect innocent children who are lost in the aftermath of the HIV/AIDS crisis. Formed in 2003 in a small village of Southern Malawi, the Childcare Organization is leading this partnership of rural relief organizations</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2014-03-01" type="start-planned"/>
+        <activity-date iso-date="2014-04-01" type="end-planned"/>
+        <contact-info>
+            <organisation>Childcare Organization</organisation>
+            <person-name>victor julius</person-name>
+            <telephone>0881998120</telephone>
+            <mailing-address>victor julius, P/Bag 61, P/Bag 61, Zomba, Africa 265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:14225">Childcare Organization</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/mwambo-child-protection-case-management-project-1/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:16118">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:14225">Childcare Organization</receiver-org>
+            <value value-date="2014-03-31">1035</value>
+            <transaction-date iso-date="2014-03-31"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2010-10-05T17:42:56.000" version="1.03">
+        <iati-identifier>GGProj:6361</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Helping 30 rural Malawi women through pig farming.</title>
+        <description xml:lang="en">This project will provide start-up piglets to 30 single Malawian rural mothers who do not have any financial means to buy nutritive food and medicine for their children.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2010-08-31" type="start-planned"/>
+        <activity-date iso-date="2010-10-01" type="end-planned"/>
+        <contact-info>
+            <organisation>SACCODE-Trust</organisation>
+            <person-name>Joseph Patemba</person-name>
+            <telephone>+265(0) 999 553 133</telephone>
+            <mailing-address>Joseph Patemba, SACCODE-Trust, c/o Box 952 Mzuzu., Box 952 Mzuzu., Mzuzu., Malawi. 265, Malawi</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:3341">SACCODE-Trust</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/helping-30-rural-malawi-women-through-pig-farming/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:6361">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:3341">SACCODE-Trust</receiver-org>
+            <value value-date="2010-09-30">30</value>
+            <transaction-date iso-date="2010-09-30"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2010-07-23T17:58:13.000" version="1.03">
+        <iati-identifier>GGProj:2579</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>School Sanitation Program in Chikwawa District</title>
+        <description xml:lang="en">The reduce incidences of diarrhea by improving sanitation practices and facilities in schools in two traditional authorities (TA) in the Chikwawa District of Malawi.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2009-03-18" type="start-planned"/>
+        <activity-date iso-date="2010-07-14" type="end-planned"/>
+        <contact-info>
+            <organisation>Water For People</organisation>
+            <person-name>Katie Scolari Borden</person-name>
+            <telephone>720-488-4598</telephone>
+            <mailing-address>Katie Scolari Borden, 6666 W. Quincy Ave, Denver, CO 80235, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:1077">Water For People</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/school-sanitation-program-in-chikwawa-district/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:2579">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:1077">Water For People</receiver-org>
+            <value value-date="2009-12-23">115</value>
+            <transaction-date iso-date="2009-12-23"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2010-07-23T17:17:20.000" version="1.03">
+        <iati-identifier>GGProj:1903</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Give 6 Malawian Marathoners a Chance to Run</title>
+        <description xml:lang="en">This project will provide 6 Malawian runners from rural villages a chance to compete in the Austin Marathon in February, and shoes &amp; clothes for 100 additional runners from disadvantage communities.</description>
+        <activity-status code="3">Completion</activity-status>
+        <activity-date iso-date="2007-11-20" type="start-planned"/>
+        <activity-date iso-date="2008-12-22" type="end-planned"/>
+        <contact-info>
+            <organisation>The Malawi Project: A Rogue Running Initiative</organisation>
+            <person-name>Ruth England</person-name>
+            <telephone>5125366990</telephone>
+            <mailing-address>Ruth England, 500 San Marcos Suite 104, Austin, TX 78702, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:778">The Malawi Project: A Rogue Running Initiative</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/austin-marathon/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:1903">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:778">The Malawi Project: A Rogue Running Initiative</receiver-org>
+            <value value-date="2010-02-28">5854</value>
+            <transaction-date iso-date="2010-02-28"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-07-14T06:02:38.000" version="1.03">
+        <iati-identifier>GGProj:11305</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Send DC High Schoolers to Malawi to Build a School</title>
+        <description xml:lang="en">Give 6 D.C. inner city high school students from Eastern High School the transformational opportunity of a lifetime! Help the D.C. Chapter of buildOn send 6 D.C. high school students and a teacher to Malawi to build a school for a community in need.</description>
+        <activity-status code="2">Implementation</activity-status>
+        <activity-date iso-date="2012-09-01" type="start-planned"/>
+        <contact-info>
+            <organisation>buildOn</organisation>
+            <person-name>Skyler Badenoch</person-name>
+            <telephone>202-330-4015</telephone>
+            <mailing-address>Skyler Badenoch, 1023 15th St. NW, Washington, DC 20005, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:9659">buildOn</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/send-dc-high-schoolers-to-malawi-to-build-a-school/</activity-website>
+        <recipient-country code="US">United States</recipient-country>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:11305">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:9659">buildOn</receiver-org>
+            <value value-date="2014-07-14">29090</value>
+            <transaction-date iso-date="2014-07-14"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="USD" xml:lang="en" last-updated-datetime="2014-03-30T22:17:57.000" version="1.03">
+        <iati-identifier>GGProj:16467</iati-identifier>
+        <reporting-org type="21" ref="US-EIN-300108263">GlobalGiving</reporting-org>
+        <title>Hope for Street Children in Malawi</title>
+        <description xml:lang="en">The Chisomo Children's Club in Malawi promotes long-term change by providing direct services to hundreds of street children and their families, enabling them to lift themselves out of poverty and to have hope for the future.</description>
+        <activity-status code="2">Implementation</activity-status>
+        <activity-date iso-date="2014-02-26" type="start-planned"/>
+        <contact-info>
+            <organisation>Retrak America</organisation>
+            <person-name>Joan Townsend</person-name>
+            <telephone>202-361-1830</telephone>
+            <mailing-address>Joan Townsend, 1133 19th Street, NW #1056, Washington, DC 20036, United States</mailing-address>
+        </contact-info>
+        <participating-org role="Implementing" ref="GGOrg:892">Retrak America</participating-org>
+        <participating-org role="Funding" type="21" ref="US-EIN-300108263">GlobalGiving</participating-org>
+        <activity-website>http://www.globalgiving.org/projects/hope-for-street-children-in-malawi/</activity-website>
+        <recipient-country code="MW">Malawi</recipient-country>
+        <collaboration-type code="1">Bilateral</collaboration-type>
+        <default-flow-type code="30">GlobalGiving Marketplace</default-flow-type>
+        <default-aid-type code="C01">Project-type Interventions</default-aid-type>
+        <transaction ref="GGProj:16467">
+            <transaction-type code="D">Disbursment</transaction-type>
+            <provider-org ref="US-EIN-300108263">GlobalGiving</provider-org>
+            <receiver-org ref="GGOrg:892">Retrak America</receiver-org>
+            <value value-date="2014-03-30">60</value>
+            <transaction-date iso-date="2014-03-30"/>
+            <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+        </transaction>
+        <conditions attached="false"/>
+    </iati-activity>
+</iati-activities>

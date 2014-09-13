@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-1105851" type="21">Christian Aid</reporting-org>
+    <transaction>
+      <transaction-date iso-date=""/>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="">0</value>
+    </transaction>
+    <description>To achieve major, measurable and sustainable improvements in the health status and livelihoods for the most marginalised communities in countries of extreme vulnerability to climate change and poverty related health issues</description>
+    <iati-identifier>GB-CHC-1105851-9PP00021242</iati-identifier>
+    <title>PPA Resilient Livelihoods</title>
+    <activity-date iso-date="2014-03-31" type="end-planned">2014-03-31</activity-date>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org ref="GB-1" role="Funding" type="10">DFID</participating-org>
+    <activity-date iso-date="2011-04-01" type="start-planned">2011-04-01</activity-date>
+    <participating-org ref="GB-CHC-1105851" role="Extending" type="21">Christian Aid</participating-org>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-12-31">1176</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-1105851" type="21">Christian Aid</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2012-12-31">623984</value>
+    </transaction>
+    <description>ECRP aims to strengthen the resilience of vulnerable communities in Malawi, due to climate change related effects like floods, droughts and changing weather conditions. This is in line with the Hyogo framework for action to reduce the losses and increasing resilience. ECRP is a consortium headed by Christian Aid, and works together with CARE and Action Aid, while 11 NGOďžs are implementing the work on the ground in 7 of the most vulnerable districts in Malawi. It aims to reach 305.000 community members directly through interventions like Disaster Risk Management, Village Savings and Loans, Conservation Agriculture, Irrigation, Post Harvest Management, Seed systems management, watershed management, agro-forestry, livestock and low carbon technologies (solar power and fuel efficient stoves).</description>
+    <iati-identifier>GB-CHC-1105851-9DF00681242</iati-identifier>
+    <title>Enhancing Community Resilience Programme (ECRP)</title>
+    <activity-date iso-date="2016-06-30" type="end-planned">2016-06-30</activity-date>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org ref="GB-1" role="Funding" type="10">DFID</participating-org>
+    <activity-date iso-date="2011-09-01" type="start-planned">2011-09-01</activity-date>
+    <participating-org ref="GB-CHC-1105851" role="Extending" type="21">Christian Aid</participating-org>
+    <activity-status code="2">Implementation</activity-status>
+    <participating-org role="implementing">CARE International - Malawi</participating-org>
+    <transaction>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-12-31">148994</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-1105851" type="21">Christian Aid</reporting-org>
+    <transaction>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="2012-12-31">0</value>
+    </transaction>
+    <description>To achieve major, measurable and sustainable improvements in the health status and livelihoods for the most marginalised communities in countries of extreme vulnerability to climate change and poverty related health issues. Seeking to make livelihoods of marginalised small-scale producers, primarily women, increasingly profitable and resilient. Working with vulnerable and marginalised producers / communities to manage key resources and adapt their livelihoods strategies to respond to short- and long-term climate trends. Ensuring that national and sub-national policy frameworks effectively promote profitable and resilient livelihoods for marginalised small-scale producers, especially women. Improving health of people with HIV.</description>
+    <iati-identifier>GB-CHC-1105851-5DPPA0011242</iati-identifier>
+    <title>PPA Health</title>
+    <activity-date iso-date="2014-03-31" type="end-planned">2014-03-31</activity-date>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org ref="GB-1" role="Funding" type="10">DFID</participating-org>
+    <activity-date iso-date="2011-04-01" type="start-planned">2011-04-01</activity-date>
+    <participating-org ref="GB-CHC-1105851" role="Extending" type="21">Christian Aid</participating-org>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-12-31">6190</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-1105851" type="21">Christian Aid</reporting-org>
+    <transaction>
+      <transaction-date iso-date=""/>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="">0</value>
+    </transaction>
+    <description>To achieve major, measurable and sustainable improvements in the health status and livelihoods for the most marginalised communities in countries of extreme vulnerability to climate change and poverty related health issues</description>
+    <iati-identifier>GB-CHC-1105851-5DPPA0021242</iati-identifier>
+    <title>PPA Resilient Livelihoods</title>
+    <activity-date iso-date="2014-03-31" type="end-planned">2014-03-31</activity-date>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org ref="GB-1" role="Funding" type="10">DFID</participating-org>
+    <activity-date iso-date="2011-04-01" type="start-planned">2011-04-01</activity-date>
+    <participating-org ref="GB-CHC-1105851" role="Extending" type="21">Christian Aid</participating-org>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-12-31">6190</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="GBP" xml:lang="en">
+    <reporting-org ref="GB-CHC-1105851" type="21">Christian Aid</reporting-org>
+    <transaction>
+      <transaction-date iso-date=""/>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <value value-date="">0</value>
+    </transaction>
+    <description>To achieve major, measurable and sustainable improvements in the health status and livelihoods for the most marginalised communities in countries of extreme vulnerability to climate change and poverty related health issues. Seeking to make livelihoods of marginalised small-scale producers, primarily women, increasingly profitable and resilient. Working with vulnerable and marginalised producers / communities to manage key resources and adapt their livelihoods strategies to respond to short- and long-term climate trends. Ensuring that national and sub-national policy frameworks effectively promote profitable and resilient livelihoods for marginalised small-scale producers, especially women. Improving health of people with HIV.</description>
+    <iati-identifier>GB-CHC-1105851-9PP00011242</iati-identifier>
+    <title>PPA Health</title>
+    <activity-date iso-date="2014-03-31" type="end-planned">2014-03-31</activity-date>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <participating-org ref="GB-1" role="Funding" type="10">DFID</participating-org>
+    <activity-date iso-date="2011-04-01" type="start-planned">2011-04-01</activity-date>
+    <participating-org ref="GB-CHC-1105851" role="Extending" type="21">Christian Aid</participating-org>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <transaction-date iso-date="2012-12-31">2012-12-31</transaction-date>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-12-31">3863</value>
+    </transaction>
+  </iati-activity>
+</iati-activities>

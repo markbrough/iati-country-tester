@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-02-26T10:29:36" xml:lang="en">
+    <reporting-org ref="GB-COH-03580586-GEC" type="70">Girls' Education Challenge - Fund Manager PwC</reporting-org>
+    <iati-identifier>GB-COH-03580586-GEC-Recipient-8329</iati-identifier>
+    <title>GIRLS' EDUCATION CHALLENGE (GEC)  (Theatre for a Change)</title>
+    <description>The Girls Education Challenge (GEC) will help up to a million of the worlds poorest girls improve their lives through education. The initiative calls on non-governmental organisations (NGOs), charities and the private sector to find better ways of getting girls in school and ensuring they receive a quality of education to transform their future. </description>
+    <activity-status code="2"/>
+    <activity-date iso-date="2016-03-31" type="end-planned">31/03/2016</activity-date>
+    <activity-date iso-date="2013-01-01" type="start-actual">01/01/2013</activity-date>
+    <participating-org ref="GB-1" role="Funding" type="10">DFID</participating-org>
+    <participating-org ref="GB-COH-03580586-GEC" role="Extending" type="70">Girls' Education Challenge - Fund Manager PwC</participating-org>
+    <participating-org ref="GB-CHC-1104458" role="Implementing">Theatre for a Change</participating-org>
+    <recipient-country code="MW"/>
+    <sector code="11320">Secondary education</sector>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-flow-type code="10"/>
+    <default-aid-type code="C01"/>
+    <transaction ref="FMFR008">
+      <provider-org provider-activity-id="GB-COH-03580586-GEC-Fund-A1" ref="GB-COH-03580586-GEC">Girls' Education Challenge - Fund Manager PwC</provider-org>
+      <value value-date="2013-07-16">89006.00</value>
+      <transaction-date iso-date="2013-07-16">16/07/2013</transaction-date>
+      <transaction-type code="IF"/>
+      <description>ALLOCATED FROM DFID DRAW DOWN</description>
+    </transaction>
+    <transaction ref="FMFR010">
+      <provider-org provider-activity-id="GB-COH-03580586-GEC-Fund-A1" ref="GB-COH-03580586-GEC">Girls' Education Challenge - Fund Manager PwC</provider-org>
+      <value value-date="2013-09-02">37729.00</value>
+      <transaction-date iso-date="2013-09-02">02/09/2013</transaction-date>
+      <transaction-type code="IF"/>
+      <description>ALLOCATED FROM DFID DRAW DOWN</description>
+    </transaction>
+    <transaction ref="FMFR008">
+      <receiver-org ref="GB-CHC-1104458">Theatre for a Change</receiver-org>
+      <value value-date="2013-07-16">89006.00</value>
+      <transaction-date iso-date="2013-07-16">16/07/2013</transaction-date>
+      <transaction-type code="D"/>
+      <description>ALLOCATED FROM DFID DRAW DOWN</description>
+    </transaction>
+    <transaction ref="FMFR010">
+      <receiver-org ref="GB-CHC-1104458">Theatre for a Change</receiver-org>
+      <value value-date="2013-09-02">37729.00</value>
+      <transaction-date iso-date="2013-09-02">02/09/2013</transaction-date>
+      <transaction-type code="D"/>
+      <description>ALLOCATED FROM DFID DRAW DOWN</description>
+    </transaction>
+  </iati-activity>
+</iati-activities>

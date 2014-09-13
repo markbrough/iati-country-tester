@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2012-10-03T15:03:26+00:00">
+    <reporting-org xml:lang="en" ref="GB-COH-1364201" type="21">Plan International UK</reporting-org>
+    <iati-identifier>GB-COH-1364201-GLOPPA2</iati-identifier>
+    <title xml:lang="en">Building Skills for Life, PPA2</title>
+    <description xml:lang="en" type="1">Plan UK’s Programme Partnership Arrangement (PPA) is a strategic funding arrangement, which Plan is using to fund two strategic objectives relating to “Building Skills for Life” and enhancing programme effectiveness. Building Skills for Life is our flagship programme promoting adolescent girls’ rights and gender equality. The PPA funds projects aimed at enhancing girls’ access to and completion of quality education in 9 countries.</description>
+    <activity-status xml:lang="en" code="2"/>
+    <activity-date type="start-actual" iso-date="2011-04-01"/>
+    <activity-date type="end-planned" iso-date="2014-03-31"/>
+    <contact-info>
+      <organisation>Plan International UK</organisation>
+      <person-name>Open Information</person-name>
+      <email>openinformation@plan-uk.org</email>
+      <mailing-address>Plan UK&#13;
+Finsgate&#13;
+5-7 Cranwood Street&#13;
+London EC1V 9LH&#13;
+UK</mailing-address>
+    </contact-info>
+    <participating-org xml:lang="en" ref="GB-1" type="10" role="Funding">UK Department for International Development</participating-org>
+    <participating-org xml:lang="en" ref="GB-COH-1364201" type="21" role="Accountable">Plan International UK</participating-org>
+    <participating-org type="21" role="Implementing">Plan International Inc.</participating-org>
+    <recipient-country percentage="30" code="GB"/>
+    <recipient-country percentage="7" code="SL"/>
+    <recipient-country percentage="7" code="RW"/>
+    <recipient-country percentage="7" code="ML"/>
+    <recipient-country percentage="7" code="PK"/>
+    <recipient-country percentage="8" code="ZW"/>
+    <recipient-country percentage="8" code="SV"/>
+    <recipient-country percentage="8" code="MW"/>
+    <recipient-country percentage="8" code="KH"/>
+    <recipient-country percentage="8" code="KE"/>
+    <sector xml:lang="en" vocabulary="DAC" code="43081" percentage="28"/>
+    <sector xml:lang="en" vocabulary="DAC" code="12261" percentage="17"/>
+    <sector xml:lang="en" vocabulary="DAC" code="11130" percentage="15"/>
+    <sector xml:lang="en" vocabulary="DAC" code="11230" percentage="6"/>
+    <sector xml:lang="en" vocabulary="DAC" code="15150" percentage="9"/>
+    <sector xml:lang="en" vocabulary="DAC" code="11110" percentage="9"/>
+    <sector xml:lang="en" vocabulary="DAC" code="11220" percentage="4"/>
+    <sector xml:lang="en" vocabulary="DAC" code="16010" percentage="2"/>
+    <collaboration-type code="1"/>
+    <default-flow-type code="30" xml:lang="en"/>
+    <default-aid-type code="C01"/>
+    <budget type="1">
+      <period-end iso-date="2012-03-31"/>
+      <period-start iso-date="2011-04-01"/>
+      <value value-date="2011-04-01" currency="GBP">4101055</value>
+    </budget>
+    <budget type="1">
+      <period-end iso-date="2014-03-31"/>
+      <period-start iso-date="2013-04-01"/>
+      <value value-date="2011-04-01" currency="GBP">4101055</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C">DFID contracted amount for Years 1 and 2; Year 3 to be confirmed</transaction-type>
+      <provider-org ref="GB-1" provider-activity-id="GB-1-202755">DFID</provider-org>
+      <receiver-org ref="GB-COH-1364201">Plan International UK</receiver-org>
+      <value value-date="2011-04-01" currency="GBP">8202110</value>
+      <transaction-date iso-date="2011-04-01"/>
+      <flow-type code="10"/>
+      <flow-type code="30"/>
+      <aid-type code="B03"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="3"/>
+      <disbursement-channel code="2"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Total expenditure by Plan UK from 2011-04-01 to 2012-06-30</transaction-type>
+      <value value-date="2012-06-30" currency="GBP">1212162</value>
+      <description>Direct spend by Plan UK on Programme Effectiveness, Advocacy &amp; Campaigns and overhead costs</description>
+      <transaction-date iso-date="2012-06-30"/>
+      <transaction-date iso-date="2012-06-30"/>
+      <flow-type code="30"/>
+      <aid-type code="B01"/>
+      <disbursement-channel code="2"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Total income received from DFID between 2011-04-01 and 2012-06-30</transaction-type>
+      <provider-org ref="GB-1" provider-activity-id="GB-1-202755">DFID</provider-org>
+      <receiver-org ref="GB-COH-1364201">Plan International UK</receiver-org>
+      <value value-date="2012-06-30" currency="GBP">5126319</value>
+      <transaction-date iso-date="2012-06-30"/>
+      <flow-type code="30"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+    </transaction>
+    <document-link url="http://www.plan-uk.org/iati">
+      <category code="A02"/>
+      <title>Plan UK General PPA Proposal FINAL</title>
+      <title>Plan PPA Global Logframe Revision July 2012</title>
+    </document-link>
+    <activity-website>http://www.plan-uk.org/iati</activity-website>
+    <related-activity ref="KEN0233" type="2"/>
+    <related-activity ref="KHM0124" type="2"/>
+    <related-activity ref="MLI0121" type="2"/>
+    <related-activity ref="MWI1125" type="2"/>
+    <related-activity ref="PAK0183" type="2"/>
+    <related-activity ref="RWA0039" type="2"/>
+    <related-activity ref="SLE0108" type="2"/>
+    <related-activity ref="ZWE0181" type="2"/>
+    <related-activity ref="SLV0171" type="2"/>
+  </iati-activity>
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-08-07T12:26:28" xml:lang="EN">
+    <reporting-org ref="GB-COH-1364201" type="21">Plan International UK</reporting-org>
+    <iati-identifier>GB-COH-1364201-MWI1150</iati-identifier>
+    <title>Improving Access to and Delivery of Quality Basic Education and Sexual Reproductive Health via Social Accountability.</title>
+    <description>The overall aim of this project is to improve access to and quality delivery of education and sexual reproductive health. The purpose is to increase the number of adolescent girls enrolling and completing education as well as increase girls involvement in decision making processes in the community and school management. The project also intends to change the attitudes and behaviour of girls, parents, communities and officials in relation to adolescent girls' right to education, gender and sexual reproductive health . (Target: 49 schools)</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="31/03/2016" type="end-planned">use end ISO date</activity-date>
+    <activity-date iso-date="01/04/2014" type="start-actual">use start ISO date</activity-date>
+    <participating-org ref="GB" role="Funding" type="10">UNITED KINGDOM</participating-org>
+    <participating-org ref="GB-1" role="Extending" type="10">UK Department for International Development</participating-org>
+    <participating-org role="Implementing" type="21">Plan International Inc. (Malawi Country Office)</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="43081; 12261; 11130; 15150; 11110" percentage="20; 20; 20; 20; 20" vocabulary="DAC; DAC; DAC; DAC; DAC">; ; ; ;</sector>
+    <transaction>
+      <aid-type code="C01">Project-type intervention</aid-type>
+      <flow-type code="30">Private Grants</flow-type>
+      <value value-date="30/06/2014"/>
+      <finance-type code="110">Aid grant exluding debt reorganisation</finance-type>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="30/06/2014">30/06/2014</transaction-date>
+      <transaction-type code="C">Commitment</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01">Project-type intervention</aid-type>
+      <flow-type code="30">Private Grants</flow-type>
+      <value value-date="30/06/2014"/>
+      <finance-type code="110">Aid grant exluding debt reorganisation</finance-type>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="30/06/2014">30/06/2014</transaction-date>
+      <transaction-type code="D">Disbursement</transaction-type>
+    </transaction>
+    <transaction>
+      <aid-type code="C01">Project-type intervention</aid-type>
+      <flow-type code="30">Private Grants</flow-type>
+      <value value-date="30/06/2014"/>
+      <finance-type code="110">Aid grant exluding debt reorganisation</finance-type>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="30/06/2014">30/06/2014</transaction-date>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" hierarchy="2" last-updated-datetime="2012-10-03T15:35:19+00:00">
+    <reporting-org xml:lang="en" ref="GB-COH-1364201" type="21">Plan International UK</reporting-org>
+    <iati-identifier>GB-COH-1364201-MWI1125</iati-identifier>
+    <title>Improved Access to &amp; Quality Delivery of Education and Sexual &amp; Reproductive Health&#13;
+</title>
+    <description>The overall aim of this project is to improve access to and quality delivery of education and Sexual Reproductive Health via Social Accountability. The purpose is to increase the number of adolescent girls enrolling and completing education as well as girls involved in decision making processes in the community and school management. The project also intends to change the attitudes and behaviour of girls, parents, communities and officials in relation to adolescent girls’ right to education, gender and sexual reproductive health .</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2011-04-01"/>
+    <activity-date type="end-planned" iso-date="2014-03-31"/>
+    <contact-info>
+      <organisation>Plan International UK</organisation>
+      <person-name>Open Information</person-name>
+      <email>openinformation@plan-uk.org</email>
+      <mailing-address>Plan UK&#13;
+Finsgate&#13;
+5-7 Cranwood Street&#13;
+London EC1V 9LH&#13;
+UK&#13;
+</mailing-address>
+    </contact-info>
+    <participating-org ref="GB1" type="10" role="Funding">UK Department for International Development</participating-org>
+    <participating-org type="21" role="Implementing">Plan International Inc. (Malawi Country Office)</participating-org>
+    <participating-org ref="GB-COH-1364201" role="Accountable">Plan International UK</participating-org>
+    <recipient-country percentage="100" code="MW"/>
+    <sector vocabulary="DAC" code="43081" percentage="20"/>
+    <sector vocabulary="DAC" code="12261" percentage="20"/>
+    <sector vocabulary="DAC" code="11130" percentage="20"/>
+    <sector vocabulary="DAC" code="15150" percentage="20"/>
+    <sector vocabulary="DAC" code="11110" percentage="20"/>
+    <collaboration-type code="1"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="C01"/>
+    <budget type="1">
+      <period-end iso-date="2014-03-31"/>
+      <period-start iso-date="2011-04-01"/>
+      <value value-date="2011-04-01" currency="USD">1500000</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C">Total committed budget for Years 1 and 2. Budget for year 3 to be confirmed.</transaction-type>
+      <provider-org ref="GB-COH-1364201">Plan International UK</provider-org>
+      <receiver-org>Plan International Inc. (Malawi Country Office)</receiver-org>
+      <value value-date="2011-04-01" currency="GBP">598339</value>
+      <transaction-date iso-date="2011-04-01"/>
+      <flow-type code="30"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="D">Total disbursed from 2011-04-01 to 2012-06-30</transaction-type>
+      <provider-org ref="GB-COH-1364201">Plan International UK</provider-org>
+      <value value-date="2012-06-30" currency="GBP">395252</value>
+      <transaction-date iso-date="2012-06-30"/>
+      <flow-type code="30"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+    </transaction>
+    <document-link url="http://www.plan-uk.org/iati">
+      <category code="A02"/>
+      <title>MWI1125 PPA2 Malawi proposal - external</title>
+    </document-link>
+    <activity-website>http://www.plan-uk.org/iati</activity-website>
+    <related-activity ref="GLOPPA2" type="1">Building Skills for Life, PPA2</related-activity>
+  </iati-activity>
+</iati-activities>

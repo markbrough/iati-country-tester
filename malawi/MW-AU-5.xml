@@ -1,0 +1,1312 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK695-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>WFP MRC and School Feeding Support 2012-13</title>
+    <description type="1">The World Food Programme's (WFP) Multilateral Regular Contribution and School Feeding Programme Support provides emergency food assistance, logistics and communications; providing nutritional supplements to vulnerable groups during humanitarian crises; supporting the re-establishment of livelihoods and food security in communities during recovery and transition periods; prepositioned humanitarian food reserves to prepare for future emergencies; and capacity building initiatives to assist governments better manage food and nutritional security. The total value of this initiative is $204 million over 4 years, starting 2012-13.</description>
+    <sector code="52010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2012-07-01"/>
+    <activity-date type="end-planned" iso-date="2016-07-31"/>
+    <activity-date type="start-actual" iso-date="2012-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">313161</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK573-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia Awards - 2013 Intake </title>
+    <description type="1">Through the Australia Awards Scholarships Australia offers a range of study and professional development opportunities (including long-term awards) to promote sustainable development. The overarching goals of the Australia Awards Scholarships are to: achieve country and regional program development outcomes through strengthened individual and institutional skills and knowledge; support leadership; and support Australia's broader foreign policy agenda through long-term linkages and partnerships. They provide long and short term study and professional development opportunities to citizens from developing countries around the globe. The total value of this multi-country initiative is $347.6 million over 8 years, starting 2012-13.</description>
+    <sector code="43081"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2012-07-01"/>
+    <activity-date type="end-planned" iso-date="2020-06-30"/>
+    <activity-date type="start-actual" iso-date="2012-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">705915</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ482-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>World Food Programme MRC &amp; SFP 2010-2012</title>
+    <description type="1">Funding under this initiative provides support to the World Food Programme (WFP) through the Multilateral Regular Contribution (MRC) and School Feeding Programme (SFP) as part of AusAID's commitment under the Australia WFP Strategic Partnership Agreement of 26 October 2009. The MRC will provide for food and associated costs, responding to sudden onset emergencies (either natural or man-made) and to food aid operations covering protracted recovery and relief support. The total value of this multi country initiative is $90 million over two years, starting 2010-11.</description>
+    <sector code="52010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-01"/>
+    <activity-date type="end-planned" iso-date="2012-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-07-01"/>
+    <activity-date type="end-actual" iso-date="2012-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">19555</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ200-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>SWaSSA Malawi</title>
+    <description type="1">Funding under this initiative supports the Government of Malawi's National Water Development Program (NWDP) to increase access to water and sanitation services in market centres and rural areas, delivered via the African Development Bank's (AfDB) NWDP. AusAID funding of AfDB NWDP will focus on provision of water and sanitation services in seven market centres in the four districts of Lilongwe, Zomba, Machinda and Mulanje. The program will provide construction of piped water supply systems, latrine construction for public facilities, hygiene promotion, water catchment management, and capacity building for district level officials and water user associations.. It is expected that this funding will result in  improved access to water supply facilities for an estimated 37,000 people accessing markets, schools and health centres. The sanitation and hygiene promotion programs target up to 180,000 people. The total value of this initiative is $14.1 million over 3 years, starting 2010-11.</description>
+    <sector code="14030"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-11-01"/>
+    <activity-date type="end-planned" iso-date="2014-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-11-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">1516070</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">10636887</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">1866194</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK213-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AVID - Australian Youth Ambassadors </title>
+    <description type="1">The Australian Volunteers for International Development (AVID) program provides effective contribution to development through Australian volunteers working with people and organisations in developing countries. Individual Australians contribute by undertaking assignments in a range of developing countries, helping to build capacity in host organisations which are focused on meeting development needs across sectors such as health, education, rural development, and law and justice. Funding under this initiative assists Australian Youth Ambassadors ongoing costs for volunteers including allowances, recruitment, insurance, management and other associated administrative costs. The total value of this multi-country initiative is $41.3 million over 2 years, starting 2011-12.</description>
+    <sector code="15110"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">64212</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">49572</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ084-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Africa-Australia Civil Society Wash Fund</title>
+    <description type="1">The AusAID Civil Society WASH Fund aims to enhance the health and quality of life of the poor and vulnerable by improving access to safe water, improved sanitation services and to improve the hygiene practices of these target groups. The total value of this multi-country initiative is $10.0 million expensed over 2 years, starting 2009-10.</description>
+    <sector code="14030"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2010-04-01"/>
+    <activity-date type="end-planned" iso-date="2012-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-04-01"/>
+    <activity-date type="end-actual" iso-date="2012-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">439900</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">188529</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI882-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Africa Regional Small Activities Scheme 2009-10</title>
+    <description type="1">The Africa Regional Small Activities Scheme (ARSAS) is a small grants program that provides support for community-based activities being implemented by non-government organisations to promote sustainable economic and social development. The objectives of ARSAS are to: help meet the basic humanitarian needs of disadvantaged communities in target countries; complement other activities running as part of the wider development assistance program to Africa; and promote Australia's role as a development partner in Africa. The total value of this multi-country initiative is $3.5 million expensed during the 2009-10 financial year.</description>
+    <sector code="16050"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-07-01"/>
+    <activity-date type="end-planned" iso-date="2010-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-07-01"/>
+    <activity-date type="end-actual" iso-date="2010-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">131527</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ213-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Regional Water and Sanitation - UNICEF &amp; WSSCC</title>
+    <description type="1">Funding under this initiative provides support for two regional water and sanitation programs in Africa, specifically: the United Nations Children's Fund (UNICEF) Water, Sanitation and Hygiene (WASH) Program to provide strategic support for WASH programs in Africa, with a focus on school WASH programs and sanitation; and the Water Supply and Sanitation Collaborative Council (WSSCC), to primarily support the Global Sanitation Fund which assists government and community efforts in helping large numbers of poor people attain safe and sustainable sanitation services and adopt good hygiene practices. The total value of this multi-country initiative is $5.5 million over 2 years, starting 2009-10.</description>
+    <sector code="14030"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-06-12"/>
+    <activity-date type="end-planned" iso-date="2011-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-06-12"/>
+    <activity-date type="end-actual" iso-date="2011-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">416667</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK134-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AVID - Austraining International </title>
+    <description type="1">The Australian Volunteers for International Development (AVID) program provides effective contribution to development through Australian volunteers working with people and organisations in developing countries. Individual Australians contribute by undertaking assignments in a range of developing countries, helping to build capacity in host organisations which are focused on meeting development needs across sectors such as health, education, rural development, and law and justice. Funding under this initiative assists Austraining International ongoing costs for volunteers including allowances, recruitment, insurance, management and other associated administrative costs. The total value of this initiative is $64.5 million over 3 years, starting 2011-12.</description>
+    <sector code="15110"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">56396</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">87923</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">53651</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI978-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia Awards in Africa</title>
+    <description type="1">Funding under this initiative provides funding support to the Australian Scholarships for Africa Program, specifically to deliver on the Australian Government's commitment to increase the Scholarships for Africa Program to 1,000 awards per year by 2012-13. The funding covers all costs related to delivery of the scholarship program including but not limited to: selection and mobilisation of awardees; tuition and stipends for awardees while in Australia; costs of managing the program in-country; and costs of monitoring and evaluating the program. The total value of this multi-country initiative is $141.9 million over 5 years, starting 2009-10.</description>
+    <sector code="43081"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-10-15"/>
+    <activity-date type="end-planned" iso-date="2015-10-31"/>
+    <activity-date type="start-actual" iso-date="2009-10-15"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">1948342</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">985964</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">624926</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">622721</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ447-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Global Agriculture and Food Security Program</title>
+    <description type="1">The Global Agriculture and Food Security Program (GAFSP) is a multi-donor trust fund established by the World Bank to scale-up agricultural assistance to low-income countries. The focus of GAFSP is to improve the income and food security of poor people in developing countries through more and better country-led public and private sector investment by raising agricultural productivity; linking farmers to markets; reducing risk and vulnerability; improving non-farm rural livelihoods; and supporting technical assistance, institution building and capacity building. GAFSP will provide grants to developing countries and regional organisations that have demonstrated their commitment to a comprehensive approach for increasing agricultural growth and lasting improvements in food security. It will also include a private sector financing window providing loans and equity investments to stimulate private sector investment in agriculture and food security. The total value of this initiative is $100.0 million over 4 years, starting 2009-10.</description>
+    <sector code="31110"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-06-24"/>
+    <activity-date type="end-planned" iso-date="2014-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-06-24"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">1805471</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ018-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia-Africa Partnerships Facility</title>
+    <description type="1">The Australia-Africa Partnerships Facility provides a flexible and responsive way to meet the development assistance requests of up to 53 African countries. Under this facility Australia is providing modest capacity building assistance for mining, agriculture and public policy requests in the form of deployments of people, exchanges of people between Australian and African organisations, training, workshops, seminars and grant funding. The total value of this multi-country initiative is $125.0 million over 5 years, starting 2009-10.</description>
+    <sector code="43010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2009-12-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-12-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">14156</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">179888</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">242760</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK347-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>HRGS 2011-12</title>
+    <description type="1">Human Rights Grants Scheme (HRGS) is a competitive annual funding scheme which provides small grants to non-government organisations and human rights institutions in developing countries for activities which promote and protect human rights. The total value of this multi-country initiative is $3.7 million over the 2011-12 financial year.</description>
+    <sector code="15160"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-12-01"/>
+    <activity-date type="end-planned" iso-date="2012-12-01"/>
+    <activity-date type="start-actual" iso-date="2011-12-01"/>
+    <activity-date type="end-actual" iso-date="2012-12-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">2426</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">98778</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK182-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Civil Society WASH Fund </title>
+    <description type="1">The Civil Society Water, Sanitation and Hygiene (WASH) Fund is a global grant program for civil society organisations to deliver activities that improve access to water, sanitation and hygiene for approximately 1.8 million people across Africa, Asia and the Pacific. Key components of the WASH Fund include: development of a peer reviewed design of the Fund; competitive selection process; provision of grants to civil society organisations to deliver water, sanitation and hygiene activities; fund management; and the establishment of a dedicated Monitoring, Evaluation and Review Panel (MERP). The total value of this initiative is $102.6 million over 7 years, starting 2011-12.</description>
+    <sector code="14030"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-09-26"/>
+    <activity-date type="end-planned" iso-date="2018-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-09-26"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">1286724</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ540-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Scholarships Africa ADS - 2011 Intake</title>
+    <description type="1">The Australian Development Scholarships (ADS) in Africa for the 2011 supports the delivery of 250 long-term awards including: 239 masters-level ADS, 2 undergraduate ADS and 9 PhD level ADS (now known as Australia Awards) to selected candidates in 24 countries in Africa.  This funding covers all costs related to the ADS, including tuition fees and stipends for awardees while studying in Australia. The total value of this multi-country initiative is $31.1 million over 7 years, starting 2010-11.</description>
+    <sector code="43081"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-01"/>
+    <activity-date type="end-planned" iso-date="2017-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">311438</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">610342</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">382744</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">58334</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK246-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>ANCP Program and Policy Support </title>
+    <description type="1">The Australia-Non-Government Organisations (NGOs) Cooperation Program (ANCP) is a long-running program that subsidises the overseas development activities of accredited Australian NGOs. Through the ANCP, Australia supports accredited Australian NGOs to implement their own international development programs. This initiative specifically provides funding to 'Partnership' NGOs. Under the Partnership agreements, the Australian government and the partnership NGOs are working more strategically on addressing issues such as child protection, gender, food security and climate change to accelerate the joint efforts of both government and non-government organisations to help reach the Millennium Development Goals. The ANCP also aims to enhance NGO effectiveness and accountability through a well-developed accreditation and reporting system, and to promote innovation in the sector through the ANCP Innovations Fund.  The total value of the program for all countries is $8.2 million over four years, starting 2011-12.</description>
+    <sector code="43010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-09-27"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-09-27"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">3161</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">3542</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK135-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AVID - Australian Red Cross</title>
+    <description type="1">The Australian Volunteers for International Development (AVID) program provides effective contribution to development through Australian volunteers working with people and organisations in developing countries. Individual Australians contribute by undertaking assignments in a range of developing countries, helping to build capacity in host organisations which are focused on meeting development needs across sectors such as health, education, rural development, and law and justice. Funding under this initiative assists Australian Red Cross (ARC) ongoing costs for the deployment of 94 new volunteers including recruitment, remuneration, travel, insurance, management and other associated administrative costs and the ongoing management of 9 existing volunteers currently in the field. The total value of this initiative is $22.7 million over 3 years, starting 2011-12.</description>
+    <sector code="15110"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">207</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">197</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">120</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ429-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia Awards</title>
+    <description type="1">Australia Awards are prestigious international scholarships and fellowships funded by the Australian Government offering the next generation of global leaders an opportunity to undertake study, research and professional development. Australia Awards target 67 countries in Asia, Pacific, Africa, the Caribbean and Latin America attracting high-achieving individuals from both public and private sectors. Funding under this initiative provides support for administrative costs of the Australian Awards Board which was created in November 2009 and establishment of the Australian Awards Secretariat. The Australia Awards Board advises the Australian Government on the Australia Awards Program, supporting the board is the role of the Australia Awards Secretariat. The total value of this initiative is $2.0 million dollars expensed during the 2009-10 financial year.</description>
+    <sector code="43081"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2010-02-22"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-02-22"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">12014</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK624-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AVID - International Forest Carbon Initiative</title>
+    <description type="1">The International Forest Carbon Initiative (IFCI) is an initiative jointly managed by AusAID and the Department of Climate Change and Energy Efficiency which purpose is to support global efforts to reduce carbon emissions from deforestation. Funding of volunteers under IFCI is to encompass volunteer placements in developing countries through government and non-government organisations in areas relevant to IFCI objectives. The total value of this initiative is $1.3 million during the 2011-12 financial year.</description>
+    <sector code="41010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2012-06-04"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2012-06-04"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">3958</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK373-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>International Seminar Support Scheme Phase III</title>
+    <description type="1">The International Seminar Support Scheme (ISSS) is a small grant scheme that funds developing country participants attendance at international development-oriented seminars/conferences in Australia and overseas. The scheme helps to develop knowledge and technical expertise in developing countries and builds linkages between the government, academic and community sectors in Australia and our partner developing countries. ISSS is a discretionary scheme. Funds are limited and competition for them is strong. Applications need to provide a convincing case for support, with clear objectives and details of how they will be achieved. Successful applications must demonstrate tangible outcomes and practical contributions to the economic development/social advancement of developing countries. The total value of this multi-country initiative is $6.0 million over 3 years, starting 2012-13.</description>
+    <sector code="43010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2012-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2012-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">3638</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK931-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>MDG Carbon Facility for Sustainable Development</title>
+    <description type="1">The Millennium Development Goal (MDG) Carbon Facility for Sustainable Development aims to promote carbon finance solutions at scale in underrepresented developing countries through projects with high sustainable development outcomes. Using the MDG Carbon Facility platform, this Project will have three core outcomes: capacity building for CDM and scaled-up mitigation approaches; specialised technical assistance to achieve UNFCCC registration for CDM projects; and technical assistance to pilot a sector-wide approach based on standardised baselines. The total value of this initiative is $2.5 million to be expensed during the 2012-13 financial year.</description>
+    <sector code="41010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2013-03-28"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2013-03-28"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">357143</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ318-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia Africa Community Engagement Scheme</title>
+    <description type="1">The Australia Africa Community Engagement Scheme (AACES) initiative provides funding for Australian Non- Government Organisations (NGOs) and their Africa-based partners to implement community development programs in Africa. It supports Australia's strategic objectives through a focus on the priority sectors of food security, water, sanitation and hygiene, and maternal and child health. The NGOs work with their African partner organisations to deliver activities in the priority sectors that contribute to policy engagement on African development issues and improve basic service delivery to poor and marginalised people in eleven African countries. The total value of this multi-country initiative is $84.4 million over 6 years, starting 2010-11.</description>
+    <sector code="43010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-05-10"/>
+    <activity-date type="end-planned" iso-date="2016-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-05-10"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">2096563</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">2733117</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">905757</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">1047848</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ535-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>SWaSSA Regional:  GIZ SADC Transboundary Water Mgt</title>
+    <description type="1">The primary aim of the Project 'Transboundary Water Management in SADC' is to strengthen the individual, organizational, and institutional capacities regarding the integrated management of shared water resources at three geographical levels of intervention - Southern African Development Community (SADC), River Basin Organisations (RBO), and Local. These three levels of interventions are interlinked and complementary. As a general principle, issues dealt with at the regional level focus on the creation of the enabling environment, and interventions at both the basin and local level focus on river basin management and development planning, and water infrastructure implementation respectively. The strengthening of the various capacities follows three lines of actions, namely water governance, water management, and water infrastructure development. The total value of this initiative is $17.5 million over 4 years, starting 2010-11.</description>
+    <sector code="14030"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-10-04"/>
+    <activity-date type="end-planned" iso-date="2015-12-31"/>
+    <activity-date type="start-actual" iso-date="2010-10-04"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">227273</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK058-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Direct Aid Program (DAP) 2011-12</title>
+    <description type="1">The Direct Aid Program (DAP) is a small grants scheme administered by the Department of Foreign Affairs and Trade (DFAT) through Australia's diplomatic posts in developing partner countries. The DAP's objective is to deliver targeted local level assistance. The total value of this multi-country initiative is $20.0 million to be expensed during the 2011-12 financial year.</description>
+    <sector code="43010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2012-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <activity-date type="end-actual" iso-date="2012-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">87996</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI648-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>APAC: extension &amp; consolidation 2008-9 to 2010-11</title>
+    <description type="1">This initiative provides funding to the Australian Partnerships with African Communities (APAC) program. This initiative consolidates seven separate APAC programs into one initiative. The objective of the APAC program is to increase the quality of community based programs in order to achieve sustainable improvements in health, food security and water and sanitation in target communities of seven African countries. The APAC programs various activities are implemented by six Australian Non-Government Organisations (ANGOs): Australian Foundation for the Peoples of Asia and the Pacific (AFAP); Child Fund; Care Australia; Plan/Burnet; OXFAM Australia; and the Adventist Development and Relief Agency (ADRA). These organisations have already achieved results: There has been a significant reduction of stigma to HIV in target communities; improved food security, socio-economic well being and access to basic services; and strengthened capacities of government and/or civil society to deliver quality local government. The consolidations and extension of the APAC program allows ANGOs to continue to achieve results in all APAC activities. The total value of this multi-country initiative is $10.2 million over 3 years, starting 2008-09.</description>
+    <sector code="15150"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-05-21"/>
+    <activity-date type="end-planned" iso-date="2011-04-30"/>
+    <activity-date type="start-actual" iso-date="2009-05-21"/>
+    <activity-date type="end-actual" iso-date="2011-04-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">224226</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">974945</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK757-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>HRGS 2012-13</title>
+    <description type="1">The Human Rights Grants Scheme (HRGS) is an annual program that provides small grants to non-government organisations and institutions operating in developing countries to conduct human rights activities. Grants are awarded to projects that achieve one or more of the following objectives: prevent or end gross human rights violations; promote positive change in policies or actions of government or relevant non-state actors in the area of human rights; monitor, seek redress for and/or report on human rights violations, including supporting victims of human rights abuses; educate and/or train human rights victims, workers or defenders; promote observance and implementation of international human rights standards; and promote and strengthen national or regional human rights institutions or mechanisms. The total value of this initiative is $3.7 million to be expensed during the 2012-13 financial year.</description>
+    <sector code="15160"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2012-12-02"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2012-12-02"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">174527</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK680-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Direct Aid Program (DAP) 2012-13 </title>
+    <description type="1">The Direct Aid Program (DAP) is a small grants scheme administered by the Department of Foreign Affairs and Trade (DFAT) through Australia's diplomatic posts in developing partner countries. The DAP's objective is to deliver targeted local level assistance. The total value of this multi-country initiative is $8.9 million expensed over the 2012-13 financial year.</description>
+    <sector code="43010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2012-07-01"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2012-07-01"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">28572</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI941-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>ANCP Partnership Agreements</title>
+    <description type="1">The AusAID-Non-Government Organisations (NGOs) Cooperation Program (ANCP) is a long-running program that subsidises the overseas development activities of accredited Australian NGOs. Through the ANCP, AusAID supports accredited Australian NGOs to implement their own international development programs.  This initiative specifically provides funding to 'Partnership' NGOs. Under the Partnership agreements, AusAID and the partnership NGOs are working more strategically on addressing issues such as child protection, gender, food security and climate change to accelerate the joint efforts of both government and non-government organisations to help reach the Millennium Development Goals. The ANCP also aims to enhance NGO effectiveness and accountability through a well-developed accreditation and reporting system, and to promote innovation in the sector through the ANCP Innovations Fund.  The total value of the program for all countries is $213.4 million over 6 years, starting 2009-10.</description>
+    <sector code="15150"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-09-07"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-09-07"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">333551</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">760414</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">503253</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">402802</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK770-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AusAID Development Research Awards Scheme 2012</title>
+    <description type="1">The AusAID Development Research Awards Scheme (ADRAS) is AusAID’s flagship competitive research program, funding primary research projects to improve the quality and effectiveness of Australian aid in developing countries. Funding under this initiative supports the ADRAS Research on priority development themes to inform policy development including mining for development, disability inclusion, gender equality, education, health and needs in Africa. The total value of this initiative is $32.9 million over 3 years, starting 2012-13.</description>
+    <sector code="43082"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2013-02-01"/>
+    <activity-date type="end-planned" iso-date="2016-06-30"/>
+    <activity-date type="start-actual" iso-date="2013-02-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">141913</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">377550</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI592-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Civil Society Water, Sanitation and Hygiene Fund</title>
+    <description type="1">The Water, Sanitation and Hygiene Civil Society Fund provides funding to civil society organisations to engage in water, sanitation and hygiene projects in developing countries in Asia, the Pacific and Africa over the duration of the Water and Sanitation Initiative.  This is a multi-country initiative with a total value of $21.7 million over 3 years, starting 2009-10. </description>
+    <sector code="14030"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-11-02"/>
+    <activity-date type="end-planned" iso-date="2012-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-11-02"/>
+    <activity-date type="end-actual" iso-date="2012-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">8023</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">26293</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK124-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AVID - Australian Volunteers International </title>
+    <description type="1">The Australian Volunteers for International Development (AVID) program provides effective contribution to development through Australian volunteers working with people and organisations in developing countries. Individual Australians contribute by undertaking assignments in a range of developing countries, helping to build capacity in host organisations which are focused on meeting development needs across sectors such as health, education, rural development, and law and justice. Funding under this initiative assists Australian Volunteers International ongoing costs for volunteers including allowances, recruitment, insurance, management and other associated administrative costs. The total value of this initiative is $47.0 million over 3 years, starting 2011-12.</description>
+    <sector code="15110"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">50190</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">48030</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">47293</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INI384-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>AusAID NGO Cooperation Program Development Plans</title>
+    <description type="1">The AusAID - Non-Government Organisations (NGO) Cooperation Program (ANCP) subsidises the poverty reduction activities of accredited Australian NGOs.  Australian NGOs supported through ANCP must demonstrate a strong level of Australian community support, and have been through a rigorous accreditation process.  The ANCP also includes support for a new Innovations Fund to support shared learning and good practice amongst small to medium NGOs. The total value of this multi-country program is $107.7 million over 6 years, starting 2009-10.</description>
+    <sector code="12220"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2009-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2009-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">247011</value>
+      <transaction-date iso-date="2010-06-30">Expenses incurred during the financial year 2009/10 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">649371</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">457476</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">410488</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ269-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Scholarships Africa ADS - Initial 2010 Intake</title>
+    <description type="1">Funding under this initiative supports the Australian Development Scholarships (ADS) in Africa for the 2010 intake of awardees. The funding will be used to deliver a total of 200 long-term awards offered through the Australia Scholarships for Africa (ASA) program. The funding covers all costs related to the delivery of the scholarships program including but not limited to: selection and mobilisation of awardees; costs of maintaining and updating alumni records; tuition and stipends for awardees whilst in Australia; and costs of running a range of alumni events. The scholarship will be provided to mostly public-sector recipients from countries across Africa (with a focus on East and Southern Africa), with the expectation that these students will return to their public sector jobs where they are able to influence policy, reform and implementation of development changes in target sectors. The total value of this multi-country initiative is $17.1 million over 7 years, starting 2009-10.</description>
+    <sector code="43081"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-01-01"/>
+    <activity-date type="end-planned" iso-date="2015-12-31"/>
+    <activity-date type="start-actual" iso-date="2010-01-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">9639</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">574412</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK048-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australian Development Awards - 2012 Intake</title>
+    <description type="1">Funding under this initiative supports the Australian Development Awards long-term scholarships and short-term fellowships and scholarships 2012 intake of awardees from across 36 developing countries. Development Awards provide opportunities for people to gain knowledge and skills to assist in the development of their home country and are linked directly to outcomes of bilateral partnerships and country strategies. This funding covers all costs, including tuition fees and stipends for awardees while studying in Australia. The total value of this multi-country initiative is $359.5 million over seven years, starting 2011-12.</description>
+    <sector code="43081"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2011-07-01"/>
+    <activity-date type="end-planned" iso-date="2020-06-30"/>
+    <activity-date type="start-actual" iso-date="2011-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">48745</value>
+      <transaction-date iso-date="2014-06-30">Expenses incurred for financial year 2013/14 to date</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">33370</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">1360447</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ476-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australian Volunteers</title>
+    <description type="1">The Australian volunteers initiative provides transitional funding to ensure ongoing implementation of the existing volunteer and Australian Youth Ambassadors for Development (AYAD) program. During 2010-11 there will be approximately 1200 volunteers on assignment that require management. Funding will cover allowances, deployment costs, insurance and management costs. The total value of this initiative is $8.0 million over 2 years, starting 2010-11.</description>
+    <sector code="43010"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-01"/>
+    <activity-date type="end-planned" iso-date="2013-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-07-01"/>
+    <activity-date type="end-actual" iso-date="2013-06-30"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">9</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INJ344-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>Australia-Africa Community Grants Scheme</title>
+    <description type="1">The Australia-Africa Community Grants Scheme (AACGS) will enable support to community-level partnerships that target progress towards the MDGs while maintaining flexible sector coverage. The total value of this multi-country initiative is $10.6 million over 3 years, starting 2010-11.</description>
+    <sector code="43010"/>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-planned" iso-date="2010-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <activity-date type="start-actual" iso-date="2010-07-01"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">90714</value>
+      <transaction-date iso-date="2012-06-30">Expenses incurred during the financial year 2011/12 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">33723</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">123423</value>
+      <transaction-date iso-date="2011-06-30">Expenses incurred during the financial year 2010/11 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" last-updated-datetime="2014-06-10T10:23:04" xml:lang="en" default-currency="AUD" hierarchy="1">
+    <reporting-org ref="AU-5" type="10">Australian Aid</reporting-org>
+    <iati-identifier>AU-5-INK547-MW</iati-identifier>
+    <other-identifier owner-ref="AU-5" owner-name="Australian Aid"/>
+    <title>UNCDF Mobile Money for the Poor </title>
+    <description type="1">In Least Developed Countries (LDCs) approximately only 14% of the adult population have access to financial services and growth is stagnant whereas around 25% of the population own mobile phones and ownership is growing by 23% annually. Mobile phones can be used by poor people to access financial services and banking. The UNCDF Mobile Money for the Poor will facilitate access to financial services through mobile phone technology bringing those services to a large number of poor people. The role of Mobile Money for the Poor is to help Mobile Network Operators (MNOs), banks and other organisations with information, ideas, incentives and initial investments to provide financially sustainable mobile banking services to low-income clients in developing countries. The Mobile Money for the Poor goal is to provide four million additional individuals and small microenterprises in LDCs with access to one or more branchless financial services by the end of 2017. This will include 1.2 million people that did not previously have a bank account. The total value of this initiative is $1.0 million over 2 years, starting 2011-12.</description>
+    <sector code="24040"/>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-planned" iso-date="2012-05-04"/>
+    <activity-date type="end-planned" iso-date="2013-03-31"/>
+    <activity-date type="start-actual" iso-date="2012-05-04"/>
+    <activity-date type="end-actual" iso-date="2013-03-31"/>
+    <contact-info>
+      <organisation>Department of Foreign Affairs and Trade</organisation>
+      <person-name/>
+      <telephone>+61 2 6261 1111</telephone>
+      <email>iati.support@dfat.gov.au</email>
+      <mailing-address>R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</mailing-address>
+    </contact-info>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="A02">Sector budget support</default-aid-type>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">150000</value>
+      <transaction-date iso-date="2013-06-30">Expenses incurred during the financial year 2012/13 for Initiatives with a start date on or after 1 July 2008</transaction-date>
+      <flow-type code="10">ODA</flow-type>
+    </transaction>
+  </iati-activity>
+</iati-activities>

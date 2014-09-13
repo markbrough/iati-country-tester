@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="GBP" last-updated-datetime="2014-03-28T12:33:51+00:00">
+    <reporting-org ref="GB-CHC-1029161" type="21" xml:lang="en">Camfed International</reporting-org>
+    <iati-identifier>GB-CHC-1029161-GPAF-IMP-029</iati-identifier>
+    <title xml:lang="en">Advancing Girls Education in Ghana</title>
+    <description xml:lang="en" type="1">This project will improve rates of school enrolment, retention and learning outcomes for vulnerable children, especially girls, in 26 impoverished, rural districts in Ghana. It covers provision of social cash transfers to decrease barriers to poor children, training teachers in pastoral care, increasing local female teacher recruitment, and improving school resource deployment with training of community-school partnerships in governance and data-driven decision making.</description>
+    <activity-status xml:lang="en" code="2"/>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2011-12-01"/>
+    <activity-date xml:lang="en" type="end-planned" iso-date="2014-11-30"/>
+    <participating-org xml:lang="en" type="10" role="Funding" ref="GB-1">Department for International Development</participating-org>
+    <recipient-country xml:lang="en" code="GH"/>
+    <sector xml:lang="en" code="11320" vocabulary="DAC"/>
+    <budget type="1">
+      <period-start iso-date="2011-12-01"/>
+      <period-end iso-date="2012-03-31"/>
+      <value currency="GBP" value-date="2012-03-31">785111</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2013-03-31"/>
+      <value currency="GBP" value-date="2013-03-31">1683343</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-04-01"/>
+      <period-end iso-date="2014-03-31"/>
+      <value currency="GBP" value-date="2014-03-31">1813925</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2015-03-31"/>
+      <value currency="GBP" value-date="2015-03-31">602999</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Capital Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-1029161">Camfed International</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2012-03-31">64772.91</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Administration Costs</transaction-type>
+      <provider-org ref="GB-CHC-1029161">Camfed International</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2012-03-31">9202.03</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction ref="gb-1">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-CHC-1029161">Department for International Development</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2012-03-31">398096</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Project Activities</transaction-type>
+      <provider-org ref="GB-CHC-1029161">Camfed International</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2012-03-31">279657.73</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Staff Costs</transaction-type>
+      <provider-org ref="GB-CHC-1029161">Camfed International</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2012-03-31">34014.61</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Monitoring, Evaluation &amp; Lesson learning</transaction-type>
+      <provider-org ref="GB-CHC-1029161">Camfed International</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2012-03-31">10448.72</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction ref="gb-1">
+      <transaction-type code="IF"/>
+      <provider-org>Department for International Development</provider-org>
+      <receiver-org>Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-03-31">1132261</value>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Monitoring and Evaluation Learning</transaction-type>
+      <provider-org>Camfed International</provider-org>
+      <receiver-org>Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-03-31">61698.68</value>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Other administrative costs</transaction-type>
+      <provider-org>Camfed International</provider-org>
+      <receiver-org>Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-03-31">35690.56</value>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">All Staff Costs</transaction-type>
+      <provider-org>Camfed International</provider-org>
+      <receiver-org>Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-03-31">242777.44</value>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Project Activities</transaction-type>
+      <provider-org>Camfed International</provider-org>
+      <receiver-org>Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-03-31">1253637.81</value>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction ref="gb-1">
+      <transaction-type code="IF"/>
+      <provider-org>Camfed International</provider-org>
+      <receiver-org>Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-06-30">225998.51</value>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Monitoring, Evaluation and Lesson Learning</transaction-type>
+      <provider-org>Camfed International</provider-org>
+      <receiver-org>Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-06-30">11030.73</value>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Other Administration costs</transaction-type>
+      <provider-org>Camfed International</provider-org>
+      <receiver-org>Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-06-30">5414.62</value>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">All Staff Costs</transaction-type>
+      <provider-org>Camfed International</provider-org>
+      <receiver-org>Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-06-30">40159.8</value>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Project Activities</transaction-type>
+      <provider-org>Camfed International</provider-org>
+      <receiver-org>Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-06-30">169393.36</value>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org>Camfed International</provider-org>
+      <value currency="GBP" value-date="2013-09-30">348198.09</value>
+      <description>Project Activities</description>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org>Camfed International</provider-org>
+      <value currency="GBP" value-date="2013-09-30">32041.78</value>
+      <description>All Staff costs</description>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org>Camfed International</provider-org>
+      <value currency="GBP" value-date="2013-09-30">5419.76</value>
+      <description>Other Administration Costs</description>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E"/>
+      <provider-org>Camfed International</provider-org>
+      <value currency="GBP" value-date="2013-09-30">3374.79</value>
+      <description>Monitoring, Evaluation &amp; Lesson Learning	&#13;
+</description>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Project Activities&#13;
+</transaction-type>
+      <provider-org ref="GB-CHC-1029161">Camfed International</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-12-31">235692.97</value>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">All Staff Costs&#13;
+</transaction-type>
+      <provider-org ref="GB-CHC-1029161">Camfed International</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-12-31">27058.05</value>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Other Admin Costs&#13;
+</transaction-type>
+      <provider-org ref="GB-CHC-1029161">Camfed International</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-12-31">7592.28</value>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Monitoring &amp; Evaluation&#13;
+</transaction-type>
+      <provider-org ref="GB-CHC-1029161">Camfed International</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-12-31">17966</value>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction ref="gb-1">
+      <transaction-type code="IF"/>
+      <provider-org>Department for International Development</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-09-30">389034.42</value>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction ref="gb-1">
+      <transaction-type code="IF"/>
+      <provider-org>Department for International Development</provider-org>
+      <receiver-org ref="GB-CHC-1029161">Camfed International</receiver-org>
+      <value currency="GBP" value-date="2013-12-31">288309.3</value>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <document-link url="https://drive.google.com/file/d/0BzzKueItlsavSzBaNDBqSEd6WUU/edit?usp=sharing" format="application/pdf">
+      <category code="A05"/>
+      <title>Original budget</title>
+    </document-link>
+    <document-link url="https://drive.google.com/file/d/0B3Dc2D7Xl9yzSTdTVkd2eXM1a2s/edit?usp=sharing" format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>Financial Report Year 3 Q3: Oct-Dec 2013</title>
+    </document-link>
+    <document-link url="https://docs.google.com/open?id=0B5_tJ-Ghg4n3ZHRYSjRQZTVLbVU" format="application/pdf">
+      <category code="A02"/>
+      <title>Impact Proposal Form</title>
+    </document-link>
+    <document-link url="https://docs.google.com/open?id=0B5_tJ-Ghg4n3Qy1sV0IzYzFFRWs" format="application/pdf">
+      <category code="B02"/>
+      <title>Project Management Chart</title>
+    </document-link>
+    <document-link url="https://docs.google.com/open?id=0B5_tJ-Ghg4n3d1pyS204X2YtekE" format="application/pdf">
+      <category code="B02"/>
+      <title>Logframe revised</title>
+    </document-link>
+    <document-link url="https://docs.google.com/open?id=0B5_tJ-Ghg4n3ekVBRVQxMzVKaGs" format="application/pdf">
+      <language>en</language>
+      <category code="A08"/>
+      <title>GANTT chart</title>
+    </document-link>
+    <document-link url="https://docs.google.com/a/camfed.org/file/d/0B5_tJ-Ghg4n3WDV3OXNsa01aN0U/edit" format="application/pdf">
+      <language>en</language>
+      <category code="B01" xml:lang="en"/>
+      <title xml:lang="en">Year 1 interim narrative report</title>
+    </document-link>
+    <document-link url="https://docs.google.com/a/camfed.org/file/d/0B5_tJ-Ghg4n3YkNua0JlYXN3THc/edit" format="application/pdf">
+      <language>en</language>
+      <category code="A08" xml:lang="en"/>
+      <title xml:lang="en">Year 1 interim revised logframe and activity log</title>
+    </document-link>
+    <document-link url="https://docs.google.com/a/camfed.org/file/d/0B2OmOqm5JHjTMmhBaXJfYjFaMTQ/edit" format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>Financial Report Year Two</title>
+    </document-link>
+    <document-link url="https://drive.google.com/file/d/0B3Dc2D7Xl9yzeDZNeW9vTU5qMWM/edit?usp=sharing" format="application/pdf">
+      <category code="B01"/>
+      <title>Year 2 Interim Financial Report</title>
+    </document-link>
+    <document-link url="https://docs.google.com/a/camfed.org/file/d/0B2OmOqm5JHjTQkNEZC04cVUza0U/edit" format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>Financial Report Year 3 Q1: Apr-Jun 2013</title>
+    </document-link>
+    <document-link url="https://drive.google.com/a/camfed.org/file/d/0B2OmOqm5JHjTaEpxVmxXbWVKZGM/edit?usp=sharing">
+      <category code="B01"/>
+      <title>Financial Report Year 3 Q2: Jul-Sep 2013</title>
+    </document-link>
+  </iati-activity>
+</iati-activities>

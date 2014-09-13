@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity last-updated-datetime="2014-04-29T00:00:00+00:00" xml:lang="en" default-currency="USD" hierarchy="1">
+    <iati-identifier>GB-CHC-1099776-J9</iati-identifier>
+    <title>The Networks Project: Building Capacity for Sustained Net Coverage and Use</title>
+    <description type="1">The NetWorks project aims to support countries in the development of efficient, comprehensive and sustainable programmes to ensure high ownership and use of long lasting insecticidal nets and other malaria prevention technologies. Supported by USAID, the project is active in Ghana, Nigeria, Senegal, South Sudan and Uganda. It is implemented in partnership with JHU CCP, Mennonite Economic Development Associates, the International Procurement Agency and National Malaria Control Programmes.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="end-planned" iso-date="2014-09-30Z"/>
+    <activity-date type="start-actual" iso-date="2011-10-01Z"/>
+    <contact-info>
+      <organisation>Malaria Consortium</organisation>
+      <person-name>Malaria Consortium</person-name>
+      <email>info@malariaconsortium.org</email>
+      <mailing-address>Development House, 56-64 Leonard Street, London EC2A 4LT</mailing-address>
+    </contact-info>
+    <activity-website>http://www.malariaconsortium.org/pages/international-aid-transparency-initiative.htm</activity-website>
+    <reporting-org ref="GB-CHC-1099776" type="21" xml:lang="en">Malaria Consortium</reporting-org>
+    <participating-org role="Accountable" ref="GB-CHC-1099776" type="21">Malaria Consortium</participating-org>
+    <participating-org role="Implementing" ref="GB-CHC-1099776" type="21">Malaria Consortium</participating-org>
+    <participating-org role="Funding" type="80">John Hopkins University</participating-org>
+    <recipient-country percentage="7" code="GH">Ghana</recipient-country>
+    <recipient-country percentage="14" code="NG">Nigeria</recipient-country>
+    <recipient-country percentage="70" code="SN">Senegal</recipient-country>
+    <recipient-country percentage="1" code="SS">South Sudan</recipient-country>
+    <recipient-country percentage="1" code="TH">Thailand</recipient-country>
+    <recipient-region percentage="6" code="298">Africa, regional</recipient-region>
+    <recipient-region percentage="1" code="798">Asia, regional</recipient-region>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-tied-status code="3">Partially tied</default-tied-status>
+    <budget type="1">
+      <period-start iso-date="2012-10-01Z"/>
+      <period-end iso-date="2016-09-30Z"/>
+      <value currency="USD" value-date="2012-10-01Z">6591925</value>
+    </budget>
+    <transaction ref="GBJG 412">
+      <value currency="USD" value-date="2010-02-25Z">110505</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2010-02-25Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 585">
+      <value currency="USD" value-date="2010-05-28Z">6448</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2010-05-28Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 688">
+      <value currency="USD" value-date="2010-07-30Z">1053759</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2010-07-30Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 688">
+      <value currency="USD" value-date="2010-07-30Z">30000</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2010-07-30Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 688">
+      <value currency="USD" value-date="2010-07-30Z">12942</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2010-07-30Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 709">
+      <value currency="USD" value-date="2010-08-31Z">40709</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2010-08-31Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 767">
+      <value currency="USD" value-date="2010-09-30Z">43755</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2010-09-30Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 838">
+      <value currency="USD" value-date="2010-11-30Z">1598234</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2010-11-30Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 838">
+      <value currency="USD" value-date="2010-11-30Z">86370</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2010-11-30Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 876">
+      <value currency="USD" value-date="2010-12-30Z">23261</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2010-12-30Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 937">
+      <value currency="USD" value-date="2011-02-14Z">32779</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2011-02-14Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 953">
+      <value currency="USD" value-date="2011-02-18Z">32779</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2011-02-18Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 986">
+      <value currency="USD" value-date="2011-02-28Z">33387</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2011-02-28Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 1063">
+      <value currency="USD" value-date="2011-03-31Z">47246</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2011-03-31Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 1210">
+      <value currency="USD" value-date="2011-04-28Z">25432</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2011-04-28Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 1358">
+      <value currency="USD" value-date="2011-07-29Z">101374</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2011-07-29Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 1433">
+      <value currency="USD" value-date="2011-09-22Z">178262</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2011-09-22Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 1497">
+      <value currency="USD" value-date="2011-11-11Z">241388</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2011-11-11Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 1551">
+      <value currency="USD" value-date="2011-12-30Z">35351</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2011-12-30Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 1592">
+      <value currency="USD" value-date="2012-01-27Z">84985</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2012-01-27Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 1667">
+      <value currency="USD" value-date="2012-02-29Z">93994</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2012-02-29Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 1907">
+      <value currency="USD" value-date="2012-05-11Z">260164</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2012-05-11Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="AFJG 1338">
+      <value currency="USD" value-date="2012-07-12Z">20432</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2012-07-12Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 2051">
+      <value currency="USD" value-date="2012-07-13Z">20432</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2012-07-13Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="AFJG 1339">
+      <value currency="USD" value-date="2012-08-07Z">293066</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2012-08-07Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="GBJG 2075">
+      <value currency="USD" value-date="2012-08-10Z">293066</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2012-08-10Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="AFJG 1423">
+      <value currency="USD" value-date="2012-10-31Z">173972</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2012-10-31Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="AFJG 1540">
+      <value currency="USD" value-date="2013-01-31Z">124377</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2013-01-31Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="AFJG 1732">
+      <value currency="USD" value-date="2013-04-03Z">463065</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2013-04-03Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="AFJG 1850">
+      <value currency="USD" value-date="2013-07-29Z">205545</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2013-07-29Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="AFJG 1850">
+      <value currency="USD" value-date="2013-07-29Z">175989</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2013-07-29Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="AFJG 1920">
+      <value currency="USD" value-date="2013-08-31Z">105970</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2013-08-31Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="AFJG 2209">
+      <value currency="USD" value-date="2014-01-31Z">405884</value>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org>John Hopkins University</provider-org>
+      <receiver-org ref="GB-CHC-1099776" receiver-activity-id="GB-CHC-1099776-J9">Malaria Consortium</receiver-org>
+      <transaction-date iso-date="2014-01-31Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="B03">Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <sector vocabulary="DAC" code="12262" percentage="100">Malaria Control</sector>
+    <document-link url="http://www.malariaconsortium.org/pages/international-aid-transparency-initiative.htm" format="text/html">
+      <title xml:lang="en">The Networks Project: Building Capacity for Sustained Net Coverage and Use</title>
+      <category code="A06">Summary information about contract</category>
+    </document-link>
+    <related-activity type="2" ref="GB-CHC-1099776-J9-GH"/>
+    <related-activity type="2" ref="GB-CHC-1099776-J9-NG"/>
+    <related-activity type="2" ref="GB-CHC-1099776-J9-SN"/>
+    <related-activity type="2" ref="GB-CHC-1099776-J9-SS"/>
+    <related-activity type="2" ref="GB-CHC-1099776-J9-TH"/>
+    <related-activity type="2" ref="GB-CHC-1099776-J9-298"/>
+    <related-activity type="2" ref="GB-CHC-1099776-J9-798"/>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-04-29T00:00:00+00:00" xml:lang="en" default-currency="USD" hierarchy="2">
+    <iati-identifier>GB-CHC-1099776-J9-GH</iati-identifier>
+    <title>The Networks Project: Building Capacity for Sustained Net Coverage and Use [Ghana]</title>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="end-planned" iso-date="2014-09-30Z"/>
+    <activity-date type="start-actual" iso-date="2011-10-01Z"/>
+    <contact-info>
+      <organisation>Malaria Consortium</organisation>
+      <person-name>Malaria Consortium</person-name>
+      <email>info@malariaconsortium.org</email>
+      <mailing-address>Development House, 56-64 Leonard Street, London EC2A 4LT</mailing-address>
+    </contact-info>
+    <activity-website>http://www.malariaconsortium.org/pages/international-aid-transparency-initiative.htm</activity-website>
+    <reporting-org ref="GB-CHC-1099776" type="21" xml:lang="en">Malaria Consortium</reporting-org>
+    <recipient-country percentage="100" code="GH">Ghana</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-tied-status code="3">Partially tied</default-tied-status>
+    <transaction ref="TOTAL J9-GH">
+      <value currency="USD" value-date="2013-12-31Z">500576</value>
+      <transaction-type code="E">Total expenditure to 31-Dec-2014</transaction-type>
+      <provider-org ref="GB-CHC-1099776" provider-activity-id="GB-CHC-1099776-J9-GH">Malaria Consortium</provider-org>
+      <transaction-date iso-date="2013-12-31Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="3">Partially tied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <transaction ref="TOTAL J9-GH 20140101-20140331">
+      <value currency="USD" value-date="2014-03-31Z">178823</value>
+      <transaction-type code="E">Quarterly Expenditure 01-Jan-2014 to 31-Mar-2014</transaction-type>
+      <provider-org ref="GB-CHC-1099776" provider-activity-id="GB-CHC-1099776-J9-GH">Malaria Consortium</provider-org>
+      <transaction-date iso-date="2014-03-31Z"/>
+      <flow-type code="10">ODA</flow-type>
+      <aid-type code="C01">Project-type interventions</aid-type>
+      <finance-type code="110">Aid grant excluding debt reorganisation</finance-type>
+      <tied-status code="5">Untied</tied-status>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+    </transaction>
+    <sector vocabulary="DAC" code="12262" percentage="100">Malaria Control</sector>
+    <related-activity type="1" ref="GB-CHC-1099776-J9"/>
+  </iati-activity>
+</iati-activities>

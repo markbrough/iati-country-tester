@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xmlns:aidsalliance="http://www.aidsalliance.org/ns#" xml:lang="en" default-currency="USD" hierarchy="1" last-updated-datetime="2011-10-17T14:00:00">	
+<iati-identifier>	21020-JHUMLW	</iati-identifier>
+<reporting-org ref="21020" type="21">International HIV/AIDS Alliance	</reporting-org>
+<participating-org role="Implementing" ref="21020" type="21">	International HIV/AIDS Alliance	
+</participating-org>	<recipient-country code="MW">	Malawi	</recipient-country>
+<title>	 Malawi Bridge Phase II : Promote Normative change and increase preventative behavior in Malawi	
+
+</title>	<description type="1">	The overall goal of the BRIDGE II is to promote normative change and increase prevention behaviors among adults in the general population in Malawi. The role of the Alliance is to provide technical support on strengthening referrals and linkages between statutory and non-statutory service providers to increase up-take, follow on and encourage appropriate health seeking behaviours.</description>
+<activity-date type="start-actual" iso-date="2009-03-16">	2009-03-16	</activity-date>
+<activity-date type="start-planned" iso-date="2009-03-16">2009-03-16	</activity-date>
+<activity-date type="end-actual" iso-date="2011-12-31">	2011-12-31	</activity-date>
+<activity-date type="end-planned" iso-date="2011-12-31">	2011-12-31	</activity-date>
+<activity-status code="2">	Implementation	</activity-status>
+<collaboration-type code="6">	Aid to NGOs	</collaboration-type>
+<default-flow-type code="30">	Private NGO	</default-flow-type>
+<default-aid-type code="C01">	Project-type interventions	</default-aid-type>
+<budget type="original">
+<period-start iso-date="2011-01-01"/>
+<period-end iso-date="2011-12-31"/>
+<value value-date="2013-06-28Z">	376089	</value>
+</budget>
+<transaction>	<value value-date="2013-06-28Z">515196</value>
+<provider-org ref="" type="80">Johns Hopkins University (JHU)</provider-org>	 
+<transaction-type code="C">	Commitment	</transaction-type>
+<transaction-date iso-date="2013-06-28Z">	Total 
+Budget for Project	</transaction-date>
+<description>	This is the total value of the contract over the lifetime of the project.	</description>	
+
+</transaction>	
+<location>
+<location-type code="PPL">	JHU Malawi Bridge II	</location-type>
+<name>Lilongwe, Malawi</name>
+<description>	Bridge II activities in Malawi	</description>	<coordinates latitude="-13.9833333" longitude="33.7833333" precision="2"/>
+</location>
+<sector code="13040">HIV/AIDS</sector>
+<contact-info>
+  <organisation>International HIV/AIDS Alliance</organisation> 
+  <telephone>+441273718900 </telephone> 
+  <email>mail@aidsalliance.org </email> 
+  <mailing-address>International HIV/AIDS Alliance (Secretariat),1st and 2nd Floor,Preece House, 91-101 Davigdor 
+
+Road Hove, BN3 1RE, United Kingdom</mailing-address> 
+</contact-info>
+<aidsalliance:region>Africa</aidsalliance:region>
+<aidsalliance:donor ref="US-1" type="10">United States  Agency for International Development (USAID)
+
+</aidsalliance:donor>
+</iati-activity>
+</iati-activities>

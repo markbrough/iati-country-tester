@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-08-18T09:43:37+00:00">
+    <reporting-org ref="GB-CHC-1102028" type="21" xml:lang="en">Canon Collins Trust</reporting-org>
+    <iati-identifier>GB-CHC-1102028-IMP017</iati-identifier>
+    <title xml:lang="en">Adolescent Girls Literacy Project (AGLIT+)</title>
+    <description xml:lang="en" type="1">A coordinated response to school dropout in Malawi			&#13;
+</description>
+    <activity-status xml:lang="en" code="2"/>
+    <activity-date xml:lang="en" type="start-actual" iso-date="2012-01-01"/>
+    <activity-date xml:lang="en" type="end-actual" iso-date="2014-12-31"/>
+    <contact-info>
+      <organisation>Canon Collins Trust</organisation>
+      <person-name>Roger Richards</person-name>
+      <telephone>+44 (0)20 7354 1462</telephone>
+      <email>roger@canoncollins.org.uk</email>
+      <mailing-address>22 The Ivories&#13;
+6 Northampton Street&#13;
+London&#13;
+N1 2HY&#13;
+UK</mailing-address>
+    </contact-info>
+    <participating-org xml:lang="en" type="10" role="Funding" ref="GB-1">DFID</participating-org>
+    <participating-org xml:lang="en" type="21" role="Accountable" ref="GB-CHC-1102028">Canon Collins Trust</participating-org>
+    <participating-org xml:lang="af" type="22" role="Implementing">AGLIT</participating-org>
+    <recipient-country xml:lang="en" code="MW" percentage="100"/>
+    <sector xml:lang="en" vocabulary="DAC" code="11220" percentage="100"/>
+    <default-flow-type xml:lang="en" code="30"/>
+    <default-finance-type code="110"/>
+    <default-aid-type xml:lang="en" code="C01"/>
+    <default-tied-status code="5"/>
+    <budget type="1">
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2014-03-31"/>
+      <value currency="GBP" value-date="2012-01-01">412924</value>
+    </budget>
+    <transaction ref="IMP-017 Yr1 ">
+      <transaction-type code="D">Capital Expenditure £25,583&#13;
+Project Activities £18,844&#13;
+All Staff Costs £10,695&#13;
+Other Administration Costs £3,502&#13;
+Monitoring, Evaluation &amp;  Learning £1,375&#13;
+</transaction-type>
+      <provider-org ref="GB-CHC-1102028" provider-activity-id="IMP017">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1102028">Canon Collins Trust</receiver-org>
+      <value currency="GBP" value-date="2012-01-01">60000</value>
+      <description xml:lang="en">Disbursement</description>
+      <transaction-date iso-date="2012-01-01"/>
+      <flow-type code="10" xml:lang="en"/>
+      <finance-type code="110" xml:lang="en"/>
+      <aid-type code="C01" xml:lang="en">A project is a set of inputs, activities and outputs, agreed with the partner country*, to reach specific objectives/outcomes within a defined time frame, with a defined budget and a defined geographical area. Projects can vary significantly in terms of </aid-type>
+      <disbursement-channel code="2"/>
+      <tied-status code="5" xml:lang="en"/>
+    </transaction>
+    <transaction ref="IMP-017  Yr3 Apr - Jun 13">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1-202035-101">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1102028">Canon Collins Trust</receiver-org>
+      <value currency="GBP" value-date="2013-05-20">58285.9</value>
+      <description xml:lang="en">Income for period Apr13 - Jun13</description>
+      <transaction-date iso-date="2013-05-20"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="IMP-017 Yr2  ">
+      <transaction-type code="D">Capital Expenditure		£3,170Project Activities		£43,962&#13;
+All Staff Costs		£44,108&#13;
+Other Administration Costs	£14,245&#13;
+Monitoring, Evaluation &amp; Lesson Learning		£8,523Total		£111,045</transaction-type>
+      <provider-org ref="GB-CHC-1102028" provider-activity-id="IMP017">DFID</provider-org>
+      <receiver-org ref="GB-CHC_1102028">Canon Collins Trust</receiver-org>
+      <value currency="GBP" value-date="2013-03-31">114010</value>
+      <transaction-date iso-date="2012-04-01"/>
+      <flow-type code="10"/>
+      <finance-type code="110"/>
+      <aid-type code="C01">A project is a set of inputs, activities and outputs, agreed with the partner country*, to reach specific objectives/outcomes within a defined time frame, with a defined budget and a defined geographical area. Projects can vary significantly in terms of </aid-type>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="IMP-017 Yr1  Jan 12  - Se">
+      <transaction-type code="IF">Income from DFID for period 1/1/12-30/9/12</transaction-type>
+      <provider-org ref="GB-1-202035-101">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1102028">CCT</receiver-org>
+      <value currency="GBP" value-date="2012-01-01">147814.85</value>
+      <transaction-date iso-date="2012-01-01"/>
+      <flow-type code="30"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="IMP-017 Yr3   ">
+      <transaction-type code="D">Capital Expenditure  £25,013&#13;
+Project Activities   £12,622&#13;
+All Staff Costs   £11,907&#13;
+Other Administration Costs   £3,882&#13;
+Monitoring, Evaluation &amp; Lesson Learning   £470&#13;
+</transaction-type>
+      <provider-org provider-activity-id="IMP-017">DFID</provider-org>
+      <receiver-org ref="GB-CHC_1102028">Canon Collin Trust</receiver-org>
+      <value currency="GBP" value-date="2013-06-30">53896</value>
+      <description xml:lang="en">Disbursement</description>
+      <transaction-date iso-date="2013-06-30"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="IMP-017">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1-202035-101">DFID</provider-org>
+      <receiver-org ref="GB=CHC-1102028">Canon Collins Trust</receiver-org>
+      <value currency="GBP" value-date="2013-09-09">28882.38</value>
+      <description xml:lang="en">Jul-Sep </description>
+      <transaction-date iso-date="2013-09-09"/>
+      <flow-type code="30"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="IMP-017">
+      <transaction-type code="D"/>
+      <provider-org ref="GB-1-202035-101">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1102028">Canon Collins Trust</receiver-org>
+      <value currency="GBP" value-date="2013-08-13">25000</value>
+      <description xml:lang="en">Jul-Sep forecast</description>
+      <transaction-date iso-date="2013-08-13"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="IMP-017">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-CHC-1102028">DFID</provider-org>
+      <value value-date="2013-11-15">26537.18</value>
+      <description>Oct-Dec</description>
+      <transaction-date iso-date="2013-11-15"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="IMP-017">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB=1-202035-101">DFID</provider-org>
+      <receiver-org ref="GB-CHC-1102028">Canon Collins Trust</receiver-org>
+      <value value-date="2014-02-11">28495.18</value>
+      <description>Jan-Mar1 4</description>
+      <transaction-date iso-date="2014-02-11"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="IMP-017">
+      <transaction-type code="IF"/>
+      <provider-org ref="GB-1-20235-101">DFID</provider-org>
+      <receiver-org ref="GB-CHC1102028">Canon Collins Trust</receiver-org>
+      <value currency="GBP" value-date="2014-06-26">46348.73</value>
+      <description>Apr - Jun14</description>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="IMP-017">
+      <transaction-type code="D">Oct -Dec 13</transaction-type>
+      <provider-org>Canon Collins Trust</provider-org>
+      <receiver-org>AGLIT</receiver-org>
+      <value value-date="2013-10-01">20519.99</value>
+      <description>Disbursement</description>
+      <transaction-date iso-date="2013-10-01"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="IMP-017">
+      <transaction-type code="D"/>
+      <provider-org>Canon Collins Trust</provider-org>
+      <receiver-org>AGLIT</receiver-org>
+      <value value-date="2014-01-01">23612.64</value>
+      <description>Disbursement</description>
+      <transaction-date iso-date="2014-01-01"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <document-link url="http://www.canoncollins.org.uk/aglitgpaf.html" format="application/pdf">
+      <language>en</language>
+      <category code="A08" xml:lang="en">All documents relating to programme</category>
+      <title xml:lang="en">All documents relating to programme</title>
+    </document-link>
+  </iati-activity>
+</iati-activities>

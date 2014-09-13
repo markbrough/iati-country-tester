@@ -1,0 +1,825 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="EUR" hierarchy="1" last-updated-datetime="2014-06-19T15:20:28" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2014B1MALOB1CPNMALOB1IPDFC</iati-identifier>
+    <title>CROP PRODUCTIVITY AND NUTRITION / INCREASED PRODUCTITY OF DIVERSIFIED FOOD CROPS</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2014-01-01" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT  / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT  / Irish Aid </participating-org>
+    <recipient-country code="MW"/>
+    <sector code="31161" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-flow-type code="10"/>
+    <default-tied-status code="5">Untied </default-tied-status>
+    <budget>
+      <period-start iso-date="2014-01-01"/>
+      <value value-date="2014-01-01">6340000</value>
+      <period-end iso-date="2014-12-31"/>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="1" last-updated-datetime="2014-06-19T15:20:28" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2014B1MALOB2SHRMALOB2CCDRR</iati-identifier>
+    <title>STRENGTHEN HOUSEHOLD RESILIENCECLIMATE CHANGE AND DISASTER RISK REDUCTION</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2014-01-01" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT  / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT  / Irish Aid </participating-org>
+    <recipient-country code="MW"/>
+    <sector code="16010" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-flow-type code="10"/>
+    <default-tied-status code="5">Untied </default-tied-status>
+    <budget>
+      <period-start iso-date="2014-01-01"/>
+      <value value-date="2014-01-01">1790000</value>
+      <period-end iso-date="2014-12-31"/>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALAGRFM005</iati-identifier>
+    <title>INCREASE PRODUCTIVITY OF DIVERSIFIED FOOD CROPS - partnership in legume platform</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-12-19" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="51000" role="Implementing">Other-Including Univ,Research Institution etc</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="31191" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFM005" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>AFRICAN INSTITUTE OF CORPORATE CITIZENSHIP</receiver-org>
+      <value value-date="2013-12-19">60000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-19"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFM005" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>CIVIL SOCIETY AGRICULTURE NETWORK</receiver-org>
+      <value value-date="2013-12-19">120000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-19"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFM005" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>International Centre for Research</receiver-org>
+      <value value-date="2013-03-20">500000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-03-20"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFM005" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE</receiver-org>
+      <value value-date="2013-12-18">200000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-18"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFM005" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>National Smallholder Farmers</receiver-org>
+      <value value-date="2013-12-18">250000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-18"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:28:16" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2014B1MALPSD</iati-identifier>
+    <title>Malawi Programme Support Costs </title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2014-01-01" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="11000" role="Implementing">DFAT / Irish Aid</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="91010" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="G01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2014B1MALPSD" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>Miscellaneous</receiver-org>
+      <value value-date="2014-01-01">136009.83</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2014-01-01"/>
+      <transaction-type code="E"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALMULML001</iati-identifier>
+    <title>Improved Nutrition - THE NATIONAL NUTRITION EDUCATION &amp; COMMUNICATION STRATEGY</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-07-23" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="12000" role="Implementing">Recipient Country - Central Government</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="12240" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="B04"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALMULML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>DEP OF NUTRITION,HIV &amp; AIDS</receiver-org>
+      <value value-date="2013-07-23">9406</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-07-23"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALMULML005</iati-identifier>
+    <title>IA/US Cooperation on Resilience</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-09-30" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="41000" role="Implementing">Un Agencies Fund or Commission</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="74010" vocabulary="DAC"/>
+    <collaboration-type code="2"/>
+    <transaction>
+      <aid-type code="B03"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALMULML005" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>UN WORLD FOOD PROGRAMME</receiver-org>
+      <value value-date="2013-09-30">1000000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-09-30"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALAGRFM006</iati-identifier>
+    <title>IMPROVED FOOD FORTIFICATION AND NUTRITION</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-12-18" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="41000" role="Implementing">Un Agencies Fund or Commission</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="12240" vocabulary="DAC"/>
+    <collaboration-type code="2"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFM006" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>UN WORLD FOOD PROGRAMME</receiver-org>
+      <value value-date="2013-12-18">250000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-18"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="B03"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFM006" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>UNICEF Resident Representative</receiver-org>
+      <value value-date="2013-04-03">1000000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-04-03"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="1" last-updated-datetime="2014-06-19T15:20:28" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2014B1MALPSDMALOB4PSD</iati-identifier>
+    <title>PROGRAMME SUPPORT AND DEVELOPMENTPROGRAMME SUPPORT AND DEVELOPMENT</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2014-01-01" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT  / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT  / Irish Aid </participating-org>
+    <recipient-country code="MW"/>
+    <sector code="99810" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-flow-type code="10"/>
+    <default-tied-status code="5">Untied </default-tied-status>
+    <budget>
+      <period-start iso-date="2014-01-01"/>
+      <value value-date="2014-01-01">400000</value>
+      <period-end iso-date="2014-12-31"/>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALAGRFML001</iati-identifier>
+    <title>Improved food productivity - Trust Fund</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-07-29" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="44000" role="Implementing">World Bank Group</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="31150" vocabulary="DAC"/>
+    <collaboration-type code="2"/>
+    <transaction>
+      <aid-type code="B03"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>THE WORLD BANK</receiver-org>
+      <value value-date="2013-07-29">3500000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-07-29"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>CIVIL SOCIETY AGRICULTURE NETWORK</receiver-org>
+      <value value-date="2013-07-02">69750</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-07-02"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>Concern Universal</receiver-org>
+      <value value-date="2013-07-09">1200000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-07-09"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALAGRFML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>International Potato Centre</receiver-org>
+      <value value-date="2013-06-12">400000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-06-12"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALMULML004</iati-identifier>
+    <title>Household resiliance  - INCREASING RESILIENCE THROUGH IMPROVED COOKING PRACTICES</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-12-17" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="11000" role="Implementing">DFAT / Irish Aid</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="41082" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="D02"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALMULML004" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>WATER AND ENVIRONMENTAL SANITATION MANAGEMENT</receiver-org>
+      <value value-date="2013-12-17">5364</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-17"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="D02"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALMULML004" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>WATER AND ENVIRONMENTAL SANITATION MANAGEMENT</receiver-org>
+      <value value-date="2013-09-18">12779</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-09-18"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="1" last-updated-datetime="2014-06-19T15:20:28" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2014B1MALOB2SHRMALOB2IASS</iati-identifier>
+    <title>STRENGTHEN HOUSEHOLD RESILIENCE / INCREASED ACCESS TO SOCIAL SUPPORTS</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2014-01-01" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT  / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT  / Irish Aid </participating-org>
+    <recipient-country code="MW"/>
+    <sector code="16010" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-flow-type code="10"/>
+    <default-tied-status code="5">Untied </default-tied-status>
+    <budget>
+      <period-start iso-date="2014-01-01"/>
+      <value value-date="2014-01-01">1270000</value>
+      <period-end iso-date="2014-12-31"/>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALMULML002</iati-identifier>
+    <title>Access to social supports - Institutionalisation of SCT</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-11-27" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="41000" role="Implementing">Un Agencies Fund or Commission</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="16010" vocabulary="DAC"/>
+    <collaboration-type code="2"/>
+    <transaction>
+      <aid-type code="B03"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALMULML002" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>UNICEF Resident Representative</receiver-org>
+      <value value-date="2013-11-27">523491</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-11-27"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALGOVML002</iati-identifier>
+    <title>Support for Elections</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-05-24" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="41000" role="Implementing">Un Agencies Fund or Commission</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="15151" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="B03"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVML002" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>UNDP Contributions</receiver-org>
+      <value value-date="2013-05-24">1000000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-05-24"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALGOVEML004</iati-identifier>
+    <title>Governance Research</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-03-13" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="41000" role="Implementing">Un Agencies Fund or Commission</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="15160" vocabulary="DAC"/>
+    <collaboration-type code="2"/>
+    <transaction>
+      <aid-type code="B04"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML004" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>UN WOMEN</receiver-org>
+      <value value-date="2013-03-13">15000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-03-13"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML004" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>MINISTRY OF LOCAL GOVERNMENT</receiver-org>
+      <value value-date="2013-04-09">1903</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-04-09"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALMULML006</iati-identifier>
+    <title>CLIMATE CHANGE AND DISASTER RISK REDUCTION - Food assistance to refugees</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-12-05" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="41000" role="Implementing">Un Agencies Fund or Commission</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="12240" vocabulary="DAC"/>
+    <collaboration-type code="2"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALMULML006" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>UN WORLD FOOD PROGRAMME</receiver-org>
+      <value value-date="2013-12-05">200000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-05"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALMULML006" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>DFID-MALAWI</receiver-org>
+      <value value-date="2013-04-22">450000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-04-22"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALMULML006" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>TRINITY COLLEGE DUBLIN</receiver-org>
+      <value value-date="2013-07-24">120000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-07-24"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="1" last-updated-datetime="2014-06-19T15:20:28" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2014B1MALPSDMALOB4RIP</iati-identifier>
+    <title>PROGRAMME SUPPORT AND DEVELOPMENT Research and Innovation Planning</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2014-01-01" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT  / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT  / Irish Aid </participating-org>
+    <recipient-country code="MW"/>
+    <sector code="99810" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-flow-type code="10"/>
+    <default-tied-status code="5">Untied </default-tied-status>
+    <budget>
+      <period-start iso-date="2014-01-01"/>
+      <value value-date="2014-01-01">270000</value>
+      <period-end iso-date="2014-12-31"/>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="1" last-updated-datetime="2014-06-19T15:20:28" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2014B1MALPSDMALOB4ME</iati-identifier>
+    <title>PROGRAMME SUPPORT AND DEVELOPMENT Monitoring and Evaluation</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2014-01-01" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT  / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT  / Irish Aid </participating-org>
+    <recipient-country code="MW"/>
+    <sector code="99810" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-flow-type code="10"/>
+    <default-tied-status code="5">Untied </default-tied-status>
+    <budget>
+      <period-start iso-date="2014-01-01"/>
+      <value value-date="2014-01-01">140000</value>
+      <period-end iso-date="2014-12-31"/>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALMULML003</iati-identifier>
+    <title>Strengthen household resilience</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-11-07" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="23000" role="Implementing">NGOs based in recipient countries</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="31220" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALMULML003" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>Concern Universal</receiver-org>
+      <value value-date="2013-11-07">200000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-11-07"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALMULML003" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>Evangelical Assoc. of Malawi</receiver-org>
+      <value value-date="2013-07-24">71048</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-07-24"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="1" last-updated-datetime="2014-06-19T15:20:28" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2014B1MALPSDMALOBERAAS</iati-identifier>
+    <title>PROGRAMME SUPPORT AND DEVELOPMENT Regional Allocation and African Strategy</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2014-01-01" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT  / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT  / Irish Aid </participating-org>
+    <recipient-country code="MW"/>
+    <sector code="99810" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-flow-type code="10"/>
+    <default-tied-status code="5">Untied </default-tied-status>
+    <budget>
+      <period-start iso-date="2014-01-01"/>
+      <value value-date="2014-01-01">50000</value>
+      <period-end iso-date="2014-12-31"/>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="1" last-updated-datetime="2014-06-19T15:20:28" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2014B1MALOB1CPNMALOB1IFFN</iati-identifier>
+    <title>CROP PRODUCTIVITY AND NUTRITION / IMPROVED FOOD FORTIFICATION AND NUTRITION</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2014-01-01" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT  / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT  / Irish Aid </participating-org>
+    <recipient-country code="MW"/>
+    <sector code="12240" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-flow-type code="10"/>
+    <default-tied-status code="5">Untied </default-tied-status>
+    <budget>
+      <period-start iso-date="2014-01-01"/>
+      <value value-date="2014-01-01">1055000</value>
+      <period-end iso-date="2014-12-31"/>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="1" last-updated-datetime="2014-06-19T15:20:28" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2014B1MALOB3IEGEMALOB3SGS</iati-identifier>
+    <title>GOVERNANCE ENVIROMENTSTRENGHTHEN GOVERNANCE SYSTEMS</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2014-12-31" type="end-planned"/>
+    <activity-date iso-date="2014-01-01" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT  / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT  / Irish Aid </participating-org>
+    <recipient-country code="MW"/>
+    <sector code="15112" vocabulary="DAC"/>
+    <collaboration-type code="1"/>
+    <default-finance-type code="110"/>
+    <default-flow-type code="10"/>
+    <default-tied-status code="5">Untied </default-tied-status>
+    <budget>
+      <period-start iso-date="2014-01-01"/>
+      <value value-date="2014-01-01">2485000</value>
+      <period-end iso-date="2014-12-31"/>
+    </budget>
+  </iati-activity>
+  <iati-activity default-currency="EUR" hierarchy="2" last-updated-datetime="2014-06-19T15:23:11" xml:lang="en">
+    <reporting-org ref="XM-DAC-21-1" type="10">DFAT  / Irish Aid</reporting-org>
+    <iati-identifier>XM-DAC-21-1-2013B1MALGOVEML001</iati-identifier>
+    <title>Strengthening democracy</title>
+    <activity-status code="2"/>
+    <activity-date iso-date="2013-12-31" type="end-planned"/>
+    <activity-date iso-date="2013-12-24" type="start-actual"/>
+    <participating-org ref="XM-DAC-21-1" role="Funding" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="XM-DAC-21-1" role="Extending" type="10">DFAT / Irish Aid</participating-org>
+    <participating-org ref="44000" role="Implementing">World Bank Group</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <sector code="15112" vocabulary="DAC"/>
+    <collaboration-type code="2"/>
+    <transaction>
+      <aid-type code="B03"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>THE WORLD BANK</receiver-org>
+      <value value-date="2013-12-24">500000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-24"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="B03"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>UNDP Contributions</receiver-org>
+      <value value-date="2013-12-19">100000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-19"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>UNDP Contributions</receiver-org>
+      <value value-date="2013-12-19">200000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-19"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>Anti-Corruption Bureau</receiver-org>
+      <value value-date="2013-06-05">100000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-06-05"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>Anti-Corruption Bureau</receiver-org>
+      <value value-date="2013-12-24">130000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-24"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>Anti-Corruption Bureau</receiver-org>
+      <value value-date="2013-12-24">30000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-24"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>DFID-MALAWI</receiver-org>
+      <value value-date="2013-11-07">400000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-11-07"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>DIOCESE OF KARONGA EDUCATION DEPARTMENT</receiver-org>
+      <value value-date="2013-09-12">25000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-09-12"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>INTERNATIONAL BIBLE FELLOWSHIP</receiver-org>
+      <value value-date="2013-12-17">12665</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-17"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>MAKE A DIFFERENCE WORLDWIDE</receiver-org>
+      <value value-date="2013-08-05">20000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-08-05"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>MALAWI HUMAN RIGHTS COMMISSION</receiver-org>
+      <value value-date="2013-12-24">50000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-24"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>MALAWI POLICE SERVICE</receiver-org>
+      <value value-date="2013-09-12">18657</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-09-12"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>MINISTRY OF LOCAL GOVERNMENT</receiver-org>
+      <value value-date="2013-12-24">160000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-24"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>NANZIKAMBE ARTS DEVELOPMENT ORGANISATION</receiver-org>
+      <value value-date="2013-05-21">1500</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-05-21"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>NDIMOYOMO PALLIATIVE CARE CLINIC</receiver-org>
+      <value value-date="2013-12-17">7000</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-12-17"/>
+      <transaction-type code="D"/>
+    </transaction>
+    <transaction>
+      <aid-type code="C01"/>
+      <flow-type code="10"/>
+      <provider-org provider-activity-id="XM-DAC-21-1-2013B1MALGOVEML001" ref="XM-DAC-21-1">DFAT / Irish Aid</provider-org>
+      <receiver-org>ZIKOMO CBO LTD</receiver-org>
+      <value value-date="2013-06-12">12139</value>
+      <finance-type code="110"/>
+      <tied-status code="5">Untied</tied-status>
+      <transaction-date iso-date="2013-06-12"/>
+      <transaction-type code="D"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

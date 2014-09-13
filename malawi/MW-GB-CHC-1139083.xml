@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-07-30T15:40:50+00:00">
+    <reporting-org ref="GB-CHC-1139083" type="21" xml:lang="en">GROW Movement</reporting-org>
+    <iati-identifier>GB-CHC-1139083-GPAF</iati-identifier>
+    <title xml:lang="en">Increase household income and livelihood security for 38,000 people and create up to 2,400 jobs in Uganda, Rwanda and Malawi by providing free remote consulting to 1,200 local, micro and small business entrepreneurs</title>
+    <description>Grow Movement empowers African entrepreneurs with business skills by phone, Skype and email. This is done by a global team of volunteer business professionals who commit 40 hours of their time across a 6 month period to share skills on marketing, finance and strategy.</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2013-02-01"/>
+    <participating-org type="22" role="Implementing">Uganda - Enterprise Uganda&#13;
+Rwanda - Educat&#13;
+Malawi - NABW</participating-org>
+    <recipient-country code="UG"/>
+    <recipient-country code="MW"/>
+    <recipient-country code="RW"/>
+    <sector code="25010" vocabulary="DAC"/>
+    <default-flow-type code="10"/>
+    <default-finance-type code="110"/>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <budget type="1">
+      <period-start iso-date="2013-02-01"/>
+      <period-end iso-date="2014-01-07"/>
+      <value currency="GBP" value-date="2014-01-31">69684</value>
+    </budget>
+    <transaction>
+      <transaction-type code="C"/>
+      <provider-org>Various Funders including DFID,</provider-org>
+      <receiver-org ref="GPAF" receiver-activity-id="GB-CHC-1139083-GPAF">Grow Movement</receiver-org>
+      <value currency="GBP" value-date="2013-02-01">270000</value>
+      <description>Total Project Budget. DFID £150K across 3 years, plus others</description>
+      <transaction-date iso-date="2013-02-01"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

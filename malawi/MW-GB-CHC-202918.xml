@@ -1,0 +1,2606 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2012-04-18T16:56:13" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA72</iati-identifier>
+    <title>Phalombe and Thyolo Sustainable Livelihoods Project</title>
+    <description type="1">The project goal is to improve food  and livelihood security  for  the rural households in Phalombe  and Thyolo districts by working with Local Non Governmental Organisations, Village Development Committees, Community Based Organisations (CBOs)  and Government extension agents.  The project promotes sustainable livelihoods by institutionalising participatory development, incorporating human rights, mainstreaming Gender and HIV and AIDS issues within decentralised district development structures.     This project is being funded by Oxfam Internationals (OIs) in Phalombe and The Cooperative Group in Thyolo District</description>
+    <sector code="1" percentage="45" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="13" vocabulary="RO">Education and Health Care</sector>
+    <sector code="3" percentage="17" vocabulary="RO">Life and Security</sector>
+    <sector code="4" percentage="15" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="10" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2007-05-01" type="start-actual"/>
+    <activity-date iso-date="2012-03-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2008-04-30">123548</value>
+      <description>Expenditure  May 2007 - April 2008</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2008-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2009-04-30">192495</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2010-03-31">97618</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">190282</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2012-03-31">139109</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2007-05-01"/>
+      <period-end iso-date="2012-03-31"/>
+      <value value-date="2011-04-01">743052</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-04-22T12:47:04" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Donor(s)</participating-org>
+    <participating-org ref="" role="Implementing" type="22">Oxfam Partner(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALB01</iati-identifier>
+    <title>Emergency Cash Transfer Response to 2013 Food Crisis</title>
+    <description type="1">The project will provide unconditional cash transfers to 10,958 vulnerable community members to enable them meet their basic food needs by accessing it from the markets. The project beneficiaries will also be linked to other resilience building programmes such as Village Savings and Loans schemes within the districts in order to reduce their vulnerability to future shocks.</description>
+    <sector code="3" percentage="100" vocabulary="RO">Life and Security</sector>
+    <activity-date iso-date="2013-10-01" type="start-actual"/>
+    <activity-date iso-date="2014-04-30" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2013-12-31">29243</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Donor(s)</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">22112</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Donor(s)</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">19037</value>
+      <description>Expenditure October 2013 -  December 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">22112</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">10206</value>
+      <description>Disbursement October 2013 -  December 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">56491</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">11204</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">15079</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">1260</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2013-10-01"/>
+      <period-end iso-date="2014-04-30"/>
+      <value value-date="2013-04-01">84034</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2011-08-26T15:51:45" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA84</iati-identifier>
+    <title>MEL, Strategic and Change Management Processes in Malawi</title>
+    <description type="1">The project aims at strengthening quality of Oxfam programme development and implementation, policy analysis and advocacy, documentation, reporting and learning, in order to enhance programme effectiveness and impact on the targeted poor and vulnerable communities; and further enhance accountability to various stakeholders in the 5 districts of Southern Malawi.</description>
+    <sector code="1" percentage="35" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="25" vocabulary="RO">Education and Health Care</sector>
+    <sector code="3" percentage="5" vocabulary="RO">Life and Security</sector>
+    <sector code="5" percentage="35" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2009-05-01" type="start-actual"/>
+    <activity-date iso-date="2010-12-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2010-03-31">98243</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">96453</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2009-05-01"/>
+      <period-end iso-date="2010-12-31"/>
+      <value value-date="2010-04-01">194696</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-06-26T14:42:06" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Australia</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Hong Kong</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Ireland</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Japan</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Funding" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Implementing" type="22">Oxfam Partner(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA91</iati-identifier>
+    <title>Addressing Violence Against Women in Malawi</title>
+    <description type="1">Building the capacity of implementers and relevant stakeholders on laws, policies, guidelines and procedures related to VAW will be key. Secondly,community mobilisation for engagement with the government to implement laws and policies</description>
+    <sector code="2" percentage="30" vocabulary="RO">Education and Health Care</sector>
+    <sector code="5" percentage="70" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2011-11-23" type="start-actual"/>
+    <activity-date iso-date="2015-03-30" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2012-03-31">45777</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">86204</value>
+      <description>Expenditure  April 2012 - March 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">5732</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">-137</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">6781</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">11590</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">2223</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">32421</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">1753</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">4336</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">11936</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">7241</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">803</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">20680</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">46916</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">31796</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">1972</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Japan</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">5595</value>
+      <description>Expenditure April 2013 -  June 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">20745</value>
+      <description>Expenditure July 2013 -  September 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">13379</value>
+      <description>Expenditure October 2013 -  December 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">85355</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">32268</value>
+      <description>Disbursement July 2013 -  September 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">11886</value>
+      <description>Disbursement October 2013 -  December 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">16812</value>
+      <description>Disbursement January 2014 -  March 2014</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">185200</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">90430</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">59797</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">102428</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2011-11-23"/>
+      <period-end iso-date="2015-03-30"/>
+      <value value-date="2013-04-01">569836</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2011-05-05T16:34:24" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA81</iati-identifier>
+    <title>Malawi DRR and Humanitarian Preparedness and Response capacity building</title>
+    <description type="1">This project aims at holistically addressing the huamanitarian preparedness and response in Malawi by Oxfam staff and partners. This is in line with Oxfam humanitarian focus areas namely Emergency Food Security and livelihoods and Emergency Water, Sanitation and Hyigine. This will be linked to work around protection and cross -cutting issues such as gender and diversity, HIV &amp; AIDS and accountability in humanitarian responses. Advocacy and campaigning, Monitoring, Evaluation &amp; Learning within humanitarian work will also be key ares of focus for partner and staff capacity building.</description>
+    <sector code="3" percentage="100" vocabulary="RO">Life and Security</sector>
+    <activity-date iso-date="2009-02-13" type="start-actual"/>
+    <activity-date iso-date="2011-03-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2009-04-30">126485</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2010-03-31">30032</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">28694</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2009-02-13"/>
+      <period-end iso-date="2011-03-31"/>
+      <value value-date="2010-04-01">185210</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2011-05-05T15:22:30" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA73</iati-identifier>
+    <title>Thyolo Sustainable Livelihoods Programme</title>
+    <description type="1">The project goal is to enhance the right to food  and livelihood security  for rural households in Thyolo District. This will be achieved by working with communities through Local Non Governmental Organisations (LNGOs) which will in turn work with Village Development Committees, Community Based Organisations (CBOs)  and Government extension agents.  The project promotes the right to sustainable livelihoods by institutionalising participatory development, incorporating human rights, mainstreaming Gender and HIV and AIDS issues within decentralised district development structures.     The project is being funded by Oxfam International (OIs)</description>
+    <sector code="1" percentage="45" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="13" vocabulary="RO">Education and Health Care</sector>
+    <sector code="3" percentage="17" vocabulary="RO">Life and Security</sector>
+    <sector code="4" percentage="15" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="10" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2007-05-01" type="start-actual"/>
+    <activity-date iso-date="2011-03-30" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2008-04-30">373491</value>
+      <description>Expenditure  May 2007 - April 2008</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2008-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2009-04-30">527240</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2010-03-31">233069</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">128686</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2007-05-01"/>
+      <period-end iso-date="2011-03-30"/>
+      <value value-date="2010-04-01">1262485</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2012-04-12T15:28:55" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA87</iati-identifier>
+    <title>Balaka Cash Transfer Response Project</title>
+    <description type="1">This project seeks to contribute to increased household food security for 23,362 people affected by localized food shortages in Balaka district based on the MVAC) report that about 23,362 people are missing their food entitlement due to the prolonged dry spells that happened during the 2009 to 2010 crop growing season. The project will undertake monthly unconditional cash transfers for 5 months from December 2010. The project will also serve as a capacity building avenue for staff and partners on Cash Transfer programming in Malawi.</description>
+    <sector code="1" percentage="50" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="3" percentage="50" vocabulary="RO">Life and Security</sector>
+    <activity-date iso-date="2010-12-09" type="start-actual"/>
+    <activity-date iso-date="2011-08-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2011-03-31">289788</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2012-03-31">94810</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2010-12-09"/>
+      <period-end iso-date="2011-08-31"/>
+      <value value-date="2011-04-01">384598</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2011-05-05T15:26:08" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA69</iati-identifier>
+    <title>Balaka Sustainable Livelihoods, HIV, AIDS and Support Project</title>
+    <description type="1">The project aims to improve sustainable livelihoods in the context of HIV &amp; AIDS to the target beneficiaries in Balaka District of Southern Malawi. The beneficiaries of the project are Vulnerable households and Poor households . The project will support livelihoods improvement and protection, HIV &amp; AIDS and access to basic services, emergency preparedness and safety nets, governance and Gender equity.</description>
+    <sector code="1" percentage="45" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="10" vocabulary="RO">Education and Health Care</sector>
+    <sector code="3" percentage="15" vocabulary="RO">Life and Security</sector>
+    <sector code="4" percentage="10" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="20" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2007-05-01" type="start-actual"/>
+    <activity-date iso-date="2011-03-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2008-04-30">110666</value>
+      <description>Expenditure  May 2007 - April 2008</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2008-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2009-04-30">188110</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2010-03-31">84669</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">122411</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2007-05-01"/>
+      <period-end iso-date="2011-03-31"/>
+      <value value-date="2010-04-01">505855</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2011-05-05T16:43:34" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA82</iati-identifier>
+    <title>Climate change capacity building,Adaptation, advocacy, and campaigning in Malawi</title>
+    <description type="1">The Climate Change project  seeks to enhance individual voices and people's movement building and cooperation among civil society  to promote transparent, participatory and accountable decision -making relating to climate change and sustainable development at national and international levels.  Success will be measured against activities will focus enabling public access to information, successful lobbying for public participation and access to climate justice as an empowerment mechanism for individuals to have a meaningful voice in decisions that affect their food security, income generation, health, environment and well being.</description>
+    <sector code="1" percentage="30" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="15" vocabulary="RO">Education and Health Care</sector>
+    <sector code="4" percentage="40" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="15" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2009-06-08" type="start-actual"/>
+    <activity-date iso-date="2011-03-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2010-03-31">15686</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">30201</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2009-06-08"/>
+      <period-end iso-date="2011-03-31"/>
+      <value value-date="2010-04-01">45887</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2011-05-03T14:26:43" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA70</iati-identifier>
+    <title>Blantyre Rural Sustainable Livelihoods, HIV &amp; AIDS and Support Project</title>
+    <description type="1">The project aims to improve sustainable livelihoods in the context of HIV &amp; AIDS for the target group in Blantyre District of Southern Malawi. The beneficiaries of the project are vulnerable and poor households. The project will be implemented in partnership with Local Non Governmental Organisation (LNGO) parters and will support support livelihoods improvement and protection, HIV &amp; AIDS and access to basic services, emergency preparedness and safety nets, governance and Gender equity. The project will run from May 2007 to April 2010.</description>
+    <sector code="1" percentage="45" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="20" vocabulary="RO">Education and Health Care</sector>
+    <sector code="3" percentage="15" vocabulary="RO">Life and Security</sector>
+    <sector code="4" percentage="10" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="10" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2007-05-01" type="start-actual"/>
+    <activity-date iso-date="2011-03-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2008-04-30">262342</value>
+      <description>Expenditure  May 2007 - April 2008</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2008-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2009-04-30">222163</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2010-03-31">252835</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">388745</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2007-05-01"/>
+      <period-end iso-date="2011-03-31"/>
+      <value value-date="2010-04-01">1126085</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2012-04-18T16:59:48" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA76</iati-identifier>
+    <title>ORPHANS AND VULNERABLE CHILDREN AND CHILD PROTECTION PROJECT</title>
+    <description type="1">The project aims at reducing vulnerability to HIV&amp;AIDS and improve status of PLWHA by improving access to education for orphans and vulnerable children (OVCs), which include support for early childhood development in Balaka and Phalombe districts. The project will strengthen the capacity of 100 caregivers in ECD, creating a conducive early ealry learning and stimulating environment by construction of 20 toilets, refurbishing 4 CBCCs and procure 200 CBCC kits. The project will also enhence advocancy and coordination skills on ECD and child protection issues at community level.</description>
+    <sector code="2" percentage="90" vocabulary="RO">Education and Health Care</sector>
+    <sector code="4" percentage="10" vocabulary="RO">Right to be Heard</sector>
+    <activity-date iso-date="2007-10-15" type="start-actual"/>
+    <activity-date iso-date="2012-03-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2008-04-30">107300</value>
+      <description>Expenditure  May 2007 - April 2008</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2008-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2009-04-30">257673</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">55042</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2012-03-31">105302</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2007-10-15"/>
+      <period-end iso-date="2012-03-31"/>
+      <value value-date="2011-04-01">525316</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-05-15T12:08:34" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Australia</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Hong Kong</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Ireland</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Funding" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Implementing" type="22">Oxfam Partner(s)</participating-org>
+    <participating-org ref="" role="Implementing" type="70">Oxfam Partner(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA93</iati-identifier>
+    <title>Enhancing access to markets by small producers especially women</title>
+    <description type="1">The project will be implemented by three partners; Farmers Union (FUM), Coordination Union for the Rehabilitation of Environment (CURE) and Women's Legal Resource Centre (WOLREC)</description>
+    <sector code="1" percentage="80" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="4" percentage="20" vocabulary="RO">Right to be Heard</sector>
+    <activity-date iso-date="2011-12-01" type="start-actual"/>
+    <activity-date iso-date="2015-03-31" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2012-03-31">225144</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">281621</value>
+      <description>Expenditure  April 2012 - March 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">41670</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">26631</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">605</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">26954</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">3471</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">24188</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">-4605</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">6466</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">48502</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">40113</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">9466</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">2851</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">73894</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">8301</value>
+      <description>Expenditure April 2013 -  June 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">15603</value>
+      <description>Expenditure July 2013 -  September 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">30029</value>
+      <description>Expenditure October 2013 -  December 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">65934</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">60000</value>
+      <description>Disbursement April 2013 -  June 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">15427</value>
+      <description>Disbursement July 2013 -  September 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">44521</value>
+      <description>Disbursement October 2013 -  December 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">60391</value>
+      <description>Disbursement January 2014 -  March 2014</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">100581</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">203801</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">45401</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">90000</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2011-12-01"/>
+      <period-end iso-date="2015-03-31"/>
+      <value value-date="2013-04-01">946547</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-01-28T12:19:50" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA80</iati-identifier>
+    <title>Promoting Sustainable Livelihoods for Vulnerable groups Particulary women.</title>
+    <description type="1">The project contributes to the JOPM overall goal of improving sustainable livelihoods for poor and vulnerable groups in the context of HIV and AIDS. and contributes to four thematic areas of the JOPM: livelihoods promotion and protection,  increased equitable access of targeted households to quality HIV and AIDS services through vocational education for OVCs and advocay for increased allocation and improved utilisation of bursaries,  governance and gender equality. The project has been  finacially supported by the Scottish Executive December 2013</description>
+    <sector code="1" percentage="21" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="29" vocabulary="RO">Education and Health Care</sector>
+    <sector code="4" percentage="25" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="25" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2008-12-01" type="start-actual"/>
+    <activity-date iso-date="2013-03-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2009-04-30">78259</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2010-03-31">274657</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">187362</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2012-03-31">177355</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">74030</value>
+      <description>Expenditure  April 2012 - March 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2008-12-01"/>
+      <period-end iso-date="2013-03-31"/>
+      <value value-date="2012-04-01">791663</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-06-26T14:40:31" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Australia</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Hong Kong</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Ireland</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Funding" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Implementing" type="22">Oxfam Partner(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA92</iati-identifier>
+    <title>Malawi Humanitarian Preparedness Project</title>
+    <description type="1">This project seeks to improve the level of Humanitarian Preparedness in Malawi through enhancing disaster management mechanisms/ institutional frameworks, advocacting for improved resource allocation and support to disdaster risk management by primary duty bearers and enhanced CSO and community capacity as well as participation in emergency preparedness and response in Malawi.</description>
+    <sector code="1" percentage="40" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="3" percentage="60" vocabulary="RO">Life and Security</sector>
+    <activity-date iso-date="2011-11-01" type="start-actual"/>
+    <activity-date iso-date="2015-11-30" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2012-03-31">124827</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">98712</value>
+      <description>Expenditure  April 2012 - March 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">31987</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">41153</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">35821</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">26790</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">12124</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">807</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">4</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">35131</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">14976</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">19754</value>
+      <description>Expenditure April 2013 -  June 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">35821</value>
+      <description>Expenditure July 2013 -  September 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">12931</value>
+      <description>Expenditure October 2013 -  December 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">36335</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">53385</value>
+      <description>Disbursement April 2013 -  June 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">26790</value>
+      <description>Disbursement July 2013 -  September 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">13775</value>
+      <description>Disbursement January 2014 -  March 2014</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">115085</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">82000</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">80554</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">15000</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2011-11-01"/>
+      <period-end iso-date="2015-11-30"/>
+      <value value-date="2013-04-01">516177</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-06-26T14:43:20" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Australia</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Hong Kong</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Ireland</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Japan</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Funding" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Implementing" type="22">Oxfam Partner(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA94</iati-identifier>
+    <title>Access to treatment care and support for people leaving with HIV in Malawi</title>
+    <description type="1">The project aims to support action that enhances equitable access to treatment, care and support for People Living HIV and AIDS (PLHV) and Orphans and Vulnerable Children (OVC). It would specifically focus on strengthening governments commitment to implement pro -poor friendly policies and provide adequate institutional arrangements to make PLHIV and OVC live active, healthy and happy lives. It would also tackle mindsets that exacerbate stigma and discrimination against PLHIV and OVC and address the consistency and quality of care provided by health care workers in Malawi.</description>
+    <sector code="2" percentage="20" vocabulary="RO">Education and Health Care</sector>
+    <sector code="4" percentage="40" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="40" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2011-12-15" type="start-actual"/>
+    <activity-date iso-date="2015-12-31" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2012-03-31">395078</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-03-31">284799</value>
+      <description>Expenditure  April 2012 - March 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">4788</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">22720</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">23763</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">75625</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">15315</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Japan</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">7141</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">7996</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">15013</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">63365</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">-6448</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Japan</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">7189</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">2431</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">7517</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">75900</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">886</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Japan</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">12005</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Australia</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">108</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">-1827</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Hong Kong</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">32540</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">-694</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Japan</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">16145</value>
+      <description>Expenditure April 2013 -  June 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">23703</value>
+      <description>Expenditure July 2013 -  September 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">16241</value>
+      <description>Expenditure October 2013 -  December 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">11368</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">126066</value>
+      <description>Disbursement April 2013 -  June 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">63364</value>
+      <description>Disbursement July 2013 -  September 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">77682</value>
+      <description>Disbursement October 2013 -  December 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">30763</value>
+      <description>Disbursement January 2014 -  March 2014</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">186910</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">324749</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">24956</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">184050</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2011-12-15"/>
+      <period-end iso-date="2015-12-31"/>
+      <value value-date="2013-04-01">1400542</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2011-05-03T18:41:14" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA78</iati-identifier>
+    <title>Chiradzulu HIV &amp; AIDS and Livelihoods Project</title>
+    <description type="1">This is an integrated Livelihoods and HIV &amp; AIDS project succeeding the Chiradzulu HIV &amp; AIDS Response Programme aimedat achieving sustainable livelihoods for 9720 poor and vulnerable households in the context of HIV&amp;AIDS by 2010.     The beneficiaries will have improved capacity to demand their rights and hold government to account on areas e.g. equitable access to treatment, care and support,  resourcing for HBC, development of Disaster Management Plans, and social protection policy.</description>
+    <sector code="1" percentage="30" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="30" vocabulary="RO">Education and Health Care</sector>
+    <sector code="3" percentage="10" vocabulary="RO">Life and Security</sector>
+    <sector code="4" percentage="15" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="15" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2008-04-30" type="start-actual"/>
+    <activity-date iso-date="2011-03-30" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2009-04-30">549859</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2010-03-31">318677</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">62067</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2008-04-30"/>
+      <period-end iso-date="2011-03-30"/>
+      <value value-date="2010-04-01">930602</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-06-20T14:48:42" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Funding" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Implementing" type="22">Oxfam Partner(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA90</iati-identifier>
+    <title>Building the resilience and enhancing the adaptive capacity of women and men</title>
+    <description type="1">This project  aims at (1) Reducing target household's and community vulnerability to climate change and climate variability (2) Enhancing the adaptive capacity of the targeted households and communities to climate variability and change through adaptation and risk reduction (ARR) initiatives as well as (3) enhancing communities humanitarian preparedness and response capacities. Case studies from the project will be used to influence policy and practices on building the resilience and adaptive capacity of poor women and men to climate variability and change in Malawi.</description>
+    <sector code="1" percentage="45" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="3" percentage="55" vocabulary="RO">Life and Security</sector>
+    <activity-date iso-date="2012-04-01" type="start-actual"/>
+    <activity-date iso-date="2015-03-30" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2013-03-31">118992</value>
+      <description>Expenditure  April 2012 - March 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">36814</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">58810</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">1903</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">32473</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">2114</value>
+      <description>Expenditure April 2013 -  June 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">2949</value>
+      <description>Expenditure July 2013 -  September 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">1903</value>
+      <description>Expenditure October 2013 -  December 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">14688</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">34700</value>
+      <description>Disbursement April 2013 -  June 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">55860</value>
+      <description>Disbursement July 2013 -  September 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">17785</value>
+      <description>Disbursement January 2014 -  March 2014</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">28585</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">101415</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">10535</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">98465</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2015-03-30"/>
+      <value value-date="2013-04-01">357992</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2012-04-12T15:34:01" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA88</iati-identifier>
+    <title>Blantyre District Cash Transfer Project</title>
+    <description type="1">In this project, Oxfam will be providing cash grants to 49,522 people from Blantyre District to help to meet their missing food entitlements during the critical hunger months of March and April. The project will involve targetting of the most vulnerable households from two critical areas, T A Kunthembwe and Lirangwe area, which were identified by official food security assessments as having been hard hit by food insecurity.</description>
+    <sector code="3" percentage="100" vocabulary="RO">Life and Security</sector>
+    <activity-date iso-date="2011-03-01" type="start-actual"/>
+    <activity-date iso-date="2012-03-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2011-03-31">130783</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2012-03-31">290084</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2011-03-01"/>
+      <period-end iso-date="2012-03-31"/>
+      <value value-date="2011-04-01">420867</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2012-04-18T17:13:40" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA77</iati-identifier>
+    <title>EC-Oxfam Southern Malawi Diversified Livelihood Programme</title>
+    <description type="1">The project aims to contribute to increased food security and resilience to disaster at household and community level in Balaka and Blantyre Rural Districts in southern Malawi.  The project proposes to directly reach 12,000 households and ensure that they have, ""Increased and more diverse food and income by 2011.""  The project's main activities will include promotion of small scale irrigation, post harvest crop management, crop diversification that includes seed multiplication, pond fish farming and capacity building of partners to mainstream Gender, HIV and AIDS issues and ably manage the project.</description>
+    <sector code="1" percentage="70" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="5" vocabulary="RO">Education and Health Care</sector>
+    <sector code="3" percentage="20" vocabulary="RO">Life and Security</sector>
+    <sector code="5" percentage="5" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2008-05-01" type="start-actual"/>
+    <activity-date iso-date="2012-04-30" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2009-04-30">321379</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2010-03-31">357289</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">454938</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2012-03-31">379614</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2008-05-01"/>
+      <period-end iso-date="2012-04-30"/>
+      <value value-date="2012-04-01">1513219</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-04-22T13:36:07" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Ireland</participating-org>
+    <participating-org ref="GB-1" role="Funding" type="10">Department for International Development</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Funding" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Implementing" type="21">Concern Worldwide</participating-org>
+    <participating-org ref="" role="Implementing" type="22">Oxfam Partner(s)</participating-org>
+    <participating-org ref="" role="Implementing" type="70">Oxfam Partner(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA99</iati-identifier>
+    <title>Integrated Emergency Cash Transfer Response to Malawi 2012 Food crisis</title>
+    <description type="1">To help 38352 vulnerable people avert food insecurity through unconditional cash transfers in 3 districts of Malawi while linking them to resilience buidling interventions in their areas. This will help to reduce the risk for future food and livelihoods insecurity amongst the poor and vulnerable communities in the project areas.</description>
+    <sector code="3" percentage="100" vocabulary="RO">Life and Security</sector>
+    <activity-date iso-date="2012-11-01" type="start-actual"/>
+    <activity-date iso-date="2014-11-30" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2013-03-31">625716</value>
+      <description>Expenditure  April 2012 - March 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">44105</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-1">Department for International Development</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">3392</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">15128</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-1">Department for International Development</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">7419</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">-18157</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-1">Department for International Development</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">-5643</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-1">Department for International Development</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">7092</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">10813</value>
+      <description>Expenditure April 2013 -  June 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">24338</value>
+      <description>Expenditure July 2013 -  September 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">1449</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">36684</value>
+      <description>Disbursement April 2013 -  June 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Concern Worldwide</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">-1792</value>
+      <description>Disbursement July 2013 -  September 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">-18158</value>
+      <description>Disbursement October 2013 -  December 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">36684</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Concern Worldwide</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">44057</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">3000</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">8438</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">54946</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2012-11-01"/>
+      <period-end iso-date="2014-11-30"/>
+      <value value-date="2013-04-01">772840</value>
+    </budget>
+    <document-link url="http://iati.oxfam.org.uk/Attachments/BI120R04776032013-07-31-18.18.36.000000OXFAM_INGO_CONSORTIUM_CTP_Evaluation_Report.pdf">
+      <title>OXFAM_INGO_CONSORTIUM_CTP_Evaluation_Report.pdf</title>
+      <category code="A07">Review of project performance and evaluation</category>
+    </document-link>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-05-28T07:32:31" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Funding" type="10">UK - Scottish Government</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Funding" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Implementing" type="22">Oxfam Partner(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA98</iati-identifier>
+    <title>Women farmers access value-chains and adapt to climate change</title>
+    <description type="1">The project wants to improve poor women's economic, social and environmental resilience through participation in value chains, increased status and adaptation to climate change</description>
+    <sector code="1" percentage="50" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="5" percentage="50" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2012-04-01" type="start-actual"/>
+    <activity-date iso-date="2015-03-31" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2013-03-31">63040</value>
+      <description>Expenditure  April 2012 - March 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">26546</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">UK - Scottish Government</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">23787</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">UK - Scottish Government</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">32189</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">UK - Scottish Government</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">43136</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">UK - Scottish Government</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">4046</value>
+      <description>Expenditure April 2013 -  June 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">4829</value>
+      <description>Expenditure July 2013 -  September 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">6972</value>
+      <description>Expenditure October 2013 -  December 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">6961</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">22500</value>
+      <description>Disbursement April 2013 -  June 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">18957</value>
+      <description>Disbursement July 2013 -  September 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">25217</value>
+      <description>Disbursement October 2013 -  December 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">36174</value>
+      <description>Disbursement January 2014 -  March 2014</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">23405</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">144791</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">32576</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">93426</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2015-03-31"/>
+      <value value-date="2013-04-01">357237</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2012-04-13T13:08:04" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA85</iati-identifier>
+    <title>Karonga Public Health Promotion Response for Earth Quake affected communities</title>
+    <description type="1">The Department of Geological Survey  recorded 83 earthquakes in Karonga within December 2009 with magnitude ranges of 3.8 to 6.2 on the Richter scale. Affected population stands at 216, 428 (36,071 households) out of the district population of 270, 960, The Project Goal is contribute to the prevention of illness and death from diseases which are related to inadequate sanitation and poor hygiene through public health promotion.Oxfam's approach will be to enhance strengthen water and sanitation programmes  to promote good personal and environmental hygiene in order to protect health.</description>
+    <sector code="3" percentage="100" vocabulary="RO">Life and Securi</sector>
+    <activity-date iso-date="2009-12-30" type="start-actual"/>
+    <activity-date iso-date="2011-08-30" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2010-03-31">51366</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">46201</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2012-03-31">-2869</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2009-12-30"/>
+      <period-end iso-date="2011-08-30"/>
+      <value value-date="2011-04-01">94698</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-05-12T16:16:04" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Donor(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Funding" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Implementing" type="22">Oxfam Partner(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA95</iati-identifier>
+    <title>ENHANCING WOMEN'S RIGHTS THROUGH IMPROVING ACCESS TO RESOURCES, ESSENTIAL SERVIC</title>
+    <description type="1">Specifically, the project will: enhance CSOs  capacity to enable women  demand and assert their right to development through decentralised structures, improve women's access to productive resources and services, enhance community dialogue and reduce harmful social cultural factors and promote accountability and responsiveness of duty bearers towards women's rights and community needs at the community, district and national levels</description>
+    <sector code="4" percentage="10" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="90" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2012-04-02" type="start-actual"/>
+    <activity-date iso-date="2015-03-31" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2013-03-31">229540</value>
+      <description>Expenditure  April 2012 - March 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">4038</value>
+      <description>Income Spent  April 2013 -  June 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Donor(s)</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">71506</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Donor(s)</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">26</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">5486</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Donor(s)</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">43665</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Donor(s)</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-06-30">4038</value>
+      <description>Expenditure April 2013 -  June 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">3437</value>
+      <description>Expenditure July 2013 -  September 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">5486</value>
+      <description>Expenditure October 2013 -  December 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">4760</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">68094</value>
+      <description>Disbursement July 2013 -  September 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">38904</value>
+      <description>Disbursement January 2014 -  March 2014</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">76462</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">117000</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">43354</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">25388</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2012-04-02"/>
+      <period-end iso-date="2015-03-31"/>
+      <value value-date="2013-04-01">491744</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-05-22T13:04:35" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Funding" type="21">Oxfam Ireland</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALB02</iati-identifier>
+    <title>Oxfam Ireland Additional Programme Management and Staff Cost in Malawi</title>
+    <description type="1">Programme Management and support staff costs for the Essential Services Coordinator, Advocacy and Campaigns Manager, and the Associate Country Director</description>
+    <sector code="2" percentage="20" vocabulary="RO">Education and Health Care</sector>
+    <sector code="4" percentage="40" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="40" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2013-09-01" type="start-actual"/>
+    <activity-date iso-date="2015-12-31" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2013-09-30">4021</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">7999</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">7342</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">Oxfam Ireland</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">4021</value>
+      <description>Expenditure July 2013 -  September 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">7999</value>
+      <description>Expenditure October 2013 -  December 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">7342</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">39360</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">19998</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2013-09-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value value-date="2013-04-01">59358</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2012-04-20T13:33:28" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA75</iati-identifier>
+    <title>Women's Rights in Malawi</title>
+    <description type="1">The specific objective of the project is to contribute to increased gender equality and empowerment of women in Malawi. The project will support national level work and advocacy on womens rights issues in areas of  reduction of gender based violence particulary violence against women, promotion of women in decision making processes, and reduction of women and adolescent girls vulnerability to HIV &amp; AIDS.The project will run from May 2007 to April 2010.</description>
+    <sector code="4" percentage="3" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="97" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2007-07-23" type="start-actual"/>
+    <activity-date iso-date="2012-03-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2008-04-30">38041</value>
+      <description>Expenditure  May 2007 - April 2008</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2008-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2009-04-30">115166</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2010-03-31">129218</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">136405</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2012-03-31">78433</value>
+      <description>Expenditure  April 2011 - March 2012</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2007-07-23"/>
+      <period-end iso-date="2012-03-31"/>
+      <value value-date="2011-04-01">497262</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2013-04-19T16:28:11" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA96</iati-identifier>
+    <title>Enhancing Sustainable livelihoods through water and sanitation and OVC care</title>
+    <description type="1">The project goal is to  improve food  and livelihood security  for  the rural households in Thyolo districts and improve access to education by Orphans and Vulnerable Children in Balaka by working with Local Non Governmental Organisations, community structures including ECD caregivers and Government extension agents.  The project promotes sustainable livelihoods by institutionalising participatory development, incorporating human rights, mainstreaming Gender and HIV and AIDS issues within decentralised district development structures. This project is being funded by KLUB in Balaka and The Cooperative Group in Thyolo District.</description>
+    <sector code="1" percentage="45" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="45" vocabulary="RO">Education and Health Care</sector>
+    <sector code="4" percentage="10" vocabulary="RO">Right to be Heard</sector>
+    <activity-date iso-date="2012-04-01" type="start-actual"/>
+    <activity-date iso-date="2012-07-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2013-03-31">16243</value>
+      <description>Expenditure  April 2012 - March 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2012-07-31"/>
+      <value value-date="2012-04-01">16242</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2011-04-29T11:11:03" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA74</iati-identifier>
+    <title>Advocacy and Campaigning in Malawi</title>
+    <description type="1">This project will influence government policies on poverty in Malawi through advocacy to change policies and practices in the context of HIV/AIDS. Poor and vulnerable groups will be the main beneficiaries and the targets will be decision and policy makers.     Strategies will include lobbying, popular mobilization research and working in coalitions. Key changes will include increased people's participation in decision -making, more equitable access to essential services,especially access to medicines and education by OVCs. Oxfam will work with national Civil Society Organizations and operational partners to achieve these changes.</description>
+    <sector code="1" percentage="15" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="40" vocabulary="RO">Education and Health Care</sector>
+    <sector code="3" percentage="5" vocabulary="RO">Life and Security</sector>
+    <sector code="4" percentage="30" vocabulary="RO">Right to be Heard</sector>
+    <sector code="5" percentage="10" vocabulary="RO">Right to Equity: Gender and Diversity</sector>
+    <activity-date iso-date="2007-05-25" type="start-actual"/>
+    <activity-date iso-date="2011-03-31" type="end-actual"/>
+    <activity-status code="3">Completion</activity-status>
+    <transaction>
+      <value value-date="2008-04-30">121173</value>
+      <description>Expenditure  May 2007 - April 2008</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2008-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2009-04-30">322256</value>
+      <description>Expenditure  May 2008 - April 2009</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2009-04-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2010-03-31">140113</value>
+      <description>Expenditure  May 2009 - March 2010</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2011-03-31">179090</value>
+      <description>Expenditure  April 2010 - March 2011</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2007-05-25"/>
+      <period-end iso-date="2011-03-31"/>
+      <value value-date="2010-04-01">762632</value>
+    </budget>
+  </iati-activity>
+  <iati-activity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default-currency="GBP" last-updated-datetime="2014-06-26T10:23:26" version="1.02" xml:lang="en">
+    <reporting-org ref="GB-CHC-202918" type="21">Oxfam GB</reporting-org>
+    <participating-org ref="GB-CHC-202918" role="Extending" type="21">Oxfam GB</participating-org>
+    <participating-org ref="" role="Funding" type="10">UK - Scottish Government</participating-org>
+    <participating-org ref="" role="Implementing" type="22">Oxfam Partner(s)</participating-org>
+    <participating-org ref="GB-CHC-202918" role="Implementing" type="21">Oxfam GB</participating-org>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <recipient-region code=""/>
+    <iati-identifier>GB-CHC-202918-MALA97</iati-identifier>
+    <title>Social and Economic Empowerment of Smallholder Producers in Rural Malawi</title>
+    <description type="1">1. Advocate for the enactment of the land related Laws to support government implementation of the national Land Policy  2. Monitor implementation of the National Land Policy - specifically Landnet is interested in monitoring the land transactions and how they are affecting the livelihoods of rural people more especially women; compensation and resettlement of people due to large scale land investments or grabbing; the Land Governance Assessment Framework will be used  3. Awareness building on the land policy and land related laws   4. Strengthen coordination and collaboration amongst partners in the land policy reform process</description>
+    <sector code="1" percentage="75" vocabulary="RO">A Sustainable Livelihood</sector>
+    <sector code="2" percentage="25" vocabulary="RO">Education and Health Care</sector>
+    <activity-date iso-date="2013-05-01" type="start-actual"/>
+    <activity-date iso-date="2015-12-31" type="end-planned"/>
+    <activity-status code="2">Implementation</activity-status>
+    <transaction>
+      <value value-date="2013-09-30">67863</value>
+      <description>Income Spent  July 2013 -  September 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">UK - Scottish Government</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">29077</value>
+      <description>Income Spent  October 2013 -  December 2013</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">UK - Scottish Government</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">30643</value>
+      <description>Income Spent  January 2014 -  March 2014</description>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="">UK - Scottish Government</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">1107</value>
+      <description>Expenditure July 2013 -  September 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">9461</value>
+      <description>Expenditure October 2013 -  December 2013</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">11129</value>
+      <description>Expenditure January 2014 -  March 2014</description>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-09-30">66756</value>
+      <description>Disbursement July 2013 -  September 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-12-31">19616</value>
+      <description>Disbursement October 2013 -  December 2013</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2014-03-31">19513</value>
+      <description>Disbursement January 2014 -  March 2014</description>
+      <transaction-type code="D">Disbursement</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">31010</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">118917</value>
+      <description>Commitment April 2013 - March 2014</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">28168</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="GB-CHC-202918">Oxfam GB</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <transaction>
+      <value value-date="2013-04-01">97564</value>
+      <description>Commitment April 2014 - March 2015</description>
+      <transaction-type code="C">Commitment</transaction-type>
+      <provider-org ref="GB-CHC-202918">Oxfam GB</provider-org>
+      <receiver-org ref="">Oxfam Partner(s)</receiver-org>
+      <transaction-date iso-date="2013-04-01"/>
+    </transaction>
+    <budget type="Revised">
+      <period-start iso-date="2013-05-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value value-date="2013-04-01">275659</value>
+    </budget>
+  </iati-activity>
+</iati-activities>

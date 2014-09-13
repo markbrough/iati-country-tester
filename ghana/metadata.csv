@@ -1,0 +1,62 @@
+official,pct,remove,org,orgname,orgtype,filename,url,package_name,package_title
+1,0.2773861994,,44000,World Bank Group,40,GH-44000.xml,http://siteresources.worldbank.org/IATI/WB-GH.xml,GH-44000,GH Activity file 44000
+1,0.1059831195,,US,United States,10,GH-US.xml,http://datafagov.azurewebsites.net/Activities/Ghana.xml,GH-US,GH Activity file US
+1,0.085894256,,46002,African Development Bank Group,40,GH-46002.xml,,GH-46002,GH Activity file 46002
+1,0.0450545137,,DE-1,BMZ,10,GH-DE-1.xml,,GH-DE-1,GH Activity file DE-1
+1,0.0400581717,,GB-1,Department for International Development,10,GH-GB-1.xml,http://iati.dfid.gov.uk/iati_files/Country/DFID-Ghana-GH.xml,GH-GB-1,GH Activity file GB-1
+1,0.0381952499,,DK-1,"Ministry of Foreign Affairs, Denmark",10,GH-DK-1.xml,,GH-DK-1,GH Activity file DK-1
+1,0.0357738085,,EU,European Commission - Development and Cooperation-EuropeAid,15,GH-EU.xml,,GH-EU,GH Activity file EU
+1,0.0298299459,,NL-1,Ministry of Foreign Affairs (DGIS),10,GH-NL-1.xml,,GH-NL-1,GH Activity file NL-1
+1,0.0287485948,,XM-DAC-701-8,Japan International Cooperation Agency (JICA),10,GH-XM-DAC-701-8.xml,,GH-XM-DAC-701-8,GH Activity file XM-DAC-701-8
+1,0.0241180564,,CA-3,Canada,10,GH-CA-3.xml,,GH-CA-3,GH Activity file CA-3
+1,0.0126907086,,47122,The Global Alliance for Vaccination and Immunisation,40,GH-47122.xml,,GH-47122,GH Activity file 47122
+1,0.0095519352,,47045,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",40,GH-47045.xml,,GH-47045,GH Activity file 47045
+1,0.0085901394,,DAC-1601,Bill and Melinda Gates Foundation,60,GH-DAC-1601.xml,,GH-DAC-1601,GH Activity file DAC-1601
+1,0.0048446673,,41122,UNICEF,40,GH-41122.xml,,GH-41122,GH Activity file 41122
+1,0.0040452526,,FI-3,Ministry for Foreign Affairs of Finland,10,GH-FI-3.xml,,GH-FI-3,GH Activity file FI-3
+1,0.0032511911,,41114,United Nations Development Programme,40,GH-41114.xml,http://www.undp.org/content/dam/undp/documents/iati_xml/CO_2014/Ghana_projects.xml,GH-41114,GH Activity file 41114
+1,0.0017968987,,41119,United Nations Population Fund,40,GH-41119.xml,,GH-41119,GH Activity file 41119
+1,0.0016309488,,AU-5,Australian Aid,10,GH-AU-5.xml,,GH-AU-5,GH Activity file AU-5
+1,0.0011009796,,ES-5,"Ministry of Foreign Affairs and Cooperation, Spain",10,GH-ES-5.xml,,GH-ES-5,GH Activity file ES-5
+1,0.0001623811,,NZ-1,Ministry of Foreign Affairs and Trade,10,GH-NZ-1.xml,,GH-NZ-1,GH Activity file NZ-1
+1,0.0001177709,,SE-0,Sweden,10,GH-SE-0.xml,http://iati.openaid.se/xml/GH.xml,GH-SE-0,GH Activity file SE-0
+,,1,GB-3,Foreign & Commonwealth Office,10,GH-GB-3.xml,,GH-GB-3,GH Activity file GB-3
+,,1,GB-2,CDC Group plc,15,GH-GB-2.xml,,GH-GB-2,GH Activity file GB-2
+,,,GB-COH-RC000346,Medical Research Council,15,GH-GB-COH-RC000346.xml,,GH-GB-COH-RC000346,GH Activity file GB-COH-RC000346
+,,,GB - CC - 254781,The International Children's Trust,21,GH-GB - CC - 254781.xml,,GH-GB - CC - 254781,GH Activity file GB - CC - 254781
+,,,GB-CHC-1029161,Camfed International,21,GH-GB-CHC-1029161.xml,,GH-GB-CHC-1029161,GH Activity file GB-CHC-1029161
+,,,GB-CHC-1079599,BasicNeeds,21,GH-GB-CHC-1079599.xml,,GH-GB-CHC-1079599,GH Activity file GB-CHC-1079599
+,,,GB-CHC-1093624,AfriKids,21,GH-GB-CHC-1093624.xml,,GH-GB-CHC-1093624,GH Activity file GB-CHC-1093624
+,,,GB-CHC-1099776,Malaria Consortium,21,GH-GB-CHC-1099776.xml,,GH-GB-CHC-1099776,GH Activity file GB-CHC-1099776
+,,,GB-CHC-1105851,Christian Aid,21,GH-GB-CHC-1105851.xml,,GH-GB-CHC-1105851,GH Activity file GB-CHC-1105851
+,,,GB-CHC-202918,Oxfam GB,21,GH-GB-CHC-202918.xml,,GH-GB-CHC-202918,GH Activity file GB-CHC-202918
+,,,GB-CHC-207544,Sightsavers,21,GH-GB-CHC-207544.xml,,GH-GB-CHC-207544,GH Activity file GB-CHC-207544
+,,,GB-CHC-272465,Concern Universal,21,GH-GB-CHC-272465.xml,,GH-GB-CHC-272465,GH Activity file GB-CHC-272465
+,,,GB-CHC-274467,ActionAid United Kingdom,21,GH-GB-CHC-274467.xml,,GH-GB-CHC-274467,GH Activity file GB-CHC-274467
+,,,GB-CHC-288701,WaterAid,21,GH-GB-CHC-288701.xml,,GH-GB-CHC-288701,GH Activity file GB-CHC-288701
+,,,GB-CHC-313757,Voluntary Service Overseas (VSO),21,GH-GB-CHC-313757.xml,,GH-GB-CHC-313757,GH Activity file GB-CHC-313757
+,,,GB-GHC-207544,Sightsavers,21,GH-GB-GHC-207544.xml,,GH-GB-GHC-207544,GH Activity file GB-GHC-207544
+,,,GBCHC328206,Womankind Worldwide,21,GH-GBCHC328206.xml,,GH-GBCHC328206,GH Activity file GBCHC328206
+,,,IE-6663,Self Help Africa,21,GH-IE-6663.xml,,GH-IE-6663,GH Activity file IE-6663
+,,,NL-KVK-27327087,Akvo Foundation,21,GH-NL-KVK-27327087.xml,,GH-NL-KVK-27327087,GH Activity file NL-KVK-27327087
+,,,NL-KVK-34229026,Aflatoun,21,GH-NL-KVK-34229026.xml,,GH-NL-KVK-34229026,GH Activity file NL-KVK-34229026
+,,,NL-KVK-41160054,Stichting Cordaid,21,GH-NL-KVK-41160054.xml,,GH-NL-KVK-41160054,GH Activity file NL-KVK-41160054
+,,,US-EIN-300108263,GlobalGiving,21,GH-US-EIN-300108263.xml,,GH-US-EIN-300108263,GH Activity file US-EIN-300108263
+,,,US-IRS-13-5661832,Plan International USA,21,GH-US-IRS-13-5661832.xml,,GH-US-IRS-13-5661832,GH Activity file US-IRS-13-5661832
+,,,CA-CRA-89980-1815-RR0001,Engineers Without Borders Canada,22,GH-CA-CRA-89980-1815-RR0001.xml,,GH-CA-CRA-89980-1815-RR0001,GH Activity file CA-CRA-89980-1815-RR0001
+,,,NL-KVK-20093733,Heifer,22,GH-NL-KVK-20093733.xml,,GH-NL-KVK-20093733,GH Activity file NL-KVK-20093733
+,,,NL-KVK-41177206,ICCO,22,GH-NL-KVK-41177206.xml,,GH-NL-KVK-41177206,GH Activity file NL-KVK-41177206
+,,,NL-KVK-41198677,HIVOS,22,GH-NL-KVK-41198677.xml,,GH-NL-KVK-41198677,GH Activity file NL-KVK-41198677
+,,,41140,World Food Programme,40,GH-41140.xml,,GH-41140,GH Activity file 41140
+,,,411124,UN Women,40,GH-411124.xml,,GH-411124,GH Activity file 411124
+,,,41AAA,United Nations Office for Project Services,40,GH-41AAA.xml,,GH-41AAA,GH Activity file 41AAA
+,,1,EU-4,Humanitarian Aid Office of the European Commission,40,GH-EU-4.xml,,GH-EU-4,GH Activity file EU-4
+,,,GB-CHC-1075920,The Indigo Trust,60,GH-GB-CHC-1075920.xml,,GH-GB-CHC-1075920,GH Activity file GB-CHC-1075920
+,,,US-EIN-941655673,The William and Flora Hewlett Foundation,60,GH-US-EIN-941655673.xml,,GH-US-EIN-941655673,GH Activity file US-EIN-941655673
+,,,GB-COH-03788027,Triple Line & Crown Agents (Joint Venture),70,GH-GB-COH-03788027.xml,,GH-GB-COH-03788027,GH Activity file GB-COH-03788027
+,,,GB-COH-03877777,CDC Group plc,70,GH-GB-COH-03877777.xml,,GH-GB-COH-03877777,GH Activity file GB-COH-03877777
+,,,GB-COH-07669775,GEMS Education Solutions,70,GH-GB-COH-07669775.xml,,GH-GB-COH-07669775,GH Activity file GB-COH-07669775
+,,,GB-COH-3799145,Coffey International Development,70,GH-GB-COH-3799145.xml,,GH-GB-COH-3799145,GH Activity file GB-COH-3799145
+,,,47135,Climate Investment Funds-Strategic Climate Fund,Multilateral,GH-47135.xml,,GH-47135,GH Activity file 47135
+,,,NL-KvK-27108436,,,GH-NL-KvK-27108436.xml,,GH-NL-KvK-27108436,GH Activity file NL-KvK-27108436
+,,,XM-DAC-44101,Global Education Project,,GH-XM-DAC-44101.xml,,GH-XM-DAC-44101,GH Activity file XM-DAC-44101

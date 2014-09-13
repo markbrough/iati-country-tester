@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity default-currency="GBP" last-updated-datetime="2014-03-10T15:04:46" xml:lang="en">
+    <reporting-org ref="GB-GHC-207544" type="21">Sightsavers</reporting-org>
+    <iati-identifier>GB-GHC-207544-42MLW</iati-identifier>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date iso-date="31/12/2014" type="end-planned">31/12/2014</activity-date>
+    <activity-date iso-date="01/01/2014" type="start-planned">Forward looking data for Sightsaver's 2014 financial year (1st January to 31st December) is drawn from Sightsavers approved financial plans and are the estimates as at January 2014.  The actual figures achieved will vary depending on a range of factors including the securing of the funding needed, challenges faced in the countries etc..</activity-date>
+    <recipient-country code="MW">Malawi</recipient-country>
+    <transaction>
+      <value currency="GBP" value-date="01/01/2014">691960</value>
+    </transaction>
+    <transaction>
+      <value currency="GBP"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" xml:lang="en" last-updated-datetime="2014-03-25T19:12:40" hierarchy="2" default-currency="NZD">
+    <reporting-org type="10" ref="NZ-1">Ministry of Foreign Affairs and Trade</reporting-org>
+    <iati-identifier>NZ-1-A10651</iati-identifier>
+    <other-identifier owner-name="Ministry of Foreign Affairs and Trade" owner-ref="NZ-1"/>
+    <title>Ghana - Alternatives for child labourers from the Fishing industry</title>
+    <description xml:lang="en" type="1">Working with International Needs New Zealand in Ghana to establish local child labour committees which will identify and negotiate the withdrawal of children from labouring, or situations where they are at risk of becoming involved. They will be supported to access their preferred school or vocational training option and parents of these children will be supported through training and engagement in economic activity.</description>
+    <activity-status code="2">implementation</activity-status>
+    <sector code="15162">Human rights</sector>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-date type="start-planned" iso-date="2010-12-15"/>
+    <activity-date type="end-planned" iso-date="2013-12-15"/>
+    <activity-date type="start-actual" iso-date="2010-12-15"/>
+    <contact-info>
+      <organisation>Ministry of Foreign Affairs and Trade</organisation>
+      <telephone>00644398000</telephone>
+      <email>aid.statistics@mfat.govt.nz</email>
+      <mailing-address>Private Bag 18901, Wellington 5045, New Zealand</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant</default-finance-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <participating-org role="Funding" type="10" ref="NZ-1">Ministry of Foreign Affairs and Trade</participating-org>
+    <policy-marker vocabulary="DAC" code="01" significance="0"/>
+    <policy-marker vocabulary="DAC" code="02" significance="0"/>
+    <policy-marker vocabulary="DAC" code="03" significance="0"/>
+    <policy-marker vocabulary="DAC" code="04" significance="0"/>
+    <policy-marker vocabulary="DAC" code="05" significance="0"/>
+    <policy-marker vocabulary="DAC" code="06" significance="0"/>
+    <policy-marker vocabulary="DAC" code="07" significance="0"/>
+    <policy-marker vocabulary="DAC" code="08" significance="0"/>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-11-16">79450</value>
+      <transaction-date iso-date="2012-11-16"/>
+      <description>Expenses incurred during the financial year</description>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="NZ-1">MFAT</provider-org>
+    </transaction>
+  </iati-activity>
+  <iati-activity xmlns:ir="http://iatiregistry.org/ns/record#" xml:lang="en" last-updated-datetime="2014-03-25T18:52:41" hierarchy="2" default-currency="NZD">
+    <reporting-org type="10" ref="NZ-1">Ministry of Foreign Affairs and Trade</reporting-org>
+    <iati-identifier>NZ-1-A10650</iati-identifier>
+    <other-identifier owner-name="Ministry of Foreign Affairs and Trade" owner-ref="NZ-1"/>
+    <title>Ghana - Protection of Children from commercial sexual exploitation in Accra </title>
+    <description xml:lang="en" type="1">Working with International Needs New Zealand to withdraw or prevent 500 children from commercial sexual exploitation in Ghana, and provide support to access school or vocational training, and counselling. Work will be done with families to improve their entrepreneurial skills, grow businesses and increase their incomes. The activity will also involve raising awareness in the community to address commercial sexual exploitation of children in the district.</description>
+    <activity-status code="2">implementation</activity-status>
+    <sector code="15162">Human rights</sector>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <activity-date type="start-planned" iso-date="2010-12-15"/>
+    <activity-date type="end-planned" iso-date="2013-12-15"/>
+    <activity-date type="start-actual" iso-date="2010-12-15"/>
+    <contact-info>
+      <organisation>Ministry of Foreign Affairs and Trade</organisation>
+      <telephone>00644398000</telephone>
+      <email>aid.statistics@mfat.govt.nz</email>
+      <mailing-address>Private Bag 18901, Wellington 5045, New Zealand</mailing-address>
+    </contact-info>
+    <recipient-country code="GH">GHANA</recipient-country>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant</default-finance-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <participating-org role="Funding" type="10" ref="NZ-1">Ministry of Foreign Affairs and Trade</participating-org>
+    <policy-marker vocabulary="DAC" code="01" significance="0"/>
+    <policy-marker vocabulary="DAC" code="02" significance="0"/>
+    <policy-marker vocabulary="DAC" code="03" significance="0"/>
+    <policy-marker vocabulary="DAC" code="04" significance="0"/>
+    <policy-marker vocabulary="DAC" code="05" significance="0"/>
+    <policy-marker vocabulary="DAC" code="06" significance="0"/>
+    <policy-marker vocabulary="DAC" code="07" significance="0"/>
+    <policy-marker vocabulary="DAC" code="08" significance="0"/>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-01-31">187278</value>
+      <transaction-date iso-date="2013-01-31"/>
+      <description>Expenses incurred during the financial year</description>
+      <flow-type code="10">ODA</flow-type>
+      <provider-org ref="NZ-1">MFAT</provider-org>
+    </transaction>
+  </iati-activity>
+</iati-activities>

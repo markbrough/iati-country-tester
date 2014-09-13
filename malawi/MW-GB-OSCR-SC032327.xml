@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-08-07T12:11:58+00:00">
+    <reporting-org ref="GB-OSCR-SC032327" type="21" xml:lang="en">EMMS International</reporting-org>
+    <iati-identifier>GB-OSCR-SC032327-MW</iati-identifier>
+    <title xml:lang="en">Malawi programme</title>
+    <description type="1">Palliative care, Addressing Disease and Disability, Maternal and Child Health</description>
+    <activity-status code="2">9 current projects</activity-status>
+    <activity-date type="start-actual" iso-date="2012-05-01">Start date of oldest current project in programme</activity-date>
+    <activity-date type="end-planned" iso-date="2016-08-31">End date of Mziche project with LISAP</activity-date>
+    <contact-info>
+      <organisation>EMMS International</organisation>
+      <person-name>Cathy Ratcliff</person-name>
+      <job-title>Director of International Programmes</job-title>
+      <email>Cathy.Ratcliff@emms.org</email>
+      <mailing-address>7 Washington Lane, &#13;
+Edinburgh, &#13;
+EH11 2HA, &#13;
+United Kingdom</mailing-address>
+      <website>www.emms.org</website>
+    </contact-info>
+    <participating-org type="10" role="Funding">Scottish Government </participating-org>
+    <participating-org type="21" role="Funding">EMMS International</participating-org>
+    <participating-org role="Funding">Private donors</participating-org>
+    <participating-org type="22" role="Implementing">CCAP Livingstonia (LISAP, Ekwendeni College of Health Sciences, Health Department) </participating-org>
+    <participating-org type="22" role="Implementing">Nkhoma Mission Hospital</participating-org>
+    <participating-org type="22" role="Implementing">Mulanje Mission Hospital</participating-org>
+    <participating-org type="22" role="Implementing">Palliative Care Support Trust</participating-org>
+    <activity-scope code="4">Grants to 4 Malawian partners in Malawi. </activity-scope>
+    <recipient-country code="MW"/>
+    <sector vocabulary="RO" code="H" percentage="100">Health</sector>
+    <default-aid-type code="C01"/>
+    <default-tied-status code="5"/>
+    <budget type="1">
+      <period-start iso-date="2014-01-01">Start of financial year</period-start>
+      <period-end iso-date="2014-12-31">End of financial year</period-end>
+      <value currency="GBP" value-date="2014-01-01">233637</value>
+    </budget>
+    <transaction ref="April 2014">
+      <transaction-type code="D">£1,747 to CCAP Livingstonia Department of Health for Director's salary, &#13;
+£2,341 to Palliative Care Support Trust to correct budget shortfall for 2014 grant, &#13;
+£340 for evaluation fees for completed project. </transaction-type>
+      <provider-org ref=" GB-OSCR-SC032327" provider-activity-id=" GB-OSCR-SC032327-MW">EMMS International, financed by private funds. </provider-org>
+      <receiver-org>CCAP Livingstonia Department of Health, &#13;
+Palliative Care Support Trust</receiver-org>
+      <value value-date="2014-04-30">4428</value>
+      <description>£1,747 to CCAP Livingstonia Department of Health for Director's salary, &#13;
+£2,341 to Palliative Care Support Trust to correct budget shortfall for 2014 grant, &#13;
+£340 for evaluation fees for completed project. </description>
+      <transaction-date iso-date="2014-04-30">£1,747 to CCAP Livingstonia Department of Health for Director's salary, &#13;
+£2,341 to Palliative Care Support Trust to correct budget shortfall for 2014 grant, &#13;
+£340 for evaluation fees for completed project. </transaction-date>
+      <flow-type code="30"/>
+      <aid-type code="C01"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="January 2014">
+      <transaction-type code="D"/>
+      <provider-org ref="GB-OSCR-SC032327" provider-activity-id="GB-OSCR-SC032327">EMMS International</provider-org>
+      <receiver-org>CCAP Livingstonia + 1 other. </receiver-org>
+      <value currency="GBP" value-date="2014-01-31">8078</value>
+      <description>£8,047 for LISAP, HIV programme. &#13;
+£31 final payment to other partner for completed programme. </description>
+      <transaction-date iso-date="2014-01-31"/>
+      <flow-type code="30"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="February 2014">
+      <transaction-type code="D"/>
+      <provider-org ref="GB-OSCR-SC032327">EMMS International</provider-org>
+      <receiver-org>Mulanje Mission Hospital + 1 other</receiver-org>
+      <value currency="GBP" value-date="2014-02-28">14134</value>
+      <description>£13,950 to Mulanje Mission Hospital for Primary Health Care. &#13;
+£184 to other partner to complete other project. </description>
+      <transaction-date iso-date="2014-02-28"/>
+      <flow-type code="30"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="May 2014">
+      <transaction-type code="D">£896 for completed projects</transaction-type>
+      <provider-org ref="GBOSCR-SC032327" provider-activity-id="GBOSCR-SC032327-MW">EMMS International </provider-org>
+      <receiver-org>£336 to evaluation consultant in Malawi, &#13;
+£560 to purchase Malawian palliative care handbooks for conferences. </receiver-org>
+      <value value-date="2014-05-30">896</value>
+      <description>£336 to evaluation consultant in Malawi, &#13;
+£560 to purchase Malawian palliative care handbooks for conferences. </description>
+      <transaction-date iso-date="2014-05-30"/>
+      <flow-type code="30">£336 to evaluation consultant in Malawi, &#13;
+£560 to purchase Malawian palliative care handbooks for conferences. </flow-type>
+      <aid-type code="C01"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="March 2014">
+      <transaction-type code="D"/>
+      <provider-org ref="GB-OSCR-SC032327" provider-activity-id="GB-OSCR-SC032327">EMMS International</provider-org>
+      <receiver-org>Palliative Care Support Trust + 1 other. </receiver-org>
+      <value value-date="2014-03-31">82662</value>
+      <description>£82,527 to Palliative Care Support Trust for Centre of Excellence at Queen Elizabeth Central Hospital. &#13;
+£135 final payment to other partner for completed project. </description>
+      <transaction-date iso-date="2014-03-31"/>
+      <flow-type code="30"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="June 2014">
+      <transaction-type code="D">£21,203 for Nkhoma Essential Healthcare Package, 2014-17&#13;
+£940 for finance training of CCAP Livingstonia Synod</transaction-type>
+      <provider-org>CCAP Nkhoma - Nkhoma Mission Hospital&#13;
+Finance consultant</provider-org>
+      <receiver-org>Nkhoma Mission Hospital &#13;
+Finance consultant</receiver-org>
+      <value value-date="2014-06-30">22143</value>
+      <description>£21,203 for Nkhoma Essential Healthcare Package, 2014-17&#13;
+£940 for finance training of CCAP Livingstonia Synod</description>
+      <transaction-date iso-date="2014-06-30"/>
+      <flow-type code="30"/>
+      <finance-type code="110"/>
+      <aid-type code="B03"/>
+      <disbursement-channel code="2"/>
+      <tied-status code="5"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="GBP" hierarchy="1" last-updated-datetime="2014-06-29T13:24:08+00:00">
+    <reporting-org ref="GB-OSCR-SC032327" type="21" xml:lang="en">EMMS International</reporting-org>
+    <iati-identifier>GB-OSCR-SC032327-Organisation</iati-identifier>
+    <title>Consultancies, partners' travel, evaluations</title>
+    <description>To pay for consultancies, partners' travel, unbudgeted evaluations, unbudgeted small projects</description>
+    <activity-status code="2"/>
+    <activity-date type="start-actual" iso-date="2014-01-01"/>
+    <participating-org type="21" role="Implementing" ref="GB-OSCR-SC032327">EMMS International</participating-org>
+    <recipient-country code="IN" percentage="33.3"/>
+    <recipient-country code="MW" percentage="33.3"/>
+    <recipient-country code="NP" percentage="33.3"/>
+    <sector vocabulary="RO" code="Health">3 programmes: &#13;
+Maternal and Child Health, &#13;
+Palliative Care, &#13;
+Disease and Disability </sector>
+    <budget type="1">
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2014-12-31"/>
+      <value value-date="2014-01-01">15455</value>
+    </budget>
+    <transaction ref="January 2014">
+      <transaction-type code="D">For consultant in India</transaction-type>
+      <provider-org>EMMS International</provider-org>
+      <receiver-org>Private consultant</receiver-org>
+      <value value-date="2014-01-31">42</value>
+      <transaction-date iso-date="2014-01-31"/>
+      <flow-type code="30"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="February 2014">
+      <transaction-type code="D"/>
+      <provider-org ref="GB-OSCR-SC032327">EMMS International</provider-org>
+      <receiver-org>Private consultant</receiver-org>
+      <value value-date="2014-02-28">42</value>
+      <description>Private consultant</description>
+      <transaction-date iso-date="2014-02-28"/>
+      <flow-type code="30"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="March 2014">
+      <transaction-type code="D"/>
+      <provider-org>EMMS International</provider-org>
+      <receiver-org>Private consultant</receiver-org>
+      <value value-date="2014-03-31">42</value>
+      <transaction-date iso-date="2014-03-31"/>
+      <flow-type code="30"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="April 2014">
+      <transaction-type code="D">Retainer to India-based consultant</transaction-type>
+      <provider-org ref="GB-OSCR-SC032327" provider-activity-id="GB-OSCR-SC032327-CON">EMMS International</provider-org>
+      <receiver-org>India-based consultant</receiver-org>
+      <value value-date="2014-04-30">38</value>
+      <description>£38 for advice on India. </description>
+      <transaction-date iso-date="2014-04-30"/>
+      <flow-type code="30"/>
+      <tied-status code="5"/>
+    </transaction>
+    <transaction ref="May 2014">
+      <transaction-type code="D">Retainer to India-based consultant</transaction-type>
+      <provider-org ref="GB-OSCR-SC032327" provider-activity-id="GB-OSCR-SC032327-CON">EMMS International</provider-org>
+      <receiver-org>India-based consultant</receiver-org>
+      <value value-date="2014-05-30">38</value>
+      <description>£38 for advice on India. </description>
+      <transaction-date iso-date="2014-05-30"/>
+      <flow-type code="30"/>
+      <tied-status code="5"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity last-updated-datetime="2013-09-13T11:51:17.7967728Z" xml:lang="en" default-currency="USD" hierarchy="1">
+    <iati-identifier>4111241010</iati-identifier>
+    <title xml:lang="en">Strategic Note and Annual Work Plan Southern Africa</title>
+    <description xml:lang="en" type="1">National planning and budgeting</description>
+    <description xml:lang="en" type="1">Peace and Security</description>
+    <description xml:lang="en" type="1">Ending violence against women</description>
+    <description xml:lang="en" type="1">Women's Economic Empowerment</description>
+    <description xml:lang="en" type="1">Leadership and Political Participation</description>
+    <description xml:lang="en" type="1">UN Women in Southern Africa will continue to provide support to increase women's economic empowerment of women especially those most excluded; strengthen work around preventing violence against women and girls and expand access to victim/survivors services; to increase women's leadership in decision making, peace, security and humanitarian response along with strengthening responsiveness of plans and budgets to gender equality. UN Women will work with Ministries of Gender and Trade on the WICBT programme in pilot countries- Botswana, Mozambique, South Africa, Swaziland and Zimbabwe.  It will also work with informal cross border associations and civil society organizations. A civil society forum will be created to ensure social mobilization under the Africa UNiTE Campaign and partnership with the private sector will be strengthened for activities on sexual harassment and the Africa UNiTE Campaign.</description>
+    <activity-status xml:lang="en" code="2">Active</activity-status>
+    <activity-date iso-date="2012-12-31" xml:lang="en" type="end-planned">2012</activity-date>
+    <activity-date iso-date="2012-12-31" xml:lang="en" type="start-planned">2012</activity-date>
+    <contact-info>
+      <organisation>UN Women</organisation>
+      <person-name>Kerstin Speer-Bockelmann</person-name>
+      <telephone>+1 646 781 4760</telephone>
+      <mailing-address>Special Advisor to Executive Director  UN Women  220 42nd St. Suite 19-04  New York, NY 10017</mailing-address>
+      <email>kerstin.speer-bockelmann@unwomen.org</email>
+    </contact-info>
+    <budget type="1">
+      <period-start>2012</period-start>
+      <period-end>2012</period-end>
+      <value currency="USD" value-date="2012-12-31">1975302</value>
+    </budget>
+    <reporting-org xml:lang="en" type="40" ref="411124">UN Women</reporting-org>
+    <recipient-country code="ZW" xml:lang="en">ZIMBABWE</recipient-country>
+    <recipient-country code="ZM" xml:lang="en">ZAMBIA</recipient-country>
+    <recipient-country code="SZ" xml:lang="en">SWAZILAND</recipient-country>
+    <recipient-country code="NA" xml:lang="en">NAMIBIA</recipient-country>
+    <recipient-country code="MZ" xml:lang="en">MOZAMBIQUE</recipient-country>
+    <recipient-country code="MW" xml:lang="en">MALAWI</recipient-country>
+    <recipient-country code="LS" xml:lang="en">LESOTHO</recipient-country>
+    <recipient-country code="BW" xml:lang="en">BOTSWANA</recipient-country>
+  </iati-activity>
+</iati-activities>

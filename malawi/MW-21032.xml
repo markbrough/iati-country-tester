@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-09T14:19:51.842106">
+  <iati-activity xml:lang="en" default-currency="USD" last-updated-datetime="2014-05-16T14:00:00" hierarchy="1">
+    <reporting-org ref="21032" type="21">Population Services International</reporting-org>
+    <iati-identifier>21032-3977</iati-identifier>
+    <title>FDH Bank Organizational Support Grant</title>
+    <description type="1">This is a contribution to PSI Malawi for marketing, staff capacity building initiatives, procurement of capital equipment and organizational support as needed by FDH Bank Limited.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-04-01</activity-date>
+    <activity-date type="end-planned">2014-12-31</activity-date>
+    <contact-info>
+      <email>info@psi.org</email>
+    </contact-info>
+    <participating-org role="Funding">FDH BANK LIMITED</participating-org>
+    <participating-org role="Implementing">Population Services International</participating-org>
+    <recipient-country code="MW"/>
+    <recipient-region code="289"/>
+    <sector code="99810"/>
+    <budget type="1">
+      <value value-date="2013-04-01" currency="MWK">17499114</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-05-16" currency="MWK">14885882</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" last-updated-datetime="2014-05-16T14:00:00" hierarchy="1">
+    <reporting-org ref="21032" type="21">Population Services International</reporting-org>
+    <iati-identifier>21032-4053</iati-identifier>
+    <title>Strengthening PPPs in SRHR</title>
+    <description type="1">This project is a multi-faceted intervention with the primary focus on increasing the use (access and demand) of family planning methods; equipping young people with knowledge and empowerment to make responsible choices on SRH issues (including HIV and STI prevention); as well as transforming societal attitudes and practices to be favorable for accessing services in nine districts of Malawi.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2013-12-01</activity-date>
+    <activity-date type="end-planned">2017-11-30</activity-date>
+    <contact-info>
+      <email>info@psi.org</email>
+    </contact-info>
+    <participating-org role="Funding">GOVERNMENT OF MALAWI MOH</participating-org>
+    <participating-org role="Implementing">Population Services International</participating-org>
+    <recipient-country code="MW"/>
+    <recipient-region code="289"/>
+    <sector code="13030"/>
+    <budget type="1">
+      <value value-date="2013-12-01" currency="EUR">19499999</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-05-16" currency="EUR">363959</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" last-updated-datetime="2014-05-16T14:00:00" hierarchy="1">
+    <reporting-org ref="21032" type="21">Population Services International</reporting-org>
+    <iati-identifier>21032-4102</iati-identifier>
+    <title/>
+    <description type="1">t the rollout of the new HIV clinical care national ART guidelines which has rolled out in January 2014 with training of all ART service providers.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual">2014-04-28</activity-date>
+    <activity-date type="end-planned">2014-10-28</activity-date>
+    <contact-info>
+      <email>info@psi.org</email>
+    </contact-info>
+    <participating-org role="Funding">DFID</participating-org>
+    <participating-org role="Implementing">Population Services International</participating-org>
+    <recipient-country code="MW"/>
+    <recipient-region code="289"/>
+    <sector code="13040"/>
+    <budget type="1">
+      <value value-date="2014-04-28" currency="GBP">999062</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-05-16" currency="GBP">0</value>
+    </transaction>
+  </iati-activity>
+  <iati-activity xml:lang="en" default-currency="USD" last-updated-datetime="2014-05-16T14:00:00" hierarchy="1">
+    <reporting-org ref="21032" type="21">Population Services International</reporting-org>
+    <iati-identifier>21032-4050</iati-identifier>
+    <title>Design for National Sanitation Marketing Pgr</title>
+    <description type="1">PSI Malawi will design the logo and key messages for the National Rural Sanitation Marketing Program (NRSMP). The designs will act as the foundation of the promotional campaign of NRSMP. The NRSMP is aligned to the Government of Malawi's Open Defecation Free by 2015 Strategy and the National Sanitation Policy.</description>
+    <activity-status code="3">Implementation</activity-status>
+    <activity-date type="start-actual">2013-08-16</activity-date>
+    <activity-date type="end-planned">2013-11-15</activity-date>
+    <contact-info>
+      <email>info@psi.org</email>
+    </contact-info>
+    <participating-org role="Funding">UNICEF</participating-org>
+    <participating-org role="Implementing">Population Services International</participating-org>
+    <recipient-country code="MW"/>
+    <recipient-region code="289"/>
+    <sector code="99810"/>
+    <budget type="1">
+      <value value-date="2013-08-16" currency="MWK">2693608</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-11-15" currency="MWK">1279393</value>
+    </transaction>
+  </iati-activity>
+</iati-activities>

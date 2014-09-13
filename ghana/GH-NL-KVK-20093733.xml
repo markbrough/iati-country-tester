@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity xml:lang="en" default-currency="EUR" hierarchy="1" last-updated-datetime="2014-07-21T12:01:18+00:00">
+    <reporting-org ref="NL-KVK-20093733" type="22" xml:lang="en">Heifer</reporting-org>
+    <iati-identifier>NL-KVK-20093733-GH1NR121</iati-identifier>
+    <title>CALL (Collaborative Action for lasting livelihoods)</title>
+    <description type="1">Agriculture and livestock project in Northern Ghana</description>
+    <activity-status code="2">Second year of implementation</activity-status>
+    <activity-date type="start-actual" iso-date="2012-07-01"/>
+    <activity-date type="end-planned" iso-date="2015-06-30"/>
+    <contact-info>
+      <organisation>Heifer</organisation>
+      <person-name>Sara Peeters</person-name>
+      <job-title>Project Coordinator</job-title>
+      <telephone>+3165520123</telephone>
+      <email>sara@heifer.nl</email>
+      <mailing-address>Kade 23 4703 GA Roosendaal</mailing-address>
+    </contact-info>
+    <participating-org type="22" role="Accountable" ref="NL-KVK-20093733">Heifer </participating-org>
+    <participating-org type="22" role="Implementing">Heifer Ghana</participating-org>
+    <participating-org role="Implementing">Development Solution Centre</participating-org>
+    <activity-scope code="4"/>
+    <recipient-country code="GH" percentage="100"/>
+    <recipient-region code="289" vocabulary="2"/>
+    <location>
+      <location-type code="ADM2">Bole and Sawla-Tuna-Kalba District</location-type>
+      <name>Bole</name>
+      <administrative country="GH">Bole, Ghana</administrative>
+      <coordinates latitude="9.0177607075002" longitude="-2.4871826637536283"/>
+    </location>
+    <sector code="31163" vocabulary="DAC"/>
+    <sector code="31181" vocabulary="DAC"/>
+    <policy-marker code="1" significance="2"/>
+    <collaboration-type code="3"/>
+    <default-flow-type code="30"/>
+    <default-aid-type code="B01"/>
+    <budget type="1">
+      <period-start iso-date="2012-07-01"/>
+      <period-end iso-date="2015-06-30"/>
+      <value value-date="2012-07-01">254941</value>
+    </budget>
+    <result type="2">
+      <title>Food and income security</title>
+      <description>Enhance capacities of communities to increase food and income security for 80% of participating farm households</description>
+      <indicator measure="2"/>
+    </result>
+    <result type="2">
+      <title>Access resources for women</title>
+      <description>Increase the ability of women to equitably access productive resources (livestock, financial capital, knowledge and skills)  and participation amongst project participants by 70%</description>
+      <indicator measure="2"/>
+    </result>
+    <result type="2">
+      <title>Water Sanitation and Hygiene</title>
+      <description>Enhance human health through improved knowledge in HIV/AIDS and water, sanitation and hygiene among 100% of project participants</description>
+      <indicator measure="2"/>
+    </result>
+    <result type="2">
+      <title>Sustainable farming</title>
+      <description>Promote environmentally-friendly farming practices among 70% of project participants</description>
+      <indicator measure="2"/>
+    </result>
+  </iati-activity>
+</iati-activities>

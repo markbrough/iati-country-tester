@@ -1,0 +1,811 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity last-updated-datetime="2011-12-02T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND114</iati-identifier>
+    <title>Mobile App Competition</title>
+    <description>A grant of £10,000 to Mobile Consortium Ghana to help with the costs of organising the Mobile App Ghana Showcase. This free, one-day event brought together some of Ghana’s best up-and-coming mobile app designers to compete for seed funding to get their mobile app ideas up and running. Awards were made in three categories (governance, health and education), with runners up receiving money to invest in new mobile technologies to help them continue their promising work. Following the showcase, Mobile Consortium Ghana is providing business support to the best developers to help them get their apps marketed and available for download. In addition, the event organisers have also run mobile app workshops for beginners, teaching those with little or no experience how to create, make and market their own app ideas.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual" iso-date="2011-08-15">
+      2011-08-15
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2012-08-14">
+      2012-08-14
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://mobileconsortiumgh.com/index.php</activity-website>
+    <sector vocabulary="DAC" code="91010">
+              Administrative costs
+            </sector>
+    <sector vocabulary="DAC" code="22040">
+              Information and communication technology (ICT)
+            </sector>
+    <sector vocabulary="DAC" code="11330">
+              Vocational training
+            </sector>
+    <budget>
+      <value currency="GBP" value-date="2011-08-15">10000</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <location>
+      <location-type code="ADM1">Greater Accra</location-type>
+      <location-type code="ADM2">Accra Metropolis</location-type>
+    </location>
+    <result type="output">
+      <title>Mobile App Development and Tech Community</title>
+      <description>Nine mobile apps were developed and the event helped to establish a developer community and getting software companies such as Ericsson, Samsung, Mobile Content and Rancard Solution pledging their support. </description>
+    </result>
+    <contact-info>
+      <person-name>Josiah Kwesi Eyison</person-name>
+      <email>josiah@mobileconsortiumgh.com</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2011-09-08">
+          10000
+        </value>
+      <transaction-date iso-date="2011-09-08"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND114">
+              Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              Mobile Consortium Ghana
+            </receiver-org>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2012-12-19T00:00:00+00:00" default-currency="USD" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND163</iati-identifier>
+    <title>Odekro</title>
+    <description>A grant of £9,400.18 to Hutspace, a Ghanaian web development company, who, in collaboration with mySociety are creating a parliamentary monitoring site for Ghana. It provides citizens with information on parliamentary proceedings, MP activity and other information on governance.  This grant will cover staff costs, design, administration, Hansard scanning and hosting.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual" iso-date="2012-11-19">
+      2012-11-19
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2013-11-18">
+      2013-11-18
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://www.odekro.org/</activity-website>
+    <budget>
+      <value currency="USD" value-date="2012-11-19">14835</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <contact-info>
+      <person-name>Emmanuel Okyere</person-name>
+      <email>eokyere@hutspace.net</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2012-12-04">
+          9400
+        </value>
+      <transaction-date iso-date="2012-12-04"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND163">
+              The Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              Hutspace
+            </receiver-org>
+      <description xml:lang="en">Full disbursement of grant</description>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2013-12-02T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND172</iati-identifier>
+    <title>iSpace</title>
+    <description>Contribution to the core costs of establishing a tech innovation hub in Accra, Ghana.</description>
+    <activity-status code="2">Implementing</activity-status>
+    <activity-date type="start-actual" iso-date="2013-02-05">
+      2013-02-05
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2015-02-04">
+      2015-02-04
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <sector vocabulary="DAC" code="22040">
+              Information and communication technology (ICT)
+            </sector>
+    <budget>
+      <value currency="GBP" value-date="2013-02-05">30000</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <location>
+      <location-type code="ADM1">Greater Accra</location-type>
+      <location-type code="ADM2">Accra Metropolis</location-type>
+    </location>
+    <contact-info>
+      <person-name>Josiah Kwesi Eyison</person-name>
+      <email>jkeyison@gmail.com</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2013-11-27">
+          15000
+        </value>
+      <transaction-date iso-date="2013-11-27"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND172">
+              The Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              ISpace Foundation
+            </receiver-org>
+      <description xml:lang="en">Disbursement of second half of grant</description>
+    </transaction>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2013-03-04">
+          15000
+        </value>
+      <transaction-date iso-date="2013-03-04"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND172">
+              The Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              ISpace Foundation
+            </receiver-org>
+      <description xml:lang="en">Full disbursement of grant</description>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="B01">
+        Core support to NGOs, other private bodies, PPPs and research institutes
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2011-12-02T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND124</iati-identifier>
+    <title>TEDx Dzorwulu Conference</title>
+    <description>A grant towards the administrative costs of organising a TEDx conference in Ghana.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual" iso-date="2011-10-17">
+      2011-10-17
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2012-10-16">
+      2012-10-16
+    </activity-date>
+    <participating-org role="Implementing" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://www.ted.com/tedx/events/3595</activity-website>
+    <sector vocabulary="DAC" code="91010">
+              Administrative costs
+            </sector>
+    <sector vocabulary="DAC" code="22040">
+              Information and communication technology (ICT)
+            </sector>
+    <sector vocabulary="DAC" code="15150">
+              Strengthening civil society
+            </sector>
+    <budget>
+      <value currency="GBP" value-date="2011-10-17">4000</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <location>
+      <location-type code="ADM1">Greater Accra</location-type>
+      <location-type code="ADM2">Accra Metropolis</location-type>
+    </location>
+    <contact-info>
+      <person-name>Mac-Jordan Degadjor</person-name>
+      <email>macjordan.disu@gmail.com</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2011-11-15">
+          4000
+        </value>
+      <transaction-date iso-date="2011-11-15"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND124">
+              Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              Mobile Consortium Ghana
+            </receiver-org>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2013-03-13T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND166</iati-identifier>
+    <title>mySociety International Collaborations</title>
+    <description>For the expansion of these parliamentary monitoring websites across sub-Saharan Africa. The grant will allow mySociety to partner with local parliamentary monitoring organisations (PMOs) in Africa to jointly create between four and six new national sites. They are already forging ahead with sites in South Africa and Zambia and recently partnered with Hutspace to launch Ghana’s own parliamentary monitoring website, Odekro.org.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual" iso-date="2012-12-17">
+      2012-12-17
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2013-12-16">
+      2013-12-16
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://www.mysociety.org/</activity-website>
+    <sector vocabulary="DAC" code="92010">
+              Support to national NGOs
+            </sector>
+    <sector vocabulary="DAC" code="22040">
+              Information and communication technology (ICT)
+            </sector>
+    <sector vocabulary="DAC" code="15163">
+              Free flow of information
+            </sector>
+    <sector vocabulary="DAC" code="15161">
+              Elections
+            </sector>
+    <sector vocabulary="DAC" code="15150">
+              Strengthening civil society
+            </sector>
+    <related-activity type="1" ref="IND109"/>
+    <budget>
+      <value currency="GBP" value-date="2012-12-17">40000</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <recipient-country code="GB">
+          United Kingdom
+        </recipient-country>
+    <result type="output">
+      <title>Partnerships</title>
+      <description>- To forge between four and six partnerships with organisations or individuals in African countries to launch sites similar to TheyWorkForYou, which contain information on elected representatives.</description>
+    </result>
+    <contact-info>
+      <person-name>Paul Lenz</person-name>
+      <email>paul@mysociety.org</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2013-01-11">
+          40000
+        </value>
+      <transaction-date iso-date="2013-01-11"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND166">
+              The Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              UK Citizens Online Democracy
+            </receiver-org>
+      <description xml:lang="en">Full disbursement of grant</description>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-02-28T00:00:00+00:00" default-currency="GHS" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND224</iati-identifier>
+    <title>Ignitia Weather Forecasting Costs</title>
+    <description>We are providing them with $19,000 USD funding to cover salaries, some initial bulk SMS, overheads and ongoing development costs.</description>
+    <activity-status code="2">Implementing</activity-status>
+    <activity-date type="start-actual" iso-date="2014-01-24">
+      2014-01-24
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2015-01-23">
+      2015-01-23
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://www.ignitia.se/</activity-website>
+    <sector vocabulary="DAC" code="43040">
+              Rural development
+            </sector>
+    <sector vocabulary="DAC" code="31191">
+              Agricultural services
+            </sector>
+    <sector vocabulary="DAC" code="22040">
+              Information and communication technology (ICT)
+            </sector>
+    <budget>
+      <value currency="GHS" value-date="2014-01-24">48040</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <contact-info>
+      <person-name>Cindy Laird</person-name>
+      <email>cindy.laird@ignitia.se</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2014-02-19">
+          11756
+        </value>
+      <transaction-date iso-date="2014-02-19"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND224">
+              The Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              Ignitia Ghana Limited
+            </receiver-org>
+      <description xml:lang="en">Full disbursement of grant</description>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2013-05-15T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND179</iati-identifier>
+    <title>233 Law Mobile Constitution App</title>
+    <description>Towards the costs of further development and promotion of 233 Law mobile constitution app. This will contain a digital version of the Ghanaian constitution and an online space to discuss matters relating to the constitution and other legislative matters in the country.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual" iso-date="2013-02-17">
+      2013-02-17
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2014-02-16">
+      2014-02-16
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://law.yougora.com/</activity-website>
+    <sector vocabulary="DAC" code="15150">
+              Strengthening civil society
+            </sector>
+    <sector vocabulary="DAC" code="15130">
+              Legal and judicial development
+            </sector>
+    <sector vocabulary="DAC" code="22040">
+              Information and communication technology (ICT)
+            </sector>
+    <sector vocabulary="DAC" code="15163">
+              Free flow of information
+            </sector>
+    <budget>
+      <value currency="GBP" value-date="2013-02-17">5000</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <contact-info>
+      <person-name>Klenam Fiadzoe</person-name>
+      <email>kfiadzoe@gmail.com</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2013-03-19">
+          5000
+        </value>
+      <transaction-date iso-date="2013-03-19"/>
+      <provider-org ref="1075920" provider-activity-id="IND179">
+              The Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              Yougora
+            </receiver-org>
+      <description xml:lang="en">Full disbursement of grant</description>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="35">
+        PRIVATE MARKET
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2014-01-30T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND216</iati-identifier>
+    <title>Odekro Marketing and Promotion</title>
+    <description>Awarded £5,000 to contribute towards the marketing and promotion of the Odekro parliamentary monitoring site.</description>
+    <activity-status code="2">Implementing</activity-status>
+    <activity-date type="start-actual" iso-date="2013-12-09">
+      2013-12-09
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2014-12-08">
+      2014-12-08
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://www.odekro.org/</activity-website>
+    <sector vocabulary="DAC" code="22040">
+              Information and communication technology (ICT)
+            </sector>
+    <sector vocabulary="DAC" code="15161">
+              Elections
+            </sector>
+    <sector vocabulary="DAC" code="15150">
+              Strengthening civil society
+            </sector>
+    <budget>
+      <value currency="GBP" value-date="2013-12-09">5059</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <contact-info>
+      <person-name>Emmanuel Okyere</person-name>
+      <email>chief@hutspace.net</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2013-12-17">
+          5059
+        </value>
+      <transaction-date iso-date="2013-12-17"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND216">
+              The Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              Hutspace
+            </receiver-org>
+      <description xml:lang="en">Full disbursement of grant</description>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2013-12-02T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND201</iati-identifier>
+    <title>MOTECH</title>
+    <description>To test sustainability models for MOTECH in Ghana, a digital system aimed at improving maternal and child health.</description>
+    <activity-status code="2">Implementing</activity-status>
+    <activity-date type="start-actual" iso-date="2013-07-31">
+      2013-07-31
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2014-07-30">
+      2014-07-30
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://www.grameenfoundation.org/what-we-do/health/motech-suite-and-platform</activity-website>
+    <sector vocabulary="DAC" code="22040">
+              Information and communication technology (ICT)
+            </sector>
+    <sector vocabulary="DAC" code="12281">
+              Health personnel development
+            </sector>
+    <sector vocabulary="DAC" code="13030">
+              Family planning
+            </sector>
+    <sector vocabulary="DAC" code="12220">
+              Basic health care
+            </sector>
+    <budget>
+      <value currency="GBP" value-date="2013-07-31">14947</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <contact-info>
+      <person-name>Karen Romano</person-name>
+      <email>kromano@grameenfoundation.org</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2013-11-22">
+          14947
+        </value>
+      <transaction-date iso-date="2013-11-22"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND201">
+              The Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              Grameen Foundation
+            </receiver-org>
+      <description xml:lang="en">Full disbursement of grant</description>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2012-12-19T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND164</iati-identifier>
+    <title>Health Legends Platform</title>
+    <description>For technical improvements and awareness raising of a platform enabling citizens to report challenges in health service delivery.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual" iso-date="2012-11-19">
+      2012-11-19
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2013-11-18">
+      2013-11-18
+    </activity-date>
+    <participating-org role="Funding" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://www.ghana-anticorruption.org/</activity-website>
+    <sector vocabulary="DAC" code="92010">
+              Support to national NGOs
+            </sector>
+    <sector vocabulary="DAC" code="22040">
+              Information and communication technology (ICT)
+            </sector>
+    <sector vocabulary="DAC" code="15150">
+              Strengthening civil society
+            </sector>
+    <budget>
+      <value currency="GBP" value-date="2012-11-19">10000</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <contact-info>
+      <person-name>Beauty Emefa Narteh</person-name>
+      <email>bnarteh@ghana-anticorruption.org</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2012-12-18">
+          10000
+        </value>
+      <transaction-date iso-date="2012-12-18"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND164">
+              The Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              Ghana Anti-Corruption Coalition
+            </receiver-org>
+      <description xml:lang="en">Full disbursement of grant</description>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2012-12-19T00:00:00+00:00" default-currency="GBP" xml:lang="en">
+    <reporting-org type="60" ref="GB-CHC-1075920">The Indigo Trust</reporting-org>
+    <iati-identifier>GB-CHC-1075920-IND165</iati-identifier>
+    <title>SMS and Voice for Fish Farmers</title>
+    <description>A grant of £5,200 to enable them to pilot their SMS and voice-based system with a group of Ghanaian fish farmers.
+
+Farmerline provides access to agriculture information, communications expertise and advisory services for smallholder farmers and other agricultural stakeholders. Their goal is to empower smallholder farmers using information and communications technologies (ICT), by increasing their crop yields and opening up trade networks and opportunities.
+
+Through their activities, Farmerline aim to grow smallholder farm management and production capacity, contribute to improving processes, encourage new skills acquisition, and build local and regional knowledge bases and relationships. Farmerline believe that providing best practice information and access to market are crucial to the success of building the capacities of farmers in Ghana and elsewhere. To test this, they will be deploying a six-month pilot programme aimed at reaching 500 fish farmers (or one twelfth of Ghana’s fish farming population). Farmers will be provided with aquaculture best practice information, advice on record keeping, access to input suppliers and market access information in an attempt to bolster their productivity and incomes. The information will be made available via SMS and farmers will also be able to call a local call centre where operatives who speak Twi, Ga, Fanti, Nzema and Ewe will be on hand to offer advice and support. Farmerline will hold workshops with new users to guide them through the platform and agricultural outreach workers will also be trained in using the platform and demonstrating it to new farmers.</description>
+    <activity-status code="3">Completion</activity-status>
+    <activity-date type="start-actual" iso-date="2012-11-20">
+      2012-11-20
+    </activity-date>
+    <activity-date type="end-planned" iso-date="2013-11-19">
+      2013-11-19
+    </activity-date>
+    <participating-org role="Implementing" type="60" ref="GB-CHC-1075920">
+   The Indigo Trust
+ </participating-org>
+    <participating-org role="[]" type="" ref="">
+          []
+        </participating-org>
+    <activity-website>http://farmerline.org/</activity-website>
+    <sector vocabulary="DAC" code="31320">
+              Fishery development
+            </sector>
+    <sector vocabulary="DAC" code="31166">
+              Agricultural extension
+            </sector>
+    <sector vocabulary="DAC" code="22040">
+              Information and communication technology (ICT)
+            </sector>
+    <budget>
+      <value currency="GBP" value-date="2012-11-20">5200</value>
+    </budget>
+    <recipient-country code="GH">
+          Ghana
+        </recipient-country>
+    <contact-info>
+      <person-name>Alloysius Attah</person-name>
+      <email>alloysiusattah@gmail.com</email>
+    </contact-info>
+    <transaction>
+      <transaction-type code="Disbursement">
+          D
+        </transaction-type>
+      <value currency="GBP" value-date="2012-12-14">
+          5200
+        </value>
+      <transaction-date iso-date="2012-12-14"/>
+      <provider-org ref="GB-CHC-1075920" provider-activity-id="IND165">
+              The Indigo Trust
+            </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+              Farmerline
+            </receiver-org>
+      <description xml:lang="en">Full disbursement of grant</description>
+    </transaction>
+    <collaboration-type code="6">
+        Aid to NGOs
+      </collaboration-type>
+    <default-aid-type code="C01">
+        Project-type interventions
+      </default-aid-type>
+    <default-tied-status code="5">
+        Untied
+      </default-tied-status>
+    <default-flow-type code="30">
+        PRIVATE NGO
+      </default-flow-type>
+    <default-finance-type code="110">
+        Aid grant excluding debt reorganisation
+      </default-finance-type>
+  </iati-activity>
+</iati-activities>

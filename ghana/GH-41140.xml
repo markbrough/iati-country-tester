@@ -1,0 +1,1499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities generated-datetime="2014-09-08T21:20:34.189315">
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-08-08T15:43:58">
+    <reporting-org ref="41140" type="40">World Food Programme</reporting-org>
+    <iati-identifier>41140-107100</iati-identifier>
+    <title>Emergency Food Assistance to Flood-Affected People in Northern Ghana</title>
+    <description>The marked food and fuel price increases over the past year impacted particularly negatively on most vulnerable households in Northern Ghana who have been faced with the triple challenge of high malnutrition and mortality rates of children under 5,as well as decreased agricultural productivity due to recurrent natural disasters. This Emergency Operation aims to ensure household food security for flood/drought affected populations and vulnerable groups affected by national price increases in major food commodities.
+
+The EMOP supports WFP Strategic Objective 1 to save lives and protect livelihoods in areas worst affected by crises. Further,it contributes to Strategic Objective 2 to prevent acute hunger and invest in disaster preparedness and mitigation and Strategic Objective 4 to improve the nutrition and health status of children,and pregnant and lactating women.</description>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <activity-date iso-date="2007-11-07" type="start-planned">2007-11-07</activity-date>
+    <activity-date iso-date="2009-12-31" type="end-planned">2009-12-31</activity-date>
+    <activity-date iso-date="2007-12-13" type="start-actual">2007-12-13</activity-date>
+    <activity-date iso-date="2010-06-30" type="end-actual">2010-06-30</activity-date>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="B02">Core contributions to multilateral institutions</default-aid-type>
+    <activity-status code="3">Completion</activity-status>
+    <collaboration-type code="4">Multilateral outflows</collaboration-type>
+    <participating-org role="accountable" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Funding" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Implementing" ref="41140">World Food Programme</participating-org>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <conditions attached="0"/>
+    <sector code="72040" percentage="100" vocabulary="DAC">Emergency food aid</sector>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-01-31">19281.00</value>
+      <transaction-date iso-date="2010-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-02-28">-15055.00</value>
+      <transaction-date iso-date="2010-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-03-31">141478.00</value>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-04-30">15008.00</value>
+      <transaction-date iso-date="2010-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-05-31">-575.00</value>
+      <transaction-date iso-date="2010-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="EEC">European Commission</provider-org>
+      <value value-date="2010-09-30">2.00</value>
+      <transaction-date iso-date="2010-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="EEC">European Commission</provider-org>
+      <value value-date="2010-12-31">-2.00</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-08-08T15:43:58">
+    <reporting-org ref="41140" type="40">World Food Programme</reporting-org>
+    <iati-identifier>41140-104180</iati-identifier>
+    <title>Country Programme - Ghana (2006-2011)</title>
+    <description>Through its country programme,WFP supported the Government in assisting hungry poor households to meet their education,health and nutrition needs on a sustainable basis. Activity 1 provided support through the treatment of malnourished pregnant and lactating women and prevention of stunting and treatment of children under 5 years with moderate acute malnutrition through targeted supplementary feeding programme,in line with WFP Strategic Objective 4. Activity 2 aimed at improving attendance and completion rates among children in primary schools and girls in junior high school,grades 1 to 3. It consisted in two components,including a take-home ration and school meals activities which encouraged poor children in food-insecure areas to attend school,in line with WFP Strategic Objective 4. Most cereals and iodized salt were purchased locally in support of the Home Grown School Feeding Initiative and WFP together with other partners offered support to the government to put in place a sustainable school feeding programme,in line with WFP Strategic Objective 5. The country programme offered an opportunity for WFP to contribute in the capacity development of government partners in managing moderate acute malnutrition under the community management of the acute malnutrition initiative which has been initiated in the health sector.</description>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <activity-date iso-date="2006-01-01" type="start-planned">2006-01-01</activity-date>
+    <activity-date iso-date="2011-12-31" type="end-planned">2011-12-31</activity-date>
+    <activity-date iso-date="2006-01-01" type="start-actual">2006-01-01</activity-date>
+    <activity-date iso-date="2012-09-30" type="end-actual">2012-09-30</activity-date>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="B02">Core contributions to multilateral institutions</default-aid-type>
+    <activity-status code="3">Completion</activity-status>
+    <collaboration-type code="4">Multilateral outflows</collaboration-type>
+    <participating-org role="accountable" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Funding" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Implementing" ref="41140">World Food Programme</participating-org>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <conditions attached="0"/>
+    <sector code="52010" percentage="100" vocabulary="DAC">Food aid/Food security programmes</sector>
+    <budget type="1">
+      <period-start iso-date="2010-01-01"/>
+      <period-end iso-date="2010-03-31"/>
+      <value value-date="2010-01-01">1287812.66</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2010-04-01"/>
+      <period-end iso-date="2010-06-30"/>
+      <value value-date="2010-04-01">1288202.64</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2010-07-01"/>
+      <period-end iso-date="2010-09-30"/>
+      <value value-date="2010-07-01">1292945.06</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2010-10-01"/>
+      <period-end iso-date="2010-12-31"/>
+      <value value-date="2010-10-01">1302039.77</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-01-01"/>
+      <period-end iso-date="2011-03-31"/>
+      <value value-date="2011-01-01">1114852.75</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-04-01"/>
+      <period-end iso-date="2011-06-30"/>
+      <value value-date="2011-04-01">1114852.75</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-07-01"/>
+      <period-end iso-date="2011-09-30"/>
+      <value value-date="2011-07-01">1114852.75</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-10-01"/>
+      <period-end iso-date="2011-12-31"/>
+      <value value-date="2011-10-01">1114852.75</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-01-31">232894.00</value>
+      <transaction-date iso-date="2010-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-02-28">625879.00</value>
+      <transaction-date iso-date="2010-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-03-31">1197653.00</value>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-04-30">48020.00</value>
+      <transaction-date iso-date="2010-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-05-31">176589.00</value>
+      <transaction-date iso-date="2010-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">545424.00</value>
+      <transaction-date iso-date="2010-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-07-31">36218.06</value>
+      <transaction-date iso-date="2010-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-08-31">215439.00</value>
+      <transaction-date iso-date="2010-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-09-30">142419.00</value>
+      <transaction-date iso-date="2010-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-10-31">178215.87</value>
+      <transaction-date iso-date="2010-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-11-30">194429.00</value>
+      <transaction-date iso-date="2010-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-12-31">278549.00</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-01-31">460106.00</value>
+      <transaction-date iso-date="2011-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-02-28">567679.00</value>
+      <transaction-date iso-date="2011-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-03-31">953598.00</value>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-04-30">295666.00</value>
+      <transaction-date iso-date="2011-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-05-31">95724.00</value>
+      <transaction-date iso-date="2011-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-06-30">51572.00</value>
+      <transaction-date iso-date="2011-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-07-31">12346.00</value>
+      <transaction-date iso-date="2011-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-08-31">141724.00</value>
+      <transaction-date iso-date="2011-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-09-30">269121.00</value>
+      <transaction-date iso-date="2011-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-10-31">57202.00</value>
+      <transaction-date iso-date="2011-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-11-30">828618.00</value>
+      <transaction-date iso-date="2011-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-12-31">262781.00</value>
+      <transaction-date iso-date="2011-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-01-31">120766.00</value>
+      <transaction-date iso-date="2012-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-02-29">384367.00</value>
+      <transaction-date iso-date="2012-02-29"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-03-31">193599.00</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-04-30">20830.00</value>
+      <transaction-date iso-date="2012-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-05-31">18581.00</value>
+      <transaction-date iso-date="2012-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-06-30">22031.00</value>
+      <transaction-date iso-date="2012-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-07-31">-479.00</value>
+      <transaction-date iso-date="2012-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-02-28">-351.00</value>
+      <transaction-date iso-date="2013-02-28"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-08-08T15:43:58">
+    <reporting-org ref="41140" type="40">World Food Programme</reporting-org>
+    <iati-identifier>41140-200278</iati-identifier>
+    <title>Assistance to Ivorian Refugees in Western Region and Brong Ahafo Region</title>
+    <description>The Immediate Response Emergency Operation (IR EMOP) was initiated for the 10,000 Ivorian asylum seekers following the protracted political turmoil and consequent violence that occurred in Cote D'Ivoire in early 2011 and left in its trail a humanitarian crisis situation. The operation started with the overall objective of saving lives of the Ivorian asylum seekers and contributing to the reduction of acute malnutrition through general food distribution (GFD). The IR EMOP aimed at improving the food consumption of all the asylum seekers who took refuge in different camps set up by the government.
+The food assistance programme aimed at preventing the negative coping strategies and eased the burden of the asylum seekers. The objective was in line with WFP's Strategic Objective 1.</description>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <activity-date iso-date="2011-05-01" type="start-planned">2011-05-01</activity-date>
+    <activity-date iso-date="2011-07-31" type="end-planned">2011-07-31</activity-date>
+    <activity-date iso-date="2011-05-01" type="start-actual">2011-05-01</activity-date>
+    <activity-date iso-date="2012-03-31" type="end-actual">2012-03-31</activity-date>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="B02">Core contributions to multilateral institutions</default-aid-type>
+    <activity-status code="3">Completion</activity-status>
+    <collaboration-type code="4">Multilateral outflows</collaboration-type>
+    <participating-org role="accountable" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Funding" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Implementing" ref="41140">World Food Programme</participating-org>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <conditions attached="0"/>
+    <sector code="72040" percentage="100" vocabulary="DAC">Emergency food aid</sector>
+    <budget type="1">
+      <period-start iso-date="2011-01-01"/>
+      <period-end iso-date="2011-03-31"/>
+      <value value-date="2011-01-01">28182.5</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-04-01"/>
+      <period-end iso-date="2011-06-30"/>
+      <value value-date="2011-04-01">263647.17</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-07-01"/>
+      <period-end iso-date="2011-09-30"/>
+      <value value-date="2011-07-01">145914.83</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-10-01"/>
+      <period-end iso-date="2011-12-31"/>
+      <value value-date="2011-10-01">28182.5</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-05-31">17512.00</value>
+      <transaction-date iso-date="2011-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-06-30">277382.00</value>
+      <transaction-date iso-date="2011-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-07-31">2723.00</value>
+      <transaction-date iso-date="2011-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-08-31">53808.00</value>
+      <transaction-date iso-date="2011-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-09-30">46733.00</value>
+      <transaction-date iso-date="2011-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-10-31">-12.00</value>
+      <transaction-date iso-date="2011-10-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-08-08T15:43:58">
+    <reporting-org ref="41140" type="40">World Food Programme</reporting-org>
+    <iati-identifier>41140-106730</iati-identifier>
+    <title>Assistance to Most Vulnerable Refugee Caseloads in Ghana in Support of Government Strategy to Promote Repatriation,Resettlement and Local Integration Through Achievement of Self-sufficiency</title>
+    <description>The goal of this PRRO is to enhance household food security through food assistance interventions that preserve human and productive assets and strengthen the recovery prospects of vulnerable people affected by political crises in the West African Sub-Region (Liberia,Cote d'Ivoire and Togo). The PRRO supports WFP Strategic Objective 1,which aims to save lives and protect livelihoods in emergencies by providing life-saving assistance to critically food-insecure refugees. The operation also addresses Strategic Objective 3 in its effort to restore and rebuild lives and livelihoods in post-conflict,post-disaster or transition situations,by supporting the improved nutrition and health status of children,people living with HIV and other vulnerable groups.</description>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <activity-date iso-date="2007-08-01" type="start-planned">2007-08-01</activity-date>
+    <activity-date iso-date="2009-12-31" type="end-planned">2009-12-31</activity-date>
+    <activity-date iso-date="2007-08-01" type="start-actual">2007-08-01</activity-date>
+    <activity-date iso-date="2010-09-30" type="end-actual">2010-09-30</activity-date>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="B02">Core contributions to multilateral institutions</default-aid-type>
+    <activity-status code="3">Completion</activity-status>
+    <collaboration-type code="4">Multilateral outflows</collaboration-type>
+    <participating-org role="accountable" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Funding" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Implementing" ref="41140">World Food Programme</participating-org>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <conditions attached="0"/>
+    <sector code="52010" percentage="100" vocabulary="DAC">Food aid/Food security programmes</sector>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-01-31">1668.00</value>
+      <transaction-date iso-date="2010-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-02-28">939.00</value>
+      <transaction-date iso-date="2010-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-03-31">-1474.00</value>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-09-30">7.00</value>
+      <transaction-date iso-date="2010-09-30"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-08-08T15:43:58">
+    <reporting-org ref="41140" type="40">World Food Programme</reporting-org>
+    <iati-identifier>41140-200046</iati-identifier>
+    <title>Assistance to Food-Insecure People Vulnerable to Droughts/Flood and High Food Prices</title>
+    <description>The protracted relief and recovery operation (PRRO) was developed to consolidate activities under the preceding emergency operation (EMOP) for populations who had been affected by floods and high food prices,and to provide  longer-term responses to improve food and nutrition security,vulnerability and climate change in northern Ghana. The PRRO was extended to September 2012. In line with WFP Strategic Objective 1,this operation seeks to improve the nutritional status of children under 5 years and,pregnant and lactating women (PLW) through targeted supplementary feeding.
+
+The project aimed at supporting on-going government programmes in food security,nutrition and climate change related activities as reflected in the Medium Term Agricultural Sector Improvement Plan (METASIP) and Nutrition Strategy. Close collaboration with various government ministries,departments and agencies,as well as district assemblies was pursued at all levels of programme implementation to ensure success. The PRRO was aligned with Strategic Objective 3.</description>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <activity-date iso-date="2010-01-01" type="start-planned">2010-01-01</activity-date>
+    <activity-date iso-date="2012-09-30" type="end-planned">2012-09-30</activity-date>
+    <activity-date iso-date="2010-01-01" type="start-actual">2010-01-01</activity-date>
+    <activity-date iso-date="2013-03-31" type="end-actual">2013-03-31</activity-date>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="B02">Core contributions to multilateral institutions</default-aid-type>
+    <activity-status code="3">Completion</activity-status>
+    <collaboration-type code="4">Multilateral outflows</collaboration-type>
+    <participating-org role="accountable" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Funding" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Implementing" ref="41140">World Food Programme</participating-org>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <conditions attached="0"/>
+    <sector code="52010" percentage="100" vocabulary="DAC">Food aid/Food security programmes</sector>
+    <budget type="1">
+      <period-start iso-date="2010-01-01"/>
+      <period-end iso-date="2010-03-31"/>
+      <value value-date="2010-01-01">2625474.56</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2010-04-01"/>
+      <period-end iso-date="2010-06-30"/>
+      <value value-date="2010-04-01">2625474.54</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2010-07-01"/>
+      <period-end iso-date="2010-09-30"/>
+      <value value-date="2010-07-01">2625474.56</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2010-10-01"/>
+      <period-end iso-date="2010-12-31"/>
+      <value value-date="2010-10-01">2625474.54</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-01-01"/>
+      <period-end iso-date="2011-03-31"/>
+      <value value-date="2011-01-01">2898911.91</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-04-01"/>
+      <period-end iso-date="2011-06-30"/>
+      <value value-date="2011-04-01">2898911.85</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-07-01"/>
+      <period-end iso-date="2011-09-30"/>
+      <value value-date="2011-07-01">2898911.91</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-10-01"/>
+      <period-end iso-date="2011-12-31"/>
+      <value value-date="2011-10-01">2898911.85</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-03-31"/>
+      <value value-date="2012-01-01">2059004.18</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2012-06-30"/>
+      <value value-date="2012-04-01">2059004.16</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-07-01"/>
+      <period-end iso-date="2012-09-30"/>
+      <value value-date="2012-07-01">2059004.17</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-10-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-10-01">2059004.15</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-03-31">52683.00</value>
+      <transaction-date iso-date="2010-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-04-30">46259.00</value>
+      <transaction-date iso-date="2010-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-05-31">7906.00</value>
+      <transaction-date iso-date="2010-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-06-30">27317.00</value>
+      <transaction-date iso-date="2010-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-07-31">602825.00</value>
+      <transaction-date iso-date="2010-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-08-31">70378.00</value>
+      <transaction-date iso-date="2010-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-09-30">504569.00</value>
+      <transaction-date iso-date="2010-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-10-31">598562.00</value>
+      <transaction-date iso-date="2010-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-11-30">144189.00</value>
+      <transaction-date iso-date="2010-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2010-12-31">809320.00</value>
+      <transaction-date iso-date="2010-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-01-31">689011.00</value>
+      <transaction-date iso-date="2011-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-02-28">401838.00</value>
+      <transaction-date iso-date="2011-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-03-31">231567.00</value>
+      <transaction-date iso-date="2011-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-04-30">176357.00</value>
+      <transaction-date iso-date="2011-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-05-31">332125.00</value>
+      <transaction-date iso-date="2011-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-06-30">1140356.00</value>
+      <transaction-date iso-date="2011-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-07-31">430894.00</value>
+      <transaction-date iso-date="2011-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-08-31">714501.00</value>
+      <transaction-date iso-date="2011-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-09-30">431231.00</value>
+      <transaction-date iso-date="2011-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-10-31">206357.00</value>
+      <transaction-date iso-date="2011-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-11-30">916712.00</value>
+      <transaction-date iso-date="2011-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-12-31">1375967.00</value>
+      <transaction-date iso-date="2011-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-01-31">179490.00</value>
+      <transaction-date iso-date="2012-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-02-29">247072.00</value>
+      <transaction-date iso-date="2012-02-29"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-03-31">1707037.00</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-04-30">856409.00</value>
+      <transaction-date iso-date="2012-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-05-31">908399.00</value>
+      <transaction-date iso-date="2012-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-06-30">1254576.00</value>
+      <transaction-date iso-date="2012-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-07-31">570953.00</value>
+      <transaction-date iso-date="2012-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-08-31">564429.00</value>
+      <transaction-date iso-date="2012-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-09-30">1864064.00</value>
+      <transaction-date iso-date="2012-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-10-31">101968.00</value>
+      <transaction-date iso-date="2012-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-11-30">473784.00</value>
+      <transaction-date iso-date="2012-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-12-31">34986.00</value>
+      <transaction-date iso-date="2012-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-01-31">27719.00</value>
+      <transaction-date iso-date="2013-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-02-28">22314.00</value>
+      <transaction-date iso-date="2013-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-03-31">4120.00</value>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="CAN">Canada</provider-org>
+      <value value-date="2013-10-31">-894.00</value>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-08-08T15:43:58">
+    <reporting-org ref="41140" type="40">World Food Programme</reporting-org>
+    <iati-identifier>41140-200234-GH</iati-identifier>
+    <title>Regional logistics and telecommunications augmentation in support of WFP EMOPs and PRROs in Cote d?Ivoire and Liberia.</title>
+    <description>The Special Operation for logistics augmentation and emergency telecommunications (ETC) was launched in 2011 in the context of the response to the post-electoral crisis in Cote d'Ivoire. The project aimed to ensure uninterrupted supply of relief items to those affected by the crisis in Cote d'Ivoire and the Ivorian refugees in Liberia,facilitate the logistics coordination and information sharing in support of operations,and operational capacity augmentation to ensure sufficient and adequate information and communications technology (ICT) equipment,infrastructure and services to facilitate the implementation of relief operations. As the lead for ETC and the Logistics Cluster for the humanitarian community,this Special Operation contributed to WFP's Strategic Objectives 1 and 5.</description>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <activity-date iso-date="2011-01-24" type="start-planned">2011-01-24</activity-date>
+    <activity-date iso-date="2012-12-31" type="end-planned">2012-12-31</activity-date>
+    <activity-date iso-date="2011-02-01" type="start-actual">2011-02-01</activity-date>
+    <activity-date iso-date="2012-12-31" type="end-actual">2012-12-31</activity-date>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="B02">Core contributions to multilateral institutions</default-aid-type>
+    <activity-status code="3">Completion</activity-status>
+    <collaboration-type code="4">Multilateral outflows</collaboration-type>
+    <participating-org role="accountable" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Funding" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Implementing" ref="41140">World Food Programme</participating-org>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <conditions attached="0"/>
+    <sector code="72050" percentage="100" vocabulary="DAC">Relief co-ordination; protection and support services</sector>
+    <budget type="1">
+      <period-start iso-date="2011-01-01"/>
+      <period-end iso-date="2011-03-31"/>
+      <value value-date="2011-01-01">82785.17</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-04-01"/>
+      <period-end iso-date="2011-06-30"/>
+      <value value-date="2011-04-01">82785.17</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-07-01"/>
+      <period-end iso-date="2011-09-30"/>
+      <value value-date="2011-07-01">82785.17</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-10-01"/>
+      <period-end iso-date="2011-12-31"/>
+      <value value-date="2011-10-01">82785.16</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-05-31">767.00</value>
+      <transaction-date iso-date="2011-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-06-30">1682.00</value>
+      <transaction-date iso-date="2011-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-07-31">7344.00</value>
+      <transaction-date iso-date="2011-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-10-31">-308.00</value>
+      <transaction-date iso-date="2011-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-11-30">1052.00</value>
+      <transaction-date iso-date="2011-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-12-31">704.00</value>
+      <transaction-date iso-date="2011-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-03-31">1834.00</value>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-08-08T15:43:58">
+    <reporting-org ref="41140" type="40">World Food Programme</reporting-org>
+    <iati-identifier>41140-200402-GH</iati-identifier>
+    <title>Regional logistics augmentation and Emergency Telecommunications Cluster response in support of the Sahel Drought Crisis</title>
+    <description>The drought in the Sahel region coupled with the conflict in northern Mali posed significant logistical challenges to WFP and humanitarian partners,given that West Africa is a poor region in which the logistics infrastructure,ports and inland transport corridors were largely inadequate to absorb the quantities of humanitarian assistance required to reach people in need. The Special Operation was activated to enhance the overall logistics set-up in the region; to enhance interagency logistics coordination structures through the Logistics and the Emergency Telecommunications (ETC) Clusters; and to ensure sufficient logistics support to regional procurement operations. By ensuring that solid coordination and staffing structures were in place for immediate Logistics and Emergency Telecommunications needs,this Special Operation contributed to WFP's Strategic Objective 1.</description>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <activity-date iso-date="2012-04-01" type="start-planned">2012-04-01</activity-date>
+    <activity-date iso-date="2012-12-31" type="end-planned">2012-12-31</activity-date>
+    <activity-date iso-date="2012-04-01" type="start-actual">2012-04-01</activity-date>
+    <activity-date iso-date="2012-12-31" type="end-actual">2012-12-31</activity-date>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="B02">Core contributions to multilateral institutions</default-aid-type>
+    <activity-status code="3">Completion</activity-status>
+    <collaboration-type code="4">Multilateral outflows</collaboration-type>
+    <participating-org role="accountable" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Funding" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Implementing" ref="41140">World Food Programme</participating-org>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <conditions attached="0"/>
+    <sector code="72050" percentage="100" vocabulary="DAC">Relief co-ordination; protection and support services</sector>
+    <budget type="1">
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-03-31"/>
+      <value value-date="2012-01-01">51239</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2012-06-30"/>
+      <value value-date="2012-04-01">51239</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-07-01"/>
+      <period-end iso-date="2012-09-30"/>
+      <value value-date="2012-07-01">51239</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-10-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-10-01">51239</value>
+    </budget>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-05-31">884.00</value>
+      <transaction-date iso-date="2012-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-06-30">340.00</value>
+      <transaction-date iso-date="2012-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-07-31">9017.00</value>
+      <transaction-date iso-date="2012-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-08-31">362.00</value>
+      <transaction-date iso-date="2012-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-09-30">5717.00</value>
+      <transaction-date iso-date="2012-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-10-31">216.00</value>
+      <transaction-date iso-date="2012-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-11-30">3820.00</value>
+      <transaction-date iso-date="2012-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-12-31">5516.00</value>
+      <transaction-date iso-date="2012-12-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-08-08T15:43:58">
+    <reporting-org ref="41140" type="40">World Food Programme</reporting-org>
+    <iati-identifier>41140-200321</iati-identifier>
+    <title>Assistance to Ivorian Refugees in Ghana</title>
+    <description>The post November 2010 election crisis in Cote d'Ivoire saw the displacement of some 200,000 refugees to different countries,most of whom fled their homes with no money or assets. During 2013,through the Ghana Emergency Operation (EMOP 200321),WFP  provided food assistance to 7,778 refugees in three camps in Ghana. WFP's support constituted the main source of food for the refugees,due to dwindling remittances from family members abroad,as well as reduced support from host communities.
+
+This project was designed to meet food and nutrition needs,promote household food security and prevent negative coping mechanisms among the food insecure populations,in line with Strategic Objective 1. The food basket covered the daily minimum nutritional requirements of the beneficiaries. Since the refugees had no other source of income or food,the EMOP was extended for another 6-month period from August 2013 to January 2014 for 8,000 refugees to ensure the continued provision of food assistance,as the voluntary repatriation of refugees did not achieve the expected results.
+
+Very few refugees opted to return,due to fear of reprisals. Moreover,some new arrivals were recorded during the period. This EMOP will be followed by a Protracted Relief and Recovery Operation (PRRO) starting in February 2014,which aims to provide refugees with income generating skills and transition away from assistance.</description>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <activity-date iso-date="2011-08-01" type="start-planned">2011-08-01</activity-date>
+    <activity-date iso-date="2014-01-31" type="end-planned">2014-01-31</activity-date>
+    <activity-date iso-date="2011-08-01" type="start-actual">2011-08-01</activity-date>
+    <activity-date iso-date="2014-01-31" type="end-actual">2014-01-31</activity-date>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="B02">Core contributions to multilateral institutions</default-aid-type>
+    <activity-status code="3">Completion</activity-status>
+    <collaboration-type code="4">Multilateral outflows</collaboration-type>
+    <participating-org role="accountable" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Funding" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Implementing" ref="41140">World Food Programme</participating-org>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <conditions attached="0"/>
+    <sector code="72040" percentage="100" vocabulary="DAC">Emergency food aid</sector>
+    <budget type="1">
+      <period-start iso-date="2011-01-01"/>
+      <period-end iso-date="2011-03-31"/>
+      <value value-date="2011-01-01">184116.96</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-04-01"/>
+      <period-end iso-date="2011-06-30"/>
+      <value value-date="2011-04-01">184116.97</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-07-01"/>
+      <period-end iso-date="2011-09-30"/>
+      <value value-date="2011-07-01">314717.98</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2011-10-01"/>
+      <period-end iso-date="2011-12-31"/>
+      <value value-date="2011-10-01">380018.47</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-03-31"/>
+      <value value-date="2012-01-01">435483.62</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2012-06-30"/>
+      <value value-date="2012-04-01">435483.61</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-07-01"/>
+      <period-end iso-date="2012-09-30"/>
+      <value value-date="2012-07-01">435483.62</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-10-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-10-01">435483.56</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-03-31"/>
+      <value value-date="2013-01-01">403776.46</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-04-01"/>
+      <period-end iso-date="2013-06-30"/>
+      <value value-date="2013-04-01">403776.47</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-07-01"/>
+      <period-end iso-date="2013-09-30"/>
+      <value value-date="2013-07-01">403776.41</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-10-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-10-01">403776.45</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2014-03-31"/>
+      <value value-date="2014-01-01">35694.08</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2014-06-30"/>
+      <value value-date="2014-04-01">35694.08</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-07-01"/>
+      <period-end iso-date="2014-09-30"/>
+      <value value-date="2014-07-01">35694.07</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-10-01"/>
+      <period-end iso-date="2014-12-31"/>
+      <value value-date="2014-10-01">35694.07</value>
+    </budget>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="1">UN CERF Common Funds and Agencies</provider-org>
+      <value value-date="2011-08-31">1.00</value>
+      <transaction-date iso-date="2011-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-09-30">7848.00</value>
+      <transaction-date iso-date="2011-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-10-31">171079.00</value>
+      <transaction-date iso-date="2011-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-11-30">474887.00</value>
+      <transaction-date iso-date="2011-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2011-12-31">91142.00</value>
+      <transaction-date iso-date="2011-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-01-31">69092.00</value>
+      <transaction-date iso-date="2012-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-02-29">29468.00</value>
+      <transaction-date iso-date="2012-02-29"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-03-31">-19609.00</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-04-30">6137.00</value>
+      <transaction-date iso-date="2012-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-05-31">31297.00</value>
+      <transaction-date iso-date="2012-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-06-30">129777.00</value>
+      <transaction-date iso-date="2012-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-07-31">25133.00</value>
+      <transaction-date iso-date="2012-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-08-31">95703.00</value>
+      <transaction-date iso-date="2012-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-09-30">230761.00</value>
+      <transaction-date iso-date="2012-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-10-31">141248.00</value>
+      <transaction-date iso-date="2012-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-11-30">142909.00</value>
+      <transaction-date iso-date="2012-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-12-31">33424.00</value>
+      <transaction-date iso-date="2012-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-01-31">239831.00</value>
+      <transaction-date iso-date="2013-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-02-28">35847.00</value>
+      <transaction-date iso-date="2013-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-03-31">11972.00</value>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-04-30">19143.00</value>
+      <transaction-date iso-date="2013-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-05-31">54941.00</value>
+      <transaction-date iso-date="2013-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-06-30">7736.00</value>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-07-31">26002.00</value>
+      <transaction-date iso-date="2013-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-08-31">192737.00</value>
+      <transaction-date iso-date="2013-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-09-30">257477.00</value>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-10-31">76161.00</value>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-11-30">75298.00</value>
+      <transaction-date iso-date="2013-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-12-31">68835.00</value>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-01-31">20351.00</value>
+      <transaction-date iso-date="2014-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-02-28">22104.00</value>
+      <transaction-date iso-date="2014-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-03-31">6408.00</value>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-05-31">-32.00</value>
+      <transaction-date iso-date="2014-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-06-30">14756.00</value>
+      <transaction-date iso-date="2014-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-07-31">1481.00</value>
+      <transaction-date iso-date="2014-07-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-08-08T15:43:58">
+    <reporting-org ref="41140" type="40">World Food Programme</reporting-org>
+    <iati-identifier>41140-200675</iati-identifier>
+    <title>Assistance to Ivorian Refugees in Ghana</title>
+    <description>The post November 2010 election crisis in Cote d'Ivoire saw the displacement of some 200,000 refugees to different countries,most of whom fled their homes with no money or assets. During 2013,through the Ghana Emergency Operation (EMOP 200321),WFP  provided food assistance to 7,778 refugees in three camps in Ghana. WFP's support constituted the main source of food for the refugees,due to dwindling remittances from family members abroad,as well as reduced support from host communities.
+
+This project was designed to meet food and nutrition needs,promote household food security and prevent negative coping mechanisms among the food insecure populations,in line with Strategic Objective 1. The food basket covered the daily minimum nutritional requirements of the beneficiaries. Since the refugees had no other source of income or food,the EMOP was extended for another 6-month period from August 2013 to January 2014 for 8,000 refugees to ensure the continued provision of food assistance,as the voluntary repatriation of refugees did not achieve the expected results.
+
+Very few refugees opted to return,due to fear of reprisals. Moreover,some new arrivals were recorded during the period. This EMOP will be followed by a Protracted Relief and Recovery Operation (PRRO) starting in February 2014,which aims to provide refugees with income generating skills and transition away from assistance.</description>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <activity-date iso-date="2014-02-01" type="start-planned">2014-02-01</activity-date>
+    <activity-date iso-date="2015-03-31" type="end-planned">2015-03-31</activity-date>
+    <activity-date iso-date="2014-02-01" type="start-actual">2014-02-01</activity-date>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="B02">Core contributions to multilateral institutions</default-aid-type>
+    <activity-status code="2">Implementation</activity-status>
+    <collaboration-type code="4">Multilateral outflows</collaboration-type>
+    <participating-org role="accountable" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Funding" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Implementing" ref="41140">World Food Programme</participating-org>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <conditions attached="0"/>
+    <budget type="1">
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2014-03-31"/>
+      <value value-date="2014-01-01">342962.26</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2014-06-30"/>
+      <value value-date="2014-04-01">342962.27</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-07-01"/>
+      <period-end iso-date="2014-09-30"/>
+      <value value-date="2014-07-01">342962.21</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-10-01"/>
+      <period-end iso-date="2014-12-31"/>
+      <value value-date="2014-10-01">342962.23</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-03-31"/>
+      <value value-date="2015-01-01">62418.13</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-04-01"/>
+      <period-end iso-date="2015-06-30"/>
+      <value value-date="2015-04-01">62418.11</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-07-01"/>
+      <period-end iso-date="2015-09-30"/>
+      <value value-date="2015-07-01">62418.11</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-10-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value value-date="2015-10-01">62418.08</value>
+    </budget>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="JPN">Japan</provider-org>
+      <value value-date="2014-02-28">300.00</value>
+      <transaction-date iso-date="2014-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-03-31">147700.00</value>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-04-30">4759.00</value>
+      <transaction-date iso-date="2014-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-05-31">91133.00</value>
+      <transaction-date iso-date="2014-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-06-30">7380.00</value>
+      <transaction-date iso-date="2014-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-07-31">21660.00</value>
+      <transaction-date iso-date="2014-07-31"/>
+    </transaction>
+  </iati-activity>
+  <iati-activity default-currency="USD" xml:lang="en" last-updated-datetime="2014-08-08T15:43:58">
+    <reporting-org ref="41140" type="40">World Food Programme</reporting-org>
+    <iati-identifier>41140-200247</iati-identifier>
+    <title>Country Programme - Ghana (2012-2016)</title>
+    <description>The objective of the Ghana Country Programme was to improve the government's capacity to ensure sustainable food and nutrition security through support for primary and girls' education; nutrition support for vulnerable groups; and resilience against climatic shocks and support for livelihoods. Support for primary school children and girls' education is aligned with WFP Strategic Objectives 4 and 5 and aimed to increase access to education,reduce micronutrient deficiencies and improve school attendance and gender parity.
+
+Nutritional support is aligned with WFP Strategic Objective 4; it provides treatment for children under 5 with moderate acute malnutrition (MAM),targets malnourished pregnant and lactating women (PLW),and also provides malnourished anti-retroviral therapy (ART) clients and their food insecure households with nutritional support. Resilience against climatic shocks and support for livelihoods through targeted rehabilitation of community assets is aligned with Strategic Objective 2.
+
+The Country Programme is aligned with to the Ghana Shared Growth Development Agenda 2010-2013 (GSGDA),the National Nutrition Policy (2013 - 2017),the National Strategic Plan for HIV (2011 - 2015) and the National Social Protection Strategy and the Savannah Accelerated Development Authority Act 805 of 2010. These strategies reflect the government's commitment to reduce poverty and enhance human and social development,with a multi-sectoral approach to all relevant sectors.
+
+The Country Programme was developed in consultation with government partners from various ministries including Health,Education,Local Government and Rural Development,Food and Agriculture and Lands and Natural Resources amongst others.</description>
+    <recipient-country code="GH">Ghana</recipient-country>
+    <activity-date iso-date="2012-01-01" type="start-planned">2012-01-01</activity-date>
+    <activity-date iso-date="2016-12-31" type="end-planned">2016-12-31</activity-date>
+    <activity-date iso-date="2012-01-01" type="start-actual">2012-01-01</activity-date>
+    <default-flow-type code="10">ODA</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="B02">Core contributions to multilateral institutions</default-aid-type>
+    <activity-status code="2">Implementation</activity-status>
+    <collaboration-type code="4">Multilateral outflows</collaboration-type>
+    <participating-org role="accountable" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Funding" ref="41140">World Food Programme</participating-org>
+    <participating-org role="Implementing" ref="41140">World Food Programme</participating-org>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <conditions attached="0"/>
+    <sector code="12240" percentage="26" vocabulary="DAC">Basic nutrition</sector>
+    <sector code="13040" percentage="7" vocabulary="DAC">STD control including HIV/AIDS</sector>
+    <sector code="52010" percentage="40" vocabulary="DAC">Food aid/Food security programmes</sector>
+    <sector code="74010" percentage="26" vocabulary="DAC">Disaster prevention and preparedness</sector>
+    <budget type="1">
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-03-31"/>
+      <value value-date="2012-01-01">2353224.5</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2012-06-30"/>
+      <value value-date="2012-04-01">2353224.46</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-07-01"/>
+      <period-end iso-date="2012-09-30"/>
+      <value value-date="2012-07-01">2353224.5</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2012-10-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-10-01">2353224.46</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-03-31"/>
+      <value value-date="2013-01-01">2663803.19</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-04-01"/>
+      <period-end iso-date="2013-06-30"/>
+      <value value-date="2013-04-01">2663803.18</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-07-01"/>
+      <period-end iso-date="2013-09-30"/>
+      <value value-date="2013-07-01">2663803.14</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2013-10-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-10-01">2663803.15</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2014-03-31"/>
+      <value value-date="2014-01-01">3455529.98</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2014-06-30"/>
+      <value value-date="2014-04-01">3455529.97</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-07-01"/>
+      <period-end iso-date="2014-09-30"/>
+      <value value-date="2014-07-01">3455529.94</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2014-10-01"/>
+      <period-end iso-date="2014-12-31"/>
+      <value value-date="2014-10-01">3455529.92</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-03-31"/>
+      <value value-date="2015-01-01">3210418.38</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-04-01"/>
+      <period-end iso-date="2015-06-30"/>
+      <value value-date="2015-04-01">3210418.37</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-07-01"/>
+      <period-end iso-date="2015-09-30"/>
+      <value value-date="2015-07-01">3210418.38</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2015-10-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value value-date="2015-10-01">3210418.35</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-03-31"/>
+      <value value-date="2016-01-01">2401885.71</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2016-04-01"/>
+      <period-end iso-date="2016-06-30"/>
+      <value value-date="2016-04-01">2401885.7</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2016-07-01"/>
+      <period-end iso-date="2016-09-30"/>
+      <value value-date="2016-07-01">2401885.69</value>
+    </budget>
+    <budget type="1">
+      <period-start iso-date="2016-10-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-10-01">2401885.67</value>
+    </budget>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="GHA">Ghana</provider-org>
+      <value value-date="2011-12-31">244.00</value>
+      <transaction-date iso-date="2011-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="IF">Incoming Funds</transaction-type>
+      <provider-org ref="SAU">Saudi Arabia</provider-org>
+      <value value-date="2012-01-31">662.00</value>
+      <transaction-date iso-date="2012-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-03-31">659320.00</value>
+      <transaction-date iso-date="2012-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-04-30">148172.00</value>
+      <transaction-date iso-date="2012-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-05-31">772563.00</value>
+      <transaction-date iso-date="2012-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-06-30">926043.00</value>
+      <transaction-date iso-date="2012-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-07-31">646681.00</value>
+      <transaction-date iso-date="2012-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-08-31">1366361.00</value>
+      <transaction-date iso-date="2012-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-09-30">366972.00</value>
+      <transaction-date iso-date="2012-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-10-31">393977.00</value>
+      <transaction-date iso-date="2012-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-11-30">794153.00</value>
+      <transaction-date iso-date="2012-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2012-12-31">1776309.00</value>
+      <transaction-date iso-date="2012-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-01-31">167761.00</value>
+      <transaction-date iso-date="2013-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-02-28">721802.00</value>
+      <transaction-date iso-date="2013-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-03-31">745241.00</value>
+      <transaction-date iso-date="2013-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-04-30">140015.00</value>
+      <transaction-date iso-date="2013-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-05-31">191629.00</value>
+      <transaction-date iso-date="2013-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-06-30">386092.00</value>
+      <transaction-date iso-date="2013-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-07-31">149450.00</value>
+      <transaction-date iso-date="2013-07-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-08-31">605076.00</value>
+      <transaction-date iso-date="2013-08-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-09-30">737064.00</value>
+      <transaction-date iso-date="2013-09-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-10-31">587438.00</value>
+      <transaction-date iso-date="2013-10-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-11-30">109752.00</value>
+      <transaction-date iso-date="2013-11-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-12-31">433041.00</value>
+      <transaction-date iso-date="2013-12-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-01-31">125414.00</value>
+      <transaction-date iso-date="2014-01-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-02-28">401953.00</value>
+      <transaction-date iso-date="2014-02-28"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-03-31">541890.00</value>
+      <transaction-date iso-date="2014-03-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-04-30">1060016.00</value>
+      <transaction-date iso-date="2014-04-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-05-31">1316031.00</value>
+      <transaction-date iso-date="2014-05-31"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-06-30">836996.00</value>
+      <transaction-date iso-date="2014-06-30"/>
+    </transaction>
+    <transaction>
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2014-07-31">458391.00</value>
+      <transaction-date iso-date="2014-07-31"/>
+    </transaction>
+  </iati-activity>
+</iati-activities>
