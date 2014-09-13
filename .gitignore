@@ -1,8 +1,6 @@
 *.pyc
 *.py~
 *.txt~
-*.csv
 *.xlsx
 *.csv~
-*.xslsx~
-*.xml
+*.xlsx~
