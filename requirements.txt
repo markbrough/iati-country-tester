@@ -1,0 +1,4 @@
+lxml
+unicodecsv
+iatisegmenter
+foxpath
